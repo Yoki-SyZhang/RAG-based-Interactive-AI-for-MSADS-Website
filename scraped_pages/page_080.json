@@ -1,0 +1,85 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/facebook-messenger-chatbot-for-surveys-and-intervention-testing",
+  "page_title": "Facebook Messenger Chatbot for Surveys and Intervention Testing | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Facebook Messenger Chatbot For Surveys And Intervention Testing",
+      "href": "https://datascience.uchicago.edu/research/facebook-messenger-chatbot-for-surveys-and-intervention-testing"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:22.956505+00:00",
+  "all_text_markdown": "Facebook Messenger Chatbot for Surveys and Intervention Testing\n[Facebook Messenger Chatbot for Surveys and Intervention Testing](https://datascience.uchicago.edu/research/facebook-messenger-chatbot-for-surveys-and-intervention-testing)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nFor many Internet users, Facebook is the portal to the Internet. Understanding how people consume and engage with information on Facebook is central to understanding how information and misinformation spreads on the Internet and shapes perspectives. Chatbots offer a promising new research tool for engaging with users within the context of their regular social media engagement. This project will develop a new Facebook Messenger chatbot that can be used for a variety of research uses: canvassing on a broad range of topics, measuring information consumption, or studying the effect of messaging interventions on political participation and behavior. The researchers will also use adaptive, data-driven algorithms that learn from exchanges with users and determine optimally persuasive messaging around political events.\nPrincipal Investigators: Molly Offer-Westort (Assistant Professor, Political Science) and Nick Feamster (Neubauer Professor, Computer Science)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Facebook Messenger Chatbot for Surveys and Intervention Testing](https://datascience.uchicago.edu/research/facebook-messenger-chatbot-for-surveys-and-intervention-testing)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "For many Internet users, Facebook is the portal to the Internet. Understanding how people consume and engage with information on Facebook is central to understanding how information and misinformation spreads on the Internet and shapes perspectives. Chatbots offer a promising new research tool for engaging with users within the context of their regular social media engagement. This project will develop a new Facebook Messenger chatbot that can be used for a variety of research uses: canvassing on a broad range of topics, measuring information consumption, or studying the effect of messaging interventions on political participation and behavior. The researchers will also use adaptive, data-driven algorithms that learn from exchanges with users and determine optimally persuasive messaging around political events."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Molly Offer-Westort (Assistant Professor, Political Science) and Nick Feamster (Neubauer Professor, Computer Science)"
+        }
+      ],
+      "text_markdown": "## [Facebook Messenger Chatbot for Surveys and Intervention Testing](https://datascience.uchicago.edu/research/facebook-messenger-chatbot-for-surveys-and-intervention-testing)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nFor many Internet users, Facebook is the portal to the Internet. Understanding how people consume and engage with information on Facebook is central to understanding how information and misinformation spreads on the Internet and shapes perspectives. Chatbots offer a promising new research tool for engaging with users within the context of their regular social media engagement. This project will develop a new Facebook Messenger chatbot that can be used for a variety of research uses: canvassing on a broad range of topics, measuring information consumption, or studying the effect of messaging interventions on political participation and behavior. The researchers will also use adaptive, data-driven algorithms that learn from exchanges with users and determine optimally persuasive messaging around political events.\nPrincipal Investigators: Molly Offer-Westort (Assistant Professor, Political Science) and Nick Feamster (Neubauer Professor, Computer Science)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/computer-assisted-diagnosis-of-indeterminate-thyroid-lesions",
+  "page_title": "Computer-Assisted Diagnosis of Indeterminate Thyroid Lesions | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Computer Assisted Diagnosis Of Indeterminate Thyroid Lesions",
+      "href": "https://datascience.uchicago.edu/research/computer-assisted-diagnosis-of-indeterminate-thyroid-lesions"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:28.892930+00:00",
+  "all_text_markdown": "Computer-Assisted Diagnosis of Indeterminate Thyroid Lesions\n[Computer-Assisted Diagnosis of Indeterminate Thyroid Lesions](https://datascience.uchicago.edu/research/computer-assisted-diagnosis-of-indeterminate-thyroid-lesions)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nThyroid nodules are very common and 5 to 15 percent of thyroid nodules are cancerous. In order to determine whether a thyroid nodule is benign or malignant, physicians perform a biopsy of the nodule. However, in up to 40 percent of cases, this biopsy is indeterminate, meaning the pathologist cannot differentiate between benign and malignant cells. Patients are then referred for surgical excision of these nodules in order to obtain the correct pathological diagnosis. But 70 percent of patients undergoing thyroid surgery for diagnostic purposes have a benign nodule on final diagnosis, meaning surgery was unnecessary.\nThis project will develop machine learning software to define imaging features of benign, malignant, and indeterminate thyroid lesions on ultrasound and relate these findings with current molecular testing. This new computer-assisted diagnosis approach aims to accurately differentiate whether an indeterminate thyroid nodule is benign or malignant, thus potentially avoiding unnecessary surgery in thousands of patients every year in the US. It will foster collaborations between diagnostic and therapeutic thyroid specialists and machine learning experts to study one of the important diagnostic challenges in modern medicine.\nPrincipal Investigators: Xavier Keutgen (Associate Professor, Surgery), Maryellen Giger (A.N. Pritzker Distinguished Service Professor, Radiology), Peter Angelos (Linda Kohler Anderson Professorship of Surgery), David Sarne (Clinical Associate, Medicine)\nRelated News, Insights, and Past Events\nResearchers Develop AI to Diagnose, Understand COVID-19 in Lung Images\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Computer-Assisted Diagnosis of Indeterminate Thyroid Lesions](https://datascience.uchicago.edu/research/computer-assisted-diagnosis-of-indeterminate-thyroid-lesions)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thyroid nodules are very common and 5 to 15 percent of thyroid nodules are cancerous. In order to determine whether a thyroid nodule is benign or malignant, physicians perform a biopsy of the nodule. However, in up to 40 percent of cases, this biopsy is indeterminate, meaning the pathologist cannot differentiate between benign and malignant cells. Patients are then referred for surgical excision of these nodules in order to obtain the correct pathological diagnosis. But 70 percent of patients undergoing thyroid surgery for diagnostic purposes have a benign nodule on final diagnosis, meaning surgery was unnecessary."
+        },
+        {
+          "type": "paragraph",
+          "text": "This project will develop machine learning software to define imaging features of benign, malignant, and indeterminate thyroid lesions on ultrasound and relate these findings with current molecular testing. This new computer-assisted diagnosis approach aims to accurately differentiate whether an indeterminate thyroid nodule is benign or malignant, thus potentially avoiding unnecessary surgery in thousands of patients every year in the US. It will foster collaborations between diagnostic and therapeutic thyroid specialists and machine learning experts to study one of the important diagnostic challenges in modern medicine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Xavier Keutgen (Associate Professor, Surgery), Maryellen Giger (A.N. Pritzker Distinguished Service Professor, Radiology), Peter Angelos (Linda Kohler Anderson Professorship of Surgery), David Sarne (Clinical Associate, Medicine)"
+        }
+      ],
+      "text_markdown": "## [Computer-Assisted Diagnosis of Indeterminate Thyroid Lesions](https://datascience.uchicago.edu/research/computer-assisted-diagnosis-of-indeterminate-thyroid-lesions)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nThyroid nodules are very common and 5 to 15 percent of thyroid nodules are cancerous. In order to determine whether a thyroid nodule is benign or malignant, physicians perform a biopsy of the nodule. However, in up to 40 percent of cases, this biopsy is indeterminate, meaning the pathologist cannot differentiate between benign and malignant cells. Patients are then referred for surgical excision of these nodules in order to obtain the correct pathological diagnosis. But 70 percent of patients undergoing thyroid surgery for diagnostic purposes have a benign nodule on final diagnosis, meaning surgery was unnecessary.\nThis project will develop machine learning software to define imaging features of benign, malignant, and indeterminate thyroid lesions on ultrasound and relate these findings with current molecular testing. This new computer-assisted diagnosis approach aims to accurately differentiate whether an indeterminate thyroid nodule is benign or malignant, thus potentially avoiding unnecessary surgery in thousands of patients every year in the US. It will foster collaborations between diagnostic and therapeutic thyroid specialists and machine learning experts to study one of the important diagnostic challenges in modern medicine.\nPrincipal Investigators: Xavier Keutgen (Associate Professor, Surgery), Maryellen Giger (A.N. Pritzker Distinguished Service Professor, Radiology), Peter Angelos (Linda Kohler Anderson Professorship of Surgery), David Sarne (Clinical Associate, Medicine)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Researchers Develop AI to Diagnose, Understand COVID-19 in Lung Images"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Researchers Develop AI to Diagnose, Understand COVID-19 in Lung Images"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

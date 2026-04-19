@@ -1,0 +1,85 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/real-time-adaptive-deep-learning-with-system-on-chip-devices-for-discovery-science",
+  "page_title": "Real-Time Adaptive Deep Learning for Discovery Science | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Real Time Adaptive Deep Learning With System On Chip Devices For Discovery Science",
+      "href": "https://datascience.uchicago.edu/research/real-time-adaptive-deep-learning-with-system-on-chip-devices-for-discovery-science"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:04.599562+00:00",
+  "all_text_markdown": "Real-Time Adaptive Deep Learning for Discovery Science\n[Real-Time Adaptive Deep Learning for Discovery Science](https://datascience.uchicago.edu/research/real-time-adaptive-deep-learning-with-system-on-chip-devices-for-discovery-science)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nMachine learning on data is typically performed after it is gathered. But advances in real-time machine learning can analyze data on the fly, allowing scientists to quickly adjust experiments to capture phenomena of interest. That’s particularly appealing to researchers using the Large Hadron Collider at CERN, where a single on-chip system can absorb multiple terabytes of data each second. [David Miller](https://physics.uchicago.edu/people/profile/david-miller), associate professor of physics at UChicago, [Nhan Tran](https://nhanvtran.wixsite.com/home), Wilson Fellow at Fermilab, and [Andrew A. Chien](https://cs.uchicago.edu/people/profile/andrew-a.-chien), professor of computer science at UChicago, will collaborate on the design of new hardware that enables these advanced real-time processes. The resulting “system-on-a-chip” hardware design would help both high-energy physicists and researchers in other data-intensive fields monitor data quality and detect promising results without interrupting the flow of data.\nPrincipal Investigators: David Miller (UChicago), Nhan Tran (Fermilab), Andrew Chien (UChicago)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Real-Time Adaptive Deep Learning for Discovery Science](https://datascience.uchicago.edu/research/real-time-adaptive-deep-learning-with-system-on-chip-devices-for-discovery-science)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Machine learning on data is typically performed after it is gathered. But advances in real-time machine learning can analyze data on the fly, allowing scientists to quickly adjust experiments to capture phenomena of interest. That’s particularly appealing to researchers using the Large Hadron Collider at CERN, where a single on-chip system can absorb multiple terabytes of data each second. [David Miller](https://physics.uchicago.edu/people/profile/david-miller), associate professor of physics at UChicago, [Nhan Tran](https://nhanvtran.wixsite.com/home), Wilson Fellow at Fermilab, and [Andrew A. Chien](https://cs.uchicago.edu/people/profile/andrew-a.-chien), professor of computer science at UChicago, will collaborate on the design of new hardware that enables these advanced real-time processes. The resulting “system-on-a-chip” hardware design would help both high-energy physicists and researchers in other data-intensive fields monitor data quality and detect promising results without interrupting the flow of data."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: David Miller (UChicago), Nhan Tran (Fermilab), Andrew Chien (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Real-Time Adaptive Deep Learning for Discovery Science](https://datascience.uchicago.edu/research/real-time-adaptive-deep-learning-with-system-on-chip-devices-for-discovery-science)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nMachine learning on data is typically performed after it is gathered. But advances in real-time machine learning can analyze data on the fly, allowing scientists to quickly adjust experiments to capture phenomena of interest. That’s particularly appealing to researchers using the Large Hadron Collider at CERN, where a single on-chip system can absorb multiple terabytes of data each second. [David Miller](https://physics.uchicago.edu/people/profile/david-miller), associate professor of physics at UChicago, [Nhan Tran](https://nhanvtran.wixsite.com/home), Wilson Fellow at Fermilab, and [Andrew A. Chien](https://cs.uchicago.edu/people/profile/andrew-a.-chien), professor of computer science at UChicago, will collaborate on the design of new hardware that enables these advanced real-time processes. The resulting “system-on-a-chip” hardware design would help both high-energy physicists and researchers in other data-intensive fields monitor data quality and detect promising results without interrupting the flow of data.\nPrincipal Investigators: David Miller (UChicago), Nhan Tran (Fermilab), Andrew Chien (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

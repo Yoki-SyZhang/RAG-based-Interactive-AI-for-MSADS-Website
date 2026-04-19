@@ -1,0 +1,279 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/projects",
+  "page_title": "Projects | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Projects",
+      "href": "https://datascience.uchicago.edu/research/projects"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:34.877234+00:00",
+  "all_text_markdown": "Interdisciplinary research on the frontiers of the emerging field of data science, funded by DSI initiatives and calls for proposals.\nSchmidt AI in Science Speaker Series\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression\nBuilding Cyberinfrastructure for Rare-Event Searches\nUsing Field-Effect Transistor Array to Monitor Water Quality\nOn-Chip Machine Learning for intelligent Pixel Detectors\nImproving Batteries to Combat Climate Change\nAutomating Electron Microscopy with AI\nImproving Prediction of Breast Cancer Patient Response to Therapy\nPredicting Material Properties\nFacebook Messenger Chatbot for Surveys and Intervention Testing\nUnderstanding Divergent Interpretations of Political Information\nUnderstanding and Auditing Content Moderation Policies\nPartisan Polarization and Political Dysfunction\nExamining The Mystery of How Living Organisms Develop\nAdvancing Molecular Measurement with Machine Learning\nCreating Microbiomes That Improve Human and Environmental Health\nInterconnection Measurement Project\nMachine Learning to Improve Targeted Cancer Therapy\nAdvancing the Sociome For Social and Health Equity\nAI-Driven Tutorials for Radiology Student Training\nAI-Assisted Molecular Engineering to Detect and Remove Water Contaminants\nLearned Emulators of Physics Simulations\nReal-Time Adaptive Deep Learning for Discovery Science\nArtificially Intelligent Electrochemistry\nHealth Monitoring Based on Wearable Sweat Sensors\nAutomated Prostate Cancer Detection Using MRI and Deep Learning\nDeciphering Cuneiform with Artificial Intelligence\nMeasuring Messages About Race and Gender in Children’s Books\nLearning How To Measure Scientific Images\nComputer-Assisted Diagnosis of Indeterminate Thyroid Lesions\nMachine Learning and Satellite Imaging to Reduce Methane Emissions\nDisentangling Visual Style and Content\nA Data-Driven Trigger System for the Large Hadron Collider\nAutomated Experimental Design for Cosmic Discovery\nIs Climate Change Changing Clouds?\nNeural Network Algorithms to Decode the Octopus Neural Network\nClinical Behavior Analysis via Unsupervised Learning\nIdentifying Optimal Skill and Relationship Mixtures\nA Data Processing Pipeline for Police Communications\nRacial Inequality in Financial Resilience\nMobile Decision-Making for Doctors Without Internet\nN-body Networks for Jet Physics at the Energy Frontier\nRational Protein Engineering using Data-Driven Generative Models\nThe Role of Rapid Bacterial Evolution in Human Health and Disease\nQuantifying Social Determinants of Cardiovascular Disease\nExploring Climate and Biodiversity with 3D Deep Learning",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Interdisciplinary research on the frontiers of the emerging field of data science, funded by DSI initiatives and calls for proposals."
+        }
+      ],
+      "text_markdown": "Interdisciplinary research on the frontiers of the emerging field of data science, funded by DSI initiatives and calls for proposals."
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Schmidt AI in Science Speaker Series"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Building Cyberinfrastructure for Rare-Event Searches"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Using Field-Effect Transistor Array to Monitor Water Quality"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "On-Chip Machine Learning for intelligent Pixel Detectors"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Improving Batteries to Combat Climate Change"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Automating Electron Microscopy with AI"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Improving Prediction of Breast Cancer Patient Response to Therapy"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Predicting Material Properties"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Facebook Messenger Chatbot for Surveys and Intervention Testing"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Understanding Divergent Interpretations of Political Information"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Understanding and Auditing Content Moderation Policies"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Partisan Polarization and Political Dysfunction"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Examining The Mystery of How Living Organisms Develop"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Advancing Molecular Measurement with Machine Learning"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Creating Microbiomes That Improve Human and Environmental Health"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Interconnection Measurement Project"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning to Improve Targeted Cancer Therapy"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Advancing the Sociome For Social and Health Equity"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI-Driven Tutorials for Radiology Student Training"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI-Assisted Molecular Engineering to Detect and Remove Water Contaminants"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Learned Emulators of Physics Simulations"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Real-Time Adaptive Deep Learning for Discovery Science"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Artificially Intelligent Electrochemistry"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Health Monitoring Based on Wearable Sweat Sensors"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Automated Prostate Cancer Detection Using MRI and Deep Learning"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Deciphering Cuneiform with Artificial Intelligence"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Measuring Messages About Race and Gender in Children’s Books"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Learning How To Measure Scientific Images"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Computer-Assisted Diagnosis of Indeterminate Thyroid Lesions"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning and Satellite Imaging to Reduce Methane Emissions"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Disentangling Visual Style and Content"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "A Data-Driven Trigger System for the Large Hadron Collider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Automated Experimental Design for Cosmic Discovery"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Is Climate Change Changing Clouds?"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Neural Network Algorithms to Decode the Octopus Neural Network"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Clinical Behavior Analysis via Unsupervised Learning"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Identifying Optimal Skill and Relationship Mixtures"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "A Data Processing Pipeline for Police Communications"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Racial Inequality in Financial Resilience"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Mobile Decision-Making for Doctors Without Internet"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "N-body Networks for Jet Physics at the Energy Frontier"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Rational Protein Engineering using Data-Driven Generative Models"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Role of Rapid Bacterial Evolution in Human Health and Disease"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Quantifying Social Determinants of Cardiovascular Disease"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Exploring Climate and Biodiversity with 3D Deep Learning"
+        }
+      ],
+      "text_markdown": "## Schmidt AI in Science Speaker Series\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression\n## Building Cyberinfrastructure for Rare-Event Searches\n## Using Field-Effect Transistor Array to Monitor Water Quality\n## On-Chip Machine Learning for intelligent Pixel Detectors\n## Improving Batteries to Combat Climate Change\n## Automating Electron Microscopy with AI\n## Improving Prediction of Breast Cancer Patient Response to Therapy\n## Predicting Material Properties\n## Facebook Messenger Chatbot for Surveys and Intervention Testing\n## Understanding Divergent Interpretations of Political Information\n## Understanding and Auditing Content Moderation Policies\n## Partisan Polarization and Political Dysfunction\n## Examining The Mystery of How Living Organisms Develop\n## Advancing Molecular Measurement with Machine Learning\n## Creating Microbiomes That Improve Human and Environmental Health\n## Interconnection Measurement Project\n## Machine Learning to Improve Targeted Cancer Therapy\n## Advancing the Sociome For Social and Health Equity\n## AI-Driven Tutorials for Radiology Student Training\n## AI-Assisted Molecular Engineering to Detect and Remove Water Contaminants\n## Learned Emulators of Physics Simulations\n## Real-Time Adaptive Deep Learning for Discovery Science\n## Artificially Intelligent Electrochemistry\n## Health Monitoring Based on Wearable Sweat Sensors\n## Automated Prostate Cancer Detection Using MRI and Deep Learning\n## Deciphering Cuneiform with Artificial Intelligence\n## Measuring Messages About Race and Gender in Children’s Books\n## Learning How To Measure Scientific Images\n## Computer-Assisted Diagnosis of Indeterminate Thyroid Lesions\n## Machine Learning and Satellite Imaging to Reduce Methane Emissions\n## Disentangling Visual Style and Content\n## A Data-Driven Trigger System for the Large Hadron Collider\n## Automated Experimental Design for Cosmic Discovery\n## Is Climate Change Changing Clouds?\n## Neural Network Algorithms to Decode the Octopus Neural Network\n## Clinical Behavior Analysis via Unsupervised Learning\n## Identifying Optimal Skill and Relationship Mixtures\n## A Data Processing Pipeline for Police Communications\n## Racial Inequality in Financial Resilience\n## Mobile Decision-Making for Doctors Without Internet\n## N-body Networks for Jet Physics at the Energy Frontier\n## Rational Protein Engineering using Data-Driven Generative Models\n## The Role of Rapid Bacterial Evolution in Human Health and Disease\n## Quantifying Social Determinants of Cardiovascular Disease\n## Exploring Climate and Biodiversity with 3D Deep Learning"
+    }
+  ]
+}

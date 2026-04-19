@@ -1,0 +1,89 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/improving-batteries-to-combat-climate-change",
+  "page_title": "Improving Batteries to Combat Climate Change | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Improving Batteries To Combat Climate Change",
+      "href": "https://datascience.uchicago.edu/research/improving-batteries-to-combat-climate-change"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:08.530588+00:00",
+  "all_text_markdown": "Improving Batteries to Combat Climate Change\n[Improving Batteries to Combat Climate Change](https://datascience.uchicago.edu/research/improving-batteries-to-combat-climate-change)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nDecarbonization efforts necessary for addressing climate change are increasingly reliant on energy storage solutions, notably rechargeable batteries. The progression towards advanced battery technology, however, is hindered by traditional trial-and-error approaches in materials discovery.\nPostdoctoral Fellow [Ritesh Kumar](https://datascience.uchicago.edu/people/ritesh-kumar), along with Assistant Professor [Chibueze Amanchukwu](https://datascience.uchicago.edu/people/chibueze-amanchukwu), are addressing this issue by integrating AI models to establish a fully automated, research grade platform for the assembly and evaluation of batteries, focusing on the exploration of new liquid electrolytes compatible with next-generation battery chemistries. This platform will enable the accelerated fabrication and assessment of batteries formulated with AI-predicted electrolyte candidates, examining their performance. The initiative is poised to revolutionize the methodology of battery materials discovery, significantly expediting the advent of superior next-generation batteries on a global scale. The improved battery technology produced by this project will be crucial in combating climate change.\nPrincipal Investigators: Ritesh Kumar (UChicago), Chibueze Amanchukwu (UChicago)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Improving Batteries to Combat Climate Change](https://datascience.uchicago.edu/research/improving-batteries-to-combat-climate-change)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Decarbonization efforts necessary for addressing climate change are increasingly reliant on energy storage solutions, notably rechargeable batteries. The progression towards advanced battery technology, however, is hindered by traditional trial-and-error approaches in materials discovery."
+        },
+        {
+          "type": "paragraph",
+          "text": "Postdoctoral Fellow [Ritesh Kumar](https://datascience.uchicago.edu/people/ritesh-kumar), along with Assistant Professor [Chibueze Amanchukwu](https://datascience.uchicago.edu/people/chibueze-amanchukwu), are addressing this issue by integrating AI models to establish a fully automated, research grade platform for the assembly and evaluation of batteries, focusing on the exploration of new liquid electrolytes compatible with next-generation battery chemistries. This platform will enable the accelerated fabrication and assessment of batteries formulated with AI-predicted electrolyte candidates, examining their performance. The initiative is poised to revolutionize the methodology of battery materials discovery, significantly expediting the advent of superior next-generation batteries on a global scale. The improved battery technology produced by this project will be crucial in combating climate change."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Ritesh Kumar (UChicago), Chibueze Amanchukwu (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Improving Batteries to Combat Climate Change](https://datascience.uchicago.edu/research/improving-batteries-to-combat-climate-change)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nDecarbonization efforts necessary for addressing climate change are increasingly reliant on energy storage solutions, notably rechargeable batteries. The progression towards advanced battery technology, however, is hindered by traditional trial-and-error approaches in materials discovery.\nPostdoctoral Fellow [Ritesh Kumar](https://datascience.uchicago.edu/people/ritesh-kumar), along with Assistant Professor [Chibueze Amanchukwu](https://datascience.uchicago.edu/people/chibueze-amanchukwu), are addressing this issue by integrating AI models to establish a fully automated, research grade platform for the assembly and evaluation of batteries, focusing on the exploration of new liquid electrolytes compatible with next-generation battery chemistries. This platform will enable the accelerated fabrication and assessment of batteries formulated with AI-predicted electrolyte candidates, examining their performance. The initiative is poised to revolutionize the methodology of battery materials discovery, significantly expediting the advent of superior next-generation batteries on a global scale. The improved battery technology produced by this project will be crucial in combating climate change.\nPrincipal Investigators: Ritesh Kumar (UChicago), Chibueze Amanchukwu (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/neural-network-algorithms-to-decode-the-octopus-neural-network",
+  "page_title": "Neural Network Algorithms to Decode the Octopus Neural Network | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Neural Network Algorithms To Decode The Octopus Neural Network",
+      "href": "https://datascience.uchicago.edu/research/neural-network-algorithms-to-decode-the-octopus-neural-network"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:29.533406+00:00",
+  "all_text_markdown": "Neural Network Algorithms to Decode the Octopus Neural Network\n[Neural Network Algorithms to Decode the Octopus Neural Network](https://datascience.uchicago.edu/research/neural-network-algorithms-to-decode-the-octopus-neural-network)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nA map of all of the connections in the brain of an advanced animal – together with the means to interpret it – would reveal fundamental principles of organization that would likely revolutionize neuroscience. Using X-ray and electron microscopy imaging at Argonne and UChicago, researchers can now collect the petabyte scale datasets that in principle make this possible.\nAI tools will be critical for the analysis. This project will use neural networks to convert three-dimensional raw images into a map — the “connectome” — and make sense of the revealed structure, by building statistical inference of an underlying physical model. These approaches will be applied to the nervous system of the octopus to understand the complex neural network that exists in octopus arms, including chemotactic sensing, camouflage, and motor response. The collaboration brings together animal expertise and husbandry from UChicago and the [Marine Biological Laboratory](https://www.mbl.edu), large-scale instrumentation and imaging from the [Advanced Photon Source](https://www.aps.anl.gov) at Argonne, and high performance computing and mathematics from Argonne.\nThis project was funded by the AI + Science initiative, a program organized by the University of Chicago [Office of Research and National Laboratories](https://researchinnovation.uchicago.edu) in collaboration with the Center for Data and Computing aimed at increasing interactions among the University of Chicago, Argonne National Laboratory, Fermi National Accelerator Laboratory, and the Toyota Technological Institute at Chicago.\nPrincipal Investigators: Petter Littlewood (UChicago), Nicola Ferrier (Argonne) and Bobby Kasthuri (UChicago)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Neural Network Algorithms to Decode the Octopus Neural Network](https://datascience.uchicago.edu/research/neural-network-algorithms-to-decode-the-octopus-neural-network)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "A map of all of the connections in the brain of an advanced animal – together with the means to interpret it – would reveal fundamental principles of organization that would likely revolutionize neuroscience. Using X-ray and electron microscopy imaging at Argonne and UChicago, researchers can now collect the petabyte scale datasets that in principle make this possible."
+        },
+        {
+          "type": "paragraph",
+          "text": "AI tools will be critical for the analysis. This project will use neural networks to convert three-dimensional raw images into a map — the “connectome” — and make sense of the revealed structure, by building statistical inference of an underlying physical model. These approaches will be applied to the nervous system of the octopus to understand the complex neural network that exists in octopus arms, including chemotactic sensing, camouflage, and motor response. The collaboration brings together animal expertise and husbandry from UChicago and the [Marine Biological Laboratory](https://www.mbl.edu), large-scale instrumentation and imaging from the [Advanced Photon Source](https://www.aps.anl.gov) at Argonne, and high performance computing and mathematics from Argonne."
+        },
+        {
+          "type": "paragraph",
+          "text": "This project was funded by the AI + Science initiative, a program organized by the University of Chicago [Office of Research and National Laboratories](https://researchinnovation.uchicago.edu) in collaboration with the Center for Data and Computing aimed at increasing interactions among the University of Chicago, Argonne National Laboratory, Fermi National Accelerator Laboratory, and the Toyota Technological Institute at Chicago."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Petter Littlewood (UChicago), Nicola Ferrier (Argonne) and Bobby Kasthuri (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Neural Network Algorithms to Decode the Octopus Neural Network](https://datascience.uchicago.edu/research/neural-network-algorithms-to-decode-the-octopus-neural-network)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nA map of all of the connections in the brain of an advanced animal – together with the means to interpret it – would reveal fundamental principles of organization that would likely revolutionize neuroscience. Using X-ray and electron microscopy imaging at Argonne and UChicago, researchers can now collect the petabyte scale datasets that in principle make this possible.\nAI tools will be critical for the analysis. This project will use neural networks to convert three-dimensional raw images into a map — the “connectome” — and make sense of the revealed structure, by building statistical inference of an underlying physical model. These approaches will be applied to the nervous system of the octopus to understand the complex neural network that exists in octopus arms, including chemotactic sensing, camouflage, and motor response. The collaboration brings together animal expertise and husbandry from UChicago and the [Marine Biological Laboratory](https://www.mbl.edu), large-scale instrumentation and imaging from the [Advanced Photon Source](https://www.aps.anl.gov) at Argonne, and high performance computing and mathematics from Argonne.\nThis project was funded by the AI + Science initiative, a program organized by the University of Chicago [Office of Research and National Laboratories](https://researchinnovation.uchicago.edu) in collaboration with the Center for Data and Computing aimed at increasing interactions among the University of Chicago, Argonne National Laboratory, Fermi National Accelerator Laboratory, and the Toyota Technological Institute at Chicago.\nPrincipal Investigators: Petter Littlewood (UChicago), Nicola Ferrier (Argonne) and Bobby Kasthuri (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "page_url": "https://datascience.uchicago.edu/news-events/news",
+  "page_title": "News | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "News Events",
+      "href": "https://datascience.uchicago.edu/news-events"
+    },
+    {
+      "text": "News",
+      "href": "https://datascience.uchicago.edu/news-events/news"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:51.422133+00:00",
+  "all_text_markdown": "News\nUniversity of Chicago Announces Partnership with AI Research Commons and Microsoft to Accelerate Midwest AI Startups\nUniversity of Chicago Wins Distinguished Laude Institute Moonshots Seed Grant\nUniversity of Chicago Data Science Institute Welcomes Millennium as New Industry Affiliate Partner\nFor Better Sleep, One MS-ADS Student Turned to Artificial Intelligence\nFrom Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI\nWinter 2026 Capstone Showcase Highlights Innovative Data Science Projects\nMichael Franklin Named Deputy Dean for Computational and Mathematical Sciences\nAI Initiative Shares UChicago’s Vision for AI-Empowered Interdisciplinary Research\nInclusive Development International Expands “Follow the Money” Toolkit\nMeet Siobhan McDermott, MS in Applied Data Science Alumna",
+  "sections": [
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "University of Chicago Announces Partnership with AI Research Commons and Microsoft to Accelerate Midwest AI Startups"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "University of Chicago Wins Distinguished Laude Institute Moonshots Seed Grant"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "University of Chicago Data Science Institute Welcomes Millennium as New Industry Affiliate Partner"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "For Better Sleep, One MS-ADS Student Turned to Artificial Intelligence"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "From Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Winter 2026 Capstone Showcase Highlights Innovative Data Science Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Michael Franklin Named Deputy Dean for Computational and Mathematical Sciences"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI Initiative Shares UChicago’s Vision for AI-Empowered Interdisciplinary Research"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Inclusive Development International Expands “Follow the Money” Toolkit"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Meet Siobhan McDermott, MS in Applied Data Science Alumna"
+        }
+      ],
+      "text_markdown": "## University of Chicago Announces Partnership with AI Research Commons and Microsoft to Accelerate Midwest AI Startups\n## University of Chicago Wins Distinguished Laude Institute Moonshots Seed Grant\n## University of Chicago Data Science Institute Welcomes Millennium as New Industry Affiliate Partner\n## For Better Sleep, One MS-ADS Student Turned to Artificial Intelligence\n## From Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI\n## Winter 2026 Capstone Showcase Highlights Innovative Data Science Projects\n## Michael Franklin Named Deputy Dean for Computational and Mathematical Sciences\n## AI Initiative Shares UChicago’s Vision for AI-Empowered Interdisciplinary Research\n## Inclusive Development International Expands “Follow the Money” Toolkit\n## Meet Siobhan McDermott, MS in Applied Data Science Alumna"
+    }
+  ]
+}

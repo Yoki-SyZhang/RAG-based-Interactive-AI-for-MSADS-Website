@@ -1,0 +1,428 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research",
+  "page_title": "Research | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:46.074430+00:00",
+  "all_text_markdown": "DSI research addresses important scientific and societal questions through coordinated advances in applications, models, algorithms, and platforms.\nResearch Initiatives\n[AI + Science](https://datascience.uchicago.edu/research/ai-science)\n[Data & Democracy](https://datascience.uchicago.edu/research/data-democracy)\n[AICE: AI for Climate](https://datascience.uchicago.edu/research/aice-ai-for-climate)\n[Data Ecology](https://datascience.uchicago.edu/research/data-ecology)\n[Novel Intelligence](https://datascience.uchicago.edu/research/novel-intelligence)\n[Projects](https://datascience.uchicago.edu/research/projects)\nSchmidt AI in Science Speaker Series\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression\nBuilding Cyberinfrastructure for Rare-Event Searches\nUsing Field-Effect Transistor Array to Monitor Water Quality\nOn-Chip Machine Learning for intelligent Pixel Detectors\nImproving Batteries to Combat Climate Change\nAutomating Electron Microscopy with AI\nImproving Prediction of Breast Cancer Patient Response to Therapy\nPredicting Material Properties\nFacebook Messenger Chatbot for Surveys and Intervention Testing\nUnderstanding Divergent Interpretations of Political Information\nUnderstanding and Auditing Content Moderation Policies\nPartisan Polarization and Political Dysfunction\nExamining The Mystery of How Living Organisms Develop\nAdvancing Molecular Measurement with Machine Learning\nCreating Microbiomes That Improve Human and Environmental Health\nInterconnection Measurement Project\nMachine Learning to Improve Targeted Cancer Therapy\nAdvancing the Sociome For Social and Health Equity\nAI-Driven Tutorials for Radiology Student Training\nAI-Assisted Molecular Engineering to Detect and Remove Water Contaminants\nLearned Emulators of Physics Simulations\nReal-Time Adaptive Deep Learning for Discovery Science\nArtificially Intelligent Electrochemistry\nHealth Monitoring Based on Wearable Sweat Sensors\nAutomated Prostate Cancer Detection Using MRI and Deep Learning\nDeciphering Cuneiform with Artificial Intelligence\nMeasuring Messages About Race and Gender in Children’s Books\nLearning How To Measure Scientific Images\nComputer-Assisted Diagnosis of Indeterminate Thyroid Lesions\nMachine Learning and Satellite Imaging to Reduce Methane Emissions\nDisentangling Visual Style and Content\nA Data-Driven Trigger System for the Large Hadron Collider\nAutomated Experimental Design for Cosmic Discovery\nIs Climate Change Changing Clouds?\nNeural Network Algorithms to Decode the Octopus Neural Network\nClinical Behavior Analysis via Unsupervised Learning\nIdentifying Optimal Skill and Relationship Mixtures\nA Data Processing Pipeline for Police Communications\nRacial Inequality in Financial Resilience\nMobile Decision-Making for Doctors Without Internet\nN-body Networks for Jet Physics at the Energy Frontier\nRational Protein Engineering using Data-Driven Generative Models\nThe Role of Rapid Bacterial Evolution in Human Health and Disease\nQuantifying Social Determinants of Cardiovascular Disease\nExploring Climate and Biodiversity with 3D Deep Learning\n[Upcoming Events](https://datascience.uchicago.edu/news-events/events)\nAsk A Student in MS in Applied Data Science\nPathways to Impact in AI and Data Science with the Polsky Center for Entrepreneurship and Innovation\nEmma Liu (UChicago): Schmidt AI in Science Speaker Series\nInfo Session – MS in Applied Data Science (In-Person Program)\nChicago Data Night: Milan McGraw (Amazon Web Services)\nLatest [News](https://datascience.uchicago.edu/news-events/news), [Insights](https://datascience.uchicago.edu/news-events/insights), and [Past Events](https://datascience.uchicago.edu/news-events/past-events)\nUniversity of Chicago Announces Partnership with AI Research Commons and Microsoft to Accelerate Midwest AI Startups\nUniversity of Chicago Wins Distinguished Laude Institute Moonshots Seed Grant\nUniversity of Chicago Data Science Institute Welcomes Millennium as New Industry Affiliate Partner\nFor Better Sleep, One MS-ADS Student Turned to Artificial Intelligence\nFrom Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI\nWhat If AI Scientists Could Talk to Each Other?\nUChicago Researchers Build a Tool to Help Fix Peer Review\nMadeleine Torcasso (UChicago): Schmidt AI in Science Speaker Series\nWinter 2026 Capstone Showcase Highlights Innovative Data Science Projects\nOpenAI Lunch & Learn: James Hairston, Global Head of Innovation Policy\nOpportunities\nWe offer several programs for academic researchers, companies, non-profits, government bodies, and students to form collaborations with DSI research initiatives.",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "DSI research addresses important scientific and societal questions through coordinated advances in applications, models, algorithms, and platforms."
+        }
+      ],
+      "text_markdown": "DSI research addresses important scientific and societal questions through coordinated advances in applications, models, algorithms, and platforms."
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Research Initiatives"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[AI + Science](https://datascience.uchicago.edu/research/ai-science)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Data & Democracy](https://datascience.uchicago.edu/research/data-democracy)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[AICE: AI for Climate](https://datascience.uchicago.edu/research/aice-ai-for-climate)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Data Ecology](https://datascience.uchicago.edu/research/data-ecology)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Novel Intelligence](https://datascience.uchicago.edu/research/novel-intelligence)"
+        }
+      ],
+      "text_markdown": "## Research Initiatives\n## [AI + Science](https://datascience.uchicago.edu/research/ai-science)\n## [Data & Democracy](https://datascience.uchicago.edu/research/data-democracy)\n## [AICE: AI for Climate](https://datascience.uchicago.edu/research/aice-ai-for-climate)\n## [Data Ecology](https://datascience.uchicago.edu/research/data-ecology)\n## [Novel Intelligence](https://datascience.uchicago.edu/research/novel-intelligence)"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Projects](https://datascience.uchicago.edu/research/projects)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Schmidt AI in Science Speaker Series"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Building Cyberinfrastructure for Rare-Event Searches"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Using Field-Effect Transistor Array to Monitor Water Quality"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "On-Chip Machine Learning for intelligent Pixel Detectors"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Improving Batteries to Combat Climate Change"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Automating Electron Microscopy with AI"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Improving Prediction of Breast Cancer Patient Response to Therapy"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Predicting Material Properties"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Facebook Messenger Chatbot for Surveys and Intervention Testing"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Understanding Divergent Interpretations of Political Information"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Understanding and Auditing Content Moderation Policies"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Partisan Polarization and Political Dysfunction"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Examining The Mystery of How Living Organisms Develop"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Advancing Molecular Measurement with Machine Learning"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Creating Microbiomes That Improve Human and Environmental Health"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Interconnection Measurement Project"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning to Improve Targeted Cancer Therapy"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Advancing the Sociome For Social and Health Equity"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI-Driven Tutorials for Radiology Student Training"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI-Assisted Molecular Engineering to Detect and Remove Water Contaminants"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Learned Emulators of Physics Simulations"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Real-Time Adaptive Deep Learning for Discovery Science"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Artificially Intelligent Electrochemistry"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Health Monitoring Based on Wearable Sweat Sensors"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Automated Prostate Cancer Detection Using MRI and Deep Learning"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Deciphering Cuneiform with Artificial Intelligence"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Measuring Messages About Race and Gender in Children’s Books"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Learning How To Measure Scientific Images"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Computer-Assisted Diagnosis of Indeterminate Thyroid Lesions"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning and Satellite Imaging to Reduce Methane Emissions"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Disentangling Visual Style and Content"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "A Data-Driven Trigger System for the Large Hadron Collider"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Automated Experimental Design for Cosmic Discovery"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Is Climate Change Changing Clouds?"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Neural Network Algorithms to Decode the Octopus Neural Network"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Clinical Behavior Analysis via Unsupervised Learning"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Identifying Optimal Skill and Relationship Mixtures"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "A Data Processing Pipeline for Police Communications"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Racial Inequality in Financial Resilience"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Mobile Decision-Making for Doctors Without Internet"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "N-body Networks for Jet Physics at the Energy Frontier"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Rational Protein Engineering using Data-Driven Generative Models"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Role of Rapid Bacterial Evolution in Human Health and Disease"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Quantifying Social Determinants of Cardiovascular Disease"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Exploring Climate and Biodiversity with 3D Deep Learning"
+        }
+      ],
+      "text_markdown": "## [Projects](https://datascience.uchicago.edu/research/projects)\n## Schmidt AI in Science Speaker Series\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression\n## Building Cyberinfrastructure for Rare-Event Searches\n## Using Field-Effect Transistor Array to Monitor Water Quality\n## On-Chip Machine Learning for intelligent Pixel Detectors\n## Improving Batteries to Combat Climate Change\n## Automating Electron Microscopy with AI\n## Improving Prediction of Breast Cancer Patient Response to Therapy\n## Predicting Material Properties\n## Facebook Messenger Chatbot for Surveys and Intervention Testing\n## Understanding Divergent Interpretations of Political Information\n## Understanding and Auditing Content Moderation Policies\n## Partisan Polarization and Political Dysfunction\n## Examining The Mystery of How Living Organisms Develop\n## Advancing Molecular Measurement with Machine Learning\n## Creating Microbiomes That Improve Human and Environmental Health\n## Interconnection Measurement Project\n## Machine Learning to Improve Targeted Cancer Therapy\n## Advancing the Sociome For Social and Health Equity\n## AI-Driven Tutorials for Radiology Student Training\n## AI-Assisted Molecular Engineering to Detect and Remove Water Contaminants\n## Learned Emulators of Physics Simulations\n## Real-Time Adaptive Deep Learning for Discovery Science\n## Artificially Intelligent Electrochemistry\n## Health Monitoring Based on Wearable Sweat Sensors\n## Automated Prostate Cancer Detection Using MRI and Deep Learning\n## Deciphering Cuneiform with Artificial Intelligence\n## Measuring Messages About Race and Gender in Children’s Books\n## Learning How To Measure Scientific Images\n## Computer-Assisted Diagnosis of Indeterminate Thyroid Lesions\n## Machine Learning and Satellite Imaging to Reduce Methane Emissions\n## Disentangling Visual Style and Content\n## A Data-Driven Trigger System for the Large Hadron Collider\n## Automated Experimental Design for Cosmic Discovery\n## Is Climate Change Changing Clouds?\n## Neural Network Algorithms to Decode the Octopus Neural Network\n## Clinical Behavior Analysis via Unsupervised Learning\n## Identifying Optimal Skill and Relationship Mixtures\n## A Data Processing Pipeline for Police Communications\n## Racial Inequality in Financial Resilience\n## Mobile Decision-Making for Doctors Without Internet\n## N-body Networks for Jet Physics at the Energy Frontier\n## Rational Protein Engineering using Data-Driven Generative Models\n## The Role of Rapid Bacterial Evolution in Human Health and Disease\n## Quantifying Social Determinants of Cardiovascular Disease\n## Exploring Climate and Biodiversity with 3D Deep Learning"
+    },
+    {
+      "section_index": 3,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Upcoming Events](https://datascience.uchicago.edu/news-events/events)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ask A Student in MS in Applied Data Science"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Pathways to Impact in AI and Data Science with the Polsky Center for Entrepreneurship and Innovation"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Emma Liu (UChicago): Schmidt AI in Science Speaker Series"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Info Session – MS in Applied Data Science (In-Person Program)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Chicago Data Night: Milan McGraw (Amazon Web Services)"
+        }
+      ],
+      "text_markdown": "## [Upcoming Events](https://datascience.uchicago.edu/news-events/events)\n## Ask A Student in MS in Applied Data Science\n## Pathways to Impact in AI and Data Science with the Polsky Center for Entrepreneurship and Innovation\n## Emma Liu (UChicago): Schmidt AI in Science Speaker Series\n## Info Session – MS in Applied Data Science (In-Person Program)\n## Chicago Data Night: Milan McGraw (Amazon Web Services)"
+    },
+    {
+      "section_index": 4,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Latest [News](https://datascience.uchicago.edu/news-events/news), [Insights](https://datascience.uchicago.edu/news-events/insights), and [Past Events](https://datascience.uchicago.edu/news-events/past-events)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "University of Chicago Announces Partnership with AI Research Commons and Microsoft to Accelerate Midwest AI Startups"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "University of Chicago Wins Distinguished Laude Institute Moonshots Seed Grant"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "University of Chicago Data Science Institute Welcomes Millennium as New Industry Affiliate Partner"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "For Better Sleep, One MS-ADS Student Turned to Artificial Intelligence"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "From Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What If AI Scientists Could Talk to Each Other?"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "UChicago Researchers Build a Tool to Help Fix Peer Review"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Madeleine Torcasso (UChicago): Schmidt AI in Science Speaker Series"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Winter 2026 Capstone Showcase Highlights Innovative Data Science Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "OpenAI Lunch & Learn: James Hairston, Global Head of Innovation Policy"
+        }
+      ],
+      "text_markdown": "## Latest [News](https://datascience.uchicago.edu/news-events/news), [Insights](https://datascience.uchicago.edu/news-events/insights), and [Past Events](https://datascience.uchicago.edu/news-events/past-events)\n## University of Chicago Announces Partnership with AI Research Commons and Microsoft to Accelerate Midwest AI Startups\n## University of Chicago Wins Distinguished Laude Institute Moonshots Seed Grant\n## University of Chicago Data Science Institute Welcomes Millennium as New Industry Affiliate Partner\n## For Better Sleep, One MS-ADS Student Turned to Artificial Intelligence\n## From Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI\n## What If AI Scientists Could Talk to Each Other?\n## UChicago Researchers Build a Tool to Help Fix Peer Review\n## Madeleine Torcasso (UChicago): Schmidt AI in Science Speaker Series\n## Winter 2026 Capstone Showcase Highlights Innovative Data Science Projects\n## OpenAI Lunch & Learn: James Hairston, Global Head of Innovation Policy"
+    },
+    {
+      "section_index": 5,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Opportunities"
+        },
+        {
+          "type": "paragraph",
+          "text": "We offer several programs for academic researchers, companies, non-profits, government bodies, and students to form collaborations with DSI research initiatives."
+        }
+      ],
+      "text_markdown": "## Opportunities\nWe offer several programs for academic researchers, companies, non-profits, government bodies, and students to form collaborations with DSI research initiatives."
+    }
+  ]
+}

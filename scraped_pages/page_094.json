@@ -1,0 +1,110 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/a-data-driven-trigger-system-for-the-large-hadron-collider",
+  "page_title": "A Data-Driven Trigger System for the Large Hadron Collider | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "A Data Driven Trigger System For The Large Hadron Collider",
+      "href": "https://datascience.uchicago.edu/research/a-data-driven-trigger-system-for-the-large-hadron-collider"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:32.149348+00:00",
+  "all_text_markdown": "A Data-Driven Trigger System for the Large Hadron Collider\n[A Data-Driven Trigger System for the Large Hadron Collider](https://datascience.uchicago.edu/research/a-data-driven-trigger-system-for-the-large-hadron-collider)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nData-intensive discovery science is increasingly reliant on real-time processing capabilities and machine learning workflows in order to filter and analyze the extreme volumes of data being collected. For example, the search for dark matter at the Large Hadron Collider (LHC) can produce more than 100 terabytes of heterogeneous, high-dimensional data each second. To filter this data, physicists use “trigger algorithms,” the creation of which is resource-intensive and prone to significant blindspots.\nThis project will seek to investigate the possibility of automating the trigger system of the LHC, applying recent advances in artificial intelligence, including explainable AI, active learning and imitation learning, to the energy and intensity frontiers of particle physics. The goal is to build a principled, white-box trigger system that could be succinctly explained using existing physics insights, while still having an explicit representation of uncertainty that allows for efficient exploration of the vast space of possible event data. The work will lead to new machine learning paradigms as well as novel insights in discovery science.\nPrincipal Investigators: Yuxin Chen (Assistant Professor, Computer Science), David Miller (Associate Professor, Physics)\nRelated News, Insights, and Past Events\nCDAC Summer Lab: AI + Science\nAn Automated Menu for LHC Data and the Search for Dark Matter\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[A Data-Driven Trigger System for the Large Hadron Collider](https://datascience.uchicago.edu/research/a-data-driven-trigger-system-for-the-large-hadron-collider)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Data-intensive discovery science is increasingly reliant on real-time processing capabilities and machine learning workflows in order to filter and analyze the extreme volumes of data being collected. For example, the search for dark matter at the Large Hadron Collider (LHC) can produce more than 100 terabytes of heterogeneous, high-dimensional data each second. To filter this data, physicists use “trigger algorithms,” the creation of which is resource-intensive and prone to significant blindspots."
+        },
+        {
+          "type": "paragraph",
+          "text": "This project will seek to investigate the possibility of automating the trigger system of the LHC, applying recent advances in artificial intelligence, including explainable AI, active learning and imitation learning, to the energy and intensity frontiers of particle physics. The goal is to build a principled, white-box trigger system that could be succinctly explained using existing physics insights, while still having an explicit representation of uncertainty that allows for efficient exploration of the vast space of possible event data. The work will lead to new machine learning paradigms as well as novel insights in discovery science."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Yuxin Chen (Assistant Professor, Computer Science), David Miller (Associate Professor, Physics)"
+        }
+      ],
+      "text_markdown": "## [A Data-Driven Trigger System for the Large Hadron Collider](https://datascience.uchicago.edu/research/a-data-driven-trigger-system-for-the-large-hadron-collider)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nData-intensive discovery science is increasingly reliant on real-time processing capabilities and machine learning workflows in order to filter and analyze the extreme volumes of data being collected. For example, the search for dark matter at the Large Hadron Collider (LHC) can produce more than 100 terabytes of heterogeneous, high-dimensional data each second. To filter this data, physicists use “trigger algorithms,” the creation of which is resource-intensive and prone to significant blindspots.\nThis project will seek to investigate the possibility of automating the trigger system of the LHC, applying recent advances in artificial intelligence, including explainable AI, active learning and imitation learning, to the energy and intensity frontiers of particle physics. The goal is to build a principled, white-box trigger system that could be succinctly explained using existing physics insights, while still having an explicit representation of uncertainty that allows for efficient exploration of the vast space of possible event data. The work will lead to new machine learning paradigms as well as novel insights in discovery science.\nPrincipal Investigators: Yuxin Chen (Assistant Professor, Computer Science), David Miller (Associate Professor, Physics)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "CDAC Summer Lab: AI + Science"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "An Automated Menu for LHC Data and the Search for Dark Matter"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## CDAC Summer Lab: AI + Science\n## An Automated Menu for LHC Data and the Search for Dark Matter"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

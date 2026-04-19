@@ -1,0 +1,85 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/here-technologies-vehicle-perception-data-vpd-and-here-lane-model-alignment",
+  "page_title": "HERE Technologies | Vehicle Perception Data (VPD) and HERE Lane Model Alignment | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Here Technologies Vehicle Perception Data Vpd And Here Lane Model Alignment",
+      "href": "https://datascience.uchicago.edu/research/here-technologies-vehicle-perception-data-vpd-and-here-lane-model-alignment"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:43:25.519804+00:00",
+  "all_text_markdown": "HERE Technologies | Vehicle Perception Data (VPD) and HERE Lane Model Alignment\n[HERE Technologies | Vehicle Perception Data (VPD) and HERE Lane Model Alignment](https://datascience.uchicago.edu/research/here-technologies-vehicle-perception-data-vpd-and-here-lane-model-alignment)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nThis project addresses spatial misalignment between Vehicle Perception Data (VPD) and HERE Technologies’ Lane Model to support the development of an AI-powered, high-accuracy live map. VPD, derived from vehicle-mounted sensors, offers fresh insights into road geometry, while the existing Lane Model may be outdated or misaligned. The team will develop a data-driven methodology to improve Lane Model accuracy by aligning it with VPD-derived lane centerlines using spatial filtering, densification, the Iterative Closest Point (ICP) algorithm, and Graph Neural Networks (GNN). A curated dataset of 14 manually reviewed tiles from the Munich region serves as ground truth. The goal is to deliver a proof-of-concept model that reduces spatial error to within 1.5 meters for 95% of cases. This project supports HERE’s real-time mapping strategy and gives students hands-on experience in geospatial data science, algorithm development, and model evaluation.\nKeywords: geospatial data, vehicle perception data, map alignment, lane modeling, algorithm development, machine learning, reinforcement learning, computer vision\nWatch the team present this project at 25:04 in the session recording [here](https://uchicago.box.com/s/binrkcqw88u9k2qz8lq07efbnoia55nw).\nFaculty Advisor\n[Sanjay Boddhu, PhD Instructor; Capstone and Advisor, Head of UniMap Automation at HERE Technologies](https://datascience.uchicago.edu/people/sanjay-boddhu-phd)\nSanjay Boddhu, PhD\nSanjay Boddhu is the Head of AI/ML Engineering at HERE Technologies, a global leader in location data and platform services. He has over 15 years of experience in leading and mentoring diverse and distributed teams in developing state-of-the-art applications and solutions in the domains of Computer Vision, Image Processing, Natural Language Processing, Predictive Analytics, and Data Science Strategy/Modeling. He holds a Ph.D. in Computer Science and Engineering from Wright State University and is a Senior Member of the IEEE.\nAt HERE, he is leading the UniMap Automation initiative, which leverages AI and machine learning to transform raw spatial and nonspatial data from various sources, such as imagery, probe data, car camera feeds, lidar, and IoT data, into an actionable, navigable digital map that is updated in near real-time. He is also responsible for designing and deploying algorithms at scale, managing product roadmaps and stakeholder engagements, and driving innovation and excellence in map automation and computer vision. His mission is to revolutionize how maps are created and maintained, and to enable new use cases and opportunities for autonomous and robotic mobility.",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[HERE Technologies | Vehicle Perception Data (VPD) and HERE Lane Model Alignment](https://datascience.uchicago.edu/research/here-technologies-vehicle-perception-data-vpd-and-here-lane-model-alignment)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "This project addresses spatial misalignment between Vehicle Perception Data (VPD) and HERE Technologies’ Lane Model to support the development of an AI-powered, high-accuracy live map. VPD, derived from vehicle-mounted sensors, offers fresh insights into road geometry, while the existing Lane Model may be outdated or misaligned. The team will develop a data-driven methodology to improve Lane Model accuracy by aligning it with VPD-derived lane centerlines using spatial filtering, densification, the Iterative Closest Point (ICP) algorithm, and Graph Neural Networks (GNN). A curated dataset of 14 manually reviewed tiles from the Munich region serves as ground truth. The goal is to deliver a proof-of-concept model that reduces spatial error to within 1.5 meters for 95% of cases. This project supports HERE’s real-time mapping strategy and gives students hands-on experience in geospatial data science, algorithm development, and model evaluation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keywords: geospatial data, vehicle perception data, map alignment, lane modeling, algorithm development, machine learning, reinforcement learning, computer vision"
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch the team present this project at 25:04 in the session recording [here](https://uchicago.box.com/s/binrkcqw88u9k2qz8lq07efbnoia55nw)."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Faculty Advisor"
+        },
+        {
+          "type": "list_item",
+          "text": "[Sanjay Boddhu, PhD Instructor; Capstone and Advisor, Head of UniMap Automation at HERE Technologies](https://datascience.uchicago.edu/people/sanjay-boddhu-phd)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Sanjay Boddhu, PhD"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sanjay Boddhu is the Head of AI/ML Engineering at HERE Technologies, a global leader in location data and platform services. He has over 15 years of experience in leading and mentoring diverse and distributed teams in developing state-of-the-art applications and solutions in the domains of Computer Vision, Image Processing, Natural Language Processing, Predictive Analytics, and Data Science Strategy/Modeling. He holds a Ph.D. in Computer Science and Engineering from Wright State University and is a Senior Member of the IEEE."
+        },
+        {
+          "type": "paragraph",
+          "text": "At HERE, he is leading the UniMap Automation initiative, which leverages AI and machine learning to transform raw spatial and nonspatial data from various sources, such as imagery, probe data, car camera feeds, lidar, and IoT data, into an actionable, navigable digital map that is updated in near real-time. He is also responsible for designing and deploying algorithms at scale, managing product roadmaps and stakeholder engagements, and driving innovation and excellence in map automation and computer vision. His mission is to revolutionize how maps are created and maintained, and to enable new use cases and opportunities for autonomous and robotic mobility."
+        }
+      ],
+      "text_markdown": "## [HERE Technologies | Vehicle Perception Data (VPD) and HERE Lane Model Alignment](https://datascience.uchicago.edu/research/here-technologies-vehicle-perception-data-vpd-and-here-lane-model-alignment)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nThis project addresses spatial misalignment between Vehicle Perception Data (VPD) and HERE Technologies’ Lane Model to support the development of an AI-powered, high-accuracy live map. VPD, derived from vehicle-mounted sensors, offers fresh insights into road geometry, while the existing Lane Model may be outdated or misaligned. The team will develop a data-driven methodology to improve Lane Model accuracy by aligning it with VPD-derived lane centerlines using spatial filtering, densification, the Iterative Closest Point (ICP) algorithm, and Graph Neural Networks (GNN). A curated dataset of 14 manually reviewed tiles from the Munich region serves as ground truth. The goal is to deliver a proof-of-concept model that reduces spatial error to within 1.5 meters for 95% of cases. This project supports HERE’s real-time mapping strategy and gives students hands-on experience in geospatial data science, algorithm development, and model evaluation.\nKeywords: geospatial data, vehicle perception data, map alignment, lane modeling, algorithm development, machine learning, reinforcement learning, computer vision\nWatch the team present this project at 25:04 in the session recording [here](https://uchicago.box.com/s/binrkcqw88u9k2qz8lq07efbnoia55nw).\n### Faculty Advisor\n- [Sanjay Boddhu, PhD Instructor; Capstone and Advisor, Head of UniMap Automation at HERE Technologies](https://datascience.uchicago.edu/people/sanjay-boddhu-phd)\n# Sanjay Boddhu, PhD\nSanjay Boddhu is the Head of AI/ML Engineering at HERE Technologies, a global leader in location data and platform services. He has over 15 years of experience in leading and mentoring diverse and distributed teams in developing state-of-the-art applications and solutions in the domains of Computer Vision, Image Processing, Natural Language Processing, Predictive Analytics, and Data Science Strategy/Modeling. He holds a Ph.D. in Computer Science and Engineering from Wright State University and is a Senior Member of the IEEE.\nAt HERE, he is leading the UniMap Automation initiative, which leverages AI and machine learning to transform raw spatial and nonspatial data from various sources, such as imagery, probe data, car camera feeds, lidar, and IoT data, into an actionable, navigable digital map that is updated in near real-time. He is also responsible for designing and deploying algorithms at scale, managing product roadmaps and stakeholder engagements, and driving innovation and excellence in map automation and computer vision. His mission is to revolutionize how maps are created and maintained, and to enable new use cases and opportunities for autonomous and robotic mobility."
+    }
+  ]
+}

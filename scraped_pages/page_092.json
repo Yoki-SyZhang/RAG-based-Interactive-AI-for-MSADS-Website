@@ -1,0 +1,85 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/automated-prostate-cancer-detection-using-mri-and-deep-learning",
+  "page_title": "Automated Prostate Cancer Detection Using MRI and Deep Learning | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Automated Prostate Cancer Detection Using Mri And Deep Learning",
+      "href": "https://datascience.uchicago.edu/research/automated-prostate-cancer-detection-using-mri-and-deep-learning"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:30.846444+00:00",
+  "all_text_markdown": "Automated Prostate Cancer Detection Using MRI and Deep Learning\n[Automated Prostate Cancer Detection Using MRI and Deep Learning](https://datascience.uchicago.edu/research/automated-prostate-cancer-detection-using-mri-and-deep-learning)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nThere is a critical need for new methods for the screening and diagnosis of prostate cancer. Using conventional MRI, around 15 to 30 percent of clinically-significant cancers are missed, even by expert radiologists. The application of computer-aided detection and artificial intelligence tools to multi-parametric MRI shows promise in aiding radiologists in prostate cancer diagnosis, but low specificity and high false positive rates remain a concern. This project will assess whether the combination of deep learning methods and data from hybrid multi-dimensional MRI (HM-MRI) — a non-invasive technique developed by UChicago radiologists that provides tissue composition measures similar to the gold standard of pathology — can improve the diagnostic accuracy of detecting prostate cancer.\nPrincipal Investigators: Aritrick Chatterjee (Research Associate Professor, Radiology), Aytekin Oto (Professor, Radiology), Michael Maire (Associate Professor, Computer Science)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Automated Prostate Cancer Detection Using MRI and Deep Learning](https://datascience.uchicago.edu/research/automated-prostate-cancer-detection-using-mri-and-deep-learning)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "There is a critical need for new methods for the screening and diagnosis of prostate cancer. Using conventional MRI, around 15 to 30 percent of clinically-significant cancers are missed, even by expert radiologists. The application of computer-aided detection and artificial intelligence tools to multi-parametric MRI shows promise in aiding radiologists in prostate cancer diagnosis, but low specificity and high false positive rates remain a concern. This project will assess whether the combination of deep learning methods and data from hybrid multi-dimensional MRI (HM-MRI) — a non-invasive technique developed by UChicago radiologists that provides tissue composition measures similar to the gold standard of pathology — can improve the diagnostic accuracy of detecting prostate cancer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Aritrick Chatterjee (Research Associate Professor, Radiology), Aytekin Oto (Professor, Radiology), Michael Maire (Associate Professor, Computer Science)"
+        }
+      ],
+      "text_markdown": "## [Automated Prostate Cancer Detection Using MRI and Deep Learning](https://datascience.uchicago.edu/research/automated-prostate-cancer-detection-using-mri-and-deep-learning)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nThere is a critical need for new methods for the screening and diagnosis of prostate cancer. Using conventional MRI, around 15 to 30 percent of clinically-significant cancers are missed, even by expert radiologists. The application of computer-aided detection and artificial intelligence tools to multi-parametric MRI shows promise in aiding radiologists in prostate cancer diagnosis, but low specificity and high false positive rates remain a concern. This project will assess whether the combination of deep learning methods and data from hybrid multi-dimensional MRI (HM-MRI) — a non-invasive technique developed by UChicago radiologists that provides tissue composition measures similar to the gold standard of pathology — can improve the diagnostic accuracy of detecting prostate cancer.\nPrincipal Investigators: Aritrick Chatterjee (Research Associate Professor, Radiology), Aytekin Oto (Professor, Radiology), Michael Maire (Associate Professor, Computer Science)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

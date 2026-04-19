@@ -1,0 +1,104 @@
+{
+  "page_url": "https://datascience.uchicago.edu/outreach",
+  "page_title": "Outreach | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Outreach",
+      "href": "https://datascience.uchicago.edu/outreach"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:38.158589+00:00",
+  "all_text_markdown": "Programs that use data science to lead, innovate and engage with our Chicago neighbors, industry, and social impact organizations, while building an equitable and inclusive academic data science community.\nIndustry Partnerships\nConnecting industry partners to groundbreaking data science research, emerging technologies, and talent acquisition opportunities at UChicago.\n11th Hour Project Software and Data Hub\nSoftware and data science support for grantees of the 11th Hour Project, which serves nonprofits in energy, food and agriculture, human rights, and marine technology.\nCommunity Data Fellows\nPairing students with local community organizations to leverage data and technology in service of their mission.\nPreceptors in Data Science\nA partnership between the University of Chicago and City Colleges of Chicago to train the next generation of data science educators.\nData Science for Social Impact\nA consortium of diverse higher education partners, including minority-serving institutions, to broaden STEM participation and amplify social impact through data science.",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Programs that use data science to lead, innovate and engage with our Chicago neighbors, industry, and social impact organizations, while building an equitable and inclusive academic data science community."
+        }
+      ],
+      "text_markdown": "Programs that use data science to lead, innovate and engage with our Chicago neighbors, industry, and social impact organizations, while building an equitable and inclusive academic data science community."
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Industry Partnerships"
+        },
+        {
+          "type": "paragraph",
+          "text": "Connecting industry partners to groundbreaking data science research, emerging technologies, and talent acquisition opportunities at UChicago."
+        }
+      ],
+      "text_markdown": "## Industry Partnerships\nConnecting industry partners to groundbreaking data science research, emerging technologies, and talent acquisition opportunities at UChicago."
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "11th Hour Project Software and Data Hub"
+        },
+        {
+          "type": "paragraph",
+          "text": "Software and data science support for grantees of the 11th Hour Project, which serves nonprofits in energy, food and agriculture, human rights, and marine technology."
+        }
+      ],
+      "text_markdown": "## 11th Hour Project Software and Data Hub\nSoftware and data science support for grantees of the 11th Hour Project, which serves nonprofits in energy, food and agriculture, human rights, and marine technology."
+    },
+    {
+      "section_index": 3,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Community Data Fellows"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pairing students with local community organizations to leverage data and technology in service of their mission."
+        }
+      ],
+      "text_markdown": "## Community Data Fellows\nPairing students with local community organizations to leverage data and technology in service of their mission."
+    },
+    {
+      "section_index": 4,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Preceptors in Data Science"
+        },
+        {
+          "type": "paragraph",
+          "text": "A partnership between the University of Chicago and City Colleges of Chicago to train the next generation of data science educators."
+        }
+      ],
+      "text_markdown": "## Preceptors in Data Science\nA partnership between the University of Chicago and City Colleges of Chicago to train the next generation of data science educators."
+    },
+    {
+      "section_index": 5,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Data Science for Social Impact"
+        },
+        {
+          "type": "paragraph",
+          "text": "A consortium of diverse higher education partners, including minority-serving institutions, to broaden STEM participation and amplify social impact through data science."
+        }
+      ],
+      "text_markdown": "## Data Science for Social Impact\nA consortium of diverse higher education partners, including minority-serving institutions, to broaden STEM participation and amplify social impact through data science."
+    }
+  ]
+}

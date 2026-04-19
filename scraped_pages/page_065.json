@@ -1,0 +1,106 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/a-data-processing-pipeline-for-police-communications",
+  "page_title": "A Data Processing Pipeline for Police Communications | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "A Data Processing Pipeline For Police Communications",
+      "href": "https://datascience.uchicago.edu/research/a-data-processing-pipeline-for-police-communications"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:13.156623+00:00",
+  "all_text_markdown": "A Data Processing Pipeline for Police Communications\n[A Data Processing Pipeline for Police Communications](https://datascience.uchicago.edu/research/a-data-processing-pipeline-for-police-communications)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nThe procedural language law enforcement officers use to communicate with each other can help us understand the institutional, individual, and contextual factors driving the outcomes of policing incidents. Using a public archive of law enforcement radio communications in the City of Chicago (~45,000 hours of observation), the project will develop a data processing pipeline capable of transforming these broadcast communications into transcripts of discrete policing incidents. This novel data source will allow researchers to test the linguistic antecedents to adverse outcomes, such as uses of force, involving minority male youth.\nPrincipal Investigators: Margaret Beale Spencer (Marshall Field IV Professor, Urban Education), Karen Livescu (Professor, Toyota Technological Institute at Chicago)\nRelated News, Insights, and Past Events\nUChicago Undergrad Analyzes Machine Learning Models Used By CPD, Uncovers Lack of Transparency About Data Usage\nThe Language of Policing: Does It Say More Than We Think?\nMore Projects\nFacebook Messenger Chatbot for Surveys and Intervention Testing\nUnderstanding Divergent Interpretations of Political Information\nUnderstanding and Auditing Content Moderation Policies",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[A Data Processing Pipeline for Police Communications](https://datascience.uchicago.edu/research/a-data-processing-pipeline-for-police-communications)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The procedural language law enforcement officers use to communicate with each other can help us understand the institutional, individual, and contextual factors driving the outcomes of policing incidents. Using a public archive of law enforcement radio communications in the City of Chicago (~45,000 hours of observation), the project will develop a data processing pipeline capable of transforming these broadcast communications into transcripts of discrete policing incidents. This novel data source will allow researchers to test the linguistic antecedents to adverse outcomes, such as uses of force, involving minority male youth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Margaret Beale Spencer (Marshall Field IV Professor, Urban Education), Karen Livescu (Professor, Toyota Technological Institute at Chicago)"
+        }
+      ],
+      "text_markdown": "## [A Data Processing Pipeline for Police Communications](https://datascience.uchicago.edu/research/a-data-processing-pipeline-for-police-communications)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nThe procedural language law enforcement officers use to communicate with each other can help us understand the institutional, individual, and contextual factors driving the outcomes of policing incidents. Using a public archive of law enforcement radio communications in the City of Chicago (~45,000 hours of observation), the project will develop a data processing pipeline capable of transforming these broadcast communications into transcripts of discrete policing incidents. This novel data source will allow researchers to test the linguistic antecedents to adverse outcomes, such as uses of force, involving minority male youth.\nPrincipal Investigators: Margaret Beale Spencer (Marshall Field IV Professor, Urban Education), Karen Livescu (Professor, Toyota Technological Institute at Chicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "UChicago Undergrad Analyzes Machine Learning Models Used By CPD, Uncovers Lack of Transparency About Data Usage"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Language of Policing: Does It Say More Than We Think?"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## UChicago Undergrad Analyzes Machine Learning Models Used By CPD, Uncovers Lack of Transparency About Data Usage\n## The Language of Policing: Does It Say More Than We Think?"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Facebook Messenger Chatbot for Surveys and Intervention Testing"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Understanding Divergent Interpretations of Political Information"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Understanding and Auditing Content Moderation Policies"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Facebook Messenger Chatbot for Surveys and Intervention Testing\n## Understanding Divergent Interpretations of Political Information\n## Understanding and Auditing Content Moderation Policies"
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/aice-ai-for-climate",
+  "page_title": "AICE: AI for Climate | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Aice Ai For Climate",
+      "href": "https://datascience.uchicago.edu/research/aice-ai-for-climate"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:49.453371+00:00",
+  "all_text_markdown": "[AICE: AI for Climate](https://datascience.uchicago.edu/research/aice-ai-for-climate)\n[AICE Events](https://datascience.uchicago.edu/research/aice-ai-for-climate/aice-events)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nAICE: AI for Climate\nA joint initiative with:\nTo get involved in the AICE research community and receive updates about upcoming events and funding opportunities, please sign up for the[AICE email list](https://lists.uchicago.edu/web/info/aice).\nClimate change, particularly the exacerbation of extreme events, is among the most pressing challenges facing humanity and the scientific community. Effectively addressing climate change requires rapid advances in\nImproving prediction capabilities and understanding of climate physics\nDeveloping quantitative models for climate change’s socioeconomic impacts, and\nCreating new climate adaptation and mitigation strategies.\nThe AI for Climate Initiative (AICE) combines staggering innovations in AI with a rapid increase in data availability and fundamental domain knowledge to significantly advance the key thrusts of AICE in a highly synergistic and interdisciplinary manner. Close collaboration between different disciplines, such as climate science, computer science, economics, mathematics, physics, public health, social science, and statistics, is essential for innovating or properly adapting AI methods to develop novel tools, such as physics-informed predictive models, and trustworthy datasets for training or analysis.\nFrom developing foundation AI climate and weather models to large language models, AICE aims to synergize and support the UChicago, Argonne National Laboratory, and Toyota Technological Institute communities, as well as external partners, to transform climate research. AICE complements, supports, and closely connects existing initiatives, most notably, the DSI’s[AI+Science Initiative](https://datascience.uchicago.edu/research/ai-science) (led by advisory board member Becca Willett), the Climate and Energy Institute, the[Climate Systems Engineering Initiative](https://climateengineering.uchicago.edu) (CSEi), the[Innovation Commission](https://innovationcommission.uchicago.edu) and[Development Innovation Lab](https://dil.uchicago.edu) (led by advisory board member Michael Kremer), and the[Trillion Parameter Consortium](https://tpc.dev) for AI+Science (Co-led by Co-PI Ian Foster).\nRead more about the initiative [here](https://datascience.uchicago.edu/insights/uchicagos-ai-for-climate-initiative-leads-new-approach-to-modeling-and-understanding-earth-system)\nJob opportunities:\nWe’re currently inviting applicants for postdoctoral fellow and research scientist positions to work at the intersection of AI and human-centered weather forecasting. More information [here](https://humancenteredforecasts.climate.uchicago.edu/opportunities/postdoc-research-scientist-ai-weather-forecasting)\nRelated Projects\n[Forecasting the Onset of the Indian Monsoon](https://humancenteredforecasts.climate.uchicago.edu/forecasting-the-onset-of-the-indian-monsoon)\n[Training program to strengthen forecasting in low- and middle-income countries](https://humancenteredforecasts.climate.uchicago.edu/training-program-to-strengthen-forecast-in-low-and-middle-income-countries)\nRelated Initiatives\n[Human-Centered Weather Forecasts](https://climate.uchicago.edu/entities/human-centered-weather-forecasts)\nAICE Speaker Series\n[Baylor Fox-Kemper](https://datascience.uchicago.edu/events/aice-speaker-series-baylor-fox-kemper-brown-university) (April 29): Professor of Earth, Environmental, and Planetary Sciences, Brown University\n[Tapio Schneider](https://www.gps.caltech.edu/people/tapio-schneider) (May 27): Theodore Y. Wu Professor of Environmental Science and Engineering, Caltech\n[Past speakers](https://datascience.uchicago.edu/research/aice-ai-for-climate/aice-events)\nLeadership\n[Pedram Hassanzadeh Associate Professor, Geophysical Sciences; Member, Committee of Computational and Applied Mathematics; Faculty Director, AI for Climate](https://datascience.uchicago.edu/people/pedram-hassanzadeh)\nPedram Hassanzadeh\n[Jiwen Fan Deputy Division Director, Environmental Science Division, Argonne National Laboratory; UChicago CASE Senior Scientist Affiliate; Faculty Co-Director, AI for Climate](https://datascience.uchicago.edu/people/jiwen-fan)\nJiwen Fan\n[Ian Foster Arthur Holly Compton Distinguished Service Professor, Department of Computer Science; Distinguished Fellow, MCS Division, Argonne; Senior Scientist, MCS Division, Argonne; Faculty Co-Director, AI for Climate](https://datascience.uchicago.edu/people/ian-foster)\nIan Foster\n[Amir Jina Assistant Professor, Harris School of Public Policy; Senior Fellow, Energy Policy Institute of Chicago; Faculty Co-Director, AI for Climate](https://datascience.uchicago.edu/people/amir-jina)\nAmir Jina\n[Tiffany Shaw Professor, Geophysical Sciences; Faculty Director, AI for Climate](https://datascience.uchicago.edu/people/tiffany-shaw)\nTiffany Shaw\nI am an associate professor at the Department of Geophysical Sciences and [Committee of Computational and Applied Mathematics](https://cam.uchicago.edu). Before joining UChicago, I was a tenured associate professor at Rice University. I received my Ph.D. (geophysical turbulence) and M.A. (applied mathematics) from UC Berkeley in 2013 and was a Ziff Environmental Fellow at the Harvard University Center for the Environment and Department of Earth and Planetary Sciences from 2013 to 2016. I received a CAREER Award from NSF in 2021 and a Young Investigator Award from the Office of Naval Research in 2020.\nI lead the Climate Extremes Theory and Data (CeTD) group focused on integrating theory, simulations, observations, and machine learning techniques to understand the dynamics and future changes of extreme weather events in a changing climate.\n[Dr. Jiwen Fan](https://www.anl.gov/profile/jiwen-fan) is the Deputy Division Director and Senor Earth Scientist of the Environmental Science Division. She also holds a joint appointment as a senior scientist at University of Chicago. She is a Fellow of American Meteorological Society (AMS).\nDr. Fan’s research encompasses atmospheric chemistry and aerosols, cloud physics, convective systems, severe weather, aerosol-precipitation-climate interactions, land-atmosphere interactions, and human-earth system interactions. Her primary foci in recent years include the impacts of environmental (e.g., urbanization, anthropogenic aerosols, wildfires) and climate change on convective storms and weather hazards and model developments of cloud microphysics and aerosol-cloud interactions.\nPertaining to AICE, she has been working with data scientists to develop machine learning models for predicting precipitation and hail, analyzing observational data, and building ML emulators for complex cloud microphysical processes.\nDr. Ian Foster is Senior Scientist and Distinguished Fellow, and also director of the Data Science and Learning Division, at Argonne National Laboratory, and the Arthur Holly Compton Distinguished Service Professor of Computer Science at the University of Chicago. Ian received a BSc degree from the University of Canterbury, New Zealand, and a PhD from Imperial College, United Kingdom, both in computer science. His research deals with distributed, parallel, and data-intensive computing technologies, and innovative applications of those technologies to scientific problems in such domains as materials science, climate change, and biomedicine. Foster is a fellow of the AAAS, ACM, BCS, and IEEE, and an Office of Science Distinguished Scientists Fellow.\nIn his research, he seeks to develop tools and techniques that allow people to use high-performance computing technologies to do qualitatively new things. This involves investigations of parallel and distributed languages, algorithms, and communication; and also focused work on applications. He is particularly interested in using high-performance networking to incorporate remote compute and information resources into local computational environments.\n[Amir Jina](https://www.amirjina.com) is an Assistant Professor at Harris Public Policy. Amir’s research focuses on the role of the environment in shaping how societies develop. This research combines economics with methods from climate science and remote sensing to understand the impacts of climate, and has involved fieldwork on climate change adaptation with communities in India, Bangladesh, Kenya, and Uganda.\nAmir is a founding member of the Climate Impact Lab – researching the socioeconomic impacts of climate change around the world – and scientific advisor to the Innovation Commission on Climate Change, Food Security, and Agriculture – promoting the use of weather services for climate change adaptation in low-income countries\nAmir received a Ph.D. in Sustainable Development and M.A. in Climate and Society both from Columbia University, B.A.s in Mathematics and Theoretical Physics from Trinity College, Dublin, and previously worked with the Red Cross/Red Crescent in South Asia.\n[Prof. Shaw](https://geosci.uchicago.edu/~tas1)’s research focuses on the physics of the atmosphere and climate system past, present and future. She seeks to understand the underlying mechanisms controlling the response to climate changes so that we can have greater confidence in future projections. Her approach combines theory (primarily conservation laws), numerical modeling across a hierarchy of complexity and observational data analysis. Prof. Shaw is excited to take advantage of AI/ML tools for increasing our understanding and prediction of the impacts of climate change. She is working to ensure these methods get the right answer for the right reasons.\nAdvisory Board\n[Michael Kremer University Professor, Economics and the College and the Harris School of Public Policy; Director, Development Innovation Lab; Faculty Director, Development Economics Center at the University of Chicago](https://datascience.uchicago.edu/people/michael-kremer)\nMichael Kremer\n[Noboru Nakamura Professor, Geophysical Sciences](https://datascience.uchicago.edu/people/noboru-nakamura)\nNoboru Nakamura\n[Robert Rosner William E. Wrather Distinguished Service Professor, Astronomy & Astrophysics and Physics, Enrico Fermi Institute, and Harris School of Public Policy](https://datascience.uchicago.edu/people/robert-rosner)\nRobert Rosner\n[Rick Stevens Associate Laboratory Director, Computing, Environment and Life Sciences, Argonne; Professor of Computer Science, University of Chicago](https://datascience.uchicago.edu/people/rick-stevens)\nRick Stevens\n[Rebecca Willett Faculty Director of AI, Data Science Institute; Worah Family Professor in the Wallman Society of Fellows, Department of Statistics, Computer Science, and the College](https://datascience.uchicago.edu/people/rebecca-willett)\nRebecca Willett\n[Michael Kremer](https://michaelkremer.economics.uchicago.edu) is the University Professor in the Kenneth C. Griffin Department of Economics. He directs the Development Innovation Lab at the University of Chicago and chairs the Innovation Commission for Climate Change, Food Security, and Agriculture. He is Scientific Director of USAID’s Development Innovation Ventures.\nKremer is the 2019 co-recipient of the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel. He is a Member of the National Academy of Sciences, a recipient of a MacArthur Fellowship and a Presidential Faculty Fellowship, and was named a Young Global Leader by the World Economic Forum.\nKremer’s work focuses on innovation, including in education, health, water, finance, and agriculture. He has also worked extensively on how to design institutions to accelerate innovation, including through Advance Market Commitments and open, tiered, evidence-based social innovation funds.\n[Robert Rosner](https://astro.uchicago.edu/people/robert-rosner.php) is a theoretical physicist, on the faculty of the University of Chicago since 1987, where he is the William E. Wrather Distinguished Service Professor in the departments of Astronomy & Astrophysics and Physics, as well as in the Enrico Fermi Institute and the University of Chicago Harris School of Public Policy. He served as Argonne National Laboratory’s Chief Scientist and Associate Laboratory Director for Physical, Biological and Computational Sciences (2002–2005), and was Argonne’s Laboratory Director from 2005 to 2009; he was the founding chair of the U.S. Department of Energy’s National Laboratory Directors’ Council (2007–2009). His degrees are all in physics (BA, Brandeis University; PhD, Harvard University). He was elected to the American Academy of Arts and Sciences in 2001, and to the Norwegian Academy of Science and Letters (as a Foreign Member) in 2004; he is also a Fellow of the American Physical Society. Most of his scientific work has been related to fluid dynamics and plasma physics problems, as well as in applied mathematics and computational physics, especially in the development of modern high-performance computer simulation tools, with a particular interest in complex systems (ranging from astrophysical systems to nuclear fission reactors). Within the past few years, he has been increasingly involved in energy technologies, and in the public policy issues that relate to the development and deployment of various energy production and consumption technologies, including especially nuclear energy, the electrification of transport, and energy use in urban environments. He is the founding director of the Energy Policy Institute at the University of Chicago (EPIC), located at the University of Chicago Harris School of Public Policy and Booth School of Business.\n[Rick Stevens](https://cs.uchicago.edu/people/rick-stevens) is the Associate Laboratory Director of the Computing, Environment and Life Sciences Directorate at Argonne National Laboratory, and a Professor of Computer Science at the University of Chicago, with significant responsibility in delivering on the U.S. national initiative for Exascale computing and developing the DOE initiative in Artificial Intelligence (AI) for Science.\nAt Argonne, he is leading the Laboratory’s AI for Science initiative and currently focusing on high-performance computing systems which includes leading a significant collaboration with Intel and Cray to launch Argonne’s first exascale computer, Aurora 21, which will pursue some of the farthest-reaching science and engineering breakthroughs ever achieved with supercomputing, as well as a partnership with Cerebras Systems to bring hardware on site to advance the massive deep learning experiments being pursued at Argonne for basic and applied science and medicine with supercompute-scale AI.\nProf. Stevens is a member of the American Association for the Advancement of Science and has received many national honors for his research, including an R&D 100 award.\nRebecca Willett is a Worah Family Professor in the Wallman Society of Fellows and the Departments of [Statistics](https://galton.uchicago.edu) and [Computer Science](https://www.cs.uchicago.edu) at the [University of Chicago](https://www.uchicago.edu). She completed her PhD in Electrical and Computer Engineering at [Rice University](http://www.dsp.rice.edu) in 2005 and was an Assistant then tenured Associate Professor of [Electrical and Computer Engineering at Duke University](https://ece.duke.edu) from 2005 to 2013. She was an Associate Professor of [Electrical and Computer Engineering](http://www.engr.wisc.edu/department/electrical-computer-engineering), Harvey D. Spangler Faculty Scholar, and Fellow of the [Wisconsin Institutes for Discovery](https://wid.wisc.edu) at the University of Wisconsin-Madison from 2013 to 2018. Prof. Willett received the [National Science Foundation CAREER Award](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5262) in 2007, was a member of the [DARPA Computer Science Study Group](https://cs2p.ida.org) 2007-2011, and received an [Air Force Office of Scientific Research Young Investigator Program](http://www.wpafb.af.mil/news/story.asp?id=123229259) award in 2010. Prof. Willett has also held visiting researcher positions at the [Institute for Pure and Applied Mathematics at UCLA](http://www.ipam.ucla.edu) in 2004, the [University of Wisconsin-Madison](http://www.ece.wisc.edu) 2003-2005, the [French National Institute for Research in Computer Science and Control (INRIA)](http://www-sop.inria.fr) in 2003, and the Applied Science Research and Development Laboratory at [GE Medical Systems](http://www.gemedicalsystems.com) (now GE Healthcare) in 2002. Her research interests include network and imaging science with applications in medical imaging, wireless sensor networks, astronomy, and social networks. She is also an instructor for [FEMMES](http://www.duke.edu/~are4/FEMMES07/Home.html) (Females Excelling More in Math Engineering and Science; news article [here](http://www.heraldsun.com/durham/4-821328.cfm)) and a local exhibit leader for [Sally Ride Festivals](http://www.sallyridefestivals.com). She was a recipient of the [National Science Foundation Graduate Research Fellowship](http://www.nsfgradfellows.org), the [Rice University Presidential Scholarship](http://graduate.rice.edu/presidentsfellows.aspx), the [Society of Women Engineers](http://www.swe.org)Caterpillar Scholarship, and the [Angier B. Duke Memorial Scholarship](http://www.abduke.org).\n[Homepage](https://voices.uchicago.edu/willett)\nStaff\nhttps://datascience.uchicago.edu/people/tiana-pyer-pereira-she-her[Tiana Pyer-Pereira](https://datascience.uchicago.edu/people/tiana-pyer-pereira-she-her)\nResearch Administrator, Willett Research Group\ntianap@uchicago.edu\nAffiliated Researchers\n[Adam Marchakitus Research Professional, Department of the Geophysical Sciences](https://datascience.uchicago.edu/people/adam-marchakitus)\nAdam Marchakitus\n[Bing Gong Research Scientist, Data Science Institute](https://datascience.uchicago.edu/people/bing-gong)\nBing Gong\n[Colin Aitken Postdoctoral Scholar, Development Innovation Lab](https://datascience.uchicago.edu/people/colin-aitken)\nColin Aitken\n[Jessica Wan Postdoctoral Research Associate, Climate Systems Engineering initiative](https://datascience.uchicago.edu/people/jessica-wan)\nJessica Wan\n[Justin Finkel Postdoctoral Scholar, Data Science Institute](https://datascience.uchicago.edu/people/justin-finkel)\nJustin Finkel\n[Katie Kowal Director, AI for Weather, AI For Climate Research Initiative](https://datascience.uchicago.edu/people/katie-kowal)\nKatie Kowal\n[Ozma Houck PhD student, Harris School of Public Policy](https://datascience.uchicago.edu/people/ozma-houck)\nOzma Houck\n[Rajat Masiwal Postdoctoral scholar, Department of Geophysical Sciences](https://datascience.uchicago.edu/people/rajat-masiwal)\nRajat Masiwal\nBing Gong is a research scientist at the Data Science Institute of the University of Chicago. Her research focuses on developing state-of-the-art, scalable deep learning neural networks in weather prediction applications. Prior to joining the University of Chicago, Bing Gong held a position as an assistant professor at Shanghai Normal University in China and was a postdoctoral researcher at the Jülich Supercomputing Center in Germany. She obtained her Ph.D. in the field of artificial intelligence in the application of environmental science and energy from the Technical University of Madrid, Spain, in July 2017.\nResearch focus: Deep learning for Earth Systems, weather prediction\nColin Aitken is a Postdoctoral Scholar at the Development Innovation Lab, working on projects related to safe water, weather, innovation policy, and education. His other research interests include econometrics, meta-science, and homotopy theory. He received his PhD in Mathematics from the University of Chicago in 2023.\nJessica Wan is a Postdoctoral Research Associate in the Climate Systems Engineering initiative at The University of Chicago. Her research aims to understand how climate engineering proposals might reduce regional climate impacts by combining interdisciplinary analysis frameworks and modeling tools ranging from global climate models to AI emulators.\nPrior to joining UChicago, Jessica received her Ph.D. in Earth Sciences from Scripps Institution of Oceanography at the University of California San Diego where her work focused on modeling the effects to regional marine cloud brightening. While completing her graduate degree, Jessica was a National Defense Science and Engineering Graduate fellow and an Achievement Rewards for College Scientists scholar. She also holds a B.S. in Environment & Sustainability from Cornell University.\nKatie Kowal is the Director of AI for Weather at the Data Science Institute, working closely with the Climate Extremes Theory and Data (CeTD) group led by Professor Pedram Hassanzadeh in the Geophysical Sciences Department and the [Human Centered Weather Forecasts Initiative](https://humancenteredforecasts.climate.uchicago.edu/about) (HCWF). She manages large interdisciplinary projects, conducts research on AI forecasts at weather and subseasonal timescales, and supports strategic planning across multiple initiatives. As part of HCWF, she coordinates research and operational teams to help bridge the gap between AI advances in weather and subseasonal-to-seasonal forecasting and their practical usefulness for decision-makers in low- and middle- income countries. Previously, as the Weather Forecast Lead for the [Human Centered Weather Forecasts Initiative Indian Monsoon Onset project](https://humancenteredforecasts.climate.uchicago.edu/forecasting-the-onset-of-the-indian-monsoon), she managed the operational deployment of the Indian monsoon onset forecasts in 2025 and led curriculum development for [AIM for Scale’s first AI weather training program](https://humancenteredforecasts.climate.uchicago.edu/training-program-to-strengthen-forecast-in-low-and-middle-income-countries).\nPrior to coming to the University of Chicago, she was a scientist at the National Oceanic and Atmospheric Administration (NOAA) Climate Prediction Center International Desk, supporting multiple national meteorological services in Latin America and the Pacific Islands with operational forecasts, training, and research on improving subseasonal to seasonal forecasts. Katie holds a DPhil in Hydrology and an MSc in Environmental Change and Management from the University of Oxford as a Rhodes Scholar and a BA in Physics and Political Science from Lewis & Clark College. Earlier in her career, she was a science policy fellow at the Science and Technology Policy Institute, supporting the White House Office of Science and Technology Policy to develop national policy on regulating nuclear space launch approvals and improving critical infrastructure resilience to extreme events including space weather.\nOzma Houck is a PhD Student at the Harris School of Public Policy. Ozma’s research focuses on understanding how innovations in weather forecasting can be used to increase climate adaptation and accelerate the transition to renewable energy. Her work leverages traditional economic methods alongside tools from climate science and machine learning to study the socioeconomic impacts of climate and weather. Ozma received B.A.s in Mathematics and Economics from Carleton College. She previously worked as a research professional at the Booth School of Business.\nRajat Masiwal is a postdoctoral scholar in the Department of Geophysical Sciences at the University of Chicago. His research focuses on improving sub-seasonal forecasts by integrating artificial intelligence with dynamical models. He earned his Ph.D. from the Indian Institute of Science, Bangalore, where he investigated the dynamics of the Indian monsoon using observations, theory, and idealized modeling.\nHis broader interests include understanding climate system processes through a hierarchy of models, combining physics-based approaches with emerging AI techniques. Additionally he maintains an active interest in the meteorology of renewable energy resources, such as wind and solar, and how better forecasting of these can support a transition to a decarbonized electricity grid\nRelated News, Insights, and Past Events\nAICE Speaker Series: Daniel C Reuman (University of Kansas)\nAICE Speaker Series: Colm-cille P. Caulfield (Cambridge)\nAICE Speaker Series: Libby Barnes (Boston University)\nNature Highlights Research on AI for Extreme Weather Forecasting\nAICE Speaker Series: V. Balaji (Schmidt Sciences)\nWeather Forecasting Training Program Bringing the Power of AI to Low- and Middle-Income Countries\nAICE Speaker Series: Pierre Gentine (Columbia)\nA Bet Worth Placing: Computing and Data Science at UChicago\nUChicago’s AI for Climate Initiative Leads New Approach to Modeling and Understanding Earth System\n2025 Research Day Highlights Growth with Global Impact",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[AICE: AI for Climate](https://datascience.uchicago.edu/research/aice-ai-for-climate)"
+        },
+        {
+          "type": "list_item",
+          "text": "[AICE Events](https://datascience.uchicago.edu/research/aice-ai-for-climate/aice-events)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "AICE: AI for Climate"
+        },
+        {
+          "type": "paragraph",
+          "text": "A joint initiative with:"
+        },
+        {
+          "type": "paragraph",
+          "text": "To get involved in the AICE research community and receive updates about upcoming events and funding opportunities, please sign up for the[AICE email list](https://lists.uchicago.edu/web/info/aice)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Climate change, particularly the exacerbation of extreme events, is among the most pressing challenges facing humanity and the scientific community. Effectively addressing climate change requires rapid advances in"
+        },
+        {
+          "type": "list_item",
+          "text": "Improving prediction capabilities and understanding of climate physics"
+        },
+        {
+          "type": "list_item",
+          "text": "Developing quantitative models for climate change’s socioeconomic impacts, and"
+        },
+        {
+          "type": "list_item",
+          "text": "Creating new climate adaptation and mitigation strategies."
+        },
+        {
+          "type": "paragraph",
+          "text": "The AI for Climate Initiative (AICE) combines staggering innovations in AI with a rapid increase in data availability and fundamental domain knowledge to significantly advance the key thrusts of AICE in a highly synergistic and interdisciplinary manner. Close collaboration between different disciplines, such as climate science, computer science, economics, mathematics, physics, public health, social science, and statistics, is essential for innovating or properly adapting AI methods to develop novel tools, such as physics-informed predictive models, and trustworthy datasets for training or analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "From developing foundation AI climate and weather models to large language models, AICE aims to synergize and support the UChicago, Argonne National Laboratory, and Toyota Technological Institute communities, as well as external partners, to transform climate research. AICE complements, supports, and closely connects existing initiatives, most notably, the DSI’s[AI+Science Initiative](https://datascience.uchicago.edu/research/ai-science) (led by advisory board member Becca Willett), the Climate and Energy Institute, the[Climate Systems Engineering Initiative](https://climateengineering.uchicago.edu) (CSEi), the[Innovation Commission](https://innovationcommission.uchicago.edu) and[Development Innovation Lab](https://dil.uchicago.edu) (led by advisory board member Michael Kremer), and the[Trillion Parameter Consortium](https://tpc.dev) for AI+Science (Co-led by Co-PI Ian Foster)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read more about the initiative [here](https://datascience.uchicago.edu/insights/uchicagos-ai-for-climate-initiative-leads-new-approach-to-modeling-and-understanding-earth-system)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Job opportunities:"
+        },
+        {
+          "type": "paragraph",
+          "text": "We’re currently inviting applicants for postdoctoral fellow and research scientist positions to work at the intersection of AI and human-centered weather forecasting. More information [here](https://humancenteredforecasts.climate.uchicago.edu/opportunities/postdoc-research-scientist-ai-weather-forecasting)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Related Projects"
+        },
+        {
+          "type": "list_item",
+          "text": "[Forecasting the Onset of the Indian Monsoon](https://humancenteredforecasts.climate.uchicago.edu/forecasting-the-onset-of-the-indian-monsoon)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Training program to strengthen forecasting in low- and middle-income countries](https://humancenteredforecasts.climate.uchicago.edu/training-program-to-strengthen-forecast-in-low-and-middle-income-countries)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Related Initiatives"
+        },
+        {
+          "type": "list_item",
+          "text": "[Human-Centered Weather Forecasts](https://climate.uchicago.edu/entities/human-centered-weather-forecasts)"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AICE Speaker Series"
+        },
+        {
+          "type": "paragraph",
+          "text": "[Baylor Fox-Kemper](https://datascience.uchicago.edu/events/aice-speaker-series-baylor-fox-kemper-brown-university) (April 29): Professor of Earth, Environmental, and Planetary Sciences, Brown University"
+        },
+        {
+          "type": "paragraph",
+          "text": "[Tapio Schneider](https://www.gps.caltech.edu/people/tapio-schneider) (May 27): Theodore Y. Wu Professor of Environmental Science and Engineering, Caltech"
+        },
+        {
+          "type": "paragraph",
+          "text": "[Past speakers](https://datascience.uchicago.edu/research/aice-ai-for-climate/aice-events)"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Leadership"
+        },
+        {
+          "type": "list_item",
+          "text": "[Pedram Hassanzadeh Associate Professor, Geophysical Sciences; Member, Committee of Computational and Applied Mathematics; Faculty Director, AI for Climate](https://datascience.uchicago.edu/people/pedram-hassanzadeh)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Pedram Hassanzadeh"
+        },
+        {
+          "type": "list_item",
+          "text": "[Jiwen Fan Deputy Division Director, Environmental Science Division, Argonne National Laboratory; UChicago CASE Senior Scientist Affiliate; Faculty Co-Director, AI for Climate](https://datascience.uchicago.edu/people/jiwen-fan)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Jiwen Fan"
+        },
+        {
+          "type": "list_item",
+          "text": "[Ian Foster Arthur Holly Compton Distinguished Service Professor, Department of Computer Science; Distinguished Fellow, MCS Division, Argonne; Senior Scientist, MCS Division, Argonne; Faculty Co-Director, AI for Climate](https://datascience.uchicago.edu/people/ian-foster)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Ian Foster"
+        },
+        {
+          "type": "list_item",
+          "text": "[Amir Jina Assistant Professor, Harris School of Public Policy; Senior Fellow, Energy Policy Institute of Chicago; Faculty Co-Director, AI for Climate](https://datascience.uchicago.edu/people/amir-jina)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Amir Jina"
+        },
+        {
+          "type": "list_item",
+          "text": "[Tiffany Shaw Professor, Geophysical Sciences; Faculty Director, AI for Climate](https://datascience.uchicago.edu/people/tiffany-shaw)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Tiffany Shaw"
+        },
+        {
+          "type": "paragraph",
+          "text": "I am an associate professor at the Department of Geophysical Sciences and [Committee of Computational and Applied Mathematics](https://cam.uchicago.edu). Before joining UChicago, I was a tenured associate professor at Rice University. I received my Ph.D. (geophysical turbulence) and M.A. (applied mathematics) from UC Berkeley in 2013 and was a Ziff Environmental Fellow at the Harvard University Center for the Environment and Department of Earth and Planetary Sciences from 2013 to 2016. I received a CAREER Award from NSF in 2021 and a Young Investigator Award from the Office of Naval Research in 2020."
+        },
+        {
+          "type": "paragraph",
+          "text": "I lead the Climate Extremes Theory and Data (CeTD) group focused on integrating theory, simulations, observations, and machine learning techniques to understand the dynamics and future changes of extreme weather events in a changing climate."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Dr. Jiwen Fan](https://www.anl.gov/profile/jiwen-fan) is the Deputy Division Director and Senor Earth Scientist of the Environmental Science Division. She also holds a joint appointment as a senior scientist at University of Chicago. She is a Fellow of American Meteorological Society (AMS)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dr. Fan’s research encompasses atmospheric chemistry and aerosols, cloud physics, convective systems, severe weather, aerosol-precipitation-climate interactions, land-atmosphere interactions, and human-earth system interactions. Her primary foci in recent years include the impacts of environmental (e.g., urbanization, anthropogenic aerosols, wildfires) and climate change on convective storms and weather hazards and model developments of cloud microphysics and aerosol-cloud interactions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pertaining to AICE, she has been working with data scientists to develop machine learning models for predicting precipitation and hail, analyzing observational data, and building ML emulators for complex cloud microphysical processes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dr. Ian Foster is Senior Scientist and Distinguished Fellow, and also director of the Data Science and Learning Division, at Argonne National Laboratory, and the Arthur Holly Compton Distinguished Service Professor of Computer Science at the University of Chicago. Ian received a BSc degree from the University of Canterbury, New Zealand, and a PhD from Imperial College, United Kingdom, both in computer science. His research deals with distributed, parallel, and data-intensive computing technologies, and innovative applications of those technologies to scientific problems in such domains as materials science, climate change, and biomedicine. Foster is a fellow of the AAAS, ACM, BCS, and IEEE, and an Office of Science Distinguished Scientists Fellow."
+        },
+        {
+          "type": "paragraph",
+          "text": "In his research, he seeks to develop tools and techniques that allow people to use high-performance computing technologies to do qualitatively new things. This involves investigations of parallel and distributed languages, algorithms, and communication; and also focused work on applications. He is particularly interested in using high-performance networking to incorporate remote compute and information resources into local computational environments."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Amir Jina](https://www.amirjina.com) is an Assistant Professor at Harris Public Policy. Amir’s research focuses on the role of the environment in shaping how societies develop. This research combines economics with methods from climate science and remote sensing to understand the impacts of climate, and has involved fieldwork on climate change adaptation with communities in India, Bangladesh, Kenya, and Uganda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amir is a founding member of the Climate Impact Lab – researching the socioeconomic impacts of climate change around the world – and scientific advisor to the Innovation Commission on Climate Change, Food Security, and Agriculture – promoting the use of weather services for climate change adaptation in low-income countries"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amir received a Ph.D. in Sustainable Development and M.A. in Climate and Society both from Columbia University, B.A.s in Mathematics and Theoretical Physics from Trinity College, Dublin, and previously worked with the Red Cross/Red Crescent in South Asia."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Prof. Shaw](https://geosci.uchicago.edu/~tas1)’s research focuses on the physics of the atmosphere and climate system past, present and future. She seeks to understand the underlying mechanisms controlling the response to climate changes so that we can have greater confidence in future projections. Her approach combines theory (primarily conservation laws), numerical modeling across a hierarchy of complexity and observational data analysis. Prof. Shaw is excited to take advantage of AI/ML tools for increasing our understanding and prediction of the impacts of climate change. She is working to ensure these methods get the right answer for the right reasons."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Advisory Board"
+        },
+        {
+          "type": "list_item",
+          "text": "[Michael Kremer University Professor, Economics and the College and the Harris School of Public Policy; Director, Development Innovation Lab; Faculty Director, Development Economics Center at the University of Chicago](https://datascience.uchicago.edu/people/michael-kremer)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Michael Kremer"
+        },
+        {
+          "type": "list_item",
+          "text": "[Noboru Nakamura Professor, Geophysical Sciences](https://datascience.uchicago.edu/people/noboru-nakamura)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Noboru Nakamura"
+        },
+        {
+          "type": "list_item",
+          "text": "[Robert Rosner William E. Wrather Distinguished Service Professor, Astronomy & Astrophysics and Physics, Enrico Fermi Institute, and Harris School of Public Policy](https://datascience.uchicago.edu/people/robert-rosner)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Robert Rosner"
+        },
+        {
+          "type": "list_item",
+          "text": "[Rick Stevens Associate Laboratory Director, Computing, Environment and Life Sciences, Argonne; Professor of Computer Science, University of Chicago](https://datascience.uchicago.edu/people/rick-stevens)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Rick Stevens"
+        },
+        {
+          "type": "list_item",
+          "text": "[Rebecca Willett Faculty Director of AI, Data Science Institute; Worah Family Professor in the Wallman Society of Fellows, Department of Statistics, Computer Science, and the College](https://datascience.uchicago.edu/people/rebecca-willett)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Rebecca Willett"
+        },
+        {
+          "type": "paragraph",
+          "text": "[Michael Kremer](https://michaelkremer.economics.uchicago.edu) is the University Professor in the Kenneth C. Griffin Department of Economics. He directs the Development Innovation Lab at the University of Chicago and chairs the Innovation Commission for Climate Change, Food Security, and Agriculture. He is Scientific Director of USAID’s Development Innovation Ventures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kremer is the 2019 co-recipient of the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel. He is a Member of the National Academy of Sciences, a recipient of a MacArthur Fellowship and a Presidential Faculty Fellowship, and was named a Young Global Leader by the World Economic Forum."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kremer’s work focuses on innovation, including in education, health, water, finance, and agriculture. He has also worked extensively on how to design institutions to accelerate innovation, including through Advance Market Commitments and open, tiered, evidence-based social innovation funds."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Robert Rosner](https://astro.uchicago.edu/people/robert-rosner.php) is a theoretical physicist, on the faculty of the University of Chicago since 1987, where he is the William E. Wrather Distinguished Service Professor in the departments of Astronomy & Astrophysics and Physics, as well as in the Enrico Fermi Institute and the University of Chicago Harris School of Public Policy. He served as Argonne National Laboratory’s Chief Scientist and Associate Laboratory Director for Physical, Biological and Computational Sciences (2002–2005), and was Argonne’s Laboratory Director from 2005 to 2009; he was the founding chair of the U.S. Department of Energy’s National Laboratory Directors’ Council (2007–2009). His degrees are all in physics (BA, Brandeis University; PhD, Harvard University). He was elected to the American Academy of Arts and Sciences in 2001, and to the Norwegian Academy of Science and Letters (as a Foreign Member) in 2004; he is also a Fellow of the American Physical Society. Most of his scientific work has been related to fluid dynamics and plasma physics problems, as well as in applied mathematics and computational physics, especially in the development of modern high-performance computer simulation tools, with a particular interest in complex systems (ranging from astrophysical systems to nuclear fission reactors). Within the past few years, he has been increasingly involved in energy technologies, and in the public policy issues that relate to the development and deployment of various energy production and consumption technologies, including especially nuclear energy, the electrification of transport, and energy use in urban environments. He is the founding director of the Energy Policy Institute at the University of Chicago (EPIC), located at the University of Chicago Harris School of Public Policy and Booth School of Business."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Rick Stevens](https://cs.uchicago.edu/people/rick-stevens) is the Associate Laboratory Director of the Computing, Environment and Life Sciences Directorate at Argonne National Laboratory, and a Professor of Computer Science at the University of Chicago, with significant responsibility in delivering on the U.S. national initiative for Exascale computing and developing the DOE initiative in Artificial Intelligence (AI) for Science."
+        },
+        {
+          "type": "paragraph",
+          "text": "At Argonne, he is leading the Laboratory’s AI for Science initiative and currently focusing on high-performance computing systems which includes leading a significant collaboration with Intel and Cray to launch Argonne’s first exascale computer, Aurora 21, which will pursue some of the farthest-reaching science and engineering breakthroughs ever achieved with supercomputing, as well as a partnership with Cerebras Systems to bring hardware on site to advance the massive deep learning experiments being pursued at Argonne for basic and applied science and medicine with supercompute-scale AI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prof. Stevens is a member of the American Association for the Advancement of Science and has received many national honors for his research, including an R&D 100 award."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rebecca Willett is a Worah Family Professor in the Wallman Society of Fellows and the Departments of [Statistics](https://galton.uchicago.edu) and [Computer Science](https://www.cs.uchicago.edu) at the [University of Chicago](https://www.uchicago.edu). She completed her PhD in Electrical and Computer Engineering at [Rice University](http://www.dsp.rice.edu) in 2005 and was an Assistant then tenured Associate Professor of [Electrical and Computer Engineering at Duke University](https://ece.duke.edu) from 2005 to 2013. She was an Associate Professor of [Electrical and Computer Engineering](http://www.engr.wisc.edu/department/electrical-computer-engineering), Harvey D. Spangler Faculty Scholar, and Fellow of the [Wisconsin Institutes for Discovery](https://wid.wisc.edu) at the University of Wisconsin-Madison from 2013 to 2018. Prof. Willett received the [National Science Foundation CAREER Award](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5262) in 2007, was a member of the [DARPA Computer Science Study Group](https://cs2p.ida.org) 2007-2011, and received an [Air Force Office of Scientific Research Young Investigator Program](http://www.wpafb.af.mil/news/story.asp?id=123229259) award in 2010. Prof. Willett has also held visiting researcher positions at the [Institute for Pure and Applied Mathematics at UCLA](http://www.ipam.ucla.edu) in 2004, the [University of Wisconsin-Madison](http://www.ece.wisc.edu) 2003-2005, the [French National Institute for Research in Computer Science and Control (INRIA)](http://www-sop.inria.fr) in 2003, and the Applied Science Research and Development Laboratory at [GE Medical Systems](http://www.gemedicalsystems.com) (now GE Healthcare) in 2002. Her research interests include network and imaging science with applications in medical imaging, wireless sensor networks, astronomy, and social networks. She is also an instructor for [FEMMES](http://www.duke.edu/~are4/FEMMES07/Home.html) (Females Excelling More in Math Engineering and Science; news article [here](http://www.heraldsun.com/durham/4-821328.cfm)) and a local exhibit leader for [Sally Ride Festivals](http://www.sallyridefestivals.com). She was a recipient of the [National Science Foundation Graduate Research Fellowship](http://www.nsfgradfellows.org), the [Rice University Presidential Scholarship](http://graduate.rice.edu/presidentsfellows.aspx), the [Society of Women Engineers](http://www.swe.org)Caterpillar Scholarship, and the [Angier B. Duke Memorial Scholarship](http://www.abduke.org)."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Homepage](https://voices.uchicago.edu/willett)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Staff"
+        },
+        {
+          "type": "paragraph",
+          "text": "https://datascience.uchicago.edu/people/tiana-pyer-pereira-she-her[Tiana Pyer-Pereira](https://datascience.uchicago.edu/people/tiana-pyer-pereira-she-her)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Research Administrator, Willett Research Group"
+        },
+        {
+          "type": "paragraph",
+          "text": "tianap@uchicago.edu"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Affiliated Researchers"
+        },
+        {
+          "type": "list_item",
+          "text": "[Adam Marchakitus Research Professional, Department of the Geophysical Sciences](https://datascience.uchicago.edu/people/adam-marchakitus)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Adam Marchakitus"
+        },
+        {
+          "type": "list_item",
+          "text": "[Bing Gong Research Scientist, Data Science Institute](https://datascience.uchicago.edu/people/bing-gong)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Bing Gong"
+        },
+        {
+          "type": "list_item",
+          "text": "[Colin Aitken Postdoctoral Scholar, Development Innovation Lab](https://datascience.uchicago.edu/people/colin-aitken)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Colin Aitken"
+        },
+        {
+          "type": "list_item",
+          "text": "[Jessica Wan Postdoctoral Research Associate, Climate Systems Engineering initiative](https://datascience.uchicago.edu/people/jessica-wan)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Jessica Wan"
+        },
+        {
+          "type": "list_item",
+          "text": "[Justin Finkel Postdoctoral Scholar, Data Science Institute](https://datascience.uchicago.edu/people/justin-finkel)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Justin Finkel"
+        },
+        {
+          "type": "list_item",
+          "text": "[Katie Kowal Director, AI for Weather, AI For Climate Research Initiative](https://datascience.uchicago.edu/people/katie-kowal)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Katie Kowal"
+        },
+        {
+          "type": "list_item",
+          "text": "[Ozma Houck PhD student, Harris School of Public Policy](https://datascience.uchicago.edu/people/ozma-houck)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Ozma Houck"
+        },
+        {
+          "type": "list_item",
+          "text": "[Rajat Masiwal Postdoctoral scholar, Department of Geophysical Sciences](https://datascience.uchicago.edu/people/rajat-masiwal)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Rajat Masiwal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bing Gong is a research scientist at the Data Science Institute of the University of Chicago. Her research focuses on developing state-of-the-art, scalable deep learning neural networks in weather prediction applications. Prior to joining the University of Chicago, Bing Gong held a position as an assistant professor at Shanghai Normal University in China and was a postdoctoral researcher at the Jülich Supercomputing Center in Germany. She obtained her Ph.D. in the field of artificial intelligence in the application of environmental science and energy from the Technical University of Madrid, Spain, in July 2017."
+        },
+        {
+          "type": "paragraph",
+          "text": "Research focus: Deep learning for Earth Systems, weather prediction"
+        },
+        {
+          "type": "paragraph",
+          "text": "Colin Aitken is a Postdoctoral Scholar at the Development Innovation Lab, working on projects related to safe water, weather, innovation policy, and education. His other research interests include econometrics, meta-science, and homotopy theory. He received his PhD in Mathematics from the University of Chicago in 2023."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jessica Wan is a Postdoctoral Research Associate in the Climate Systems Engineering initiative at The University of Chicago. Her research aims to understand how climate engineering proposals might reduce regional climate impacts by combining interdisciplinary analysis frameworks and modeling tools ranging from global climate models to AI emulators."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prior to joining UChicago, Jessica received her Ph.D. in Earth Sciences from Scripps Institution of Oceanography at the University of California San Diego where her work focused on modeling the effects to regional marine cloud brightening. While completing her graduate degree, Jessica was a National Defense Science and Engineering Graduate fellow and an Achievement Rewards for College Scientists scholar. She also holds a B.S. in Environment & Sustainability from Cornell University."
+        },
+        {
+          "type": "paragraph",
+          "text": "Katie Kowal is the Director of AI for Weather at the Data Science Institute, working closely with the Climate Extremes Theory and Data (CeTD) group led by Professor Pedram Hassanzadeh in the Geophysical Sciences Department and the [Human Centered Weather Forecasts Initiative](https://humancenteredforecasts.climate.uchicago.edu/about) (HCWF). She manages large interdisciplinary projects, conducts research on AI forecasts at weather and subseasonal timescales, and supports strategic planning across multiple initiatives. As part of HCWF, she coordinates research and operational teams to help bridge the gap between AI advances in weather and subseasonal-to-seasonal forecasting and their practical usefulness for decision-makers in low- and middle- income countries. Previously, as the Weather Forecast Lead for the [Human Centered Weather Forecasts Initiative Indian Monsoon Onset project](https://humancenteredforecasts.climate.uchicago.edu/forecasting-the-onset-of-the-indian-monsoon), she managed the operational deployment of the Indian monsoon onset forecasts in 2025 and led curriculum development for [AIM for Scale’s first AI weather training program](https://humancenteredforecasts.climate.uchicago.edu/training-program-to-strengthen-forecast-in-low-and-middle-income-countries)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prior to coming to the University of Chicago, she was a scientist at the National Oceanic and Atmospheric Administration (NOAA) Climate Prediction Center International Desk, supporting multiple national meteorological services in Latin America and the Pacific Islands with operational forecasts, training, and research on improving subseasonal to seasonal forecasts. Katie holds a DPhil in Hydrology and an MSc in Environmental Change and Management from the University of Oxford as a Rhodes Scholar and a BA in Physics and Political Science from Lewis & Clark College. Earlier in her career, she was a science policy fellow at the Science and Technology Policy Institute, supporting the White House Office of Science and Technology Policy to develop national policy on regulating nuclear space launch approvals and improving critical infrastructure resilience to extreme events including space weather."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ozma Houck is a PhD Student at the Harris School of Public Policy. Ozma’s research focuses on understanding how innovations in weather forecasting can be used to increase climate adaptation and accelerate the transition to renewable energy. Her work leverages traditional economic methods alongside tools from climate science and machine learning to study the socioeconomic impacts of climate and weather. Ozma received B.A.s in Mathematics and Economics from Carleton College. She previously worked as a research professional at the Booth School of Business."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rajat Masiwal is a postdoctoral scholar in the Department of Geophysical Sciences at the University of Chicago. His research focuses on improving sub-seasonal forecasts by integrating artificial intelligence with dynamical models. He earned his Ph.D. from the Indian Institute of Science, Bangalore, where he investigated the dynamics of the Indian monsoon using observations, theory, and idealized modeling."
+        },
+        {
+          "type": "paragraph",
+          "text": "His broader interests include understanding climate system processes through a hierarchy of models, combining physics-based approaches with emerging AI techniques. Additionally he maintains an active interest in the meteorology of renewable energy resources, such as wind and solar, and how better forecasting of these can support a transition to a decarbonized electricity grid"
+        }
+      ],
+      "text_markdown": "## [AICE: AI for Climate](https://datascience.uchicago.edu/research/aice-ai-for-climate)\n- [AICE Events](https://datascience.uchicago.edu/research/aice-ai-for-climate/aice-events)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\n# AICE: AI for Climate\nA joint initiative with:\nTo get involved in the AICE research community and receive updates about upcoming events and funding opportunities, please sign up for the[AICE email list](https://lists.uchicago.edu/web/info/aice).\nClimate change, particularly the exacerbation of extreme events, is among the most pressing challenges facing humanity and the scientific community. Effectively addressing climate change requires rapid advances in\n- Improving prediction capabilities and understanding of climate physics\n- Developing quantitative models for climate change’s socioeconomic impacts, and\n- Creating new climate adaptation and mitigation strategies.\nThe AI for Climate Initiative (AICE) combines staggering innovations in AI with a rapid increase in data availability and fundamental domain knowledge to significantly advance the key thrusts of AICE in a highly synergistic and interdisciplinary manner. Close collaboration between different disciplines, such as climate science, computer science, economics, mathematics, physics, public health, social science, and statistics, is essential for innovating or properly adapting AI methods to develop novel tools, such as physics-informed predictive models, and trustworthy datasets for training or analysis.\nFrom developing foundation AI climate and weather models to large language models, AICE aims to synergize and support the UChicago, Argonne National Laboratory, and Toyota Technological Institute communities, as well as external partners, to transform climate research. AICE complements, supports, and closely connects existing initiatives, most notably, the DSI’s[AI+Science Initiative](https://datascience.uchicago.edu/research/ai-science) (led by advisory board member Becca Willett), the Climate and Energy Institute, the[Climate Systems Engineering Initiative](https://climateengineering.uchicago.edu) (CSEi), the[Innovation Commission](https://innovationcommission.uchicago.edu) and[Development Innovation Lab](https://dil.uchicago.edu) (led by advisory board member Michael Kremer), and the[Trillion Parameter Consortium](https://tpc.dev) for AI+Science (Co-led by Co-PI Ian Foster).\nRead more about the initiative [here](https://datascience.uchicago.edu/insights/uchicagos-ai-for-climate-initiative-leads-new-approach-to-modeling-and-understanding-earth-system)\nJob opportunities:\nWe’re currently inviting applicants for postdoctoral fellow and research scientist positions to work at the intersection of AI and human-centered weather forecasting. More information [here](https://humancenteredforecasts.climate.uchicago.edu/opportunities/postdoc-research-scientist-ai-weather-forecasting)\nRelated Projects\n- [Forecasting the Onset of the Indian Monsoon](https://humancenteredforecasts.climate.uchicago.edu/forecasting-the-onset-of-the-indian-monsoon)\n- [Training program to strengthen forecasting in low- and middle-income countries](https://humancenteredforecasts.climate.uchicago.edu/training-program-to-strengthen-forecast-in-low-and-middle-income-countries)\nRelated Initiatives\n- [Human-Centered Weather Forecasts](https://climate.uchicago.edu/entities/human-centered-weather-forecasts)\n### AICE Speaker Series\n[Baylor Fox-Kemper](https://datascience.uchicago.edu/events/aice-speaker-series-baylor-fox-kemper-brown-university) (April 29): Professor of Earth, Environmental, and Planetary Sciences, Brown University\n[Tapio Schneider](https://www.gps.caltech.edu/people/tapio-schneider) (May 27): Theodore Y. Wu Professor of Environmental Science and Engineering, Caltech\n[Past speakers](https://datascience.uchicago.edu/research/aice-ai-for-climate/aice-events)\n### Leadership\n- [Pedram Hassanzadeh Associate Professor, Geophysical Sciences; Member, Committee of Computational and Applied Mathematics; Faculty Director, AI for Climate](https://datascience.uchicago.edu/people/pedram-hassanzadeh)\n# Pedram Hassanzadeh\n- [Jiwen Fan Deputy Division Director, Environmental Science Division, Argonne National Laboratory; UChicago CASE Senior Scientist Affiliate; Faculty Co-Director, AI for Climate](https://datascience.uchicago.edu/people/jiwen-fan)\n# Jiwen Fan\n- [Ian Foster Arthur Holly Compton Distinguished Service Professor, Department of Computer Science; Distinguished Fellow, MCS Division, Argonne; Senior Scientist, MCS Division, Argonne; Faculty Co-Director, AI for Climate](https://datascience.uchicago.edu/people/ian-foster)\n# Ian Foster\n- [Amir Jina Assistant Professor, Harris School of Public Policy; Senior Fellow, Energy Policy Institute of Chicago; Faculty Co-Director, AI for Climate](https://datascience.uchicago.edu/people/amir-jina)\n# Amir Jina\n- [Tiffany Shaw Professor, Geophysical Sciences; Faculty Director, AI for Climate](https://datascience.uchicago.edu/people/tiffany-shaw)\n# Tiffany Shaw\nI am an associate professor at the Department of Geophysical Sciences and [Committee of Computational and Applied Mathematics](https://cam.uchicago.edu). Before joining UChicago, I was a tenured associate professor at Rice University. I received my Ph.D. (geophysical turbulence) and M.A. (applied mathematics) from UC Berkeley in 2013 and was a Ziff Environmental Fellow at the Harvard University Center for the Environment and Department of Earth and Planetary Sciences from 2013 to 2016. I received a CAREER Award from NSF in 2021 and a Young Investigator Award from the Office of Naval Research in 2020.\nI lead the Climate Extremes Theory and Data (CeTD) group focused on integrating theory, simulations, observations, and machine learning techniques to understand the dynamics and future changes of extreme weather events in a changing climate.\n[Dr. Jiwen Fan](https://www.anl.gov/profile/jiwen-fan) is the Deputy Division Director and Senor Earth Scientist of the Environmental Science Division. She also holds a joint appointment as a senior scientist at University of Chicago. She is a Fellow of American Meteorological Society (AMS).\nDr. Fan’s research encompasses atmospheric chemistry and aerosols, cloud physics, convective systems, severe weather, aerosol-precipitation-climate interactions, land-atmosphere interactions, and human-earth system interactions. Her primary foci in recent years include the impacts of environmental (e.g., urbanization, anthropogenic aerosols, wildfires) and climate change on convective storms and weather hazards and model developments of cloud microphysics and aerosol-cloud interactions.\nPertaining to AICE, she has been working with data scientists to develop machine learning models for predicting precipitation and hail, analyzing observational data, and building ML emulators for complex cloud microphysical processes.\nDr. Ian Foster is Senior Scientist and Distinguished Fellow, and also director of the Data Science and Learning Division, at Argonne National Laboratory, and the Arthur Holly Compton Distinguished Service Professor of Computer Science at the University of Chicago. Ian received a BSc degree from the University of Canterbury, New Zealand, and a PhD from Imperial College, United Kingdom, both in computer science. His research deals with distributed, parallel, and data-intensive computing technologies, and innovative applications of those technologies to scientific problems in such domains as materials science, climate change, and biomedicine. Foster is a fellow of the AAAS, ACM, BCS, and IEEE, and an Office of Science Distinguished Scientists Fellow.\nIn his research, he seeks to develop tools and techniques that allow people to use high-performance computing technologies to do qualitatively new things. This involves investigations of parallel and distributed languages, algorithms, and communication; and also focused work on applications. He is particularly interested in using high-performance networking to incorporate remote compute and information resources into local computational environments.\n[Amir Jina](https://www.amirjina.com) is an Assistant Professor at Harris Public Policy. Amir’s research focuses on the role of the environment in shaping how societies develop. This research combines economics with methods from climate science and remote sensing to understand the impacts of climate, and has involved fieldwork on climate change adaptation with communities in India, Bangladesh, Kenya, and Uganda.\nAmir is a founding member of the Climate Impact Lab – researching the socioeconomic impacts of climate change around the world – and scientific advisor to the Innovation Commission on Climate Change, Food Security, and Agriculture – promoting the use of weather services for climate change adaptation in low-income countries\nAmir received a Ph.D. in Sustainable Development and M.A. in Climate and Society both from Columbia University, B.A.s in Mathematics and Theoretical Physics from Trinity College, Dublin, and previously worked with the Red Cross/Red Crescent in South Asia.\n[Prof. Shaw](https://geosci.uchicago.edu/~tas1)’s research focuses on the physics of the atmosphere and climate system past, present and future. She seeks to understand the underlying mechanisms controlling the response to climate changes so that we can have greater confidence in future projections. Her approach combines theory (primarily conservation laws), numerical modeling across a hierarchy of complexity and observational data analysis. Prof. Shaw is excited to take advantage of AI/ML tools for increasing our understanding and prediction of the impacts of climate change. She is working to ensure these methods get the right answer for the right reasons.\n### Advisory Board\n- [Michael Kremer University Professor, Economics and the College and the Harris School of Public Policy; Director, Development Innovation Lab; Faculty Director, Development Economics Center at the University of Chicago](https://datascience.uchicago.edu/people/michael-kremer)\n# Michael Kremer\n- [Noboru Nakamura Professor, Geophysical Sciences](https://datascience.uchicago.edu/people/noboru-nakamura)\n# Noboru Nakamura\n- [Robert Rosner William E. Wrather Distinguished Service Professor, Astronomy & Astrophysics and Physics, Enrico Fermi Institute, and Harris School of Public Policy](https://datascience.uchicago.edu/people/robert-rosner)\n# Robert Rosner\n- [Rick Stevens Associate Laboratory Director, Computing, Environment and Life Sciences, Argonne; Professor of Computer Science, University of Chicago](https://datascience.uchicago.edu/people/rick-stevens)\n# Rick Stevens\n- [Rebecca Willett Faculty Director of AI, Data Science Institute; Worah Family Professor in the Wallman Society of Fellows, Department of Statistics, Computer Science, and the College](https://datascience.uchicago.edu/people/rebecca-willett)\n# Rebecca Willett\n[Michael Kremer](https://michaelkremer.economics.uchicago.edu) is the University Professor in the Kenneth C. Griffin Department of Economics. He directs the Development Innovation Lab at the University of Chicago and chairs the Innovation Commission for Climate Change, Food Security, and Agriculture. He is Scientific Director of USAID’s Development Innovation Ventures.\nKremer is the 2019 co-recipient of the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel. He is a Member of the National Academy of Sciences, a recipient of a MacArthur Fellowship and a Presidential Faculty Fellowship, and was named a Young Global Leader by the World Economic Forum.\nKremer’s work focuses on innovation, including in education, health, water, finance, and agriculture. He has also worked extensively on how to design institutions to accelerate innovation, including through Advance Market Commitments and open, tiered, evidence-based social innovation funds.\n[Robert Rosner](https://astro.uchicago.edu/people/robert-rosner.php) is a theoretical physicist, on the faculty of the University of Chicago since 1987, where he is the William E. Wrather Distinguished Service Professor in the departments of Astronomy & Astrophysics and Physics, as well as in the Enrico Fermi Institute and the University of Chicago Harris School of Public Policy. He served as Argonne National Laboratory’s Chief Scientist and Associate Laboratory Director for Physical, Biological and Computational Sciences (2002–2005), and was Argonne’s Laboratory Director from 2005 to 2009; he was the founding chair of the U.S. Department of Energy’s National Laboratory Directors’ Council (2007–2009). His degrees are all in physics (BA, Brandeis University; PhD, Harvard University). He was elected to the American Academy of Arts and Sciences in 2001, and to the Norwegian Academy of Science and Letters (as a Foreign Member) in 2004; he is also a Fellow of the American Physical Society. Most of his scientific work has been related to fluid dynamics and plasma physics problems, as well as in applied mathematics and computational physics, especially in the development of modern high-performance computer simulation tools, with a particular interest in complex systems (ranging from astrophysical systems to nuclear fission reactors). Within the past few years, he has been increasingly involved in energy technologies, and in the public policy issues that relate to the development and deployment of various energy production and consumption technologies, including especially nuclear energy, the electrification of transport, and energy use in urban environments. He is the founding director of the Energy Policy Institute at the University of Chicago (EPIC), located at the University of Chicago Harris School of Public Policy and Booth School of Business.\n[Rick Stevens](https://cs.uchicago.edu/people/rick-stevens) is the Associate Laboratory Director of the Computing, Environment and Life Sciences Directorate at Argonne National Laboratory, and a Professor of Computer Science at the University of Chicago, with significant responsibility in delivering on the U.S. national initiative for Exascale computing and developing the DOE initiative in Artificial Intelligence (AI) for Science.\nAt Argonne, he is leading the Laboratory’s AI for Science initiative and currently focusing on high-performance computing systems which includes leading a significant collaboration with Intel and Cray to launch Argonne’s first exascale computer, Aurora 21, which will pursue some of the farthest-reaching science and engineering breakthroughs ever achieved with supercomputing, as well as a partnership with Cerebras Systems to bring hardware on site to advance the massive deep learning experiments being pursued at Argonne for basic and applied science and medicine with supercompute-scale AI.\nProf. Stevens is a member of the American Association for the Advancement of Science and has received many national honors for his research, including an R&D 100 award.\nRebecca Willett is a Worah Family Professor in the Wallman Society of Fellows and the Departments of [Statistics](https://galton.uchicago.edu) and [Computer Science](https://www.cs.uchicago.edu) at the [University of Chicago](https://www.uchicago.edu). She completed her PhD in Electrical and Computer Engineering at [Rice University](http://www.dsp.rice.edu) in 2005 and was an Assistant then tenured Associate Professor of [Electrical and Computer Engineering at Duke University](https://ece.duke.edu) from 2005 to 2013. She was an Associate Professor of [Electrical and Computer Engineering](http://www.engr.wisc.edu/department/electrical-computer-engineering), Harvey D. Spangler Faculty Scholar, and Fellow of the [Wisconsin Institutes for Discovery](https://wid.wisc.edu) at the University of Wisconsin-Madison from 2013 to 2018. Prof. Willett received the [National Science Foundation CAREER Award](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5262) in 2007, was a member of the [DARPA Computer Science Study Group](https://cs2p.ida.org) 2007-2011, and received an [Air Force Office of Scientific Research Young Investigator Program](http://www.wpafb.af.mil/news/story.asp?id=123229259) award in 2010. Prof. Willett has also held visiting researcher positions at the [Institute for Pure and Applied Mathematics at UCLA](http://www.ipam.ucla.edu) in 2004, the [University of Wisconsin-Madison](http://www.ece.wisc.edu) 2003-2005, the [French National Institute for Research in Computer Science and Control (INRIA)](http://www-sop.inria.fr) in 2003, and the Applied Science Research and Development Laboratory at [GE Medical Systems](http://www.gemedicalsystems.com) (now GE Healthcare) in 2002. Her research interests include network and imaging science with applications in medical imaging, wireless sensor networks, astronomy, and social networks. She is also an instructor for [FEMMES](http://www.duke.edu/~are4/FEMMES07/Home.html) (Females Excelling More in Math Engineering and Science; news article [here](http://www.heraldsun.com/durham/4-821328.cfm)) and a local exhibit leader for [Sally Ride Festivals](http://www.sallyridefestivals.com). She was a recipient of the [National Science Foundation Graduate Research Fellowship](http://www.nsfgradfellows.org), the [Rice University Presidential Scholarship](http://graduate.rice.edu/presidentsfellows.aspx), the [Society of Women Engineers](http://www.swe.org)Caterpillar Scholarship, and the [Angier B. Duke Memorial Scholarship](http://www.abduke.org).\n[Homepage](https://voices.uchicago.edu/willett)\n## Staff\nhttps://datascience.uchicago.edu/people/tiana-pyer-pereira-she-her[Tiana Pyer-Pereira](https://datascience.uchicago.edu/people/tiana-pyer-pereira-she-her)\nResearch Administrator, Willett Research Group\ntianap@uchicago.edu\n### Affiliated Researchers\n- [Adam Marchakitus Research Professional, Department of the Geophysical Sciences](https://datascience.uchicago.edu/people/adam-marchakitus)\n# Adam Marchakitus\n- [Bing Gong Research Scientist, Data Science Institute](https://datascience.uchicago.edu/people/bing-gong)\n# Bing Gong\n- [Colin Aitken Postdoctoral Scholar, Development Innovation Lab](https://datascience.uchicago.edu/people/colin-aitken)\n# Colin Aitken\n- [Jessica Wan Postdoctoral Research Associate, Climate Systems Engineering initiative](https://datascience.uchicago.edu/people/jessica-wan)\n# Jessica Wan\n- [Justin Finkel Postdoctoral Scholar, Data Science Institute](https://datascience.uchicago.edu/people/justin-finkel)\n# Justin Finkel\n- [Katie Kowal Director, AI for Weather, AI For Climate Research Initiative](https://datascience.uchicago.edu/people/katie-kowal)\n# Katie Kowal\n- [Ozma Houck PhD student, Harris School of Public Policy](https://datascience.uchicago.edu/people/ozma-houck)\n# Ozma Houck\n- [Rajat Masiwal Postdoctoral scholar, Department of Geophysical Sciences](https://datascience.uchicago.edu/people/rajat-masiwal)\n# Rajat Masiwal\nBing Gong is a research scientist at the Data Science Institute of the University of Chicago. Her research focuses on developing state-of-the-art, scalable deep learning neural networks in weather prediction applications. Prior to joining the University of Chicago, Bing Gong held a position as an assistant professor at Shanghai Normal University in China and was a postdoctoral researcher at the Jülich Supercomputing Center in Germany. She obtained her Ph.D. in the field of artificial intelligence in the application of environmental science and energy from the Technical University of Madrid, Spain, in July 2017.\nResearch focus: Deep learning for Earth Systems, weather prediction\nColin Aitken is a Postdoctoral Scholar at the Development Innovation Lab, working on projects related to safe water, weather, innovation policy, and education. His other research interests include econometrics, meta-science, and homotopy theory. He received his PhD in Mathematics from the University of Chicago in 2023.\nJessica Wan is a Postdoctoral Research Associate in the Climate Systems Engineering initiative at The University of Chicago. Her research aims to understand how climate engineering proposals might reduce regional climate impacts by combining interdisciplinary analysis frameworks and modeling tools ranging from global climate models to AI emulators.\nPrior to joining UChicago, Jessica received her Ph.D. in Earth Sciences from Scripps Institution of Oceanography at the University of California San Diego where her work focused on modeling the effects to regional marine cloud brightening. While completing her graduate degree, Jessica was a National Defense Science and Engineering Graduate fellow and an Achievement Rewards for College Scientists scholar. She also holds a B.S. in Environment & Sustainability from Cornell University.\nKatie Kowal is the Director of AI for Weather at the Data Science Institute, working closely with the Climate Extremes Theory and Data (CeTD) group led by Professor Pedram Hassanzadeh in the Geophysical Sciences Department and the [Human Centered Weather Forecasts Initiative](https://humancenteredforecasts.climate.uchicago.edu/about) (HCWF). She manages large interdisciplinary projects, conducts research on AI forecasts at weather and subseasonal timescales, and supports strategic planning across multiple initiatives. As part of HCWF, she coordinates research and operational teams to help bridge the gap between AI advances in weather and subseasonal-to-seasonal forecasting and their practical usefulness for decision-makers in low- and middle- income countries. Previously, as the Weather Forecast Lead for the [Human Centered Weather Forecasts Initiative Indian Monsoon Onset project](https://humancenteredforecasts.climate.uchicago.edu/forecasting-the-onset-of-the-indian-monsoon), she managed the operational deployment of the Indian monsoon onset forecasts in 2025 and led curriculum development for [AIM for Scale’s first AI weather training program](https://humancenteredforecasts.climate.uchicago.edu/training-program-to-strengthen-forecast-in-low-and-middle-income-countries).\nPrior to coming to the University of Chicago, she was a scientist at the National Oceanic and Atmospheric Administration (NOAA) Climate Prediction Center International Desk, supporting multiple national meteorological services in Latin America and the Pacific Islands with operational forecasts, training, and research on improving subseasonal to seasonal forecasts. Katie holds a DPhil in Hydrology and an MSc in Environmental Change and Management from the University of Oxford as a Rhodes Scholar and a BA in Physics and Political Science from Lewis & Clark College. Earlier in her career, she was a science policy fellow at the Science and Technology Policy Institute, supporting the White House Office of Science and Technology Policy to develop national policy on regulating nuclear space launch approvals and improving critical infrastructure resilience to extreme events including space weather.\nOzma Houck is a PhD Student at the Harris School of Public Policy. Ozma’s research focuses on understanding how innovations in weather forecasting can be used to increase climate adaptation and accelerate the transition to renewable energy. Her work leverages traditional economic methods alongside tools from climate science and machine learning to study the socioeconomic impacts of climate and weather. Ozma received B.A.s in Mathematics and Economics from Carleton College. She previously worked as a research professional at the Booth School of Business.\nRajat Masiwal is a postdoctoral scholar in the Department of Geophysical Sciences at the University of Chicago. His research focuses on improving sub-seasonal forecasts by integrating artificial intelligence with dynamical models. He earned his Ph.D. from the Indian Institute of Science, Bangalore, where he investigated the dynamics of the Indian monsoon using observations, theory, and idealized modeling.\nHis broader interests include understanding climate system processes through a hierarchy of models, combining physics-based approaches with emerging AI techniques. Additionally he maintains an active interest in the meteorology of renewable energy resources, such as wind and solar, and how better forecasting of these can support a transition to a decarbonized electricity grid"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AICE Speaker Series: Daniel C Reuman (University of Kansas)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AICE Speaker Series: Colm-cille P. Caulfield (Cambridge)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AICE Speaker Series: Libby Barnes (Boston University)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Nature Highlights Research on AI for Extreme Weather Forecasting"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AICE Speaker Series: V. Balaji (Schmidt Sciences)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Weather Forecasting Training Program Bringing the Power of AI to Low- and Middle-Income Countries"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AICE Speaker Series: Pierre Gentine (Columbia)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "A Bet Worth Placing: Computing and Data Science at UChicago"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "UChicago’s AI for Climate Initiative Leads New Approach to Modeling and Understanding Earth System"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "2025 Research Day Highlights Growth with Global Impact"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## AICE Speaker Series: Daniel C Reuman (University of Kansas)\n## AICE Speaker Series: Colm-cille P. Caulfield (Cambridge)\n## AICE Speaker Series: Libby Barnes (Boston University)\n## Nature Highlights Research on AI for Extreme Weather Forecasting\n## AICE Speaker Series: V. Balaji (Schmidt Sciences)\n## Weather Forecasting Training Program Bringing the Power of AI to Low- and Middle-Income Countries\n## AICE Speaker Series: Pierre Gentine (Columbia)\n## A Bet Worth Placing: Computing and Data Science at UChicago\n## UChicago’s AI for Climate Initiative Leads New Approach to Modeling and Understanding Earth System\n## 2025 Research Day Highlights Growth with Global Impact"
+    }
+  ]
+}

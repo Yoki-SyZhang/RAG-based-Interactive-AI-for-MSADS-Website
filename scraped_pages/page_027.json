@@ -1,0 +1,75 @@
+{
+  "page_url": "https://datascience.uchicago.edu/insights",
+  "page_title": "Insights | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Insights",
+      "href": "https://datascience.uchicago.edu/insights"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:48.129200+00:00",
+  "all_text_markdown": "Insights\nWhat If AI Scientists Could Talk to Each Other?\nUChicago Researchers Build a Tool to Help Fix Peer Review\nCould AI Help Us Be More Thoughtful Voters?\nPreScience: Forecasting the future of science end-to-end\nScientists pair AI and human knowledge to tackle notoriously difficult physics question\nWho Bears the Burden of Technological Change?\nNew Research Shows How AI Tools Are Expanding Individual Capabilities While Contracting Scientific Attention\nNature Highlights Research on AI for Extreme Weather Forecasting\nStatistician Li Ma Returns to UChicago to Advance Design-Aware Assessment of Models in the AI Era\nFrom Patient Records to Marketplaces: A Conversation with Reid McIlroy-Young on the Data Ecology of Health Data Markets",
+  "sections": [
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What If AI Scientists Could Talk to Each Other?"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "UChicago Researchers Build a Tool to Help Fix Peer Review"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Could AI Help Us Be More Thoughtful Voters?"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "PreScience: Forecasting the future of science end-to-end"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Scientists pair AI and human knowledge to tackle notoriously difficult physics question"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Who Bears the Burden of Technological Change?"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "New Research Shows How AI Tools Are Expanding Individual Capabilities While Contracting Scientific Attention"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Nature Highlights Research on AI for Extreme Weather Forecasting"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Statistician Li Ma Returns to UChicago to Advance Design-Aware Assessment of Models in the AI Era"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "From Patient Records to Marketplaces: A Conversation with Reid McIlroy-Young on the Data Ecology of Health Data Markets"
+        }
+      ],
+      "text_markdown": "## What If AI Scientists Could Talk to Each Other?\n## UChicago Researchers Build a Tool to Help Fix Peer Review\n## Could AI Help Us Be More Thoughtful Voters?\n## PreScience: Forecasting the future of science end-to-end\n## Scientists pair AI and human knowledge to tackle notoriously difficult physics question\n## Who Bears the Burden of Technological Change?\n## New Research Shows How AI Tools Are Expanding Individual Capabilities While Contracting Scientific Attention\n## Nature Highlights Research on AI for Extreme Weather Forecasting\n## Statistician Li Ma Returns to UChicago to Advance Design-Aware Assessment of Models in the AI Era\n## From Patient Records to Marketplaces: A Conversation with Reid McIlroy-Young on the Data Ecology of Health Data Markets"
+    }
+  ]
+}

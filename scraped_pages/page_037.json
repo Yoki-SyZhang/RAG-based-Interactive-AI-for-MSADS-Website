@@ -1,0 +1,51 @@
+{
+  "page_url": "https://datascience.uchicago.edu/nondiscrimination-statement",
+  "page_title": "Nondiscrimination Statement | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Nondiscrimination Statement",
+      "href": "https://datascience.uchicago.edu/nondiscrimination-statement"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:54.725449+00:00",
+  "all_text_markdown": "Share\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nNondiscrimination Statement\nThe Data Science Institute adheres to the [University of Chicago Non-Discrimination Policy](https://www.uchicago.edu/about/non_discrimination_statement).",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Nondiscrimination Statement"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Data Science Institute adheres to the [University of Chicago Non-Discrimination Policy](https://www.uchicago.edu/about/non_discrimination_statement)."
+        }
+      ],
+      "text_markdown": "## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\n# Nondiscrimination Statement\nThe Data Science Institute adheres to the [University of Chicago Non-Discrimination Policy](https://www.uchicago.edu/about/non_discrimination_statement)."
+    }
+  ]
+}

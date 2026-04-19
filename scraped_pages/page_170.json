@@ -1,0 +1,93 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/inference-analytics-automated-icd-10-code-prediction-for-healthcare-reports-using-large-language-models",
+  "page_title": "Inference Analytics | Automated ICD-10 Code Prediction for Healthcare Reports Using Large Language Models | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Inference Analytics Automated Icd 10 Code Prediction For Healthcare Reports Using Large Language Models",
+      "href": "https://datascience.uchicago.edu/research/inference-analytics-automated-icd-10-code-prediction-for-healthcare-reports-using-large-language-models"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:43:26.167693+00:00",
+  "all_text_markdown": "Inference Analytics | Automated ICD-10 Code Prediction for Healthcare Reports Using Large Language Models\n[Inference Analytics | Automated ICD-10 Code Prediction for Healthcare Reports Using Large Language Models](https://datascience.uchicago.edu/research/inference-analytics-automated-icd-10-code-prediction-for-healthcare-reports-using-large-language-models)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nAutomating ICD-10 code assignment addresses the time-consuming, error-prone manual process that delays billing and compromises data quality. This project develops an AI-driven prediction system—leveraging sentence-BERT embeddings, a Retrieval-Augmented Generation (RAG) architecture, and large language models—to classify radiology reports into their appropriate ICD-10 codes. Initial experiments demonstrate that integrating domain-specific embeddings with LLMs can achieve high precision and recall, reducing administrative overhead and improving coding accuracy. The system’s performance will be evaluated using Top-1 accuracy, precision, recall, and F1-score against a labeled validation set.\nWatch the team present this project at 45:27 in the session recording [here](https://uchicago.box.com/s/fglrpwj1lfjk2ttszuch5h12eg51csy3).\nKeywords: ICD-10 Coding Automation; Natural Language Processing (NLP); Sentence-BERT Embeddings; Retrieval-Augmented Generation (RAG); Large Language Models (LLM); Radiology Report Classification; Healthcare AI; Coding Accuracy; Precision and Recall; Administrative Efficiency\nFaculty Advisor\n[Utku Pamuksuz, PhD Associate Clinical Professor; Co-Founder Inference Analytics](https://datascience.uchicago.edu/people/utku-pamuksuz-phd)\nUtku Pamuksuz, PhD\nDr. Pamuksuz, a professor of AI, specializes in applied mathematics, machine/deep learning, responsible and generative AI. He has contributed to various analytics journals, including IEEE Transactions on Artificial Intelligence, and has shared his insights at several national and international conferences.\nSince joining the University of Chicago as a faculty member in 2018, Dr. Pamuksuz has taught a range of subjects, including data mining, machine learning, and linear & non-linear models, along with more specialized areas like AI-data science for leaders and Generative AI Research. His supervision of capstone theses has often centered on computer vision and natural language processing.\nIn the professional realm, Dr. Pamuksuz has an impressive record. He has led data science teams at several Fortune 500 companies, provided expert consultancy in architecting cloud-based machine learning solutions, and co-founded Inference Analytics in 2018. Under his leadership, Inference Analytics was recognized in 2023 as one of the top Machine Learning Companies in Illinois, marking a significant milestone in healthcare analytics in Chicago.\nDr. Pamuksuz’s academic path has taken him through some of Illinois’ most prestigious universities. He completed his MS in Computer Engineering/Science at Northwestern University and went on to earn his Ph.D. from UIUC. Today, he contributes his expertise as a faculty member at the University of Chicago. This journey, connecting three significant academic institutions, reflects a strong foundation and dedication to his field and a deep engagement with the state’s rich educational landscape. Outside of his professional endeavors, Dr. Pamuksuz is enthusiastic about hackathons, not only participating in several but also organizing them twice annually since 2020. His involvement has yielded notable success in various data challenges. As a sports fan, he follows Champions League Soccer, supporting Galatasaray, and enjoys engaging in basketball and volleyball during his leisure time. He also enjoys smooth/gypsy jazz where you can find him on Wednesdays in his favorite place Green Mill.",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Inference Analytics | Automated ICD-10 Code Prediction for Healthcare Reports Using Large Language Models](https://datascience.uchicago.edu/research/inference-analytics-automated-icd-10-code-prediction-for-healthcare-reports-using-large-language-models)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Automating ICD-10 code assignment addresses the time-consuming, error-prone manual process that delays billing and compromises data quality. This project develops an AI-driven prediction system—leveraging sentence-BERT embeddings, a Retrieval-Augmented Generation (RAG) architecture, and large language models—to classify radiology reports into their appropriate ICD-10 codes. Initial experiments demonstrate that integrating domain-specific embeddings with LLMs can achieve high precision and recall, reducing administrative overhead and improving coding accuracy. The system’s performance will be evaluated using Top-1 accuracy, precision, recall, and F1-score against a labeled validation set."
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch the team present this project at 45:27 in the session recording [here](https://uchicago.box.com/s/fglrpwj1lfjk2ttszuch5h12eg51csy3)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keywords: ICD-10 Coding Automation; Natural Language Processing (NLP); Sentence-BERT Embeddings; Retrieval-Augmented Generation (RAG); Large Language Models (LLM); Radiology Report Classification; Healthcare AI; Coding Accuracy; Precision and Recall; Administrative Efficiency"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Faculty Advisor"
+        },
+        {
+          "type": "list_item",
+          "text": "[Utku Pamuksuz, PhD Associate Clinical Professor; Co-Founder Inference Analytics](https://datascience.uchicago.edu/people/utku-pamuksuz-phd)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Utku Pamuksuz, PhD"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dr. Pamuksuz, a professor of AI, specializes in applied mathematics, machine/deep learning, responsible and generative AI. He has contributed to various analytics journals, including IEEE Transactions on Artificial Intelligence, and has shared his insights at several national and international conferences."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since joining the University of Chicago as a faculty member in 2018, Dr. Pamuksuz has taught a range of subjects, including data mining, machine learning, and linear & non-linear models, along with more specialized areas like AI-data science for leaders and Generative AI Research. His supervision of capstone theses has often centered on computer vision and natural language processing."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the professional realm, Dr. Pamuksuz has an impressive record. He has led data science teams at several Fortune 500 companies, provided expert consultancy in architecting cloud-based machine learning solutions, and co-founded Inference Analytics in 2018. Under his leadership, Inference Analytics was recognized in 2023 as one of the top Machine Learning Companies in Illinois, marking a significant milestone in healthcare analytics in Chicago."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dr. Pamuksuz’s academic path has taken him through some of Illinois’ most prestigious universities. He completed his MS in Computer Engineering/Science at Northwestern University and went on to earn his Ph.D. from UIUC. Today, he contributes his expertise as a faculty member at the University of Chicago. This journey, connecting three significant academic institutions, reflects a strong foundation and dedication to his field and a deep engagement with the state’s rich educational landscape. Outside of his professional endeavors, Dr. Pamuksuz is enthusiastic about hackathons, not only participating in several but also organizing them twice annually since 2020. His involvement has yielded notable success in various data challenges. As a sports fan, he follows Champions League Soccer, supporting Galatasaray, and enjoys engaging in basketball and volleyball during his leisure time. He also enjoys smooth/gypsy jazz where you can find him on Wednesdays in his favorite place Green Mill."
+        }
+      ],
+      "text_markdown": "## [Inference Analytics | Automated ICD-10 Code Prediction for Healthcare Reports Using Large Language Models](https://datascience.uchicago.edu/research/inference-analytics-automated-icd-10-code-prediction-for-healthcare-reports-using-large-language-models)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nAutomating ICD-10 code assignment addresses the time-consuming, error-prone manual process that delays billing and compromises data quality. This project develops an AI-driven prediction system—leveraging sentence-BERT embeddings, a Retrieval-Augmented Generation (RAG) architecture, and large language models—to classify radiology reports into their appropriate ICD-10 codes. Initial experiments demonstrate that integrating domain-specific embeddings with LLMs can achieve high precision and recall, reducing administrative overhead and improving coding accuracy. The system’s performance will be evaluated using Top-1 accuracy, precision, recall, and F1-score against a labeled validation set.\nWatch the team present this project at 45:27 in the session recording [here](https://uchicago.box.com/s/fglrpwj1lfjk2ttszuch5h12eg51csy3).\nKeywords: ICD-10 Coding Automation; Natural Language Processing (NLP); Sentence-BERT Embeddings; Retrieval-Augmented Generation (RAG); Large Language Models (LLM); Radiology Report Classification; Healthcare AI; Coding Accuracy; Precision and Recall; Administrative Efficiency\n### Faculty Advisor\n- [Utku Pamuksuz, PhD Associate Clinical Professor; Co-Founder Inference Analytics](https://datascience.uchicago.edu/people/utku-pamuksuz-phd)\n# Utku Pamuksuz, PhD\nDr. Pamuksuz, a professor of AI, specializes in applied mathematics, machine/deep learning, responsible and generative AI. He has contributed to various analytics journals, including IEEE Transactions on Artificial Intelligence, and has shared his insights at several national and international conferences.\nSince joining the University of Chicago as a faculty member in 2018, Dr. Pamuksuz has taught a range of subjects, including data mining, machine learning, and linear & non-linear models, along with more specialized areas like AI-data science for leaders and Generative AI Research. His supervision of capstone theses has often centered on computer vision and natural language processing.\nIn the professional realm, Dr. Pamuksuz has an impressive record. He has led data science teams at several Fortune 500 companies, provided expert consultancy in architecting cloud-based machine learning solutions, and co-founded Inference Analytics in 2018. Under his leadership, Inference Analytics was recognized in 2023 as one of the top Machine Learning Companies in Illinois, marking a significant milestone in healthcare analytics in Chicago.\nDr. Pamuksuz’s academic path has taken him through some of Illinois’ most prestigious universities. He completed his MS in Computer Engineering/Science at Northwestern University and went on to earn his Ph.D. from UIUC. Today, he contributes his expertise as a faculty member at the University of Chicago. This journey, connecting three significant academic institutions, reflects a strong foundation and dedication to his field and a deep engagement with the state’s rich educational landscape. Outside of his professional endeavors, Dr. Pamuksuz is enthusiastic about hackathons, not only participating in several but also organizing them twice annually since 2020. His involvement has yielded notable success in various data challenges. As a sports fan, he follows Champions League Soccer, supporting Galatasaray, and enjoys engaging in basketball and volleyball during his leisure time. He also enjoys smooth/gypsy jazz where you can find him on Wednesdays in his favorite place Green Mill."
+    }
+  ]
+}

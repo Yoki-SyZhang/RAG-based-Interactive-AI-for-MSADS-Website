@@ -1,0 +1,134 @@
+{
+  "page_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+  "page_title": "Capstone Project Archive | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Education",
+      "href": "https://datascience.uchicago.edu/education"
+    },
+    {
+      "text": "Masters Programs",
+      "href": "https://datascience.uchicago.edu/education/masters-programs"
+    },
+    {
+      "text": "Ms In Applied Data Science",
+      "href": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science"
+    },
+    {
+      "text": "Capstone Project Archive",
+      "href": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:43:20.271692+00:00",
+  "all_text_markdown": "Capstone Projects facet-arrow-down\n[Capstone Project Archive](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive)\n[Capstone Projects](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects)\n[Capstone Project Archive](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nCapstone Project Archive\nThis page showcases a comprehensive collection of Capstone Projects completed by students in the MS in Applied Data Science program. Each project reflects how students apply advanced data science methods to real-world challenges, working with authentic data across industries and research domains.\nSelect projects are highlighted as Featured after being recognized as Best in Show during the Capstone Showcase, an end-of-program presentation series where student teams present their work to faculty, peers, and industry partners.\nProject abstracts highlight the problem context, data sources, analytical approaches, and outcomes, offering a closer look at the technical and strategic thinking behind each solution. Together, these projects illustrate the breadth of skills developed in the program—from data engineering and machine learning to experimentation, modeling, and data storytelling.\nSearch project abstracts by keyword, including techniques, tools, or industry focus (e.g., machine learning, NLP, healthcare, finance).\nArgonne | Rezzy: AI Support Chatbot for EV Charger Reservation App (EVrez)\nInference Analytics | Automated ICD-10 Code Prediction for Healthcare Reports Using Large Language Models\nResearch (GPT for Healthcare) | MCP-driven Multi-Agent RAG-Enhanced LLM System for Prostate Cancer Temporal Summarization\nGlobal IQ | Optimizing ROI of Global Talent Mobility Through Predictive Modeling and Optimization for Corporate Programs & Policies\nResearch (GPT for Healthcare) | Applications of Generative AI in Emergency Department Admission Evaluation\nChicago Baseball | Measuring Pitcher Deception and Command Using Motion Tracking Data\nAetna | Optimization Engine Creation – Scenario Planning and Sensitivity Analysis Tool\nLatentView Analytics | Visual Defect Detection\nHERE Technologies | Vehicle Perception Data (VPD) and HERE Lane Model Alignment\nAteema | AI-Driven Media Kit",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Capstone Projects](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Capstone Project Archive](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Capstone Project Archive"
+        },
+        {
+          "type": "paragraph",
+          "text": "This page showcases a comprehensive collection of Capstone Projects completed by students in the MS in Applied Data Science program. Each project reflects how students apply advanced data science methods to real-world challenges, working with authentic data across industries and research domains."
+        },
+        {
+          "type": "paragraph",
+          "text": "Select projects are highlighted as Featured after being recognized as Best in Show during the Capstone Showcase, an end-of-program presentation series where student teams present their work to faculty, peers, and industry partners."
+        },
+        {
+          "type": "paragraph",
+          "text": "Project abstracts highlight the problem context, data sources, analytical approaches, and outcomes, offering a closer look at the technical and strategic thinking behind each solution. Together, these projects illustrate the breadth of skills developed in the program—from data engineering and machine learning to experimentation, modeling, and data storytelling."
+        },
+        {
+          "type": "paragraph",
+          "text": "Search project abstracts by keyword, including techniques, tools, or industry focus (e.g., machine learning, NLP, healthcare, finance)."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Argonne | Rezzy: AI Support Chatbot for EV Charger Reservation App (EVrez)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Inference Analytics | Automated ICD-10 Code Prediction for Healthcare Reports Using Large Language Models"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Research (GPT for Healthcare) | MCP-driven Multi-Agent RAG-Enhanced LLM System for Prostate Cancer Temporal Summarization"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Global IQ | Optimizing ROI of Global Talent Mobility Through Predictive Modeling and Optimization for Corporate Programs & Policies"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Research (GPT for Healthcare) | Applications of Generative AI in Emergency Department Admission Evaluation"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Chicago Baseball | Measuring Pitcher Deception and Command Using Motion Tracking Data"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Aetna | Optimization Engine Creation – Scenario Planning and Sensitivity Analysis Tool"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "LatentView Analytics | Visual Defect Detection"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "HERE Technologies | Vehicle Perception Data (VPD) and HERE Lane Model Alignment"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ateema | AI-Driven Media Kit"
+        }
+      ],
+      "text_markdown": "## [Capstone Projects](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects)\n- [Capstone Project Archive](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\n# Capstone Project Archive\nThis page showcases a comprehensive collection of Capstone Projects completed by students in the MS in Applied Data Science program. Each project reflects how students apply advanced data science methods to real-world challenges, working with authentic data across industries and research domains.\nSelect projects are highlighted as Featured after being recognized as Best in Show during the Capstone Showcase, an end-of-program presentation series where student teams present their work to faculty, peers, and industry partners.\nProject abstracts highlight the problem context, data sources, analytical approaches, and outcomes, offering a closer look at the technical and strategic thinking behind each solution. Together, these projects illustrate the breadth of skills developed in the program—from data engineering and machine learning to experimentation, modeling, and data storytelling.\nSearch project abstracts by keyword, including techniques, tools, or industry focus (e.g., machine learning, NLP, healthcare, finance).\n## Argonne | Rezzy: AI Support Chatbot for EV Charger Reservation App (EVrez)\n## Inference Analytics | Automated ICD-10 Code Prediction for Healthcare Reports Using Large Language Models\n## Research (GPT for Healthcare) | MCP-driven Multi-Agent RAG-Enhanced LLM System for Prostate Cancer Temporal Summarization\n## Global IQ | Optimizing ROI of Global Talent Mobility Through Predictive Modeling and Optimization for Corporate Programs & Policies\n## Research (GPT for Healthcare) | Applications of Generative AI in Emergency Department Admission Evaluation\n## Chicago Baseball | Measuring Pitcher Deception and Command Using Motion Tracking Data\n## Aetna | Optimization Engine Creation – Scenario Planning and Sensitivity Analysis Tool\n## LatentView Analytics | Visual Defect Detection\n## HERE Technologies | Vehicle Perception Data (VPD) and HERE Lane Model Alignment\n## Ateema | AI-Driven Media Kit"
+    }
+  ]
+}

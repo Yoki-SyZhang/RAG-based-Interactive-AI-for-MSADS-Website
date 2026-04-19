@@ -1,0 +1,106 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/quantifying-social-determinants-of-cardiovascular-disease",
+  "page_title": "Quantifying Social Determinants of Cardiovascular Disease | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Quantifying Social Determinants Of Cardiovascular Disease",
+      "href": "https://datascience.uchicago.edu/research/quantifying-social-determinants-of-cardiovascular-disease"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:03.300964+00:00",
+  "all_text_markdown": "Quantifying Social Determinants of Cardiovascular Disease\n[Quantifying Social Determinants of Cardiovascular Disease](https://datascience.uchicago.edu/research/quantifying-social-determinants-of-cardiovascular-disease)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nCardiovascular disease is the #1 killer of American adults. Preliminary data suggest that community social risk factors such as violent crime events, closures of food stores or pharmacies, and outages along critical mass transit lines are associated with increased risk for cardiovascular events and worsened control of cardiovascular risk factors such as blood pressure and cholesterol. The project will determine how community stressors relate to cardiovascular events and develop a prediction model and a prototype software tool to identify patients at highest risk for cardiovascular events during their periods of peak risk, so that healthcare providers can more efficiently target interventions to the patients who need them most.\nPrincipal Investigators: Thomas Covert (Adjunct Professor, Economics), Michael Greenstone (Milton Friedman Distinguished Service Professor in Economics)\nRelated News, Insights, and Past Events\nCDAC Summer Lab: Applied Data Science\nQuantifying the Social Drivers of Cardiovascular Disease in Space and Time\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Quantifying Social Determinants of Cardiovascular Disease](https://datascience.uchicago.edu/research/quantifying-social-determinants-of-cardiovascular-disease)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cardiovascular disease is the #1 killer of American adults. Preliminary data suggest that community social risk factors such as violent crime events, closures of food stores or pharmacies, and outages along critical mass transit lines are associated with increased risk for cardiovascular events and worsened control of cardiovascular risk factors such as blood pressure and cholesterol. The project will determine how community stressors relate to cardiovascular events and develop a prediction model and a prototype software tool to identify patients at highest risk for cardiovascular events during their periods of peak risk, so that healthcare providers can more efficiently target interventions to the patients who need them most."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Thomas Covert (Adjunct Professor, Economics), Michael Greenstone (Milton Friedman Distinguished Service Professor in Economics)"
+        }
+      ],
+      "text_markdown": "## [Quantifying Social Determinants of Cardiovascular Disease](https://datascience.uchicago.edu/research/quantifying-social-determinants-of-cardiovascular-disease)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nCardiovascular disease is the #1 killer of American adults. Preliminary data suggest that community social risk factors such as violent crime events, closures of food stores or pharmacies, and outages along critical mass transit lines are associated with increased risk for cardiovascular events and worsened control of cardiovascular risk factors such as blood pressure and cholesterol. The project will determine how community stressors relate to cardiovascular events and develop a prediction model and a prototype software tool to identify patients at highest risk for cardiovascular events during their periods of peak risk, so that healthcare providers can more efficiently target interventions to the patients who need them most.\nPrincipal Investigators: Thomas Covert (Adjunct Professor, Economics), Michael Greenstone (Milton Friedman Distinguished Service Professor in Economics)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "CDAC Summer Lab: Applied Data Science"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Quantifying the Social Drivers of Cardiovascular Disease in Space and Time"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## CDAC Summer Lab: Applied Data Science\n## Quantifying the Social Drivers of Cardiovascular Disease in Space and Time"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/learned-emulators-of-physics-simulations",
+  "page_title": "Learned Emulators of Physics Simulations | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Learned Emulators Of Physics Simulations",
+      "href": "https://datascience.uchicago.edu/research/learned-emulators-of-physics-simulations"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:26.259590+00:00",
+  "all_text_markdown": "Learned Emulators of Physics Simulations\n[Learned Emulators of Physics Simulations](https://datascience.uchicago.edu/research/learned-emulators-of-physics-simulations)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nResearchers studying climate, astrophysics, and high-energy physics use large, complex simulations to guide experiments and test theories. These compute-intensive programs can run much faster using emulators that approximate some aspects of those models. Recently, scientists have started creating “learned emulators” using AI neural network approaches, but have not yet fully explored the advantages and potential pitfalls of these surrogates. These aspects will be examined by the team of [Rebecca Willett](https://cs.uchicago.edu/people/profile/rebecca-willett), professor of computer science and statistics at UChicago, [Dana Mendelson](https://www.linkedin.com/in/dana-mendelson-05b12414a), assistant professor of mathematics at UChicago, [Prasanna Balaprakash](https://www.mcs.anl.gov/~pbalapra/research.html), computer scientist at Argonne, [Jiali Wang](https://www.anl.gov/profile/jiali-wang), assistant atmospheric scientist in Environmental Science Division at Argonne, and [Rao Kotamarthi](https://www.anl.gov/profile/rao-kotamarthi), department head of atmospheric science and climate and chief scientist for the Environmental Science Division at Argonne. This team will explore the mathematical limits of these methods and quantify key trade offs related to accuracy and speed.\nPrincipal Investigators: Rebecca Willett (UChicago), Dana Mendelson (UChicago), Prasanna Balaprakash (Argonne), Jiali Wang (Argonne), Rao Kotamarthi (Argonne)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Learned Emulators of Physics Simulations](https://datascience.uchicago.edu/research/learned-emulators-of-physics-simulations)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Researchers studying climate, astrophysics, and high-energy physics use large, complex simulations to guide experiments and test theories. These compute-intensive programs can run much faster using emulators that approximate some aspects of those models. Recently, scientists have started creating “learned emulators” using AI neural network approaches, but have not yet fully explored the advantages and potential pitfalls of these surrogates. These aspects will be examined by the team of [Rebecca Willett](https://cs.uchicago.edu/people/profile/rebecca-willett), professor of computer science and statistics at UChicago, [Dana Mendelson](https://www.linkedin.com/in/dana-mendelson-05b12414a), assistant professor of mathematics at UChicago, [Prasanna Balaprakash](https://www.mcs.anl.gov/~pbalapra/research.html), computer scientist at Argonne, [Jiali Wang](https://www.anl.gov/profile/jiali-wang), assistant atmospheric scientist in Environmental Science Division at Argonne, and [Rao Kotamarthi](https://www.anl.gov/profile/rao-kotamarthi), department head of atmospheric science and climate and chief scientist for the Environmental Science Division at Argonne. This team will explore the mathematical limits of these methods and quantify key trade offs related to accuracy and speed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Rebecca Willett (UChicago), Dana Mendelson (UChicago), Prasanna Balaprakash (Argonne), Jiali Wang (Argonne), Rao Kotamarthi (Argonne)"
+        }
+      ],
+      "text_markdown": "## [Learned Emulators of Physics Simulations](https://datascience.uchicago.edu/research/learned-emulators-of-physics-simulations)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nResearchers studying climate, astrophysics, and high-energy physics use large, complex simulations to guide experiments and test theories. These compute-intensive programs can run much faster using emulators that approximate some aspects of those models. Recently, scientists have started creating “learned emulators” using AI neural network approaches, but have not yet fully explored the advantages and potential pitfalls of these surrogates. These aspects will be examined by the team of [Rebecca Willett](https://cs.uchicago.edu/people/profile/rebecca-willett), professor of computer science and statistics at UChicago, [Dana Mendelson](https://www.linkedin.com/in/dana-mendelson-05b12414a), assistant professor of mathematics at UChicago, [Prasanna Balaprakash](https://www.mcs.anl.gov/~pbalapra/research.html), computer scientist at Argonne, [Jiali Wang](https://www.anl.gov/profile/jiali-wang), assistant atmospheric scientist in Environmental Science Division at Argonne, and [Rao Kotamarthi](https://www.anl.gov/profile/rao-kotamarthi), department head of atmospheric science and climate and chief scientist for the Environmental Science Division at Argonne. This team will explore the mathematical limits of these methods and quantify key trade offs related to accuracy and speed.\nPrincipal Investigators: Rebecca Willett (UChicago), Dana Mendelson (UChicago), Prasanna Balaprakash (Argonne), Jiali Wang (Argonne), Rao Kotamarthi (Argonne)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

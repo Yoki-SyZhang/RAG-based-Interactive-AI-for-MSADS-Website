@@ -1,0 +1,110 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/measuring-messages-about-race-and-gender",
+  "page_title": "Measuring Messages About Race and Gender in Children's Books | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Measuring Messages About Race And Gender",
+      "href": "https://datascience.uchicago.edu/research/measuring-messages-about-race-and-gender"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:17.095508+00:00",
+  "all_text_markdown": "Measuring Messages About Race and Gender in Children’s Books\n[Measuring Messages About Race and Gender in Children’s Books](https://datascience.uchicago.edu/research/measuring-messages-about-race-and-gender)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nEarly influences that depress children’s beliefs about their own ability can lead to lower educational achievement and persistent disadvantage. In particular, receiving negative messages about gender- and race-specific levels of ability have played a role in generating disadvantage for women and minorities. Children are particularly vulnerable to negative messages about race and gender, as their beliefs about their own capacities are highly malleable.\nThis project aims to improve how we estimate the extent and implications of children’s exposure to race- and gender-coded messages. The initial goal of the project will be to develop, verify, apply, and disseminate new methods of human-directed, machine-implemented content analysis focused on measuring implicit messages about race and gender in visual content. We anticipate that the tools we develop will catalyze new research in fields such as computational science and social science, and will advance our understanding of the extent of these messages and their contribution to inequality.\nPrincipal Investigators: Anjali Adukia (Assistant Professor, Haris School of Public Policy), Hakizumwami Birali Runesha (Director, Research Computing Center)\nRelated News, Insights, and Past Events\nWhat We Teach About Race and Gender: Representation in Images and Text of Children’s Books\nCDAC Summer Lab: Image Analysis + AI\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Measuring Messages About Race and Gender in Children’s Books](https://datascience.uchicago.edu/research/measuring-messages-about-race-and-gender)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Early influences that depress children’s beliefs about their own ability can lead to lower educational achievement and persistent disadvantage. In particular, receiving negative messages about gender- and race-specific levels of ability have played a role in generating disadvantage for women and minorities. Children are particularly vulnerable to negative messages about race and gender, as their beliefs about their own capacities are highly malleable."
+        },
+        {
+          "type": "paragraph",
+          "text": "This project aims to improve how we estimate the extent and implications of children’s exposure to race- and gender-coded messages. The initial goal of the project will be to develop, verify, apply, and disseminate new methods of human-directed, machine-implemented content analysis focused on measuring implicit messages about race and gender in visual content. We anticipate that the tools we develop will catalyze new research in fields such as computational science and social science, and will advance our understanding of the extent of these messages and their contribution to inequality."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Anjali Adukia (Assistant Professor, Haris School of Public Policy), Hakizumwami Birali Runesha (Director, Research Computing Center)"
+        }
+      ],
+      "text_markdown": "## [Measuring Messages About Race and Gender in Children’s Books](https://datascience.uchicago.edu/research/measuring-messages-about-race-and-gender)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nEarly influences that depress children’s beliefs about their own ability can lead to lower educational achievement and persistent disadvantage. In particular, receiving negative messages about gender- and race-specific levels of ability have played a role in generating disadvantage for women and minorities. Children are particularly vulnerable to negative messages about race and gender, as their beliefs about their own capacities are highly malleable.\nThis project aims to improve how we estimate the extent and implications of children’s exposure to race- and gender-coded messages. The initial goal of the project will be to develop, verify, apply, and disseminate new methods of human-directed, machine-implemented content analysis focused on measuring implicit messages about race and gender in visual content. We anticipate that the tools we develop will catalyze new research in fields such as computational science and social science, and will advance our understanding of the extent of these messages and their contribution to inequality.\nPrincipal Investigators: Anjali Adukia (Assistant Professor, Haris School of Public Policy), Hakizumwami Birali Runesha (Director, Research Computing Center)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What We Teach About Race and Gender: Representation in Images and Text of Children’s Books"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "CDAC Summer Lab: Image Analysis + AI"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## What We Teach About Race and Gender: Representation in Images and Text of Children’s Books\n## CDAC Summer Lab: Image Analysis + AI"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/disentangling-visual-style-and-content",
+  "page_title": "Disentangling Visual Style and Content | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Disentangling Visual Style And Content",
+      "href": "https://datascience.uchicago.edu/research/disentangling-visual-style-and-content"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:28.236031+00:00",
+  "all_text_markdown": "Disentangling Visual Style and Content\n[Disentangling Visual Style and Content](https://datascience.uchicago.edu/research/disentangling-visual-style-and-content)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nHow does a young child learn that a plush toy, a crude drawing, and a photograph are all distinct representations of the same content, such as a bear? Embedded in this question is a requirement to disentangle the content of visual input from its form of delivery. These concerns are important to many domains, including computer vision and the creation of visual culture. This project considers the problem of formalizing the concepts of ‘style’ and ‘content’ in images and video. Despite their importance, and our intuitive understanding of these distinctions, there are no compelling and technically useful definitions of these concepts. The researchers will investigate possible ways to define them and operationalize these definitions to improve the state of the art in style transfer and image analysis, as well as produce novel AI-driven visual artifacts.\nPrincipal Investigators: Jason Salavon (Associate Professor, Visual Arts), Gregory Shakhnarovich (Professor, Toyota Technological Institute at Chicago)\nRelated News, Insights, and Past Events\nDeepStyle\nHow AI Could Change Science\nImproving Computer Perception…With Style\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Disentangling Visual Style and Content](https://datascience.uchicago.edu/research/disentangling-visual-style-and-content)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "How does a young child learn that a plush toy, a crude drawing, and a photograph are all distinct representations of the same content, such as a bear? Embedded in this question is a requirement to disentangle the content of visual input from its form of delivery. These concerns are important to many domains, including computer vision and the creation of visual culture. This project considers the problem of formalizing the concepts of ‘style’ and ‘content’ in images and video. Despite their importance, and our intuitive understanding of these distinctions, there are no compelling and technically useful definitions of these concepts. The researchers will investigate possible ways to define them and operationalize these definitions to improve the state of the art in style transfer and image analysis, as well as produce novel AI-driven visual artifacts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Jason Salavon (Associate Professor, Visual Arts), Gregory Shakhnarovich (Professor, Toyota Technological Institute at Chicago)"
+        }
+      ],
+      "text_markdown": "## [Disentangling Visual Style and Content](https://datascience.uchicago.edu/research/disentangling-visual-style-and-content)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nHow does a young child learn that a plush toy, a crude drawing, and a photograph are all distinct representations of the same content, such as a bear? Embedded in this question is a requirement to disentangle the content of visual input from its form of delivery. These concerns are important to many domains, including computer vision and the creation of visual culture. This project considers the problem of formalizing the concepts of ‘style’ and ‘content’ in images and video. Despite their importance, and our intuitive understanding of these distinctions, there are no compelling and technically useful definitions of these concepts. The researchers will investigate possible ways to define them and operationalize these definitions to improve the state of the art in style transfer and image analysis, as well as produce novel AI-driven visual artifacts.\nPrincipal Investigators: Jason Salavon (Associate Professor, Visual Arts), Gregory Shakhnarovich (Professor, Toyota Technological Institute at Chicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "DeepStyle"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How AI Could Change Science"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Improving Computer Perception…With Style"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## DeepStyle\n## How AI Could Change Science\n## Improving Computer Perception…With Style"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/clinical-behavior-analysis-via-unsupervised-learning",
+  "page_title": "Clinical Behavior Analysis via Unsupervised Learning | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Clinical Behavior Analysis Via Unsupervised Learning",
+      "href": "https://datascience.uchicago.edu/research/clinical-behavior-analysis-via-unsupervised-learning"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:31.498342+00:00",
+  "all_text_markdown": "Clinical Behavior Analysis via Unsupervised Learning\n[Clinical Behavior Analysis via Unsupervised Learning](https://datascience.uchicago.edu/research/clinical-behavior-analysis-via-unsupervised-learning)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nThis study will apply the technique of unsupervised feature clustering to identify and model patient clinical behaviors from their electronic health records. The project will allow medical providers to understand groups and patterns in patient clinical behavior, identify fundamental factors contributing to adverse medical events such as death and cardiac arrest, and even discover unknown clinical behaviors.\nPrincipal Investigators: Heather Zheng (Neubauer Professor, Computer Science), Samuel Volchenboum (Professor, Pediatrics)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Clinical Behavior Analysis via Unsupervised Learning](https://datascience.uchicago.edu/research/clinical-behavior-analysis-via-unsupervised-learning)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "This study will apply the technique of unsupervised feature clustering to identify and model patient clinical behaviors from their electronic health records. The project will allow medical providers to understand groups and patterns in patient clinical behavior, identify fundamental factors contributing to adverse medical events such as death and cardiac arrest, and even discover unknown clinical behaviors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Heather Zheng (Neubauer Professor, Computer Science), Samuel Volchenboum (Professor, Pediatrics)"
+        }
+      ],
+      "text_markdown": "## [Clinical Behavior Analysis via Unsupervised Learning](https://datascience.uchicago.edu/research/clinical-behavior-analysis-via-unsupervised-learning)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nThis study will apply the technique of unsupervised feature clustering to identify and model patient clinical behaviors from their electronic health records. The project will allow medical providers to understand groups and patterns in patient clinical behavior, identify fundamental factors contributing to adverse medical events such as death and cardiac arrest, and even discover unknown clinical behaviors.\nPrincipal Investigators: Heather Zheng (Neubauer Professor, Computer Science), Samuel Volchenboum (Professor, Pediatrics)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

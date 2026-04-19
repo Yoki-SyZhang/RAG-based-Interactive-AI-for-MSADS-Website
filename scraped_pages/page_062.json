@@ -1,0 +1,93 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/predicting-material-properties",
+  "page_title": "Predicting Material Properties | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Predicting Material Properties",
+      "href": "https://datascience.uchicago.edu/research/predicting-material-properties"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:11.188804+00:00",
+  "all_text_markdown": "Predicting Material Properties\n[Predicting Material Properties](https://datascience.uchicago.edu/research/predicting-material-properties)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nMaterials science, particularly in the realms of environmental sustainability and renewable energy, faces significant challenges due to its inherent complexity and the dynamic nature of research in this field. This complexity is amplified when it comes to functional nano-micro materials and devices, such as Field-Effect Transistors (FET) sensors and other cutting-edge applications.\nUChicago postdoc researcher [Rui Ding](https://datascience.uchicago.edu/people/rui-ding), along with Assistant Professor [Yuxin Chen](https://datascience.uchicago.edu/people/yuxin-chen) and Professor [Junhong Chen](https://datascience.uchicago.edu/people/junhong-chen), are working to address the complexities inherent in optimizing materials for applications such as FET sensors and beyond. The project seeks to transcend the current limitations of materials science research by fostering a comprehensive understanding and systematic optimization of nano-micro materials and devices. This network will not only leverage the data extracted but will also be enhanced with a fundamental knowledge graph of chemical elements and groups, enriching the data context.\nThis is not only crucial for enhancing the performance of existing materials but is also pivotal in discovering new materials with potential applications in various fields including renewable energy and environmental technology.\nPrincipal Investigators: Rui Ding (UChicago), Yuxin Chen (UChicago), Junhong Chen (UChicago)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Predicting Material Properties](https://datascience.uchicago.edu/research/predicting-material-properties)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Materials science, particularly in the realms of environmental sustainability and renewable energy, faces significant challenges due to its inherent complexity and the dynamic nature of research in this field. This complexity is amplified when it comes to functional nano-micro materials and devices, such as Field-Effect Transistors (FET) sensors and other cutting-edge applications."
+        },
+        {
+          "type": "paragraph",
+          "text": "UChicago postdoc researcher [Rui Ding](https://datascience.uchicago.edu/people/rui-ding), along with Assistant Professor [Yuxin Chen](https://datascience.uchicago.edu/people/yuxin-chen) and Professor [Junhong Chen](https://datascience.uchicago.edu/people/junhong-chen), are working to address the complexities inherent in optimizing materials for applications such as FET sensors and beyond. The project seeks to transcend the current limitations of materials science research by fostering a comprehensive understanding and systematic optimization of nano-micro materials and devices. This network will not only leverage the data extracted but will also be enhanced with a fundamental knowledge graph of chemical elements and groups, enriching the data context."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is not only crucial for enhancing the performance of existing materials but is also pivotal in discovering new materials with potential applications in various fields including renewable energy and environmental technology."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Rui Ding (UChicago), Yuxin Chen (UChicago), Junhong Chen (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Predicting Material Properties](https://datascience.uchicago.edu/research/predicting-material-properties)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nMaterials science, particularly in the realms of environmental sustainability and renewable energy, faces significant challenges due to its inherent complexity and the dynamic nature of research in this field. This complexity is amplified when it comes to functional nano-micro materials and devices, such as Field-Effect Transistors (FET) sensors and other cutting-edge applications.\nUChicago postdoc researcher [Rui Ding](https://datascience.uchicago.edu/people/rui-ding), along with Assistant Professor [Yuxin Chen](https://datascience.uchicago.edu/people/yuxin-chen) and Professor [Junhong Chen](https://datascience.uchicago.edu/people/junhong-chen), are working to address the complexities inherent in optimizing materials for applications such as FET sensors and beyond. The project seeks to transcend the current limitations of materials science research by fostering a comprehensive understanding and systematic optimization of nano-micro materials and devices. This network will not only leverage the data extracted but will also be enhanced with a fundamental knowledge graph of chemical elements and groups, enriching the data context.\nThis is not only crucial for enhancing the performance of existing materials but is also pivotal in discovering new materials with potential applications in various fields including renewable energy and environmental technology.\nPrincipal Investigators: Rui Ding (UChicago), Yuxin Chen (UChicago), Junhong Chen (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

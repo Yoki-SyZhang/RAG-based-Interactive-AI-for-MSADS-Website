@@ -1,0 +1,105 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/advancing-the-sociome-for-social-and-heath-equity",
+  "page_title": "Advancing the Sociome For Social and Health Equity | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Advancing The Sociome For Social And Heath Equity",
+      "href": "https://datascience.uchicago.edu/research/advancing-the-sociome-for-social-and-heath-equity"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:09.866589+00:00",
+  "all_text_markdown": "Advancing the Sociome For Social and Health Equity\n[Advancing the Sociome For Social and Health Equity](https://datascience.uchicago.edu/research/advancing-the-sociome-for-social-and-heath-equity)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nBeyond the biological mechanisms of disease, social, environmental, behavioral, and psychological factors play a critical role in human health. These factors – that we collectively call the “sociome” – interact with human biology to cause or exacerbate disease and injuries and may disrupt wellness. But in contrast to genomic and clinical data, sociome factors have not been comprehensively collected, codified and quantified for the large-scale data mining and analysis techniques transforming modern healthcare.\nThis collaboration will build the scalable and extensible infrastructure and architecture that will ultimately assemble, quantify, and organize the entirety of social context experienced by every individual. Once catalogued, researchers can link this information to biologic and clinical data at individual and population scale to understand, predict, and treat health and health-related outcomes. A paradigm project will use this approach to build predictive models for children with asthma on the South Side of Chicago, hopefully leading to better immediate and long-term interventions to minimize disease severity.\nPrincipal Investigator: Samuel Volchenboum (Professor of Pediatrics)\nRelated News, Insights, and Past Events\nCDAC Discovery Challenge Awardees Train Data Science on Medicine, Clean Water, and Education\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Advancing the Sociome For Social and Health Equity](https://datascience.uchicago.edu/research/advancing-the-sociome-for-social-and-heath-equity)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Beyond the biological mechanisms of disease, social, environmental, behavioral, and psychological factors play a critical role in human health. These factors – that we collectively call the “sociome” – interact with human biology to cause or exacerbate disease and injuries and may disrupt wellness. But in contrast to genomic and clinical data, sociome factors have not been comprehensively collected, codified and quantified for the large-scale data mining and analysis techniques transforming modern healthcare."
+        },
+        {
+          "type": "paragraph",
+          "text": "This collaboration will build the scalable and extensible infrastructure and architecture that will ultimately assemble, quantify, and organize the entirety of social context experienced by every individual. Once catalogued, researchers can link this information to biologic and clinical data at individual and population scale to understand, predict, and treat health and health-related outcomes. A paradigm project will use this approach to build predictive models for children with asthma on the South Side of Chicago, hopefully leading to better immediate and long-term interventions to minimize disease severity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigator: Samuel Volchenboum (Professor of Pediatrics)"
+        }
+      ],
+      "text_markdown": "## [Advancing the Sociome For Social and Health Equity](https://datascience.uchicago.edu/research/advancing-the-sociome-for-social-and-heath-equity)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nBeyond the biological mechanisms of disease, social, environmental, behavioral, and psychological factors play a critical role in human health. These factors – that we collectively call the “sociome” – interact with human biology to cause or exacerbate disease and injuries and may disrupt wellness. But in contrast to genomic and clinical data, sociome factors have not been comprehensively collected, codified and quantified for the large-scale data mining and analysis techniques transforming modern healthcare.\nThis collaboration will build the scalable and extensible infrastructure and architecture that will ultimately assemble, quantify, and organize the entirety of social context experienced by every individual. Once catalogued, researchers can link this information to biologic and clinical data at individual and population scale to understand, predict, and treat health and health-related outcomes. A paradigm project will use this approach to build predictive models for children with asthma on the South Side of Chicago, hopefully leading to better immediate and long-term interventions to minimize disease severity.\nPrincipal Investigator: Samuel Volchenboum (Professor of Pediatrics)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "CDAC Discovery Challenge Awardees Train Data Science on Medicine, Clean Water, and Education"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## CDAC Discovery Challenge Awardees Train Data Science on Medicine, Clean Water, and Education"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

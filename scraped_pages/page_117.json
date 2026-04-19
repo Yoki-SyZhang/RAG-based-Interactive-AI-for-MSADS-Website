@@ -1,0 +1,112 @@
+{
+  "page_url": "https://datascience.uchicago.edu/outreach/community-data-fellows/resources",
+  "page_title": "Resources | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Outreach",
+      "href": "https://datascience.uchicago.edu/outreach"
+    },
+    {
+      "text": "Community Data Fellows",
+      "href": "https://datascience.uchicago.edu/outreach/community-data-fellows"
+    },
+    {
+      "text": "Resources",
+      "href": "https://datascience.uchicago.edu/outreach/community-data-fellows/resources"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:47.459153+00:00",
+  "all_text_markdown": "Community Data Fellows facet-arrow-down\n[Program Details](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details)\n[Partner with Us](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details/partners)\n[Students](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details/students)\n[Resources](https://datascience.uchicago.edu/outreach/community-data-fellows/resources)\n[Community Data Fellows](https://datascience.uchicago.edu/outreach/community-data-fellows)\n[Program Details](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details)\n[Partner with Us](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details/partners)\n[Students](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details/students)\n[Resources](https://datascience.uchicago.edu/outreach/community-data-fellows/resources)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nResources\nThe Community Data Fellows program created [Data Storytelling for Nonprofits](https://datascience.uchicago.edu/news/2023-2024-data-storytelling-workshop-series), a new 3-part workshop series designed for non-profits and social sector organizations, focused on using data for storytelling.\nSESSION 1: Assessing Current Capacity and Needs (October 26, 2023)\nFacilitator and Program Manager [Ari Zickau](https://datascience.uchicago.edu/people/ari-zickau) shares how to use a data maturity assessment tool to better understand your organization’s current data practices and goals. This workshop discusses connecting your mission to data practices, developing a data strategy, and identifying the data you have or need to achieve your goals. – [Workshop Slides](https://drive.google.com/file/d/1-XE4OGIGxqXl9hH3lNSWMwhHcOwqgWWE/view?usp=sharing) (recording not available)\nSESSION 2: Ethical and Responsible Data Practices (January 18, 2024)\nFeatured speaker [Evelyn Campbell](https://datascience.uchicago.edu/people/evelyn-campbell) discusses how to explore and assess your organization’s data practices and learn recommendations for improving data collection, management, and storage in accessible, ethical, and equitable ways. Facilitator and Program Manager [Ari Zickau](https://datascience.uchicago.edu/people/ari-zickau) shares information on data science basics, a useful assessment tool, and further resources for learning. – [Workshop Slides](https://drive.google.com/file/d/1BfAId-Yah4FQj64ZLO1YLgbP1XPtssVo/view?usp=sharing) (recording not available)\nSESSION 3: Cultivating a Strong Data Culture (March 18, 2024)\nFeatured speakers [Micaelan V. Gasperich](https://kidsfirstchicago.org/our-team/micaelan-valesky) and [Chris Poulos](https://kidsfirstchicago.org/our-team/chris-poulos) share their experience with data-centered work culture at [Kids First Chicago](https://kidsfirstchicago.org), program evaluation case studies, and approaches for meaningful data collaboration. Facilitator and Program Manager [Ari Zickau](https://datascience.uchicago.edu/people/ari-zickau) shares information on data science basics, a useful assessment tool, and further resources for learning. – [Workshop Slides](https://drive.google.com/file/d/1vT3ac2VGZ3sgRZmD7JEL94U9nrH2YEP-/view?usp=sharing) – [Workshop Recording](https://www.youtube.com/watch?v=evGH3HsD6hY)\n[Back](https://datascience.uchicago.edu/outreach/community-data-fellows)",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Community Data Fellows](https://datascience.uchicago.edu/outreach/community-data-fellows)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Program Details](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Partner with Us](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details/partners)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Students](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details/students)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Resources](https://datascience.uchicago.edu/outreach/community-data-fellows/resources)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Resources"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Community Data Fellows program created [Data Storytelling for Nonprofits](https://datascience.uchicago.edu/news/2023-2024-data-storytelling-workshop-series), a new 3-part workshop series designed for non-profits and social sector organizations, focused on using data for storytelling."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "SESSION 1: Assessing Current Capacity and Needs (October 26, 2023)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Facilitator and Program Manager [Ari Zickau](https://datascience.uchicago.edu/people/ari-zickau) shares how to use a data maturity assessment tool to better understand your organization’s current data practices and goals. This workshop discusses connecting your mission to data practices, developing a data strategy, and identifying the data you have or need to achieve your goals. – [Workshop Slides](https://drive.google.com/file/d/1-XE4OGIGxqXl9hH3lNSWMwhHcOwqgWWE/view?usp=sharing) (recording not available)"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "SESSION 2: Ethical and Responsible Data Practices (January 18, 2024)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Featured speaker [Evelyn Campbell](https://datascience.uchicago.edu/people/evelyn-campbell) discusses how to explore and assess your organization’s data practices and learn recommendations for improving data collection, management, and storage in accessible, ethical, and equitable ways. Facilitator and Program Manager [Ari Zickau](https://datascience.uchicago.edu/people/ari-zickau) shares information on data science basics, a useful assessment tool, and further resources for learning. – [Workshop Slides](https://drive.google.com/file/d/1BfAId-Yah4FQj64ZLO1YLgbP1XPtssVo/view?usp=sharing) (recording not available)"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "SESSION 3: Cultivating a Strong Data Culture (March 18, 2024)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Featured speakers [Micaelan V. Gasperich](https://kidsfirstchicago.org/our-team/micaelan-valesky) and [Chris Poulos](https://kidsfirstchicago.org/our-team/chris-poulos) share their experience with data-centered work culture at [Kids First Chicago](https://kidsfirstchicago.org), program evaluation case studies, and approaches for meaningful data collaboration. Facilitator and Program Manager [Ari Zickau](https://datascience.uchicago.edu/people/ari-zickau) shares information on data science basics, a useful assessment tool, and further resources for learning. – [Workshop Slides](https://drive.google.com/file/d/1vT3ac2VGZ3sgRZmD7JEL94U9nrH2YEP-/view?usp=sharing) – [Workshop Recording](https://www.youtube.com/watch?v=evGH3HsD6hY)"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "[Back](https://datascience.uchicago.edu/outreach/community-data-fellows)"
+        }
+      ],
+      "text_markdown": "## [Community Data Fellows](https://datascience.uchicago.edu/outreach/community-data-fellows)\n- [Program Details](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details)\n- [Partner with Us](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details/partners)\n- [Students](https://datascience.uchicago.edu/outreach/community-data-fellows/program-details/students)\n- [Resources](https://datascience.uchicago.edu/outreach/community-data-fellows/resources)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\n# Resources\nThe Community Data Fellows program created [Data Storytelling for Nonprofits](https://datascience.uchicago.edu/news/2023-2024-data-storytelling-workshop-series), a new 3-part workshop series designed for non-profits and social sector organizations, focused on using data for storytelling.\n#### SESSION 1: Assessing Current Capacity and Needs (October 26, 2023)\nFacilitator and Program Manager [Ari Zickau](https://datascience.uchicago.edu/people/ari-zickau) shares how to use a data maturity assessment tool to better understand your organization’s current data practices and goals. This workshop discusses connecting your mission to data practices, developing a data strategy, and identifying the data you have or need to achieve your goals. – [Workshop Slides](https://drive.google.com/file/d/1-XE4OGIGxqXl9hH3lNSWMwhHcOwqgWWE/view?usp=sharing) (recording not available)\n#### SESSION 2: Ethical and Responsible Data Practices (January 18, 2024)\nFeatured speaker [Evelyn Campbell](https://datascience.uchicago.edu/people/evelyn-campbell) discusses how to explore and assess your organization’s data practices and learn recommendations for improving data collection, management, and storage in accessible, ethical, and equitable ways. Facilitator and Program Manager [Ari Zickau](https://datascience.uchicago.edu/people/ari-zickau) shares information on data science basics, a useful assessment tool, and further resources for learning. – [Workshop Slides](https://drive.google.com/file/d/1BfAId-Yah4FQj64ZLO1YLgbP1XPtssVo/view?usp=sharing) (recording not available)\n#### SESSION 3: Cultivating a Strong Data Culture (March 18, 2024)\nFeatured speakers [Micaelan V. Gasperich](https://kidsfirstchicago.org/our-team/micaelan-valesky) and [Chris Poulos](https://kidsfirstchicago.org/our-team/chris-poulos) share their experience with data-centered work culture at [Kids First Chicago](https://kidsfirstchicago.org), program evaluation case studies, and approaches for meaningful data collaboration. Facilitator and Program Manager [Ari Zickau](https://datascience.uchicago.edu/people/ari-zickau) shares information on data science basics, a useful assessment tool, and further resources for learning. – [Workshop Slides](https://drive.google.com/file/d/1vT3ac2VGZ3sgRZmD7JEL94U9nrH2YEP-/view?usp=sharing) – [Workshop Recording](https://www.youtube.com/watch?v=evGH3HsD6hY)\n#### [Back](https://datascience.uchicago.edu/outreach/community-data-fellows)"
+    }
+  ]
+}

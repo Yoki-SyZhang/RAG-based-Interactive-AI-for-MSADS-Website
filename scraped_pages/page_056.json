@@ -1,0 +1,116 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/the-role-of-rapid-bacterial-evolution-in-human-health-and-disease",
+  "page_title": "The Role of Rapid Bacterial Evolution in Human Health and Disease | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "The Role Of Rapid Bacterial Evolution In Human Health And Disease",
+      "href": "https://datascience.uchicago.edu/research/the-role-of-rapid-bacterial-evolution-in-human-health-and-disease"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:07.228599+00:00",
+  "all_text_markdown": "The Role of Rapid Bacterial Evolution in Human Health and Disease\n[The Role of Rapid Bacterial Evolution in Human Health and Disease](https://datascience.uchicago.edu/research/the-role-of-rapid-bacterial-evolution-in-human-health-and-disease)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nThe human body is home to an astonishing number of microbes, commonly referred to as the ‘microbiome’, which collectively encodes ten times more genes than the human genome itself. Although the human microbiome has been implicated in a multitude of diseases, the full set of biological mechanisms underlying these connections remain unexplored. This project will conduct a large-scale analysis of ‘plasmids’, small pieces of DNA that can be exchanged between different bacterial cells but are not part of the bacterial chromosome by employing the power of most recent high-throughput sequencing strategies and machine learning approaches to investigate relationships among plasmid genetics, microbial community structures, and human health.\nPrincipal Investigators: Michael Yu (Research Assistant Professor, Toyota Technological Institute at Chicago), A. Murat Eren (Assistant Professor, Department of Medicine)\nRelated News, Insights, and Past Events\nMicrobial ‘Omics for Beginners\nData Dispatches: The Role of Rapid Bacterial Evolution in Human Health and Disease\nThe Role of Rapid Bacterial Evolution in Human Health and Disease\nSearching For Bacteria’s Little Helper with Machine Learning\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[The Role of Rapid Bacterial Evolution in Human Health and Disease](https://datascience.uchicago.edu/research/the-role-of-rapid-bacterial-evolution-in-human-health-and-disease)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The human body is home to an astonishing number of microbes, commonly referred to as the ‘microbiome’, which collectively encodes ten times more genes than the human genome itself. Although the human microbiome has been implicated in a multitude of diseases, the full set of biological mechanisms underlying these connections remain unexplored. This project will conduct a large-scale analysis of ‘plasmids’, small pieces of DNA that can be exchanged between different bacterial cells but are not part of the bacterial chromosome by employing the power of most recent high-throughput sequencing strategies and machine learning approaches to investigate relationships among plasmid genetics, microbial community structures, and human health."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Michael Yu (Research Assistant Professor, Toyota Technological Institute at Chicago), A. Murat Eren (Assistant Professor, Department of Medicine)"
+        }
+      ],
+      "text_markdown": "## [The Role of Rapid Bacterial Evolution in Human Health and Disease](https://datascience.uchicago.edu/research/the-role-of-rapid-bacterial-evolution-in-human-health-and-disease)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nThe human body is home to an astonishing number of microbes, commonly referred to as the ‘microbiome’, which collectively encodes ten times more genes than the human genome itself. Although the human microbiome has been implicated in a multitude of diseases, the full set of biological mechanisms underlying these connections remain unexplored. This project will conduct a large-scale analysis of ‘plasmids’, small pieces of DNA that can be exchanged between different bacterial cells but are not part of the bacterial chromosome by employing the power of most recent high-throughput sequencing strategies and machine learning approaches to investigate relationships among plasmid genetics, microbial community structures, and human health.\nPrincipal Investigators: Michael Yu (Research Assistant Professor, Toyota Technological Institute at Chicago), A. Murat Eren (Assistant Professor, Department of Medicine)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Microbial ‘Omics for Beginners"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Data Dispatches: The Role of Rapid Bacterial Evolution in Human Health and Disease"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Role of Rapid Bacterial Evolution in Human Health and Disease"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Searching For Bacteria’s Little Helper with Machine Learning"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Microbial ‘Omics for Beginners\n## Data Dispatches: The Role of Rapid Bacterial Evolution in Human Health and Disease\n## The Role of Rapid Bacterial Evolution in Human Health and Disease\n## Searching For Bacteria’s Little Helper with Machine Learning"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

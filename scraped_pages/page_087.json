@@ -1,0 +1,89 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/on-chip-machine-learning-for-intelligent-pixel-detectors",
+  "page_title": "On-Chip Machine Learning for intelligent Pixel Detectors | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "On Chip Machine Learning For Intelligent Pixel Detectors",
+      "href": "https://datascience.uchicago.edu/research/on-chip-machine-learning-for-intelligent-pixel-detectors"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:27.579729+00:00",
+  "all_text_markdown": "On-Chip Machine Learning for intelligent Pixel Detectors\n[On-Chip Machine Learning for intelligent Pixel Detectors](https://datascience.uchicago.edu/research/on-chip-machine-learning-for-intelligent-pixel-detectors)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nDetectors at future high energy colliders will face enormous technical challenges. Disentangling the unprecedented numbers of particles expected in each event will require highly granular silicon pixel detectors with billions of readout channels. With event rates as high as 40 MHz, these detectors will generate petabytes of data per second. To enable discovery within strict bandwidth and latency constraints, future trackers must be capable of fast, power efficient, and radiation hard data-reduction at the source.\nUChicago Schmidt Fellow [Anthony Badea](https://efi.uchicago.edu/people/profile/anthony-badea) and Assistant Professor [Karri DiPetrillo](https://physics.uchicago.edu/people/profile/karri-dipetrillo), along with collaborators from Fermilab and nearby universities, are designing a Neural Network (NN) that can be implemented in a radiation hard readout integrated circuit (ROIC). This technology has many applications besides intelligent pixel detectors, with the potential to enable breakthroughs in many areas of science and industry.\nPrincipal Investigators: Anthony Badea (UChicago), Karri DiPetrillo (UChicago)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[On-Chip Machine Learning for intelligent Pixel Detectors](https://datascience.uchicago.edu/research/on-chip-machine-learning-for-intelligent-pixel-detectors)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Detectors at future high energy colliders will face enormous technical challenges. Disentangling the unprecedented numbers of particles expected in each event will require highly granular silicon pixel detectors with billions of readout channels. With event rates as high as 40 MHz, these detectors will generate petabytes of data per second. To enable discovery within strict bandwidth and latency constraints, future trackers must be capable of fast, power efficient, and radiation hard data-reduction at the source."
+        },
+        {
+          "type": "paragraph",
+          "text": "UChicago Schmidt Fellow [Anthony Badea](https://efi.uchicago.edu/people/profile/anthony-badea) and Assistant Professor [Karri DiPetrillo](https://physics.uchicago.edu/people/profile/karri-dipetrillo), along with collaborators from Fermilab and nearby universities, are designing a Neural Network (NN) that can be implemented in a radiation hard readout integrated circuit (ROIC). This technology has many applications besides intelligent pixel detectors, with the potential to enable breakthroughs in many areas of science and industry."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Anthony Badea (UChicago), Karri DiPetrillo (UChicago)"
+        }
+      ],
+      "text_markdown": "## [On-Chip Machine Learning for intelligent Pixel Detectors](https://datascience.uchicago.edu/research/on-chip-machine-learning-for-intelligent-pixel-detectors)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nDetectors at future high energy colliders will face enormous technical challenges. Disentangling the unprecedented numbers of particles expected in each event will require highly granular silicon pixel detectors with billions of readout channels. With event rates as high as 40 MHz, these detectors will generate petabytes of data per second. To enable discovery within strict bandwidth and latency constraints, future trackers must be capable of fast, power efficient, and radiation hard data-reduction at the source.\nUChicago Schmidt Fellow [Anthony Badea](https://efi.uchicago.edu/people/profile/anthony-badea) and Assistant Professor [Karri DiPetrillo](https://physics.uchicago.edu/people/profile/karri-dipetrillo), along with collaborators from Fermilab and nearby universities, are designing a Neural Network (NN) that can be implemented in a radiation hard readout integrated circuit (ROIC). This technology has many applications besides intelligent pixel detectors, with the potential to enable breakthroughs in many areas of science and industry.\nPrincipal Investigators: Anthony Badea (UChicago), Karri DiPetrillo (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

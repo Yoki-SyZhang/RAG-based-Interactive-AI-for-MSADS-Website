@@ -1,0 +1,105 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/machine-learning-and-satellite-imaging-to-reduce-methane-emissions",
+  "page_title": "Machine Learning and Satellite Imaging to Reduce Methane Emissions | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Machine Learning And Satellite Imaging To Reduce Methane Emissions",
+      "href": "https://datascience.uchicago.edu/research/machine-learning-and-satellite-imaging-to-reduce-methane-emissions"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:11.827616+00:00",
+  "all_text_markdown": "Machine Learning and Satellite Imaging to Reduce Methane Emissions\n[Machine Learning and Satellite Imaging to Reduce Methane Emissions](https://datascience.uchicago.edu/research/machine-learning-and-satellite-imaging-to-reduce-methane-emissions)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nThe meteoric rise of shale oil and gas drilling in the United States poses significant challenges for reducing greenhouse gas emissions. The methane emitted from these operations has 34 times greater short-term global warming potential than CO2, thus contributing aggressively to climate change. Existing methods of measuring methane emissions are imprecise and expensive, severely limiting regulators’ ability to monitor and enforce regulations. Without reliable estimates of methane emissions, regulators are unable to efficiently target leaks, incentivize their prevention, and realize climate benefits.\nThis project will develop and test a data-driven approach to methane emissions monitoring and regulation, in close partnership with Colorado regulators. It will leverage large-scale administrative data such as permitting records and historical inspections to build a supervised machine learning model that predicts methane leaks at facilities. These predictions can then be used to target the collection of high-resolution emissions measurements at the facility level using state-of-the-art satellites. This breakthrough combination of machine learning and new measurement technology would provide regulators with a potentially highly cost-effective and scalable inspection targeting framework. Finally, a randomized controlled trial will rigorously estimate the impact of applying the novel technology for regulatory enforcement, and estimate the benefits of improved emissions monitoring.\nPrincipal Investigators: Thomas Covert (Adjunct Assistant Professor, Economics), Michael Greenstone (Milton Friedman Distinguished Service Professor, Economics)\nRelated News, Insights, and Past Events\nElizabeth Barnes (Colorado State University) – Explainable AI for Climate Science: Opening the black box to reveal planet Earth\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Machine Learning and Satellite Imaging to Reduce Methane Emissions](https://datascience.uchicago.edu/research/machine-learning-and-satellite-imaging-to-reduce-methane-emissions)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The meteoric rise of shale oil and gas drilling in the United States poses significant challenges for reducing greenhouse gas emissions. The methane emitted from these operations has 34 times greater short-term global warming potential than CO2, thus contributing aggressively to climate change. Existing methods of measuring methane emissions are imprecise and expensive, severely limiting regulators’ ability to monitor and enforce regulations. Without reliable estimates of methane emissions, regulators are unable to efficiently target leaks, incentivize their prevention, and realize climate benefits."
+        },
+        {
+          "type": "paragraph",
+          "text": "This project will develop and test a data-driven approach to methane emissions monitoring and regulation, in close partnership with Colorado regulators. It will leverage large-scale administrative data such as permitting records and historical inspections to build a supervised machine learning model that predicts methane leaks at facilities. These predictions can then be used to target the collection of high-resolution emissions measurements at the facility level using state-of-the-art satellites. This breakthrough combination of machine learning and new measurement technology would provide regulators with a potentially highly cost-effective and scalable inspection targeting framework. Finally, a randomized controlled trial will rigorously estimate the impact of applying the novel technology for regulatory enforcement, and estimate the benefits of improved emissions monitoring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Thomas Covert (Adjunct Assistant Professor, Economics), Michael Greenstone (Milton Friedman Distinguished Service Professor, Economics)"
+        }
+      ],
+      "text_markdown": "## [Machine Learning and Satellite Imaging to Reduce Methane Emissions](https://datascience.uchicago.edu/research/machine-learning-and-satellite-imaging-to-reduce-methane-emissions)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nThe meteoric rise of shale oil and gas drilling in the United States poses significant challenges for reducing greenhouse gas emissions. The methane emitted from these operations has 34 times greater short-term global warming potential than CO2, thus contributing aggressively to climate change. Existing methods of measuring methane emissions are imprecise and expensive, severely limiting regulators’ ability to monitor and enforce regulations. Without reliable estimates of methane emissions, regulators are unable to efficiently target leaks, incentivize their prevention, and realize climate benefits.\nThis project will develop and test a data-driven approach to methane emissions monitoring and regulation, in close partnership with Colorado regulators. It will leverage large-scale administrative data such as permitting records and historical inspections to build a supervised machine learning model that predicts methane leaks at facilities. These predictions can then be used to target the collection of high-resolution emissions measurements at the facility level using state-of-the-art satellites. This breakthrough combination of machine learning and new measurement technology would provide regulators with a potentially highly cost-effective and scalable inspection targeting framework. Finally, a randomized controlled trial will rigorously estimate the impact of applying the novel technology for regulatory enforcement, and estimate the benefits of improved emissions monitoring.\nPrincipal Investigators: Thomas Covert (Adjunct Assistant Professor, Economics), Michael Greenstone (Milton Friedman Distinguished Service Professor, Economics)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Elizabeth Barnes (Colorado State University) – Explainable AI for Climate Science: Opening the black box to reveal planet Earth"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Elizabeth Barnes (Colorado State University) – Explainable AI for Climate Science: Opening the black box to reveal planet Earth"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

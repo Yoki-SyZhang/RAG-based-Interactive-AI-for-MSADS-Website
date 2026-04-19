@@ -1,0 +1,93 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/using-field-effect-transistor-array-to-monitor-water-quality",
+  "page_title": "Using Field-Effect Transistor Array to Monitor Water Quality | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Using Field Effect Transistor Array To Monitor Water Quality",
+      "href": "https://datascience.uchicago.edu/research/using-field-effect-transistor-array-to-monitor-water-quality"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:17.736927+00:00",
+  "all_text_markdown": "Using Field-Effect Transistor Array to Monitor Water Quality\n[Using Field-Effect Transistor Array to Monitor Water Quality](https://datascience.uchicago.edu/research/using-field-effect-transistor-array-to-monitor-water-quality)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nDetermining nutrient levels is an important water quality factor in wastewater treatment and reclamation. In addition, recovery of nutrients from wastewater for fertilizer use could lead to significant energy savings and decarbonization of the fertilizer production industry while minimizing energy consumption and chemical usage for wastewater treatment.\nThe growing demand for field-deployable, sensitive, and cost-effective sensors in nutrient monitoring has spurred extensive research into nanomaterial-based field-effect transistor (FET) sensors, driven by their distinct advantages in real-time detection, ultra low detection limits, miniaturized system, and digital readouts. However, real-world applications of these sensors suffer from batch variations, sample matrix effects and Debye length screening issues, which could severely impair the reliability of the device.\nGraduate student [Wen Zhuang](https://pme.uchicago.edu/de-pablo-group/people/wen-zhuang), along with Professor [Junhong Chen](https://pme.uchicago.edu/faculty/junhong-chen) and [Dr. Haihui Pu](https://pme.uchicago.edu/junhong-chen-research-group/people/haihui-pu) are utilizing a deep-learning approach based on a multiplexed sensor array platform to overcome the challenges in the sensing accuracy and reliability of FET sensors and achieve real-time monitoring of multiple nutrient ions simultaneously.\nPrincipal Investigators: Wen Zhuang (UChicago), Junhong Chen (UChicago & Argonne), Dr. Haihui Pu (UChicago)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Using Field-Effect Transistor Array to Monitor Water Quality](https://datascience.uchicago.edu/research/using-field-effect-transistor-array-to-monitor-water-quality)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Determining nutrient levels is an important water quality factor in wastewater treatment and reclamation. In addition, recovery of nutrients from wastewater for fertilizer use could lead to significant energy savings and decarbonization of the fertilizer production industry while minimizing energy consumption and chemical usage for wastewater treatment."
+        },
+        {
+          "type": "paragraph",
+          "text": "The growing demand for field-deployable, sensitive, and cost-effective sensors in nutrient monitoring has spurred extensive research into nanomaterial-based field-effect transistor (FET) sensors, driven by their distinct advantages in real-time detection, ultra low detection limits, miniaturized system, and digital readouts. However, real-world applications of these sensors suffer from batch variations, sample matrix effects and Debye length screening issues, which could severely impair the reliability of the device."
+        },
+        {
+          "type": "paragraph",
+          "text": "Graduate student [Wen Zhuang](https://pme.uchicago.edu/de-pablo-group/people/wen-zhuang), along with Professor [Junhong Chen](https://pme.uchicago.edu/faculty/junhong-chen) and [Dr. Haihui Pu](https://pme.uchicago.edu/junhong-chen-research-group/people/haihui-pu) are utilizing a deep-learning approach based on a multiplexed sensor array platform to overcome the challenges in the sensing accuracy and reliability of FET sensors and achieve real-time monitoring of multiple nutrient ions simultaneously."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Wen Zhuang (UChicago), Junhong Chen (UChicago & Argonne), Dr. Haihui Pu (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Using Field-Effect Transistor Array to Monitor Water Quality](https://datascience.uchicago.edu/research/using-field-effect-transistor-array-to-monitor-water-quality)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nDetermining nutrient levels is an important water quality factor in wastewater treatment and reclamation. In addition, recovery of nutrients from wastewater for fertilizer use could lead to significant energy savings and decarbonization of the fertilizer production industry while minimizing energy consumption and chemical usage for wastewater treatment.\nThe growing demand for field-deployable, sensitive, and cost-effective sensors in nutrient monitoring has spurred extensive research into nanomaterial-based field-effect transistor (FET) sensors, driven by their distinct advantages in real-time detection, ultra low detection limits, miniaturized system, and digital readouts. However, real-world applications of these sensors suffer from batch variations, sample matrix effects and Debye length screening issues, which could severely impair the reliability of the device.\nGraduate student [Wen Zhuang](https://pme.uchicago.edu/de-pablo-group/people/wen-zhuang), along with Professor [Junhong Chen](https://pme.uchicago.edu/faculty/junhong-chen) and [Dr. Haihui Pu](https://pme.uchicago.edu/junhong-chen-research-group/people/haihui-pu) are utilizing a deep-learning approach based on a multiplexed sensor array platform to overcome the challenges in the sensing accuracy and reliability of FET sensors and achieve real-time monitoring of multiple nutrient ions simultaneously.\nPrincipal Investigators: Wen Zhuang (UChicago), Junhong Chen (UChicago & Argonne), Dr. Haihui Pu (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

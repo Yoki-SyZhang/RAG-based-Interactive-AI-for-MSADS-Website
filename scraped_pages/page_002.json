@@ -1,0 +1,175 @@
+{
+  "page_url": "https://datascience.uchicago.edu/education/masters-programs",
+  "page_title": "Master's Programs | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Education",
+      "href": "https://datascience.uchicago.edu/education"
+    },
+    {
+      "text": "Masters Programs",
+      "href": "https://datascience.uchicago.edu/education/masters-programs"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:31.565262+00:00",
+  "all_text_markdown": "Share\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nMaster’s Programs\nThe Data Science Institute supports master’s-level education through three programs:\nMS in Applied Data Science\nOur Online and In-Person degree will advance your career in the exciting field of data science. Rigorous classes, expert instructors, leading-edge technology, and an unparalleled network support your student experience as a full- or part-time learner.\n[Learn More](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science)\nMS in Computational Analysis and Public Policy (MSCAPP)\nA rigorous, two-year program offered jointly by the Harris School of Public Policy and the UChicago Department of Computer Science. MSCAPP students work with external social impact organizations through our [Data Science Clinic](https://datascience.uchicago.edu/data-science-clinic) and Community Data Fellows program.\n[Learn More](https://capp.uchicago.edu)\nMS in Data Science\nThe Master’s in Data Science (MSDS) has been developed for students interested in pursuing a research career in data science with courses taught by faculty from the departments of statistics, computer science, and many other departments across the university.\n[Learn More](https://codas.uchicago.edu/academics/ms-data-science)\nMBA/MS in Applied Data Science\nEarn a high-powered joint degree at the intersection of business and technology. An MBA and Applied Data Science degree equips you to bridge the gap between tech and management and provide effective leadership in data-centric environments.\n[Learn More](https://www.chicagobooth.edu/mba/joint-degree/mba-ms-applied-data-science)\nMS in Applied Data Science Leadership\n[Greg Green Senior Instructional Professor; Senior Director of the DSI Polsky Transform Initiative; Senior Director of DSI Executive and Professional Education](https://datascience.uchicago.edu/people/greg-green)\nGreg Green\n[Briana Allen, MEd Executive Director, MS Applied Data Science Program](https://datascience.uchicago.edu/people/briana-allen)\nBriana Allen, MEd\nGreg Green is Senior Instructional Professor and Director of the MS in Applied Data Science Program at the University of Chicago, and Senior Director for Industrial Partnerships and Strategy at the Data Science Institute. Dr. Green helps the University of Chicago professional data science students learn to apply data science to solve complex industry problems with greater impact.\nDr. Green is reshaping the content and approaches used to educate the next generation of professional data scientists at the University of Chicago. Additionally, Greg is designing new, creative offerings more deeply connected to MS and PhD research programs in Data Science, Computer Science, Statistics, and Financial Mathematics. New course offerings developed and launched since joining the University of Chicago include an innovative approach to “Leadership in Data Science and Artificial Intelligence”, “Consulting in Data Science” and “Your Career in Data Science”.\nThroughout his professional career, Greg has used his expertise in digital strategies, business analytics, and new product development to drive rapid revenue growth and accelerate business transformation. His previous work bringing innovation to an academic environment included authoring a Marketing Analytics course, designing a pre-requisite applied statistics course and serving as a lecturer for Marketing Analytics at Northwestern University.\nGreg’s industry roles include Chief Analytics Officer at Harland Clarke Holdings, Director at Google, EVP/Managing Director at Publicis Groupe, and Analytics Practice Lead at PwC. Greg’s patented cloud-based media analytics platform was highlighted in Harvard Business Review and Fast Company.\nGreg holds a Doctor of Philosophy in Mathematics from Claremont Graduate School and a Master of Science in Statistics from Michigan State University. Born in Owosso, Michigan, Greg is married to Jill, an artist, and their adult children include two more artists, a teacher, and an engineer. Greg and his family enjoy snowboarding, snow/water skiing and live theatre—as well as good food and friendships. Their passion for the environment is reflected in a love for Lake Michigan where they like to spend as much of the summer as possible.\nBriana Allen serves as the Executive Director of the MS Applied Data Science Program. Briana oversees the day-to-day responsibilities of the Instructional Services and Operations teams. Briana holds a Master of Technology in Education and has a background in instructional design, with an emphasis in online course design. As a Quality Matters Certified Peer Reviewer, Briana focuses on the intersection of quality of online course development and student experiences, including how online best practices can be leveraged by in-person courses. Briana is passionate about mentoring instructors in the creation of high-quality instructional resources, leveraging active learning strategies, and applying instructional technologies that create engaging student experiences across all modalities.\nRelated News, Insights, and Past Events\nPIT-UN Grant Supports DSI Community Data Fellows Program\nMSCAPP Conference Invites Conversation About AI Research, Ethics, and Equality",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Master’s Programs"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Data Science Institute supports master’s-level education through three programs:"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "MS in Applied Data Science"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our Online and In-Person degree will advance your career in the exciting field of data science. Rigorous classes, expert instructors, leading-edge technology, and an unparalleled network support your student experience as a full- or part-time learner."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Learn More](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science)"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "MS in Computational Analysis and Public Policy (MSCAPP)"
+        },
+        {
+          "type": "paragraph",
+          "text": "A rigorous, two-year program offered jointly by the Harris School of Public Policy and the UChicago Department of Computer Science. MSCAPP students work with external social impact organizations through our [Data Science Clinic](https://datascience.uchicago.edu/data-science-clinic) and Community Data Fellows program."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Learn More](https://capp.uchicago.edu)"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "MS in Data Science"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Master’s in Data Science (MSDS) has been developed for students interested in pursuing a research career in data science with courses taught by faculty from the departments of statistics, computer science, and many other departments across the university."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Learn More](https://codas.uchicago.edu/academics/ms-data-science)"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "MBA/MS in Applied Data Science"
+        },
+        {
+          "type": "paragraph",
+          "text": "Earn a high-powered joint degree at the intersection of business and technology. An MBA and Applied Data Science degree equips you to bridge the gap between tech and management and provide effective leadership in data-centric environments."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Learn More](https://www.chicagobooth.edu/mba/joint-degree/mba-ms-applied-data-science)"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MS in Applied Data Science Leadership"
+        },
+        {
+          "type": "list_item",
+          "text": "[Greg Green Senior Instructional Professor; Senior Director of the DSI Polsky Transform Initiative; Senior Director of DSI Executive and Professional Education](https://datascience.uchicago.edu/people/greg-green)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Greg Green"
+        },
+        {
+          "type": "list_item",
+          "text": "[Briana Allen, MEd Executive Director, MS Applied Data Science Program](https://datascience.uchicago.edu/people/briana-allen)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Briana Allen, MEd"
+        },
+        {
+          "type": "paragraph",
+          "text": "Greg Green is Senior Instructional Professor and Director of the MS in Applied Data Science Program at the University of Chicago, and Senior Director for Industrial Partnerships and Strategy at the Data Science Institute. Dr. Green helps the University of Chicago professional data science students learn to apply data science to solve complex industry problems with greater impact."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dr. Green is reshaping the content and approaches used to educate the next generation of professional data scientists at the University of Chicago. Additionally, Greg is designing new, creative offerings more deeply connected to MS and PhD research programs in Data Science, Computer Science, Statistics, and Financial Mathematics. New course offerings developed and launched since joining the University of Chicago include an innovative approach to “Leadership in Data Science and Artificial Intelligence”, “Consulting in Data Science” and “Your Career in Data Science”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Throughout his professional career, Greg has used his expertise in digital strategies, business analytics, and new product development to drive rapid revenue growth and accelerate business transformation. His previous work bringing innovation to an academic environment included authoring a Marketing Analytics course, designing a pre-requisite applied statistics course and serving as a lecturer for Marketing Analytics at Northwestern University."
+        },
+        {
+          "type": "paragraph",
+          "text": "Greg’s industry roles include Chief Analytics Officer at Harland Clarke Holdings, Director at Google, EVP/Managing Director at Publicis Groupe, and Analytics Practice Lead at PwC. Greg’s patented cloud-based media analytics platform was highlighted in Harvard Business Review and Fast Company."
+        },
+        {
+          "type": "paragraph",
+          "text": "Greg holds a Doctor of Philosophy in Mathematics from Claremont Graduate School and a Master of Science in Statistics from Michigan State University. Born in Owosso, Michigan, Greg is married to Jill, an artist, and their adult children include two more artists, a teacher, and an engineer. Greg and his family enjoy snowboarding, snow/water skiing and live theatre—as well as good food and friendships. Their passion for the environment is reflected in a love for Lake Michigan where they like to spend as much of the summer as possible."
+        },
+        {
+          "type": "paragraph",
+          "text": "Briana Allen serves as the Executive Director of the MS Applied Data Science Program. Briana oversees the day-to-day responsibilities of the Instructional Services and Operations teams. Briana holds a Master of Technology in Education and has a background in instructional design, with an emphasis in online course design. As a Quality Matters Certified Peer Reviewer, Briana focuses on the intersection of quality of online course development and student experiences, including how online best practices can be leveraged by in-person courses. Briana is passionate about mentoring instructors in the creation of high-quality instructional resources, leveraging active learning strategies, and applying instructional technologies that create engaging student experiences across all modalities."
+        }
+      ],
+      "text_markdown": "## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\n# Master’s Programs\nThe Data Science Institute supports master’s-level education through three programs:\n#### MS in Applied Data Science\nOur Online and In-Person degree will advance your career in the exciting field of data science. Rigorous classes, expert instructors, leading-edge technology, and an unparalleled network support your student experience as a full- or part-time learner.\n[Learn More](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science)\n#### MS in Computational Analysis and Public Policy (MSCAPP)\nA rigorous, two-year program offered jointly by the Harris School of Public Policy and the UChicago Department of Computer Science. MSCAPP students work with external social impact organizations through our [Data Science Clinic](https://datascience.uchicago.edu/data-science-clinic) and Community Data Fellows program.\n[Learn More](https://capp.uchicago.edu)\n#### MS in Data Science\nThe Master’s in Data Science (MSDS) has been developed for students interested in pursuing a research career in data science with courses taught by faculty from the departments of statistics, computer science, and many other departments across the university.\n[Learn More](https://codas.uchicago.edu/academics/ms-data-science)\n#### MBA/MS in Applied Data Science\nEarn a high-powered joint degree at the intersection of business and technology. An MBA and Applied Data Science degree equips you to bridge the gap between tech and management and provide effective leadership in data-centric environments.\n[Learn More](https://www.chicagobooth.edu/mba/joint-degree/mba-ms-applied-data-science)\n### MS in Applied Data Science Leadership\n- [Greg Green Senior Instructional Professor; Senior Director of the DSI Polsky Transform Initiative; Senior Director of DSI Executive and Professional Education](https://datascience.uchicago.edu/people/greg-green)\n# Greg Green\n- [Briana Allen, MEd Executive Director, MS Applied Data Science Program](https://datascience.uchicago.edu/people/briana-allen)\n# Briana Allen, MEd\nGreg Green is Senior Instructional Professor and Director of the MS in Applied Data Science Program at the University of Chicago, and Senior Director for Industrial Partnerships and Strategy at the Data Science Institute. Dr. Green helps the University of Chicago professional data science students learn to apply data science to solve complex industry problems with greater impact.\nDr. Green is reshaping the content and approaches used to educate the next generation of professional data scientists at the University of Chicago. Additionally, Greg is designing new, creative offerings more deeply connected to MS and PhD research programs in Data Science, Computer Science, Statistics, and Financial Mathematics. New course offerings developed and launched since joining the University of Chicago include an innovative approach to “Leadership in Data Science and Artificial Intelligence”, “Consulting in Data Science” and “Your Career in Data Science”.\nThroughout his professional career, Greg has used his expertise in digital strategies, business analytics, and new product development to drive rapid revenue growth and accelerate business transformation. His previous work bringing innovation to an academic environment included authoring a Marketing Analytics course, designing a pre-requisite applied statistics course and serving as a lecturer for Marketing Analytics at Northwestern University.\nGreg’s industry roles include Chief Analytics Officer at Harland Clarke Holdings, Director at Google, EVP/Managing Director at Publicis Groupe, and Analytics Practice Lead at PwC. Greg’s patented cloud-based media analytics platform was highlighted in Harvard Business Review and Fast Company.\nGreg holds a Doctor of Philosophy in Mathematics from Claremont Graduate School and a Master of Science in Statistics from Michigan State University. Born in Owosso, Michigan, Greg is married to Jill, an artist, and their adult children include two more artists, a teacher, and an engineer. Greg and his family enjoy snowboarding, snow/water skiing and live theatre—as well as good food and friendships. Their passion for the environment is reflected in a love for Lake Michigan where they like to spend as much of the summer as possible.\nBriana Allen serves as the Executive Director of the MS Applied Data Science Program. Briana oversees the day-to-day responsibilities of the Instructional Services and Operations teams. Briana holds a Master of Technology in Education and has a background in instructional design, with an emphasis in online course design. As a Quality Matters Certified Peer Reviewer, Briana focuses on the intersection of quality of online course development and student experiences, including how online best practices can be leveraged by in-person courses. Briana is passionate about mentoring instructors in the creation of high-quality instructional resources, leveraging active learning strategies, and applying instructional technologies that create engaging student experiences across all modalities."
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "PIT-UN Grant Supports DSI Community Data Fellows Program"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MSCAPP Conference Invites Conversation About AI Research, Ethics, and Equality"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## PIT-UN Grant Supports DSI Community Data Fellows Program\n## MSCAPP Conference Invites Conversation About AI Research, Ethics, and Equality"
+    }
+  ]
+}

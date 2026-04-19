@@ -1,0 +1,101 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/interconnection-measurement-project",
+  "page_title": "Interconnection Measurement Project | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Interconnection Measurement Project",
+      "href": "https://datascience.uchicago.edu/research/interconnection-measurement-project"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:13.818405+00:00",
+  "all_text_markdown": "Interconnection Measurement Project\n[Interconnection Measurement Project](https://datascience.uchicago.edu/research/interconnection-measurement-project)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nParticipating Internet Service Providers have installed a common tool to measure traffic at their interconnects, the individual points where ISPs exchange traffic with the greater Internet. This effort includes multiple ISPs, providing direct information on the capacity and utilization of interconnects. All data and visualizations are of ingress capacity and utilization.\nAcross the approximately 2900 links included in the data set, representing the diverse and broadly substitutable routes available for Internet traffic flows, the Project reveals an approximate 31% use of the capacity during peak periods in June 2021. The data further shows that ISPs are adding capacity to address continued traffic growth. Further segmentation and analysis of the data is available below. The Project will regularly refresh the data and analysis to provide a dynamic picture of how the Internet is evolving.\nData Science Institute and the participating ISPs will annually assess whether the project remains relevant as broadband network technologies and Internet interconnection architectures continue to evolve.\nRead more at [the project website](https://interconnection.cs.uchicago.edu).\n[Image: “The Quest for Better Interconnect,” by [Steve Jurvetson](https://www.flickr.com/photos/44124348109@N01/47239112461)]\nProject Director: Nick Feamster (Neubauer Professor, Department of Computer Science)\nMore Projects\nFacebook Messenger Chatbot for Surveys and Intervention Testing\nUnderstanding and Auditing Content Moderation Policies\nPartisan Polarization and Political Dysfunction",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Interconnection Measurement Project](https://datascience.uchicago.edu/research/interconnection-measurement-project)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Participating Internet Service Providers have installed a common tool to measure traffic at their interconnects, the individual points where ISPs exchange traffic with the greater Internet. This effort includes multiple ISPs, providing direct information on the capacity and utilization of interconnects. All data and visualizations are of ingress capacity and utilization."
+        },
+        {
+          "type": "paragraph",
+          "text": "Across the approximately 2900 links included in the data set, representing the diverse and broadly substitutable routes available for Internet traffic flows, the Project reveals an approximate 31% use of the capacity during peak periods in June 2021. The data further shows that ISPs are adding capacity to address continued traffic growth. Further segmentation and analysis of the data is available below. The Project will regularly refresh the data and analysis to provide a dynamic picture of how the Internet is evolving."
+        },
+        {
+          "type": "paragraph",
+          "text": "Data Science Institute and the participating ISPs will annually assess whether the project remains relevant as broadband network technologies and Internet interconnection architectures continue to evolve."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read more at [the project website](https://interconnection.cs.uchicago.edu)."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Image: “The Quest for Better Interconnect,” by [Steve Jurvetson](https://www.flickr.com/photos/44124348109@N01/47239112461)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Project Director: Nick Feamster (Neubauer Professor, Department of Computer Science)"
+        }
+      ],
+      "text_markdown": "## [Interconnection Measurement Project](https://datascience.uchicago.edu/research/interconnection-measurement-project)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nParticipating Internet Service Providers have installed a common tool to measure traffic at their interconnects, the individual points where ISPs exchange traffic with the greater Internet. This effort includes multiple ISPs, providing direct information on the capacity and utilization of interconnects. All data and visualizations are of ingress capacity and utilization.\nAcross the approximately 2900 links included in the data set, representing the diverse and broadly substitutable routes available for Internet traffic flows, the Project reveals an approximate 31% use of the capacity during peak periods in June 2021. The data further shows that ISPs are adding capacity to address continued traffic growth. Further segmentation and analysis of the data is available below. The Project will regularly refresh the data and analysis to provide a dynamic picture of how the Internet is evolving.\nData Science Institute and the participating ISPs will annually assess whether the project remains relevant as broadband network technologies and Internet interconnection architectures continue to evolve.\nRead more at [the project website](https://interconnection.cs.uchicago.edu).\n[Image: “The Quest for Better Interconnect,” by [Steve Jurvetson](https://www.flickr.com/photos/44124348109@N01/47239112461)]\nProject Director: Nick Feamster (Neubauer Professor, Department of Computer Science)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Facebook Messenger Chatbot for Surveys and Intervention Testing"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Understanding and Auditing Content Moderation Policies"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Partisan Polarization and Political Dysfunction"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Facebook Messenger Chatbot for Surveys and Intervention Testing\n## Understanding and Auditing Content Moderation Policies\n## Partisan Polarization and Political Dysfunction"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/engineering-opportunity-identifying-optimal-skill-and-relationship-mixtures",
+  "page_title": "Identifying Optimal Skill and Relationship Mixtures | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Engineering Opportunity Identifying Optimal Skill And Relationship Mixtures",
+      "href": "https://datascience.uchicago.edu/research/engineering-opportunity-identifying-optimal-skill-and-relationship-mixtures"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:01.976748+00:00",
+  "all_text_markdown": "Identifying Optimal Skill and Relationship Mixtures\n[Identifying Optimal Skill and Relationship Mixtures](https://datascience.uchicago.edu/research/engineering-opportunity-identifying-optimal-skill-and-relationship-mixtures)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nTrends in automation and the digital reorganization of work pose challenges for those seeking to make strategic skilling and hiring decisions. Existing scholarship offers limited guidance for these decisions as it tends to model sectors of the knowledge economy as modules, rather than parts of a connected, adaptive system. This project will leverage unprecedented access to the complete LinkedIn dataset to identify mixtures of knowledge, skills, and relationships that maximize income and future potential for individual participants in the knowledge economy. Coupled with enterprise and regional data, the researchers will perform natural experiments to evaluate predictions about marginal skill development and optimal skill sourcing to yield a wealth of intellectual, technological, and commercial innovations that will have a direct and positive impact on society.\nPrincipal Investigators: James Evans (Professor, Sociology), Eamon Duede (PhD Candidate, University of Chicago), Lingfei Wu (Assistant Professor, Department of Informatics and Networked Systems, University of Pittsburgh), Matthew Gee (PhD Candidate, University of Chicago)\nMore Projects\nFacebook Messenger Chatbot for Surveys and Intervention Testing\nUnderstanding Divergent Interpretations of Political Information\nUnderstanding and Auditing Content Moderation Policies",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Identifying Optimal Skill and Relationship Mixtures](https://datascience.uchicago.edu/research/engineering-opportunity-identifying-optimal-skill-and-relationship-mixtures)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Trends in automation and the digital reorganization of work pose challenges for those seeking to make strategic skilling and hiring decisions. Existing scholarship offers limited guidance for these decisions as it tends to model sectors of the knowledge economy as modules, rather than parts of a connected, adaptive system. This project will leverage unprecedented access to the complete LinkedIn dataset to identify mixtures of knowledge, skills, and relationships that maximize income and future potential for individual participants in the knowledge economy. Coupled with enterprise and regional data, the researchers will perform natural experiments to evaluate predictions about marginal skill development and optimal skill sourcing to yield a wealth of intellectual, technological, and commercial innovations that will have a direct and positive impact on society."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: James Evans (Professor, Sociology), Eamon Duede (PhD Candidate, University of Chicago), Lingfei Wu (Assistant Professor, Department of Informatics and Networked Systems, University of Pittsburgh), Matthew Gee (PhD Candidate, University of Chicago)"
+        }
+      ],
+      "text_markdown": "## [Identifying Optimal Skill and Relationship Mixtures](https://datascience.uchicago.edu/research/engineering-opportunity-identifying-optimal-skill-and-relationship-mixtures)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nTrends in automation and the digital reorganization of work pose challenges for those seeking to make strategic skilling and hiring decisions. Existing scholarship offers limited guidance for these decisions as it tends to model sectors of the knowledge economy as modules, rather than parts of a connected, adaptive system. This project will leverage unprecedented access to the complete LinkedIn dataset to identify mixtures of knowledge, skills, and relationships that maximize income and future potential for individual participants in the knowledge economy. Coupled with enterprise and regional data, the researchers will perform natural experiments to evaluate predictions about marginal skill development and optimal skill sourcing to yield a wealth of intellectual, technological, and commercial innovations that will have a direct and positive impact on society.\nPrincipal Investigators: James Evans (Professor, Sociology), Eamon Duede (PhD Candidate, University of Chicago), Lingfei Wu (Assistant Professor, Department of Informatics and Networked Systems, University of Pittsburgh), Matthew Gee (PhD Candidate, University of Chicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Facebook Messenger Chatbot for Surveys and Intervention Testing"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Understanding Divergent Interpretations of Political Information"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Understanding and Auditing Content Moderation Policies"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Facebook Messenger Chatbot for Surveys and Intervention Testing\n## Understanding Divergent Interpretations of Political Information\n## Understanding and Auditing Content Moderation Policies"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "page_url": "https://datascience.uchicago.edu/outreach/data4all/educational-materials",
+  "page_title": "Educational Materials | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Outreach",
+      "href": "https://datascience.uchicago.edu/outreach"
+    },
+    {
+      "text": "Data4All",
+      "href": "https://datascience.uchicago.edu/outreach/data4all"
+    },
+    {
+      "text": "Educational Materials",
+      "href": "https://datascience.uchicago.edu/outreach/data4all/educational-materials"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:33.468794+00:00",
+  "all_text_markdown": "Data4All High School Bridge Workshop facet-arrow-down\n[Data4All Mentor – Job Opportunity](https://datascience.uchicago.edu/education/data4all/undergrad-mentor)\n[Apply – Spring 2026](https://datascience.uchicago.edu/outreach/data4all/apply)\n[Educational Materials](https://datascience.uchicago.edu/outreach/data4all/educational-materials)\n[Data4All High School Bridge Workshop](https://datascience.uchicago.edu/outreach/data4all)\n[Data4All Mentor – Job Opportunity](https://datascience.uchicago.edu/education/data4all/undergrad-mentor)\n[Apply – Spring 2026](https://datascience.uchicago.edu/outreach/data4all/apply)\n[Educational Materials](https://datascience.uchicago.edu/outreach/data4all/educational-materials)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nEducational Materials\nThe Data4All Curriculum\nThe Data4All curriculum was developed through a collaboration with the Data Science Institute, [Argonne National Laboratory](https://www.anl.gov/education), and the [Center for Spatial Data Science](https://spatial.uchicago.edu/education/scientific-reasoning). The program utilizes a unique instructional approach to engage students interactively and facilitate project-based learning through the use of public health case studies. Throughout the program, the Data Science Reasoning Framework (DSRF) is repeatedly referenced to remind students that problem solving is an iterative process that requires asking testable questions, gathering evidence with data, refining hypotheses and proposed explanations, and articulating claims with evidence-based reasoning. A depiction of the DSFR is shown below. Click the image to see a bigger version of the DSRF.\nhttps://datascience.uchicago.edu/wp-content/uploads/2024/10/DSRF_title.pdf\nInstructional Approach\nSpark Activities\nSpark activities are short, low-risk activities designed to introduce students to the key concepts of the main lesson in an intuitive and playful way. The goals of the spark activities are to 1) help transition students from outside activities to the day’s lesson, 2) elicit prior knowledge, 3) serve as a formative assessment to help guide the instruction of the main lesson, 4) build an intuitive understanding of the technical concepts covered in class, and 5) to be a fun activity to help build a sense of classroom community. Spark activities are diverse in their form and approach to achieving student engagement.\nGoogle Colab and Jupyter/Colab Notebooks\nThe notebooks are largely independent work where students will be able to develop their computational thinking, coding and data science reasoning skills concurrently. Each notebook has a specific goal that the students are working towards and provides the opportunity to directly work with the data on a practical level. If they have questions, they can work with their small groups and their near-peer mentor.\nThe notebooks will use the “Use, Modify, Create” approach to coding. This means that the notebooks will often already have functioning code. Depending on the task, students simply need to run a cell of code (Use) or change (Modify) individual elements like variables and parameters of functions and view the output. As the workshop progresses and the students become more familiar with the code, students will be asked to write (Create) more of their code from scratch. This can include pulling code from other notebooks.\nInterspersed through the notebooks are “Journal” prompts where students are asked to check understanding, reflect and predict. The journal prompts are an essential part of the notebook experience and students should be held accountable to record their thoughts in these spaces. This is valuable from a learning perspective and it enhances the notebook’s value to the student beyond the workshop as they can refer back to their thinking.\nClassroom Structure\nData4All was originally structured to facilitate project-based learning through group collaboration. The program consists of 30 students divided into 6 groups. Each group had an assigned mentor that would help lead them through notebooks and activities. While this structure is not necessary to implement the curriculum, students have been shown to benefit from the help of near-peer mentors with a bit more experience in data science. Depending on your classroom size, adjustments can be made. If it is not possible to facilitate the aforementioned structure in your classroom environment, consider prioritizing group work for activities and discussions. The notebooks are structured such that students can work on them individually, in pairs, or in small groups.\nSmall Group Discussion\nSmall group discussions are an essential part of the curriculum as they are often used to enhance student voice, wrestle with challenging concepts, and solidify understanding. They are also a forum where students feel more comfortable to ask about coding bugs and gaps in understanding. Undergraduate students lead small group discussions and activities to facilitate collaboration and learning.\nLarge Group Discussion\nThese are opportunities for the whole class to tie everything together, e.g. in the “town hall” capstone experience in the last week where students articulate their evidence-based arguments to “public health decision makers”.\nLectures\nLectures are presentations to the whole class to introduce and explain key concepts of a class, such as the difference between correlation and causation or between proxy variables (such as demographic characteristics) and explanatory mechanisms.\nGuest Speakers\nGuest speakers give students an overview of how the workshop content is related to college and career options. E.g., in 2022, two PhD biologists walked students through innovative case studies of how they used data science to solve problems that save lives and improve health. Other speakers explained their own career trajectories to make the steps for choosing college majors and careers more transparent. They also overviewed where and how to access college and career information.\nCurriculum Materials\nAll materials for the program can be found on our [Github repository](https://github.com/uchicago-dsi/data4all/tree/published).",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Data4All High School Bridge Workshop](https://datascience.uchicago.edu/outreach/data4all)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Data4All Mentor – Job Opportunity](https://datascience.uchicago.edu/education/data4all/undergrad-mentor)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Apply – Spring 2026](https://datascience.uchicago.edu/outreach/data4all/apply)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Educational Materials](https://datascience.uchicago.edu/outreach/data4all/educational-materials)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Educational Materials"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "The Data4All Curriculum"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Data4All curriculum was developed through a collaboration with the Data Science Institute, [Argonne National Laboratory](https://www.anl.gov/education), and the [Center for Spatial Data Science](https://spatial.uchicago.edu/education/scientific-reasoning). The program utilizes a unique instructional approach to engage students interactively and facilitate project-based learning through the use of public health case studies. Throughout the program, the Data Science Reasoning Framework (DSRF) is repeatedly referenced to remind students that problem solving is an iterative process that requires asking testable questions, gathering evidence with data, refining hypotheses and proposed explanations, and articulating claims with evidence-based reasoning. A depiction of the DSFR is shown below. Click the image to see a bigger version of the DSRF."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://datascience.uchicago.edu/wp-content/uploads/2024/10/DSRF_title.pdf"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Instructional Approach"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Spark Activities"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spark activities are short, low-risk activities designed to introduce students to the key concepts of the main lesson in an intuitive and playful way. The goals of the spark activities are to 1) help transition students from outside activities to the day’s lesson, 2) elicit prior knowledge, 3) serve as a formative assessment to help guide the instruction of the main lesson, 4) build an intuitive understanding of the technical concepts covered in class, and 5) to be a fun activity to help build a sense of classroom community. Spark activities are diverse in their form and approach to achieving student engagement."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Google Colab and Jupyter/Colab Notebooks"
+        },
+        {
+          "type": "paragraph",
+          "text": "The notebooks are largely independent work where students will be able to develop their computational thinking, coding and data science reasoning skills concurrently. Each notebook has a specific goal that the students are working towards and provides the opportunity to directly work with the data on a practical level. If they have questions, they can work with their small groups and their near-peer mentor."
+        },
+        {
+          "type": "paragraph",
+          "text": "The notebooks will use the “Use, Modify, Create” approach to coding. This means that the notebooks will often already have functioning code. Depending on the task, students simply need to run a cell of code (Use) or change (Modify) individual elements like variables and parameters of functions and view the output. As the workshop progresses and the students become more familiar with the code, students will be asked to write (Create) more of their code from scratch. This can include pulling code from other notebooks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Interspersed through the notebooks are “Journal” prompts where students are asked to check understanding, reflect and predict. The journal prompts are an essential part of the notebook experience and students should be held accountable to record their thoughts in these spaces. This is valuable from a learning perspective and it enhances the notebook’s value to the student beyond the workshop as they can refer back to their thinking."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Classroom Structure"
+        },
+        {
+          "type": "paragraph",
+          "text": "Data4All was originally structured to facilitate project-based learning through group collaboration. The program consists of 30 students divided into 6 groups. Each group had an assigned mentor that would help lead them through notebooks and activities. While this structure is not necessary to implement the curriculum, students have been shown to benefit from the help of near-peer mentors with a bit more experience in data science. Depending on your classroom size, adjustments can be made. If it is not possible to facilitate the aforementioned structure in your classroom environment, consider prioritizing group work for activities and discussions. The notebooks are structured such that students can work on them individually, in pairs, or in small groups."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Small Group Discussion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Small group discussions are an essential part of the curriculum as they are often used to enhance student voice, wrestle with challenging concepts, and solidify understanding. They are also a forum where students feel more comfortable to ask about coding bugs and gaps in understanding. Undergraduate students lead small group discussions and activities to facilitate collaboration and learning."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Large Group Discussion"
+        },
+        {
+          "type": "paragraph",
+          "text": "These are opportunities for the whole class to tie everything together, e.g. in the “town hall” capstone experience in the last week where students articulate their evidence-based arguments to “public health decision makers”."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Lectures"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lectures are presentations to the whole class to introduce and explain key concepts of a class, such as the difference between correlation and causation or between proxy variables (such as demographic characteristics) and explanatory mechanisms."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Guest Speakers"
+        },
+        {
+          "type": "paragraph",
+          "text": "Guest speakers give students an overview of how the workshop content is related to college and career options. E.g., in 2022, two PhD biologists walked students through innovative case studies of how they used data science to solve problems that save lives and improve health. Other speakers explained their own career trajectories to make the steps for choosing college majors and careers more transparent. They also overviewed where and how to access college and career information."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Curriculum Materials"
+        },
+        {
+          "type": "paragraph",
+          "text": "All materials for the program can be found on our [Github repository](https://github.com/uchicago-dsi/data4all/tree/published)."
+        }
+      ],
+      "text_markdown": "## [Data4All High School Bridge Workshop](https://datascience.uchicago.edu/outreach/data4all)\n- [Data4All Mentor – Job Opportunity](https://datascience.uchicago.edu/education/data4all/undergrad-mentor)\n- [Apply – Spring 2026](https://datascience.uchicago.edu/outreach/data4all/apply)\n- [Educational Materials](https://datascience.uchicago.edu/outreach/data4all/educational-materials)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\n# Educational Materials\n# The Data4All Curriculum\nThe Data4All curriculum was developed through a collaboration with the Data Science Institute, [Argonne National Laboratory](https://www.anl.gov/education), and the [Center for Spatial Data Science](https://spatial.uchicago.edu/education/scientific-reasoning). The program utilizes a unique instructional approach to engage students interactively and facilitate project-based learning through the use of public health case studies. Throughout the program, the Data Science Reasoning Framework (DSRF) is repeatedly referenced to remind students that problem solving is an iterative process that requires asking testable questions, gathering evidence with data, refining hypotheses and proposed explanations, and articulating claims with evidence-based reasoning. A depiction of the DSFR is shown below. Click the image to see a bigger version of the DSRF.\nhttps://datascience.uchicago.edu/wp-content/uploads/2024/10/DSRF_title.pdf\n# Instructional Approach\n## Spark Activities\nSpark activities are short, low-risk activities designed to introduce students to the key concepts of the main lesson in an intuitive and playful way. The goals of the spark activities are to 1) help transition students from outside activities to the day’s lesson, 2) elicit prior knowledge, 3) serve as a formative assessment to help guide the instruction of the main lesson, 4) build an intuitive understanding of the technical concepts covered in class, and 5) to be a fun activity to help build a sense of classroom community. Spark activities are diverse in their form and approach to achieving student engagement.\n## Google Colab and Jupyter/Colab Notebooks\nThe notebooks are largely independent work where students will be able to develop their computational thinking, coding and data science reasoning skills concurrently. Each notebook has a specific goal that the students are working towards and provides the opportunity to directly work with the data on a practical level. If they have questions, they can work with their small groups and their near-peer mentor.\nThe notebooks will use the “Use, Modify, Create” approach to coding. This means that the notebooks will often already have functioning code. Depending on the task, students simply need to run a cell of code (Use) or change (Modify) individual elements like variables and parameters of functions and view the output. As the workshop progresses and the students become more familiar with the code, students will be asked to write (Create) more of their code from scratch. This can include pulling code from other notebooks.\nInterspersed through the notebooks are “Journal” prompts where students are asked to check understanding, reflect and predict. The journal prompts are an essential part of the notebook experience and students should be held accountable to record their thoughts in these spaces. This is valuable from a learning perspective and it enhances the notebook’s value to the student beyond the workshop as they can refer back to their thinking.\n## Classroom Structure\nData4All was originally structured to facilitate project-based learning through group collaboration. The program consists of 30 students divided into 6 groups. Each group had an assigned mentor that would help lead them through notebooks and activities. While this structure is not necessary to implement the curriculum, students have been shown to benefit from the help of near-peer mentors with a bit more experience in data science. Depending on your classroom size, adjustments can be made. If it is not possible to facilitate the aforementioned structure in your classroom environment, consider prioritizing group work for activities and discussions. The notebooks are structured such that students can work on them individually, in pairs, or in small groups.\n## Small Group Discussion\nSmall group discussions are an essential part of the curriculum as they are often used to enhance student voice, wrestle with challenging concepts, and solidify understanding. They are also a forum where students feel more comfortable to ask about coding bugs and gaps in understanding. Undergraduate students lead small group discussions and activities to facilitate collaboration and learning.\n## Large Group Discussion\nThese are opportunities for the whole class to tie everything together, e.g. in the “town hall” capstone experience in the last week where students articulate their evidence-based arguments to “public health decision makers”.\n## Lectures\nLectures are presentations to the whole class to introduce and explain key concepts of a class, such as the difference between correlation and causation or between proxy variables (such as demographic characteristics) and explanatory mechanisms.\n## Guest Speakers\nGuest speakers give students an overview of how the workshop content is related to college and career options. E.g., in 2022, two PhD biologists walked students through innovative case studies of how they used data science to solve problems that save lives and improve health. Other speakers explained their own career trajectories to make the steps for choosing college majors and careers more transparent. They also overviewed where and how to access college and career information.\n## Curriculum Materials\nAll materials for the program can be found on our [Github repository](https://github.com/uchicago-dsi/data4all/tree/published)."
+    }
+  ]
+}

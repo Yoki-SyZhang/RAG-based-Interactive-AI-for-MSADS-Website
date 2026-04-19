@@ -1,0 +1,89 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/discovering-the-design-rules-linking-protein-sequence-to-function",
+  "page_title": "Discovering the Design Rules Linking Protein Sequence to Function | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Discovering The Design Rules Linking Protein Sequence To Function",
+      "href": "https://datascience.uchicago.edu/research/discovering-the-design-rules-linking-protein-sequence-to-function"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:19.026881+00:00",
+  "all_text_markdown": "Discovering the Design Rules Linking Protein Sequence to Function\n[Discovering the Design Rules Linking Protein Sequence to Function](https://datascience.uchicago.edu/research/discovering-the-design-rules-linking-protein-sequence-to-function)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nOver the past decade, our ability to read, write, and edit exhaustive amount of DNA comprising complete genomes has flourished, leading to vast amounts of rich biological data available for analysis. However, a significant bottleneck is our capacity to author and design meaningful genes that code for proteins that conduct desirable properties, elevated functions, or novel functions. With the recent breakthroughs in multi-modal models, which have achieved remarkable success in high-resolution text-to-image synthesis, we are now extending this technology to the realm of biophysics and protein engineering, specifically for text-to-protein sequence generation. This innovative approach enables the design of proteins with specified functionalities based on natural language prompts, with subsequent experimental verification conducted in our laboratory to confirm their practical utility and effectiveness.\nPhD student [Nikša Praljak](https://biophysics.uchicago.edu/the-students/niksa_praljak), along with Associate Professor [Andrew Ferguson](https://datascience.uchicago.edu/people/andrew-ferguson) and Professor [Rama Ranganathan](https://pme.uchicago.edu/faculty/rama-ranganathan) from the University of Chicago are tackling this challenge by leveraging data-driven models trained on protein sequences. They aim to decode the principles linking protein sequence to function, paving the way for the development of novel synthetic proteins in the lab. Their project is poised to introduce a pioneering platform that marries computational analysis with experimental procedures for the fast-track design of synthetic proteins, tailored to specific functionalities. This innovative platform not only circumvents the need for traditional alignments and introduces fresh sequence diversification strategies but also integrates active learning loops and the use of natural language prompts for guiding the text-to-protein generation process, enhancing the precision and scope of sequence-based protein design.\nPrincipal Investigators: Nikša Praljak (UChicago), Andrew Ferguson (UChicago), Rama Ranganathan (UChicago)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nMachine Learning Models for Predicting Heart Disease Progression\nBuilding Cyberinfrastructure for Rare-Event Searches",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Discovering the Design Rules Linking Protein Sequence to Function](https://datascience.uchicago.edu/research/discovering-the-design-rules-linking-protein-sequence-to-function)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the past decade, our ability to read, write, and edit exhaustive amount of DNA comprising complete genomes has flourished, leading to vast amounts of rich biological data available for analysis. However, a significant bottleneck is our capacity to author and design meaningful genes that code for proteins that conduct desirable properties, elevated functions, or novel functions. With the recent breakthroughs in multi-modal models, which have achieved remarkable success in high-resolution text-to-image synthesis, we are now extending this technology to the realm of biophysics and protein engineering, specifically for text-to-protein sequence generation. This innovative approach enables the design of proteins with specified functionalities based on natural language prompts, with subsequent experimental verification conducted in our laboratory to confirm their practical utility and effectiveness."
+        },
+        {
+          "type": "paragraph",
+          "text": "PhD student [Nikša Praljak](https://biophysics.uchicago.edu/the-students/niksa_praljak), along with Associate Professor [Andrew Ferguson](https://datascience.uchicago.edu/people/andrew-ferguson) and Professor [Rama Ranganathan](https://pme.uchicago.edu/faculty/rama-ranganathan) from the University of Chicago are tackling this challenge by leveraging data-driven models trained on protein sequences. They aim to decode the principles linking protein sequence to function, paving the way for the development of novel synthetic proteins in the lab. Their project is poised to introduce a pioneering platform that marries computational analysis with experimental procedures for the fast-track design of synthetic proteins, tailored to specific functionalities. This innovative platform not only circumvents the need for traditional alignments and introduces fresh sequence diversification strategies but also integrates active learning loops and the use of natural language prompts for guiding the text-to-protein generation process, enhancing the precision and scope of sequence-based protein design."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Nikša Praljak (UChicago), Andrew Ferguson (UChicago), Rama Ranganathan (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Discovering the Design Rules Linking Protein Sequence to Function](https://datascience.uchicago.edu/research/discovering-the-design-rules-linking-protein-sequence-to-function)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nOver the past decade, our ability to read, write, and edit exhaustive amount of DNA comprising complete genomes has flourished, leading to vast amounts of rich biological data available for analysis. However, a significant bottleneck is our capacity to author and design meaningful genes that code for proteins that conduct desirable properties, elevated functions, or novel functions. With the recent breakthroughs in multi-modal models, which have achieved remarkable success in high-resolution text-to-image synthesis, we are now extending this technology to the realm of biophysics and protein engineering, specifically for text-to-protein sequence generation. This innovative approach enables the design of proteins with specified functionalities based on natural language prompts, with subsequent experimental verification conducted in our laboratory to confirm their practical utility and effectiveness.\nPhD student [Nikša Praljak](https://biophysics.uchicago.edu/the-students/niksa_praljak), along with Associate Professor [Andrew Ferguson](https://datascience.uchicago.edu/people/andrew-ferguson) and Professor [Rama Ranganathan](https://pme.uchicago.edu/faculty/rama-ranganathan) from the University of Chicago are tackling this challenge by leveraging data-driven models trained on protein sequences. They aim to decode the principles linking protein sequence to function, paving the way for the development of novel synthetic proteins in the lab. Their project is poised to introduce a pioneering platform that marries computational analysis with experimental procedures for the fast-track design of synthetic proteins, tailored to specific functionalities. This innovative platform not only circumvents the need for traditional alignments and introduces fresh sequence diversification strategies but also integrates active learning loops and the use of natural language prompts for guiding the text-to-protein generation process, enhancing the precision and scope of sequence-based protein design.\nPrincipal Investigators: Nikša Praljak (UChicago), Andrew Ferguson (UChicago), Rama Ranganathan (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Building Cyberinfrastructure for Rare-Event Searches"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Machine Learning Models for Predicting Heart Disease Progression\n## Building Cyberinfrastructure for Rare-Event Searches"
+    }
+  ]
+}

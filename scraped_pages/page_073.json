@@ -1,0 +1,110 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/artificially-intelligent-electrochemistry",
+  "page_title": "Artificially Intelligent Electrochemistry | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Artificially Intelligent Electrochemistry",
+      "href": "https://datascience.uchicago.edu/research/artificially-intelligent-electrochemistry"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:18.378682+00:00",
+  "all_text_markdown": "Artificially Intelligent Electrochemistry\n[Artificially Intelligent Electrochemistry](https://datascience.uchicago.edu/research/artificially-intelligent-electrochemistry)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nCarbon dioxide emissions are a leading contributor to global climate change, but with the right electrocatalyst and electrolyte, it could instead be a new resource for energy sustainability. The team of [Chibueze Amanchukwu](https://pme.uchicago.edu/faculty/chibueze-amanchukwu), an assistant professor at the Pritzker School of Molecular Engineering, and [Rajeev Assary](https://www.anl.gov/profile/rajeev-surendran-assary), a staff scientist at Materials Science Division of Argonne, will use AI to find new, efficient ways of “recycling” CO2 into valuable products such as ethanol and ethylene, using clean electricity generated from the sun and wind. The researchers will use quantum chemistry-informed machine learning to sift through computational and experimental data and find new electrolytes that can improve the conversion process. Experiments will then be performed using these obtained chemical insights.\nThis project was funded by the AI + Science initiative, a program organized by the University of Chicago [Office of Research and National Laboratories](https://researchinnovation.uchicago.edu) in collaboration with the Center for Data and Computing aimed at increasing interactions among the University of Chicago, Argonne National Laboratory, Fermi National Accelerator Laboratory, and the Toyota Technological Institute at Chicago.\nPrincipal Investigators: Chibueze Amanchukwu (UChicago), Rajeev Assary (Argonne)\nRelated News, Insights, and Past Events\nMaster’s in Applied Data Science Winter 2024 Capstone Winners\nCDAC Summer Lab: Applied Data Science\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Artificially Intelligent Electrochemistry](https://datascience.uchicago.edu/research/artificially-intelligent-electrochemistry)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Carbon dioxide emissions are a leading contributor to global climate change, but with the right electrocatalyst and electrolyte, it could instead be a new resource for energy sustainability. The team of [Chibueze Amanchukwu](https://pme.uchicago.edu/faculty/chibueze-amanchukwu), an assistant professor at the Pritzker School of Molecular Engineering, and [Rajeev Assary](https://www.anl.gov/profile/rajeev-surendran-assary), a staff scientist at Materials Science Division of Argonne, will use AI to find new, efficient ways of “recycling” CO2 into valuable products such as ethanol and ethylene, using clean electricity generated from the sun and wind. The researchers will use quantum chemistry-informed machine learning to sift through computational and experimental data and find new electrolytes that can improve the conversion process. Experiments will then be performed using these obtained chemical insights."
+        },
+        {
+          "type": "paragraph",
+          "text": "This project was funded by the AI + Science initiative, a program organized by the University of Chicago [Office of Research and National Laboratories](https://researchinnovation.uchicago.edu) in collaboration with the Center for Data and Computing aimed at increasing interactions among the University of Chicago, Argonne National Laboratory, Fermi National Accelerator Laboratory, and the Toyota Technological Institute at Chicago."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Chibueze Amanchukwu (UChicago), Rajeev Assary (Argonne)"
+        }
+      ],
+      "text_markdown": "## [Artificially Intelligent Electrochemistry](https://datascience.uchicago.edu/research/artificially-intelligent-electrochemistry)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nCarbon dioxide emissions are a leading contributor to global climate change, but with the right electrocatalyst and electrolyte, it could instead be a new resource for energy sustainability. The team of [Chibueze Amanchukwu](https://pme.uchicago.edu/faculty/chibueze-amanchukwu), an assistant professor at the Pritzker School of Molecular Engineering, and [Rajeev Assary](https://www.anl.gov/profile/rajeev-surendran-assary), a staff scientist at Materials Science Division of Argonne, will use AI to find new, efficient ways of “recycling” CO2 into valuable products such as ethanol and ethylene, using clean electricity generated from the sun and wind. The researchers will use quantum chemistry-informed machine learning to sift through computational and experimental data and find new electrolytes that can improve the conversion process. Experiments will then be performed using these obtained chemical insights.\nThis project was funded by the AI + Science initiative, a program organized by the University of Chicago [Office of Research and National Laboratories](https://researchinnovation.uchicago.edu) in collaboration with the Center for Data and Computing aimed at increasing interactions among the University of Chicago, Argonne National Laboratory, Fermi National Accelerator Laboratory, and the Toyota Technological Institute at Chicago.\nPrincipal Investigators: Chibueze Amanchukwu (UChicago), Rajeev Assary (Argonne)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Master’s in Applied Data Science Winter 2024 Capstone Winners"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "CDAC Summer Lab: Applied Data Science"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Master’s in Applied Data Science Winter 2024 Capstone Winners\n## CDAC Summer Lab: Applied Data Science"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

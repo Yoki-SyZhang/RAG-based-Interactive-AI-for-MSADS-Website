@@ -1,0 +1,89 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/health-monitoring-based-on-wearable-sweat-sensors",
+  "page_title": "Health Monitoring Based on Wearable Sweat Sensors | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Health Monitoring Based On Wearable Sweat Sensors",
+      "href": "https://datascience.uchicago.edu/research/health-monitoring-based-on-wearable-sweat-sensors"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:26.926341+00:00",
+  "all_text_markdown": "Health Monitoring Based on Wearable Sweat Sensors\n[Health Monitoring Based on Wearable Sweat Sensors](https://datascience.uchicago.edu/research/health-monitoring-based-on-wearable-sweat-sensors)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nWearable health monitoring devices can potentially change healthcare through continuous monitoring of people’s physiological conditions. There are a variety of chemical biomarkers in human body fluids that carry vast amounts of information linked to health conditions. For example, sweat contains biomarkers that indicate conditions such as lung infections, depression, and tuberculosis. Unfortunately, the only way that doctors and patients have access to this data today is via lab tests.\nWe will explore engineering a wearable featuring skin-compatible chemical sensors. Our sweat sensor is based on organic transistors that are engineered to be skin-conformable — an ideal candidate for a wearable device laminated on the user’s skin. This will enable real time continuous sampling of biomarkers from sweat, which could open new avenues for medicine. Furthermore, the analysis of chemical biomarkers, such as the 220 proteins that can be found in sweat, affords a diverse and complex data space. Unlike more straightforward health data, such as traditional heart monitors, the vast amount of data that is captured in a sweat sensor requires a complex analysis, which we will explore by automated machine analysis.\nPrincipal Investigators: Pedro Lopes (Associate Professor, Computer Science) and Sihong Wang (Assistant Professor of Molecular Engineering)\nMore Projects\nMachine Learning Models for Predicting Heart Disease Progression\nOn-Chip Machine Learning for intelligent Pixel Detectors\nImproving Batteries to Combat Climate Change",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Health Monitoring Based on Wearable Sweat Sensors](https://datascience.uchicago.edu/research/health-monitoring-based-on-wearable-sweat-sensors)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wearable health monitoring devices can potentially change healthcare through continuous monitoring of people’s physiological conditions. There are a variety of chemical biomarkers in human body fluids that carry vast amounts of information linked to health conditions. For example, sweat contains biomarkers that indicate conditions such as lung infections, depression, and tuberculosis. Unfortunately, the only way that doctors and patients have access to this data today is via lab tests."
+        },
+        {
+          "type": "paragraph",
+          "text": "We will explore engineering a wearable featuring skin-compatible chemical sensors. Our sweat sensor is based on organic transistors that are engineered to be skin-conformable — an ideal candidate for a wearable device laminated on the user’s skin. This will enable real time continuous sampling of biomarkers from sweat, which could open new avenues for medicine. Furthermore, the analysis of chemical biomarkers, such as the 220 proteins that can be found in sweat, affords a diverse and complex data space. Unlike more straightforward health data, such as traditional heart monitors, the vast amount of data that is captured in a sweat sensor requires a complex analysis, which we will explore by automated machine analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Pedro Lopes (Associate Professor, Computer Science) and Sihong Wang (Assistant Professor of Molecular Engineering)"
+        }
+      ],
+      "text_markdown": "## [Health Monitoring Based on Wearable Sweat Sensors](https://datascience.uchicago.edu/research/health-monitoring-based-on-wearable-sweat-sensors)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nWearable health monitoring devices can potentially change healthcare through continuous monitoring of people’s physiological conditions. There are a variety of chemical biomarkers in human body fluids that carry vast amounts of information linked to health conditions. For example, sweat contains biomarkers that indicate conditions such as lung infections, depression, and tuberculosis. Unfortunately, the only way that doctors and patients have access to this data today is via lab tests.\nWe will explore engineering a wearable featuring skin-compatible chemical sensors. Our sweat sensor is based on organic transistors that are engineered to be skin-conformable — an ideal candidate for a wearable device laminated on the user’s skin. This will enable real time continuous sampling of biomarkers from sweat, which could open new avenues for medicine. Furthermore, the analysis of chemical biomarkers, such as the 220 proteins that can be found in sweat, affords a diverse and complex data space. Unlike more straightforward health data, such as traditional heart monitors, the vast amount of data that is captured in a sweat sensor requires a complex analysis, which we will explore by automated machine analysis.\nPrincipal Investigators: Pedro Lopes (Associate Professor, Computer Science) and Sihong Wang (Assistant Professor of Molecular Engineering)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "On-Chip Machine Learning for intelligent Pixel Detectors"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Improving Batteries to Combat Climate Change"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Machine Learning Models for Predicting Heart Disease Progression\n## On-Chip Machine Learning for intelligent Pixel Detectors\n## Improving Batteries to Combat Climate Change"
+    }
+  ]
+}

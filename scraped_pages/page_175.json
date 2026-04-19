@@ -1,0 +1,81 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/latentview-analytics-visual-defect-detection",
+  "page_title": "LatentView Analytics | Visual Defect Detection | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Latentview Analytics Visual Defect Detection",
+      "href": "https://datascience.uchicago.edu/research/latentview-analytics-visual-defect-detection"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:43:29.436911+00:00",
+  "all_text_markdown": "LatentView Analytics | Visual Defect Detection\n[LatentView Analytics | Visual Defect Detection](https://datascience.uchicago.edu/research/latentview-analytics-visual-defect-detection)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nThis project aims to develop an AI-powered vehicle visual defect detection system leveraging advanced computer vision techniques to automate and enhance traditional manual inspections on manufacturing lines. Utilizing the comprehensive CarDD dataset, the solution employs YOLOv11 with Oriented Bounding Box (OBB) technology to detect and classify various visual defects such as scratches, dents, and paint anomalies. Data augmentation strategies are used to address class imbalances and enhance model robustness. The primary evaluation metric is mean Average Precision (mAP@0.5:0.95 IoU threshold), targeting a minimum accuracy of 80%. Expected outcomes include improved detection accuracy, increased operational efficiency, and reduced inspection costs, offering significant commercial value in automotive manufacturing and quality assurance processes.\nKeywords: computer vision, YOLOv11, vehicle defect detection, Oriented Bounding Box (OBB), manufacturing quality control, CarDD dataset\nWatch the team present this project at 2:35 in the session recording [here](https://uchicago.box.com/s/binrkcqw88u9k2qz8lq07efbnoia55nw).\nFaculty Advisor\n[Igor Yakushin, PhD Adjunct Assistant Professor; Applied Scientist](https://datascience.uchicago.edu/people/igor-yakushin-phd)\nIgor Yakushin, PhD\nPhD in Theoretical Physics, MS in Computer Science. Currently – Applied Scientist at Amazon. Previous jobs: Computational Scientist at the Argonne National Laboratory, Scientist at LIGO project of California Institute of Technology. I specialize in scientific computing, HPC, machine learning, data analysis.",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[LatentView Analytics | Visual Defect Detection](https://datascience.uchicago.edu/research/latentview-analytics-visual-defect-detection)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "This project aims to develop an AI-powered vehicle visual defect detection system leveraging advanced computer vision techniques to automate and enhance traditional manual inspections on manufacturing lines. Utilizing the comprehensive CarDD dataset, the solution employs YOLOv11 with Oriented Bounding Box (OBB) technology to detect and classify various visual defects such as scratches, dents, and paint anomalies. Data augmentation strategies are used to address class imbalances and enhance model robustness. The primary evaluation metric is mean Average Precision (mAP@0.5:0.95 IoU threshold), targeting a minimum accuracy of 80%. Expected outcomes include improved detection accuracy, increased operational efficiency, and reduced inspection costs, offering significant commercial value in automotive manufacturing and quality assurance processes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keywords: computer vision, YOLOv11, vehicle defect detection, Oriented Bounding Box (OBB), manufacturing quality control, CarDD dataset"
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch the team present this project at 2:35 in the session recording [here](https://uchicago.box.com/s/binrkcqw88u9k2qz8lq07efbnoia55nw)."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Faculty Advisor"
+        },
+        {
+          "type": "list_item",
+          "text": "[Igor Yakushin, PhD Adjunct Assistant Professor; Applied Scientist](https://datascience.uchicago.edu/people/igor-yakushin-phd)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Igor Yakushin, PhD"
+        },
+        {
+          "type": "paragraph",
+          "text": "PhD in Theoretical Physics, MS in Computer Science. Currently – Applied Scientist at Amazon. Previous jobs: Computational Scientist at the Argonne National Laboratory, Scientist at LIGO project of California Institute of Technology. I specialize in scientific computing, HPC, machine learning, data analysis."
+        }
+      ],
+      "text_markdown": "## [LatentView Analytics | Visual Defect Detection](https://datascience.uchicago.edu/research/latentview-analytics-visual-defect-detection)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nThis project aims to develop an AI-powered vehicle visual defect detection system leveraging advanced computer vision techniques to automate and enhance traditional manual inspections on manufacturing lines. Utilizing the comprehensive CarDD dataset, the solution employs YOLOv11 with Oriented Bounding Box (OBB) technology to detect and classify various visual defects such as scratches, dents, and paint anomalies. Data augmentation strategies are used to address class imbalances and enhance model robustness. The primary evaluation metric is mean Average Precision (mAP@0.5:0.95 IoU threshold), targeting a minimum accuracy of 80%. Expected outcomes include improved detection accuracy, increased operational efficiency, and reduced inspection costs, offering significant commercial value in automotive manufacturing and quality assurance processes.\nKeywords: computer vision, YOLOv11, vehicle defect detection, Oriented Bounding Box (OBB), manufacturing quality control, CarDD dataset\nWatch the team present this project at 2:35 in the session recording [here](https://uchicago.box.com/s/binrkcqw88u9k2qz8lq07efbnoia55nw).\n### Faculty Advisor\n- [Igor Yakushin, PhD Adjunct Assistant Professor; Applied Scientist](https://datascience.uchicago.edu/people/igor-yakushin-phd)\n# Igor Yakushin, PhD\nPhD in Theoretical Physics, MS in Computer Science. Currently – Applied Scientist at Amazon. Previous jobs: Computational Scientist at the Argonne National Laboratory, Scientist at LIGO project of California Institute of Technology. I specialize in scientific computing, HPC, machine learning, data analysis."
+    }
+  ]
+}

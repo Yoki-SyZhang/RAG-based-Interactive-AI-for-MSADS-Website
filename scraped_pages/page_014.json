@@ -1,0 +1,421 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/ai-science",
+  "page_title": "AI + Science | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Ai Science",
+      "href": "https://datascience.uchicago.edu/research/ai-science"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:39.477845+00:00",
+  "all_text_markdown": "Overview\nArtificial intelligence (AI) and machine learning (ML) will fundamentally change the nature and pace of scientific discovery. Widespread adoption of AI in the sciences has the potential to integrate scientific inquiry with modes of hypothesis generation, data analysis, simulation, and testing that will transform our capacity to address scientific problems that currently appear intractable.\nPeople and Partners\n[People](https://datascience.uchicago.edu/research/ai-science/people)\n[Pritzker AI+Science Joint Initiative with CalTech](https://datascience.uchicago.edu/research/ai-science/partnerships/pritzker-aiscience-joint-initiative-with-caltech)\n[The Eric and Wendy Schmidt AI in Science Fellowship, a Program of Schmidt Sciences](https://datascience.uchicago.edu/research/ai-science/partnerships/schmidt-fellows)\n[Schmidt AI in Science Speaker Series](https://datascience.uchicago.edu/research/ai-science/partnerships/seminar-series)\n[Schmidt Faculty Fellows](https://datascience.uchicago.edu/research/ai-science/partnerships/schmidt-faculty-fellows)\n[Summer School](https://datascience.uchicago.edu/research/ai-science/partnerships/summer-school)\n[The US National Science Foundation and Simons Foundation-funded SkAI Institute](https://datascience.uchicago.edu/research/ai-science-2/partnerships/skai)\n[NITMB](https://datascience.uchicago.edu/research/ai-science/partnerships/nitmb)\n[Center for Living Systems](https://datascience.uchicago.edu/research/ai-science/partnerships/center-for-living-systems)\nProjects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression\nBuilding Cyberinfrastructure for Rare-Event Searches\nUsing Field-Effect Transistor Array to Monitor Water Quality\nOn-Chip Machine Learning for intelligent Pixel Detectors\nImproving Batteries to Combat Climate Change\nAutomating Electron Microscopy with AI\nImproving Prediction of Breast Cancer Patient Response to Therapy\nPredicting Material Properties\nExamining The Mystery of How Living Organisms Develop\nAdvancing Molecular Measurement with Machine Learning\nCreating Microbiomes That Improve Human and Environmental Health\nAI-Assisted Molecular Engineering to Detect and Remove Water Contaminants\nLearned Emulators of Physics Simulations\nReal-Time Adaptive Deep Learning for Discovery Science\nArtificially Intelligent Electrochemistry\nAutomated Experimental Design for Cosmic Discovery\nIs Climate Change Changing Clouds?\nNeural Network Algorithms to Decode the Octopus Neural Network\nRational Protein Engineering using Data-Driven Generative Models\nRelated Insights, News, and Past Events\nThe Unseminar: A Forum for the Next Generation of AI-Enabled Research Leaders\nWelcoming the Fourth Cohort of Eric and Wendy Schmidt AI in Science Fellows\nA Bet Worth Placing: Computing and Data Science at UChicago\nCongratulations to Outgoing Eric and Wendy Schmidt AI in Science Fellows\nSchmidt AI in Science Speaker Series Highlights AI for Scientific Discovery\nUnder the Hood: The Mathematics of AI\n2025 Research Day Highlights Growth with Global Impact\n2025 AI+Science Hackathon Challenges Students to Take on Cutting-Edge Scientific Problems with AI\nNSF and Simons Foundation launch $20 million National AI Research Institute in Astronomy\nAI as a Great Teacher for Molecular Dynamic Modeling\nEric and Wendy Schmidt AI in Science Postdoctoral Fellows host first-ever hackathon\nAI+Science Conference receives funding to expand across the next three years\nExpanding Our Vocabulary of Vision Using AI\nTeaching materials to adapt\nFrom Protein Structures to Clean Energy Materials to Cancer Therapies: Using AI to Understand and Exploit X-ray Damage Effects\nTowards New Physics at Future Colliders: Machine Learning Optimized Detector and Accelerator Design\nUncovering Patterns in Structure for Voltage Sensing Membrane Proteins with Machine Learning\nFinding the likely causes when potential explanatory factors look alike\nAn Intro to Gravitational-Wave Astronomy\nAI+Science Hackathon\nRitesh Kumar (Uchicago) – AI+Science Schmidt Fellows Speaker Series\nMadeleine Torcasso (UChicago) – AI+Science Schmidt Fellows Speaker Series\nLeveraging machine learning to uncover the lives and deaths of massive stars using gravitational waves\nSpatial Immunity: A new perspective enabled by computer vision\nModeling Chaos using Machine Learning Emulators\nThe AI-Powered Pathway to Advanced Catalyst Development\nAutomated Material Discovery for More Sustainable Plastics: Describing Polymer Chemistry for Human and Machine\nUnlocking the Potential of Lithium Batteries with New Electrolyte Solutions\nAI+Science Summer School 2024\nMachine Learning Foundations Accelerate Innovation and Promote Trustworthiness\nThe University of Chicago and Caltech Conference on AI+Science\nNew Schmidt Futures Fellowship at UChicago to Foster Next Generation of AI-Driven Scientists\nUChicago/Argonne Researchers Will Cultivate AI Model “Gardens” With $3.5M NSF Grant\nAI+Science Social\nNew RFP for AI + Science Collaborations with TTIC, Weizmann Institute\n2022 AI + Science Summer School\nNew AI + Science Grants Fund Projects & Workshops in Chemistry, Physics, and CS Education\nUChicago Joins New Academic/Industry Consortium to Accelerate AI Innovation\nUChicago Jumpstarts Collaborations with National Labs in Artificial Intelligence",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [],
+      "text_markdown": ""
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Overview"
+        },
+        {
+          "type": "paragraph",
+          "text": "Artificial intelligence (AI) and machine learning (ML) will fundamentally change the nature and pace of scientific discovery. Widespread adoption of AI in the sciences has the potential to integrate scientific inquiry with modes of hypothesis generation, data analysis, simulation, and testing that will transform our capacity to address scientific problems that currently appear intractable."
+        }
+      ],
+      "text_markdown": "## Overview\nArtificial intelligence (AI) and machine learning (ML) will fundamentally change the nature and pace of scientific discovery. Widespread adoption of AI in the sciences has the potential to integrate scientific inquiry with modes of hypothesis generation, data analysis, simulation, and testing that will transform our capacity to address scientific problems that currently appear intractable."
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "People and Partners"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[People](https://datascience.uchicago.edu/research/ai-science/people)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Pritzker AI+Science Joint Initiative with CalTech](https://datascience.uchicago.edu/research/ai-science/partnerships/pritzker-aiscience-joint-initiative-with-caltech)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[The Eric and Wendy Schmidt AI in Science Fellowship, a Program of Schmidt Sciences](https://datascience.uchicago.edu/research/ai-science/partnerships/schmidt-fellows)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Schmidt AI in Science Speaker Series](https://datascience.uchicago.edu/research/ai-science/partnerships/seminar-series)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Schmidt Faculty Fellows](https://datascience.uchicago.edu/research/ai-science/partnerships/schmidt-faculty-fellows)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Summer School](https://datascience.uchicago.edu/research/ai-science/partnerships/summer-school)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[The US National Science Foundation and Simons Foundation-funded SkAI Institute](https://datascience.uchicago.edu/research/ai-science-2/partnerships/skai)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[NITMB](https://datascience.uchicago.edu/research/ai-science/partnerships/nitmb)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Center for Living Systems](https://datascience.uchicago.edu/research/ai-science/partnerships/center-for-living-systems)"
+        }
+      ],
+      "text_markdown": "## People and Partners\n## [People](https://datascience.uchicago.edu/research/ai-science/people)\n## [Pritzker AI+Science Joint Initiative with CalTech](https://datascience.uchicago.edu/research/ai-science/partnerships/pritzker-aiscience-joint-initiative-with-caltech)\n## [The Eric and Wendy Schmidt AI in Science Fellowship, a Program of Schmidt Sciences](https://datascience.uchicago.edu/research/ai-science/partnerships/schmidt-fellows)\n## [Schmidt AI in Science Speaker Series](https://datascience.uchicago.edu/research/ai-science/partnerships/seminar-series)\n## [Schmidt Faculty Fellows](https://datascience.uchicago.edu/research/ai-science/partnerships/schmidt-faculty-fellows)\n## [Summer School](https://datascience.uchicago.edu/research/ai-science/partnerships/summer-school)\n## [The US National Science Foundation and Simons Foundation-funded SkAI Institute](https://datascience.uchicago.edu/research/ai-science-2/partnerships/skai)\n## [NITMB](https://datascience.uchicago.edu/research/ai-science/partnerships/nitmb)\n## [Center for Living Systems](https://datascience.uchicago.edu/research/ai-science/partnerships/center-for-living-systems)"
+    },
+    {
+      "section_index": 3,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Building Cyberinfrastructure for Rare-Event Searches"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Using Field-Effect Transistor Array to Monitor Water Quality"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "On-Chip Machine Learning for intelligent Pixel Detectors"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Improving Batteries to Combat Climate Change"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Automating Electron Microscopy with AI"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Improving Prediction of Breast Cancer Patient Response to Therapy"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Predicting Material Properties"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Examining The Mystery of How Living Organisms Develop"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Advancing Molecular Measurement with Machine Learning"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Creating Microbiomes That Improve Human and Environmental Health"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI-Assisted Molecular Engineering to Detect and Remove Water Contaminants"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Learned Emulators of Physics Simulations"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Real-Time Adaptive Deep Learning for Discovery Science"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Artificially Intelligent Electrochemistry"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Automated Experimental Design for Cosmic Discovery"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Is Climate Change Changing Clouds?"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Neural Network Algorithms to Decode the Octopus Neural Network"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Rational Protein Engineering using Data-Driven Generative Models"
+        }
+      ],
+      "text_markdown": "## Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression\n## Building Cyberinfrastructure for Rare-Event Searches\n## Using Field-Effect Transistor Array to Monitor Water Quality\n## On-Chip Machine Learning for intelligent Pixel Detectors\n## Improving Batteries to Combat Climate Change\n## Automating Electron Microscopy with AI\n## Improving Prediction of Breast Cancer Patient Response to Therapy\n## Predicting Material Properties\n## Examining The Mystery of How Living Organisms Develop\n## Advancing Molecular Measurement with Machine Learning\n## Creating Microbiomes That Improve Human and Environmental Health\n## AI-Assisted Molecular Engineering to Detect and Remove Water Contaminants\n## Learned Emulators of Physics Simulations\n## Real-Time Adaptive Deep Learning for Discovery Science\n## Artificially Intelligent Electrochemistry\n## Automated Experimental Design for Cosmic Discovery\n## Is Climate Change Changing Clouds?\n## Neural Network Algorithms to Decode the Octopus Neural Network\n## Rational Protein Engineering using Data-Driven Generative Models"
+    },
+    {
+      "section_index": 4,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related Insights, News, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Unseminar: A Forum for the Next Generation of AI-Enabled Research Leaders"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Welcoming the Fourth Cohort of Eric and Wendy Schmidt AI in Science Fellows"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "A Bet Worth Placing: Computing and Data Science at UChicago"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Congratulations to Outgoing Eric and Wendy Schmidt AI in Science Fellows"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Schmidt AI in Science Speaker Series Highlights AI for Scientific Discovery"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Under the Hood: The Mathematics of AI"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "2025 Research Day Highlights Growth with Global Impact"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "2025 AI+Science Hackathon Challenges Students to Take on Cutting-Edge Scientific Problems with AI"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "NSF and Simons Foundation launch $20 million National AI Research Institute in Astronomy"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI as a Great Teacher for Molecular Dynamic Modeling"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Eric and Wendy Schmidt AI in Science Postdoctoral Fellows host first-ever hackathon"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI+Science Conference receives funding to expand across the next three years"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Expanding Our Vocabulary of Vision Using AI"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Teaching materials to adapt"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "From Protein Structures to Clean Energy Materials to Cancer Therapies: Using AI to Understand and Exploit X-ray Damage Effects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Towards New Physics at Future Colliders: Machine Learning Optimized Detector and Accelerator Design"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Uncovering Patterns in Structure for Voltage Sensing Membrane Proteins with Machine Learning"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Finding the likely causes when potential explanatory factors look alike"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "An Intro to Gravitational-Wave Astronomy"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI+Science Hackathon"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ritesh Kumar (Uchicago) – AI+Science Schmidt Fellows Speaker Series"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Madeleine Torcasso (UChicago) – AI+Science Schmidt Fellows Speaker Series"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Leveraging machine learning to uncover the lives and deaths of massive stars using gravitational waves"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Spatial Immunity: A new perspective enabled by computer vision"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Modeling Chaos using Machine Learning Emulators"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The AI-Powered Pathway to Advanced Catalyst Development"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Automated Material Discovery for More Sustainable Plastics: Describing Polymer Chemistry for Human and Machine"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Unlocking the Potential of Lithium Batteries with New Electrolyte Solutions"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI+Science Summer School 2024"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Foundations Accelerate Innovation and Promote Trustworthiness"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The University of Chicago and Caltech Conference on AI+Science"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "New Schmidt Futures Fellowship at UChicago to Foster Next Generation of AI-Driven Scientists"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "UChicago/Argonne Researchers Will Cultivate AI Model “Gardens” With $3.5M NSF Grant"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI+Science Social"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "New RFP for AI + Science Collaborations with TTIC, Weizmann Institute"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "2022 AI + Science Summer School"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "New AI + Science Grants Fund Projects & Workshops in Chemistry, Physics, and CS Education"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "UChicago Joins New Academic/Industry Consortium to Accelerate AI Innovation"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "UChicago Jumpstarts Collaborations with National Labs in Artificial Intelligence"
+        }
+      ],
+      "text_markdown": "## Related Insights, News, and Past Events\n## The Unseminar: A Forum for the Next Generation of AI-Enabled Research Leaders\n## Welcoming the Fourth Cohort of Eric and Wendy Schmidt AI in Science Fellows\n## A Bet Worth Placing: Computing and Data Science at UChicago\n## Congratulations to Outgoing Eric and Wendy Schmidt AI in Science Fellows\n## Schmidt AI in Science Speaker Series Highlights AI for Scientific Discovery\n## Under the Hood: The Mathematics of AI\n## 2025 Research Day Highlights Growth with Global Impact\n## 2025 AI+Science Hackathon Challenges Students to Take on Cutting-Edge Scientific Problems with AI\n## NSF and Simons Foundation launch $20 million National AI Research Institute in Astronomy\n## AI as a Great Teacher for Molecular Dynamic Modeling\n## Eric and Wendy Schmidt AI in Science Postdoctoral Fellows host first-ever hackathon\n## AI+Science Conference receives funding to expand across the next three years\n## Expanding Our Vocabulary of Vision Using AI\n## Teaching materials to adapt\n## From Protein Structures to Clean Energy Materials to Cancer Therapies: Using AI to Understand and Exploit X-ray Damage Effects\n## Towards New Physics at Future Colliders: Machine Learning Optimized Detector and Accelerator Design\n## Uncovering Patterns in Structure for Voltage Sensing Membrane Proteins with Machine Learning\n## Finding the likely causes when potential explanatory factors look alike\n## An Intro to Gravitational-Wave Astronomy\n## AI+Science Hackathon\n## Ritesh Kumar (Uchicago) – AI+Science Schmidt Fellows Speaker Series\n## Madeleine Torcasso (UChicago) – AI+Science Schmidt Fellows Speaker Series\n## Leveraging machine learning to uncover the lives and deaths of massive stars using gravitational waves\n## Spatial Immunity: A new perspective enabled by computer vision\n## Modeling Chaos using Machine Learning Emulators\n## The AI-Powered Pathway to Advanced Catalyst Development\n## Automated Material Discovery for More Sustainable Plastics: Describing Polymer Chemistry for Human and Machine\n## Unlocking the Potential of Lithium Batteries with New Electrolyte Solutions\n## AI+Science Summer School 2024\n## Machine Learning Foundations Accelerate Innovation and Promote Trustworthiness\n## The University of Chicago and Caltech Conference on AI+Science\n## New Schmidt Futures Fellowship at UChicago to Foster Next Generation of AI-Driven Scientists\n## UChicago/Argonne Researchers Will Cultivate AI Model “Gardens” With $3.5M NSF Grant\n## AI+Science Social\n## New RFP for AI + Science Collaborations with TTIC, Weizmann Institute\n## 2022 AI + Science Summer School\n## New AI + Science Grants Fund Projects & Workshops in Chemistry, Physics, and CS Education\n## UChicago Joins New Academic/Industry Consortium to Accelerate AI Innovation\n## UChicago Jumpstarts Collaborations with National Labs in Artificial Intelligence"
+    }
+  ]
+}

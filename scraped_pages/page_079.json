@@ -1,0 +1,105 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/advancing-molecular-measurement-with-machine-learning",
+  "page_title": "Advancing Molecular Measurement with Machine Learning | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Advancing Molecular Measurement With Machine Learning",
+      "href": "https://datascience.uchicago.edu/research/advancing-molecular-measurement-with-machine-learning"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:22.292795+00:00",
+  "all_text_markdown": "Advancing Molecular Measurement with Machine Learning\n[Advancing Molecular Measurement with Machine Learning](https://datascience.uchicago.edu/research/advancing-molecular-measurement-with-machine-learning)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nMost molecules are far too small to see using microscopes, so scientists and engineers deduce their structure by making spectroscopic measurements: seeing how the molecules interact with light and radiation. Scientists and engineers use spectroscopy to uncover some of the universe’s biggest mysteries and solve some of the world’s most pressing problems. This technique can be used to determine the chemical makeup of cosmic objects, diagnose and develop treatments for diseases, and lead to the discovery of new materials with desirable properties. However, interpreting these spectroscopic measurements is incredibly challenging, often requiring a trained spectroscopist and considerable time. This means we are potentially not observing the billions upon billions of unknown small molecules that could help foster scientific breakthroughs.\n[Eric Jonas](https://datascience.uchicago.edu/people/eric-jonas), an assistant professor in the Department of Computer Science, is developing new machine learning techniques to solve this challenge. By treating spectroscopy as an inverse problem – similar to MRI and seismography – he is building self-driving spectrometers which can automatically understand what they are measuring. His methods have been successfully applied to spectroscopic techniques like nuclear magnetic resonance (NMR) spectroscopy and mass spectrometry (MS). Jonas is using his approach to discover new molecules present in your body, your microbiome, and the environment.\n[Image: “Mass Spectrometry of Nano-gold,” Courtesy of Pacific Northwest National Laboratory via [Flickr](https://www.flickr.com/photos/36016325@N04/24089035102)]\nRelated News, Insights, and Past Events\nModeling Chaos using Machine Learning Emulators\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Advancing Molecular Measurement with Machine Learning](https://datascience.uchicago.edu/research/advancing-molecular-measurement-with-machine-learning)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Most molecules are far too small to see using microscopes, so scientists and engineers deduce their structure by making spectroscopic measurements: seeing how the molecules interact with light and radiation. Scientists and engineers use spectroscopy to uncover some of the universe’s biggest mysteries and solve some of the world’s most pressing problems. This technique can be used to determine the chemical makeup of cosmic objects, diagnose and develop treatments for diseases, and lead to the discovery of new materials with desirable properties. However, interpreting these spectroscopic measurements is incredibly challenging, often requiring a trained spectroscopist and considerable time. This means we are potentially not observing the billions upon billions of unknown small molecules that could help foster scientific breakthroughs."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Eric Jonas](https://datascience.uchicago.edu/people/eric-jonas), an assistant professor in the Department of Computer Science, is developing new machine learning techniques to solve this challenge. By treating spectroscopy as an inverse problem – similar to MRI and seismography – he is building self-driving spectrometers which can automatically understand what they are measuring. His methods have been successfully applied to spectroscopic techniques like nuclear magnetic resonance (NMR) spectroscopy and mass spectrometry (MS). Jonas is using his approach to discover new molecules present in your body, your microbiome, and the environment."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Image: “Mass Spectrometry of Nano-gold,” Courtesy of Pacific Northwest National Laboratory via [Flickr](https://www.flickr.com/photos/36016325@N04/24089035102)]"
+        }
+      ],
+      "text_markdown": "## [Advancing Molecular Measurement with Machine Learning](https://datascience.uchicago.edu/research/advancing-molecular-measurement-with-machine-learning)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nMost molecules are far too small to see using microscopes, so scientists and engineers deduce their structure by making spectroscopic measurements: seeing how the molecules interact with light and radiation. Scientists and engineers use spectroscopy to uncover some of the universe’s biggest mysteries and solve some of the world’s most pressing problems. This technique can be used to determine the chemical makeup of cosmic objects, diagnose and develop treatments for diseases, and lead to the discovery of new materials with desirable properties. However, interpreting these spectroscopic measurements is incredibly challenging, often requiring a trained spectroscopist and considerable time. This means we are potentially not observing the billions upon billions of unknown small molecules that could help foster scientific breakthroughs.\n[Eric Jonas](https://datascience.uchicago.edu/people/eric-jonas), an assistant professor in the Department of Computer Science, is developing new machine learning techniques to solve this challenge. By treating spectroscopy as an inverse problem – similar to MRI and seismography – he is building self-driving spectrometers which can automatically understand what they are measuring. His methods have been successfully applied to spectroscopic techniques like nuclear magnetic resonance (NMR) spectroscopy and mass spectrometry (MS). Jonas is using his approach to discover new molecules present in your body, your microbiome, and the environment.\n[Image: “Mass Spectrometry of Nano-gold,” Courtesy of Pacific Northwest National Laboratory via [Flickr](https://www.flickr.com/photos/36016325@N04/24089035102)]"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Modeling Chaos using Machine Learning Emulators"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Modeling Chaos using Machine Learning Emulators"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

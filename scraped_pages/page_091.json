@@ -1,0 +1,115 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/rational-protein-engineering-using-data-driven-generative-models",
+  "page_title": "Rational Protein Engineering using Data-Driven Generative Models | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Rational Protein Engineering Using Data Driven Generative Models",
+      "href": "https://datascience.uchicago.edu/research/rational-protein-engineering-using-data-driven-generative-models"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:30.180006+00:00",
+  "all_text_markdown": "Rational Protein Engineering using Data-Driven Generative Models\n[Rational Protein Engineering using Data-Driven Generative Models](https://datascience.uchicago.edu/research/rational-protein-engineering-using-data-driven-generative-models)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nDesigning proteins to perform particular functions remains a grand challenge in modern science that has the potential to revolutionize medicine, public health, materials, and engineering. Directed evolution has enabled massive strides in discovering new proteins, but the vast size of potential sequences and random nature of mutations makes this process very inefficient.\nUnder a new paradigm, Profs. Andrew Ferguson and Rama Ranganathan employ artificial intelligence to learn “nature’s blueprint” for protein design using data-driven deep generative models. Through a continuous computational-experimental feedback loop, their platform mimics millions of years of evolution to discover and test new synthetic proteins with unprecedented function.\nPrincipal Investigators: Andrew Ferguson (UChicago), Rama Ranganathan (UChicago)\nRelated News, Insights, and Past Events\nMachine Learning Reveals Recipe for Building Artificial Proteins\nHow AI Could Change Science\nA Data-Driven Approach for Protein Design\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Rational Protein Engineering using Data-Driven Generative Models](https://datascience.uchicago.edu/research/rational-protein-engineering-using-data-driven-generative-models)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Designing proteins to perform particular functions remains a grand challenge in modern science that has the potential to revolutionize medicine, public health, materials, and engineering. Directed evolution has enabled massive strides in discovering new proteins, but the vast size of potential sequences and random nature of mutations makes this process very inefficient."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under a new paradigm, Profs. Andrew Ferguson and Rama Ranganathan employ artificial intelligence to learn “nature’s blueprint” for protein design using data-driven deep generative models. Through a continuous computational-experimental feedback loop, their platform mimics millions of years of evolution to discover and test new synthetic proteins with unprecedented function."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Andrew Ferguson (UChicago), Rama Ranganathan (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Rational Protein Engineering using Data-Driven Generative Models](https://datascience.uchicago.edu/research/rational-protein-engineering-using-data-driven-generative-models)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nDesigning proteins to perform particular functions remains a grand challenge in modern science that has the potential to revolutionize medicine, public health, materials, and engineering. Directed evolution has enabled massive strides in discovering new proteins, but the vast size of potential sequences and random nature of mutations makes this process very inefficient.\nUnder a new paradigm, Profs. Andrew Ferguson and Rama Ranganathan employ artificial intelligence to learn “nature’s blueprint” for protein design using data-driven deep generative models. Through a continuous computational-experimental feedback loop, their platform mimics millions of years of evolution to discover and test new synthetic proteins with unprecedented function.\nPrincipal Investigators: Andrew Ferguson (UChicago), Rama Ranganathan (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Reveals Recipe for Building Artificial Proteins"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How AI Could Change Science"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "A Data-Driven Approach for Protein Design"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Machine Learning Reveals Recipe for Building Artificial Proteins\n## How AI Could Change Science\n## A Data-Driven Approach for Protein Design"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

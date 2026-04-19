@@ -1,0 +1,166 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/novel-intelligence",
+  "page_title": "Novel Intelligence | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Novel Intelligence",
+      "href": "https://datascience.uchicago.edu/research/novel-intelligence"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:55.382163+00:00",
+  "all_text_markdown": "[Novel Intelligence](https://datascience.uchicago.edu/research/novel-intelligence)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nNovel Intelligence\nTo get involved in the Novel Intelligence research community and receive updates about upcoming events and opportunities, please sign up for the [Novel Intelligence email list](https://lists.uchicago.edu/web/info/complementary-ai).\nThe notion of an Artificial Intelligence (AI) that computationally mimics human intelligence has dominated the design of computational intelligence, but is tuned to replace humanity rather than augment its capacity. Rather than targeting Artificial General Intelligence (AGI), we argue that AI should be designed to complement individual and collective human capacity, avoid humanity’s blind spots, overcome cognitive and cultural limitations, and unleash novel senses, skills, and imagination.\nThis initiative addresses new and complex questions regarding how to build AI models without targeting but rather expanding human capacity. This research initiative will integrate with social and behavioral sciences to identify and monitor changing human limitations and opportunities. It will also draw on business and economics to measure and model human-AI productivity; legal and policy expertise to propose models by which AI can assist in the regulation of other AI; and tools and insight across the sciences, engineering, arts, and humanities to align AI with human needs and values. These efforts will grow human-AI potential to grapple with the greatest challenges facing humanity together.\nLeadership\n[James Evans Max Palevsky Professor of Sociology & Data Science; Director, Knowledge Lab; Faculty Co-Director, Novel Intelligence](https://datascience.uchicago.edu/people/james-evans)\nJames Evans\n[Chenhao Tan Associate Professor of Computer Science and Data Science; Faculty Co-Director, Novel Intelligence](https://datascience.uchicago.edu/people/chenhao-tan)\nChenhao Tan\nMy research focuses on the collective system of thinking and knowing, ranging from the distribution of attention and intuition, the origin of ideas and shared habits of reasoning to processes of agreement (and dispute), accumulation of certainty (and doubt), and the texture—novelty, ambiguity, topology—of understanding. I am especially interested in innovation—how new ideas and practices emerge—and the role that social and technical institutions (e.g., the Internet, markets, collaborations) play in collective cognition and discovery. Much of my work has focused on areas of modern science and technology, but I am also interested in other domains of knowledge—news, law, religion, gossip, hunches, machine and historical modes of thinking and knowing. I support the creation of novel observatories for human understanding and action through crowd sourcing, information extraction from text and images, and the use of distributed sensors (e.g., RFID tags, cell phones). I use machine learning, generative modeling, social and semantic network representations to explore knowledge processes, scale up interpretive and field-methods, and create alternatives to current discovery regimes.\nMy research has been supported by the National Science Foundation, the National Institutes of Health, the Air Force office of Science Research, and many philanthropic sources, and has been published in Nature, Science, Proceedings of the National Academy of Science, American Journal of Sociology, American Sociological Review, Social Studies of Science, Research Policy, Critical Theory, Administrative Science Quarterly, and other outlets. My work has been featured in the Economist, Atlantic Monthly, Wired, NPR, BBC, El País, CNN, Le Monde, and many other outlets.\nAt Chicago, I am Director of [Knowledge Lab](http://www.knowledgelab.org), which has collaborative, granting and employment opportunities, as well as ongoing seminars. I also founded and now direct on the Computational Social Science program at Chicago, and sponsor an associated Computational Social Science workshop. I teach courses in augmented intelligence, the history of modern science, science studies, computational content analysis, and Internet and Society. Before Chicago, I received my doctorate in sociology from Stanford University, served as a research associate in the Negotiation, Organizations, and Markets group at Harvard Business School, started a private high school focused on project-based arts education, and completed a B. A. in Anthropology at Brigham Young University.\n[Homepage](https://sociology.uchicago.edu/directory/james-evans)\nChenhao Tan is an associate professor at the [Department of Computer Science](http://cs.uchicago.edu) and the UChicago Data Science Institute. His main research interests include language and social dynamics, [human-centered machine learning](https://medium.com/@ChenhaoTan/human-centered-machine-learning-a-machine-in-the-loop-approach-ed024db34fe7), and multi-community engagement. He is also broadly interested in computational social science, natural language processing, and artificial intelligence.\n[Website](https://chenhaot.com)\nRelated News, Insights, and Past Events\nWho Bears the Burden of Technological Change?\nUChicago Researchers Help Launch First International Conference on AI Scientists in Beijing\nWhat Comes After Science?\nNew Research Charts Changes in Global Scientific Leadership\nWhy Can’t Powerful LLMs Learn Multiplication?\nA Bet Worth Placing: Computing and Data Science at UChicago\n2025 Research Day Highlights Growth with Global Impact\nDSI Launches Three New Research Initiatives",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Novel Intelligence](https://datascience.uchicago.edu/research/novel-intelligence)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Novel Intelligence"
+        },
+        {
+          "type": "paragraph",
+          "text": "To get involved in the Novel Intelligence research community and receive updates about upcoming events and opportunities, please sign up for the [Novel Intelligence email list](https://lists.uchicago.edu/web/info/complementary-ai)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The notion of an Artificial Intelligence (AI) that computationally mimics human intelligence has dominated the design of computational intelligence, but is tuned to replace humanity rather than augment its capacity. Rather than targeting Artificial General Intelligence (AGI), we argue that AI should be designed to complement individual and collective human capacity, avoid humanity’s blind spots, overcome cognitive and cultural limitations, and unleash novel senses, skills, and imagination."
+        },
+        {
+          "type": "paragraph",
+          "text": "This initiative addresses new and complex questions regarding how to build AI models without targeting but rather expanding human capacity. This research initiative will integrate with social and behavioral sciences to identify and monitor changing human limitations and opportunities. It will also draw on business and economics to measure and model human-AI productivity; legal and policy expertise to propose models by which AI can assist in the regulation of other AI; and tools and insight across the sciences, engineering, arts, and humanities to align AI with human needs and values. These efforts will grow human-AI potential to grapple with the greatest challenges facing humanity together."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Leadership"
+        },
+        {
+          "type": "list_item",
+          "text": "[James Evans Max Palevsky Professor of Sociology & Data Science; Director, Knowledge Lab; Faculty Co-Director, Novel Intelligence](https://datascience.uchicago.edu/people/james-evans)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "James Evans"
+        },
+        {
+          "type": "list_item",
+          "text": "[Chenhao Tan Associate Professor of Computer Science and Data Science; Faculty Co-Director, Novel Intelligence](https://datascience.uchicago.edu/people/chenhao-tan)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Chenhao Tan"
+        },
+        {
+          "type": "paragraph",
+          "text": "My research focuses on the collective system of thinking and knowing, ranging from the distribution of attention and intuition, the origin of ideas and shared habits of reasoning to processes of agreement (and dispute), accumulation of certainty (and doubt), and the texture—novelty, ambiguity, topology—of understanding. I am especially interested in innovation—how new ideas and practices emerge—and the role that social and technical institutions (e.g., the Internet, markets, collaborations) play in collective cognition and discovery. Much of my work has focused on areas of modern science and technology, but I am also interested in other domains of knowledge—news, law, religion, gossip, hunches, machine and historical modes of thinking and knowing. I support the creation of novel observatories for human understanding and action through crowd sourcing, information extraction from text and images, and the use of distributed sensors (e.g., RFID tags, cell phones). I use machine learning, generative modeling, social and semantic network representations to explore knowledge processes, scale up interpretive and field-methods, and create alternatives to current discovery regimes."
+        },
+        {
+          "type": "paragraph",
+          "text": "My research has been supported by the National Science Foundation, the National Institutes of Health, the Air Force office of Science Research, and many philanthropic sources, and has been published in Nature, Science, Proceedings of the National Academy of Science, American Journal of Sociology, American Sociological Review, Social Studies of Science, Research Policy, Critical Theory, Administrative Science Quarterly, and other outlets. My work has been featured in the Economist, Atlantic Monthly, Wired, NPR, BBC, El País, CNN, Le Monde, and many other outlets."
+        },
+        {
+          "type": "paragraph",
+          "text": "At Chicago, I am Director of [Knowledge Lab](http://www.knowledgelab.org), which has collaborative, granting and employment opportunities, as well as ongoing seminars. I also founded and now direct on the Computational Social Science program at Chicago, and sponsor an associated Computational Social Science workshop. I teach courses in augmented intelligence, the history of modern science, science studies, computational content analysis, and Internet and Society. Before Chicago, I received my doctorate in sociology from Stanford University, served as a research associate in the Negotiation, Organizations, and Markets group at Harvard Business School, started a private high school focused on project-based arts education, and completed a B. A. in Anthropology at Brigham Young University."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Homepage](https://sociology.uchicago.edu/directory/james-evans)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chenhao Tan is an associate professor at the [Department of Computer Science](http://cs.uchicago.edu) and the UChicago Data Science Institute. His main research interests include language and social dynamics, [human-centered machine learning](https://medium.com/@ChenhaoTan/human-centered-machine-learning-a-machine-in-the-loop-approach-ed024db34fe7), and multi-community engagement. He is also broadly interested in computational social science, natural language processing, and artificial intelligence."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Website](https://chenhaot.com)"
+        }
+      ],
+      "text_markdown": "## [Novel Intelligence](https://datascience.uchicago.edu/research/novel-intelligence)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\n# Novel Intelligence\nTo get involved in the Novel Intelligence research community and receive updates about upcoming events and opportunities, please sign up for the [Novel Intelligence email list](https://lists.uchicago.edu/web/info/complementary-ai).\nThe notion of an Artificial Intelligence (AI) that computationally mimics human intelligence has dominated the design of computational intelligence, but is tuned to replace humanity rather than augment its capacity. Rather than targeting Artificial General Intelligence (AGI), we argue that AI should be designed to complement individual and collective human capacity, avoid humanity’s blind spots, overcome cognitive and cultural limitations, and unleash novel senses, skills, and imagination.\nThis initiative addresses new and complex questions regarding how to build AI models without targeting but rather expanding human capacity. This research initiative will integrate with social and behavioral sciences to identify and monitor changing human limitations and opportunities. It will also draw on business and economics to measure and model human-AI productivity; legal and policy expertise to propose models by which AI can assist in the regulation of other AI; and tools and insight across the sciences, engineering, arts, and humanities to align AI with human needs and values. These efforts will grow human-AI potential to grapple with the greatest challenges facing humanity together.\n### Leadership\n- [James Evans Max Palevsky Professor of Sociology & Data Science; Director, Knowledge Lab; Faculty Co-Director, Novel Intelligence](https://datascience.uchicago.edu/people/james-evans)\n# James Evans\n- [Chenhao Tan Associate Professor of Computer Science and Data Science; Faculty Co-Director, Novel Intelligence](https://datascience.uchicago.edu/people/chenhao-tan)\n# Chenhao Tan\nMy research focuses on the collective system of thinking and knowing, ranging from the distribution of attention and intuition, the origin of ideas and shared habits of reasoning to processes of agreement (and dispute), accumulation of certainty (and doubt), and the texture—novelty, ambiguity, topology—of understanding. I am especially interested in innovation—how new ideas and practices emerge—and the role that social and technical institutions (e.g., the Internet, markets, collaborations) play in collective cognition and discovery. Much of my work has focused on areas of modern science and technology, but I am also interested in other domains of knowledge—news, law, religion, gossip, hunches, machine and historical modes of thinking and knowing. I support the creation of novel observatories for human understanding and action through crowd sourcing, information extraction from text and images, and the use of distributed sensors (e.g., RFID tags, cell phones). I use machine learning, generative modeling, social and semantic network representations to explore knowledge processes, scale up interpretive and field-methods, and create alternatives to current discovery regimes.\nMy research has been supported by the National Science Foundation, the National Institutes of Health, the Air Force office of Science Research, and many philanthropic sources, and has been published in Nature, Science, Proceedings of the National Academy of Science, American Journal of Sociology, American Sociological Review, Social Studies of Science, Research Policy, Critical Theory, Administrative Science Quarterly, and other outlets. My work has been featured in the Economist, Atlantic Monthly, Wired, NPR, BBC, El País, CNN, Le Monde, and many other outlets.\nAt Chicago, I am Director of [Knowledge Lab](http://www.knowledgelab.org), which has collaborative, granting and employment opportunities, as well as ongoing seminars. I also founded and now direct on the Computational Social Science program at Chicago, and sponsor an associated Computational Social Science workshop. I teach courses in augmented intelligence, the history of modern science, science studies, computational content analysis, and Internet and Society. Before Chicago, I received my doctorate in sociology from Stanford University, served as a research associate in the Negotiation, Organizations, and Markets group at Harvard Business School, started a private high school focused on project-based arts education, and completed a B. A. in Anthropology at Brigham Young University.\n[Homepage](https://sociology.uchicago.edu/directory/james-evans)\nChenhao Tan is an associate professor at the [Department of Computer Science](http://cs.uchicago.edu) and the UChicago Data Science Institute. His main research interests include language and social dynamics, [human-centered machine learning](https://medium.com/@ChenhaoTan/human-centered-machine-learning-a-machine-in-the-loop-approach-ed024db34fe7), and multi-community engagement. He is also broadly interested in computational social science, natural language processing, and artificial intelligence.\n[Website](https://chenhaot.com)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Who Bears the Burden of Technological Change?"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "UChicago Researchers Help Launch First International Conference on AI Scientists in Beijing"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What Comes After Science?"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "New Research Charts Changes in Global Scientific Leadership"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Why Can’t Powerful LLMs Learn Multiplication?"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "A Bet Worth Placing: Computing and Data Science at UChicago"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "2025 Research Day Highlights Growth with Global Impact"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "DSI Launches Three New Research Initiatives"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Who Bears the Burden of Technological Change?\n## UChicago Researchers Help Launch First International Conference on AI Scientists in Beijing\n## What Comes After Science?\n## New Research Charts Changes in Global Scientific Leadership\n## Why Can’t Powerful LLMs Learn Multiplication?\n## A Bet Worth Placing: Computing and Data Science at UChicago\n## 2025 Research Day Highlights Growth with Global Impact\n## DSI Launches Three New Research Initiatives"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/internet-innovation",
+  "page_title": "Internet Innovation | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Internet Innovation",
+      "href": "https://datascience.uchicago.edu/research/internet-innovation"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:52.735527+00:00",
+  "all_text_markdown": "[Internet Innovation](https://datascience.uchicago.edu/research/internet-innovation)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nInternet Innovation\nEducational and economic opportunity, as well as health outcomes, depend on the availability of affordable, high-speed Internet access. The COVID-19 pandemic—and in particular society’s increasing reliance on reliable high-speed broadband Internet access during the crisis—has accelerated and magnified these existing disparities. As the essential tasks of living, such as learning, job seeking, and accessing health care move online, Internet access is increasingly an issue of educational equality and economic opportunity, one that disproportionately hurts low-income families and minorities.\nThe lack of precise broadband deployment data complicates this issue: Historically, FCC broadband maps have often relied on census block data, which overestimates households with Internet access and lacks fine-grained detail. With [a grant](https://datascience.uchicago.edu/news/mapping-and-mitigating-the-urban-digital-divide) from [data.org](http://data.org), our team innovated new, powerful data science approaches to gather and aggregate multiple data sources and enable the production of accurate broadband maps. We also created an Internet measurement and performance [toolkit](https://github.com/internet-innovation) to allow policymakers, administrators, and the public to locate and understand the gaps in Internet coverage and target critical resource investments among communities most in need.\nThe Internet Innovation Initiative brought together interdisciplinary researchers at the University of Chicago, including the [Crown Family School of Social Work, Policy, and Practice](https://crownschool.uchicago.edu) and the [Office of Civic Engagement](https://civicengagement.uchicago.edu), to work with Chicago Public Schools and local partners such as civic non-profit organization [Kids First](https://kidsfirstchicago.org) and urban solutions accelerator [City Tech Collaborative](https://www.citytech.org) to develop technical tools and data that meet the needs of stakeholders and community members, reducing inequalities in high-speed Internet access.\nProjects and Resources\nAccess all of III’s public code bases and tools for internet measurement on [GitHub](https://github.com/internet-innovation)\n[NetMicroscope](https://www.netmicroscope.com/about)\n[BEAD Challenge](https://beadchallenge.org)\n[FLOTO Data](https://floto.cs.uchicago.edu/data)\nTeam\n[Tarun Mangla Assistant Professor, Computer Science and Engineering, IIT Delhi](https://datascience.uchicago.edu/people/tarun-mangla)\nTarun Mangla\n[Jesse London Software Engineer, Data Science Institute](https://datascience.uchicago.edu/people/jesse-london)\nJesse London\n[Jonatas Marques Research Scientist, IPinfo](https://datascience.uchicago.edu/people/jonatas-marques)\nJonatas Marques\n[Taveesh Sharma PhD Student, Department of Computer Science](https://datascience.uchicago.edu/people/taveesh-sharma)\nTaveesh Sharma\nDSI Postdoctoral Scholar 2020-2023\nTarun Mangla joined DSI as a postdoctoral scholar in summer 2020, and was previously a PhD student in the School of Computer Science at the Georgia Institute of Technology, co-advised by Mostafa Ammar and Ellen Zegura. His research interests span video streaming, network measurements, and cellular networks. He completed his bachelors in Computer Science and Engineering from Indian Institute of Technology, Delhi (2014) and MS in Computer Science from Georgia Tech (2018). He is a recipient of the Best Paper Award at IFIP TMA, 2018.\nJesse London is a software engineer at the Data Science Institute, where he contributes to open source initiatives.\n[https://github.com/jesteria](https://github.com/jesteria)\nJonatas A. Marques joined DSI as a postdoctoral scholar in July 2023, and was previously a PhD student in Computer Science at the Federal University of Rio Grande do Sul (UFRGS, Brazil), advised by Luciano Paschoal Gaspary. His current research interests are on the intersection of machine learning and computer networking, with focus on programmable networking and network management. Jonatas is part of the Internet Equity Initiative at DSI, with the goal of measuring and analyzing Internet performance and reliability to address inequity in U.S. communities.\nProjects\nInterconnection Measurement Project\nRelated News, Insights, and Past Events\n2025 Research Day Highlights Growth with Global Impact\nIllinois Makes History: How DSI’s Collaboration and Innovation Brought Broadband to 175,000 Underserved Locations\nCommunity Data Fellow Stephania Tello Zamudio helps broaden internet access for Illinois residents\nIEI Tackles Broadband Equity through Bead Speed Challenges\nForging a Digital Future\nProf. Nicole Marwell Discusses Internet Equity on Chicago Tonight\nInternet Disconnect\nStudents Ranya Sharma and Jaleel Drones-Akins Return to DSI For 2022 Summer Lab\nInaugural Data Science Institute Summit Highlights Impact Across and Beyond Campus\nNick Feamster Talks Internet Equity on Light Reading Podcast",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Internet Innovation](https://datascience.uchicago.edu/research/internet-innovation)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Internet Innovation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Educational and economic opportunity, as well as health outcomes, depend on the availability of affordable, high-speed Internet access. The COVID-19 pandemic—and in particular society’s increasing reliance on reliable high-speed broadband Internet access during the crisis—has accelerated and magnified these existing disparities. As the essential tasks of living, such as learning, job seeking, and accessing health care move online, Internet access is increasingly an issue of educational equality and economic opportunity, one that disproportionately hurts low-income families and minorities."
+        },
+        {
+          "type": "paragraph",
+          "text": "The lack of precise broadband deployment data complicates this issue: Historically, FCC broadband maps have often relied on census block data, which overestimates households with Internet access and lacks fine-grained detail. With [a grant](https://datascience.uchicago.edu/news/mapping-and-mitigating-the-urban-digital-divide) from [data.org](http://data.org), our team innovated new, powerful data science approaches to gather and aggregate multiple data sources and enable the production of accurate broadband maps. We also created an Internet measurement and performance [toolkit](https://github.com/internet-innovation) to allow policymakers, administrators, and the public to locate and understand the gaps in Internet coverage and target critical resource investments among communities most in need."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Internet Innovation Initiative brought together interdisciplinary researchers at the University of Chicago, including the [Crown Family School of Social Work, Policy, and Practice](https://crownschool.uchicago.edu) and the [Office of Civic Engagement](https://civicengagement.uchicago.edu), to work with Chicago Public Schools and local partners such as civic non-profit organization [Kids First](https://kidsfirstchicago.org) and urban solutions accelerator [City Tech Collaborative](https://www.citytech.org) to develop technical tools and data that meet the needs of stakeholders and community members, reducing inequalities in high-speed Internet access."
+        },
+        {
+          "type": "paragraph",
+          "text": "Projects and Resources"
+        },
+        {
+          "type": "list_item",
+          "text": "Access all of III’s public code bases and tools for internet measurement on [GitHub](https://github.com/internet-innovation)"
+        },
+        {
+          "type": "list_item",
+          "text": "[NetMicroscope](https://www.netmicroscope.com/about)"
+        },
+        {
+          "type": "list_item",
+          "text": "[BEAD Challenge](https://beadchallenge.org)"
+        },
+        {
+          "type": "list_item",
+          "text": "[FLOTO Data](https://floto.cs.uchicago.edu/data)"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Team"
+        },
+        {
+          "type": "list_item",
+          "text": "[Tarun Mangla Assistant Professor, Computer Science and Engineering, IIT Delhi](https://datascience.uchicago.edu/people/tarun-mangla)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Tarun Mangla"
+        },
+        {
+          "type": "list_item",
+          "text": "[Jesse London Software Engineer, Data Science Institute](https://datascience.uchicago.edu/people/jesse-london)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Jesse London"
+        },
+        {
+          "type": "list_item",
+          "text": "[Jonatas Marques Research Scientist, IPinfo](https://datascience.uchicago.edu/people/jonatas-marques)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Jonatas Marques"
+        },
+        {
+          "type": "list_item",
+          "text": "[Taveesh Sharma PhD Student, Department of Computer Science](https://datascience.uchicago.edu/people/taveesh-sharma)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Taveesh Sharma"
+        },
+        {
+          "type": "paragraph",
+          "text": "DSI Postdoctoral Scholar 2020-2023"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tarun Mangla joined DSI as a postdoctoral scholar in summer 2020, and was previously a PhD student in the School of Computer Science at the Georgia Institute of Technology, co-advised by Mostafa Ammar and Ellen Zegura. His research interests span video streaming, network measurements, and cellular networks. He completed his bachelors in Computer Science and Engineering from Indian Institute of Technology, Delhi (2014) and MS in Computer Science from Georgia Tech (2018). He is a recipient of the Best Paper Award at IFIP TMA, 2018."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jesse London is a software engineer at the Data Science Institute, where he contributes to open source initiatives."
+        },
+        {
+          "type": "paragraph",
+          "text": "[https://github.com/jesteria](https://github.com/jesteria)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jonatas A. Marques joined DSI as a postdoctoral scholar in July 2023, and was previously a PhD student in Computer Science at the Federal University of Rio Grande do Sul (UFRGS, Brazil), advised by Luciano Paschoal Gaspary. His current research interests are on the intersection of machine learning and computer networking, with focus on programmable networking and network management. Jonatas is part of the Internet Equity Initiative at DSI, with the goal of measuring and analyzing Internet performance and reliability to address inequity in U.S. communities."
+        }
+      ],
+      "text_markdown": "## [Internet Innovation](https://datascience.uchicago.edu/research/internet-innovation)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\n# Internet Innovation\nEducational and economic opportunity, as well as health outcomes, depend on the availability of affordable, high-speed Internet access. The COVID-19 pandemic—and in particular society’s increasing reliance on reliable high-speed broadband Internet access during the crisis—has accelerated and magnified these existing disparities. As the essential tasks of living, such as learning, job seeking, and accessing health care move online, Internet access is increasingly an issue of educational equality and economic opportunity, one that disproportionately hurts low-income families and minorities.\nThe lack of precise broadband deployment data complicates this issue: Historically, FCC broadband maps have often relied on census block data, which overestimates households with Internet access and lacks fine-grained detail. With [a grant](https://datascience.uchicago.edu/news/mapping-and-mitigating-the-urban-digital-divide) from [data.org](http://data.org), our team innovated new, powerful data science approaches to gather and aggregate multiple data sources and enable the production of accurate broadband maps. We also created an Internet measurement and performance [toolkit](https://github.com/internet-innovation) to allow policymakers, administrators, and the public to locate and understand the gaps in Internet coverage and target critical resource investments among communities most in need.\nThe Internet Innovation Initiative brought together interdisciplinary researchers at the University of Chicago, including the [Crown Family School of Social Work, Policy, and Practice](https://crownschool.uchicago.edu) and the [Office of Civic Engagement](https://civicengagement.uchicago.edu), to work with Chicago Public Schools and local partners such as civic non-profit organization [Kids First](https://kidsfirstchicago.org) and urban solutions accelerator [City Tech Collaborative](https://www.citytech.org) to develop technical tools and data that meet the needs of stakeholders and community members, reducing inequalities in high-speed Internet access.\nProjects and Resources\n- Access all of III’s public code bases and tools for internet measurement on [GitHub](https://github.com/internet-innovation)\n- [NetMicroscope](https://www.netmicroscope.com/about)\n- [BEAD Challenge](https://beadchallenge.org)\n- [FLOTO Data](https://floto.cs.uchicago.edu/data)\n### Team\n- [Tarun Mangla Assistant Professor, Computer Science and Engineering, IIT Delhi](https://datascience.uchicago.edu/people/tarun-mangla)\n# Tarun Mangla\n- [Jesse London Software Engineer, Data Science Institute](https://datascience.uchicago.edu/people/jesse-london)\n# Jesse London\n- [Jonatas Marques Research Scientist, IPinfo](https://datascience.uchicago.edu/people/jonatas-marques)\n# Jonatas Marques\n- [Taveesh Sharma PhD Student, Department of Computer Science](https://datascience.uchicago.edu/people/taveesh-sharma)\n# Taveesh Sharma\nDSI Postdoctoral Scholar 2020-2023\nTarun Mangla joined DSI as a postdoctoral scholar in summer 2020, and was previously a PhD student in the School of Computer Science at the Georgia Institute of Technology, co-advised by Mostafa Ammar and Ellen Zegura. His research interests span video streaming, network measurements, and cellular networks. He completed his bachelors in Computer Science and Engineering from Indian Institute of Technology, Delhi (2014) and MS in Computer Science from Georgia Tech (2018). He is a recipient of the Best Paper Award at IFIP TMA, 2018.\nJesse London is a software engineer at the Data Science Institute, where he contributes to open source initiatives.\n[https://github.com/jesteria](https://github.com/jesteria)\nJonatas A. Marques joined DSI as a postdoctoral scholar in July 2023, and was previously a PhD student in Computer Science at the Federal University of Rio Grande do Sul (UFRGS, Brazil), advised by Luciano Paschoal Gaspary. His current research interests are on the intersection of machine learning and computer networking, with focus on programmable networking and network management. Jonatas is part of the Internet Equity Initiative at DSI, with the goal of measuring and analyzing Internet performance and reliability to address inequity in U.S. communities."
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Interconnection Measurement Project"
+        }
+      ],
+      "text_markdown": "## Projects\n## Interconnection Measurement Project"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "2025 Research Day Highlights Growth with Global Impact"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Illinois Makes History: How DSI’s Collaboration and Innovation Brought Broadband to 175,000 Underserved Locations"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Community Data Fellow Stephania Tello Zamudio helps broaden internet access for Illinois residents"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "IEI Tackles Broadband Equity through Bead Speed Challenges"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Forging a Digital Future"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Prof. Nicole Marwell Discusses Internet Equity on Chicago Tonight"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Internet Disconnect"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Students Ranya Sharma and Jaleel Drones-Akins Return to DSI For 2022 Summer Lab"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Inaugural Data Science Institute Summit Highlights Impact Across and Beyond Campus"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Nick Feamster Talks Internet Equity on Light Reading Podcast"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## 2025 Research Day Highlights Growth with Global Impact\n## Illinois Makes History: How DSI’s Collaboration and Innovation Brought Broadband to 175,000 Underserved Locations\n## Community Data Fellow Stephania Tello Zamudio helps broaden internet access for Illinois residents\n## IEI Tackles Broadband Equity through Bead Speed Challenges\n## Forging a Digital Future\n## Prof. Nicole Marwell Discusses Internet Equity on Chicago Tonight\n## Internet Disconnect\n## Students Ranya Sharma and Jaleel Drones-Akins Return to DSI For 2022 Summer Lab\n## Inaugural Data Science Institute Summit Highlights Impact Across and Beyond Campus\n## Nick Feamster Talks Internet Equity on Light Reading Podcast"
+    }
+  ]
+}

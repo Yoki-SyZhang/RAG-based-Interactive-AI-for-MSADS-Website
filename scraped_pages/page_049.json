@@ -1,0 +1,105 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/developing-artificial-curiosity-algorithms",
+  "page_title": "Developing Artificial Curiosity Algorithms | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Developing Artificial Curiosity Algorithms",
+      "href": "https://datascience.uchicago.edu/research/developing-artificial-curiosity-algorithms"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:02.639964+00:00",
+  "all_text_markdown": "Developing Artificial Curiosity Algorithms\n[Developing Artificial Curiosity Algorithms](https://datascience.uchicago.edu/research/developing-artificial-curiosity-algorithms)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nIn the last decade, experimental advances in the fabrication of meta-fluids out of active and stimuli-responsive components have led to a paradigm shift in how we describe condensed matter systems. By harnessing ambient energy sources, these materials bypass the tight constraints imposed by equilibrium physics. Novel meta-fluids require new paradigms for exploring systems, even without knowing what the interesting quantities to measure are.\nProfessor [William Irvine](https://physics.uchicago.edu/people/profile/william-t.m.-irvine) aims to address this need by utilizing artificial intelligence to explore and discover new behaviors in dynamical systems without relying on preconceived notions of what an interesting behavior looks like through the use of curiosity driven exploration. Creating an AI agent capable of independent, rigorous scientific discovery in a laboratory meta-fluid with complex flows will open the door to additional scientific investigation, such as for performing optimization for magnetic actuation protocols which generate curiosity-discovered fluid morphologies, or even morphological transitions.\nPrincipal Investigator: William Irvine (UChicago)\nRelated News, Insights, and Past Events\nData Science Seminar Series #5: Steve Barry\nMore Projects\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression\nBuilding Cyberinfrastructure for Rare-Event Searches",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Developing Artificial Curiosity Algorithms](https://datascience.uchicago.edu/research/developing-artificial-curiosity-algorithms)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the last decade, experimental advances in the fabrication of meta-fluids out of active and stimuli-responsive components have led to a paradigm shift in how we describe condensed matter systems. By harnessing ambient energy sources, these materials bypass the tight constraints imposed by equilibrium physics. Novel meta-fluids require new paradigms for exploring systems, even without knowing what the interesting quantities to measure are."
+        },
+        {
+          "type": "paragraph",
+          "text": "Professor [William Irvine](https://physics.uchicago.edu/people/profile/william-t.m.-irvine) aims to address this need by utilizing artificial intelligence to explore and discover new behaviors in dynamical systems without relying on preconceived notions of what an interesting behavior looks like through the use of curiosity driven exploration. Creating an AI agent capable of independent, rigorous scientific discovery in a laboratory meta-fluid with complex flows will open the door to additional scientific investigation, such as for performing optimization for magnetic actuation protocols which generate curiosity-discovered fluid morphologies, or even morphological transitions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigator: William Irvine (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Developing Artificial Curiosity Algorithms](https://datascience.uchicago.edu/research/developing-artificial-curiosity-algorithms)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nIn the last decade, experimental advances in the fabrication of meta-fluids out of active and stimuli-responsive components have led to a paradigm shift in how we describe condensed matter systems. By harnessing ambient energy sources, these materials bypass the tight constraints imposed by equilibrium physics. Novel meta-fluids require new paradigms for exploring systems, even without knowing what the interesting quantities to measure are.\nProfessor [William Irvine](https://physics.uchicago.edu/people/profile/william-t.m.-irvine) aims to address this need by utilizing artificial intelligence to explore and discover new behaviors in dynamical systems without relying on preconceived notions of what an interesting behavior looks like through the use of curiosity driven exploration. Creating an AI agent capable of independent, rigorous scientific discovery in a laboratory meta-fluid with complex flows will open the door to additional scientific investigation, such as for performing optimization for magnetic actuation protocols which generate curiosity-discovered fluid morphologies, or even morphological transitions.\nPrincipal Investigator: William Irvine (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Data Science Seminar Series #5: Steve Barry"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Data Science Seminar Series #5: Steve Barry"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Building Cyberinfrastructure for Rare-Event Searches"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression\n## Building Cyberinfrastructure for Rare-Event Searches"
+    }
+  ]
+}

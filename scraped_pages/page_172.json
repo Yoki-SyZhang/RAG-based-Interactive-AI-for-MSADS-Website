@@ -1,0 +1,77 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/argonne-rezzy-ai-support-chatbot-for-ev-charger-reservation-app-evrez",
+  "page_title": "Argonne | Rezzy: AI Support Chatbot for EV Charger Reservation App (EVrez) | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Argonne Rezzy Ai Support Chatbot For Ev Charger Reservation App Evrez",
+      "href": "https://datascience.uchicago.edu/research/argonne-rezzy-ai-support-chatbot-for-ev-charger-reservation-app-evrez"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:43:27.484557+00:00",
+  "all_text_markdown": "Argonne | Rezzy: AI Support Chatbot for EV Charger Reservation App (EVrez)\n[Argonne | Rezzy: AI Support Chatbot for EV Charger Reservation App (EVrez)](https://datascience.uchicago.edu/research/argonne-rezzy-ai-support-chatbot-for-ev-charger-reservation-app-evrez)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nAs electric vehicle use increases, so does the need for ensuring seamless access to charging infrastructure. At Argonne National Laboratory, the EVRez app currently allows for EV charging reservations on campus as a perk of employment. As a byproduct, ANL is able to collect user reservation data and patterns of behavior. This proposal outlines the design and implementation of an AI powered support chatbot aimed to analyze the collected data and act as an aid to automate data visualizations, analysis, and boost user satisfaction. Leveraging a multi agent workflow architecture powered by a Gemini LLM, this chatbot will classify user queries as needing visualizations, and provide real-time data analysis. Through data analysis, multi-agent mapping, and model evaluation, this project aligns with ANL’s mission of developing smart, sustainable, and AI-inspired solutions for everyday data analysis.\nWatch the team present this project at 02:14:16 in the session recording [here](https://uchicago.box.com/s/zlzx5vu0w30c1ni2c0avmjeu7jgnktge).\nFaculty Advisor\n[Igor Yakushin, PhD Adjunct Assistant Professor; Applied Scientist](https://datascience.uchicago.edu/people/igor-yakushin-phd)\nIgor Yakushin, PhD\nPhD in Theoretical Physics, MS in Computer Science. Currently – Applied Scientist at Amazon. Previous jobs: Computational Scientist at the Argonne National Laboratory, Scientist at LIGO project of California Institute of Technology. I specialize in scientific computing, HPC, machine learning, data analysis.",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Argonne | Rezzy: AI Support Chatbot for EV Charger Reservation App (EVrez)](https://datascience.uchicago.edu/research/argonne-rezzy-ai-support-chatbot-for-ev-charger-reservation-app-evrez)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "As electric vehicle use increases, so does the need for ensuring seamless access to charging infrastructure. At Argonne National Laboratory, the EVRez app currently allows for EV charging reservations on campus as a perk of employment. As a byproduct, ANL is able to collect user reservation data and patterns of behavior. This proposal outlines the design and implementation of an AI powered support chatbot aimed to analyze the collected data and act as an aid to automate data visualizations, analysis, and boost user satisfaction. Leveraging a multi agent workflow architecture powered by a Gemini LLM, this chatbot will classify user queries as needing visualizations, and provide real-time data analysis. Through data analysis, multi-agent mapping, and model evaluation, this project aligns with ANL’s mission of developing smart, sustainable, and AI-inspired solutions for everyday data analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch the team present this project at 02:14:16 in the session recording [here](https://uchicago.box.com/s/zlzx5vu0w30c1ni2c0avmjeu7jgnktge)."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Faculty Advisor"
+        },
+        {
+          "type": "list_item",
+          "text": "[Igor Yakushin, PhD Adjunct Assistant Professor; Applied Scientist](https://datascience.uchicago.edu/people/igor-yakushin-phd)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Igor Yakushin, PhD"
+        },
+        {
+          "type": "paragraph",
+          "text": "PhD in Theoretical Physics, MS in Computer Science. Currently – Applied Scientist at Amazon. Previous jobs: Computational Scientist at the Argonne National Laboratory, Scientist at LIGO project of California Institute of Technology. I specialize in scientific computing, HPC, machine learning, data analysis."
+        }
+      ],
+      "text_markdown": "## [Argonne | Rezzy: AI Support Chatbot for EV Charger Reservation App (EVrez)](https://datascience.uchicago.edu/research/argonne-rezzy-ai-support-chatbot-for-ev-charger-reservation-app-evrez)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nAs electric vehicle use increases, so does the need for ensuring seamless access to charging infrastructure. At Argonne National Laboratory, the EVRez app currently allows for EV charging reservations on campus as a perk of employment. As a byproduct, ANL is able to collect user reservation data and patterns of behavior. This proposal outlines the design and implementation of an AI powered support chatbot aimed to analyze the collected data and act as an aid to automate data visualizations, analysis, and boost user satisfaction. Leveraging a multi agent workflow architecture powered by a Gemini LLM, this chatbot will classify user queries as needing visualizations, and provide real-time data analysis. Through data analysis, multi-agent mapping, and model evaluation, this project aligns with ANL’s mission of developing smart, sustainable, and AI-inspired solutions for everyday data analysis.\nWatch the team present this project at 02:14:16 in the session recording [here](https://uchicago.box.com/s/zlzx5vu0w30c1ni2c0avmjeu7jgnktge).\n### Faculty Advisor\n- [Igor Yakushin, PhD Adjunct Assistant Professor; Applied Scientist](https://datascience.uchicago.edu/people/igor-yakushin-phd)\n# Igor Yakushin, PhD\nPhD in Theoretical Physics, MS in Computer Science. Currently – Applied Scientist at Amazon. Previous jobs: Computational Scientist at the Argonne National Laboratory, Scientist at LIGO project of California Institute of Technology. I specialize in scientific computing, HPC, machine learning, data analysis."
+    }
+  ]
+}

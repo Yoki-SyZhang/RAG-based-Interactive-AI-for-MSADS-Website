@@ -1,0 +1,85 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/learning-how-to-measure-scientific-images",
+  "page_title": "Learning How To Measure Scientific Images | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Learning How To Measure Scientific Images",
+      "href": "https://datascience.uchicago.edu/research/learning-how-to-measure-scientific-images"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:24.917229+00:00",
+  "all_text_markdown": "Learning How To Measure Scientific Images\n[Learning How To Measure Scientific Images](https://datascience.uchicago.edu/research/learning-how-to-measure-scientific-images)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nTo reveal and understand physical laws of nature, scientists sometimes create novel experimental systems in their laboratories, which they then capture with video cameras. To fully realize what these systems are showing, however, scientists must also often create new, bespoke computational data analysis pipelines to extract key quantitative parameters from their video image data. This project seeks to discover underlying commonality between different forms of experimental scientific data analyses, and then exploit these shared properties with a combination of machine learning methods (data augmentation and active learning). Ultimately, it seeks to create a visual, interactive data analysis system, based on a neural network for image processing and visualization for display of extracted features, that will lower the human cost of creating new ways to study nature.\nPrincipal Investigators: Gordon Kindlmann (Associate Professor, Computer Science), William Irvine (Professor, Physics)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Learning How To Measure Scientific Images](https://datascience.uchicago.edu/research/learning-how-to-measure-scientific-images)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "To reveal and understand physical laws of nature, scientists sometimes create novel experimental systems in their laboratories, which they then capture with video cameras. To fully realize what these systems are showing, however, scientists must also often create new, bespoke computational data analysis pipelines to extract key quantitative parameters from their video image data. This project seeks to discover underlying commonality between different forms of experimental scientific data analyses, and then exploit these shared properties with a combination of machine learning methods (data augmentation and active learning). Ultimately, it seeks to create a visual, interactive data analysis system, based on a neural network for image processing and visualization for display of extracted features, that will lower the human cost of creating new ways to study nature."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Gordon Kindlmann (Associate Professor, Computer Science), William Irvine (Professor, Physics)"
+        }
+      ],
+      "text_markdown": "## [Learning How To Measure Scientific Images](https://datascience.uchicago.edu/research/learning-how-to-measure-scientific-images)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nTo reveal and understand physical laws of nature, scientists sometimes create novel experimental systems in their laboratories, which they then capture with video cameras. To fully realize what these systems are showing, however, scientists must also often create new, bespoke computational data analysis pipelines to extract key quantitative parameters from their video image data. This project seeks to discover underlying commonality between different forms of experimental scientific data analyses, and then exploit these shared properties with a combination of machine learning methods (data augmentation and active learning). Ultimately, it seeks to create a visual, interactive data analysis system, based on a neural network for image processing and visualization for display of extracted features, that will lower the human cost of creating new ways to study nature.\nPrincipal Investigators: Gordon Kindlmann (Associate Professor, Computer Science), William Irvine (Professor, Physics)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

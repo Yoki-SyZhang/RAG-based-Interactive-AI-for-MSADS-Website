@@ -1,0 +1,101 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/n-body-networks-for-jet-physics-at-the-energy-frontier",
+  "page_title": "N-body Networks for Jet Physics at the Energy Frontier | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "N Body Networks For Jet Physics At The Energy Frontier",
+      "href": "https://datascience.uchicago.edu/research/n-body-networks-for-jet-physics-at-the-energy-frontier"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:19.675515+00:00",
+  "all_text_markdown": "N-body Networks for Jet Physics at the Energy Frontier\n[N-body Networks for Jet Physics at the Energy Frontier](https://datascience.uchicago.edu/research/n-body-networks-for-jet-physics-at-the-energy-frontier)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nMachine learning methods are becoming essential for high energy physics experiments at facilities like the Large Hadron Collider at CERN. However, existing ML algorithms typically do not account for underlying symmetry properties of the physical systems and interactions of interest, and must learn, often imperfectly, the phenomenological implications of any symmetries involved. This project will develop a new approach based on a novel type of covariant neural network architecture called N-body networks, and will develop a Lorentz invariant neural network software library for systems of particles whose properties are invariant under generalized Lorentz transformations.\nPrincipal Investigators: Risi Kondor (Associate Professor, Computer Science), David Miller (Associate Professor, Physics)\nRelated News, Insights, and Past Events\nLorentz Group Equivariant Neural Network for Particle Physics\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[N-body Networks for Jet Physics at the Energy Frontier](https://datascience.uchicago.edu/research/n-body-networks-for-jet-physics-at-the-energy-frontier)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Machine learning methods are becoming essential for high energy physics experiments at facilities like the Large Hadron Collider at CERN. However, existing ML algorithms typically do not account for underlying symmetry properties of the physical systems and interactions of interest, and must learn, often imperfectly, the phenomenological implications of any symmetries involved. This project will develop a new approach based on a novel type of covariant neural network architecture called N-body networks, and will develop a Lorentz invariant neural network software library for systems of particles whose properties are invariant under generalized Lorentz transformations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Risi Kondor (Associate Professor, Computer Science), David Miller (Associate Professor, Physics)"
+        }
+      ],
+      "text_markdown": "## [N-body Networks for Jet Physics at the Energy Frontier](https://datascience.uchicago.edu/research/n-body-networks-for-jet-physics-at-the-energy-frontier)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nMachine learning methods are becoming essential for high energy physics experiments at facilities like the Large Hadron Collider at CERN. However, existing ML algorithms typically do not account for underlying symmetry properties of the physical systems and interactions of interest, and must learn, often imperfectly, the phenomenological implications of any symmetries involved. This project will develop a new approach based on a novel type of covariant neural network architecture called N-body networks, and will develop a Lorentz invariant neural network software library for systems of particles whose properties are invariant under generalized Lorentz transformations.\nPrincipal Investigators: Risi Kondor (Associate Professor, Computer Science), David Miller (Associate Professor, Physics)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Lorentz Group Equivariant Neural Network for Particle Physics"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Lorentz Group Equivariant Neural Network for Particle Physics"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

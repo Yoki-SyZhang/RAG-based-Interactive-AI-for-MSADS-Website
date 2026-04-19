@@ -1,0 +1,84 @@
+{
+  "page_url": "https://datascience.uchicago.edu/about",
+  "page_title": "About | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "About",
+      "href": "https://datascience.uchicago.edu/about"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:56.049955+00:00",
+  "all_text_markdown": "The UChicago Data Science Institute executes the University of Chicago’s bold, innovative vision of data science as a new discipline.\nDSI partners with organizations from academia, industry, government, and the non-profit sector, through a variety of research, education, and outreach programs.\nJobs & Opportunities\nWe have several job opportunities currently open, including faculty positions, postdoctoral and preceptorship programs, student research and mentorship opportunities, and technical and administrative staff positions.\n[Jobs & Opportunities](https://datascience.uchicago.edu/about/jobs)\n[Preceptors in Data Science](https://datascience.uchicago.edu/outreach/preceptors)\n[Postdoctoral Programs](https://datascience.uchicago.edu/research/postdoctoral-programs)\nVisiting DSI\nThe Data Science Institute is located on the University of Chicago campus across three buildings: 5460 S University Ave, Ryerson Laboratory, and the NBC Tower.",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The UChicago Data Science Institute executes the University of Chicago’s bold, innovative vision of data science as a new discipline."
+        }
+      ],
+      "text_markdown": "The UChicago Data Science Institute executes the University of Chicago’s bold, innovative vision of data science as a new discipline."
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "DSI partners with organizations from academia, industry, government, and the non-profit sector, through a variety of research, education, and outreach programs."
+        }
+      ],
+      "text_markdown": "DSI partners with organizations from academia, industry, government, and the non-profit sector, through a variety of research, education, and outreach programs."
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Jobs & Opportunities"
+        },
+        {
+          "type": "paragraph",
+          "text": "We have several job opportunities currently open, including faculty positions, postdoctoral and preceptorship programs, student research and mentorship opportunities, and technical and administrative staff positions."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Jobs & Opportunities](https://datascience.uchicago.edu/about/jobs)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Preceptors in Data Science](https://datascience.uchicago.edu/outreach/preceptors)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Postdoctoral Programs](https://datascience.uchicago.edu/research/postdoctoral-programs)"
+        }
+      ],
+      "text_markdown": "## Jobs & Opportunities\nWe have several job opportunities currently open, including faculty positions, postdoctoral and preceptorship programs, student research and mentorship opportunities, and technical and administrative staff positions.\n## [Jobs & Opportunities](https://datascience.uchicago.edu/about/jobs)\n## [Preceptors in Data Science](https://datascience.uchicago.edu/outreach/preceptors)\n## [Postdoctoral Programs](https://datascience.uchicago.edu/research/postdoctoral-programs)"
+    },
+    {
+      "section_index": 3,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Visiting DSI"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Data Science Institute is located on the University of Chicago campus across three buildings: 5460 S University Ave, Ryerson Laboratory, and the NBC Tower."
+        }
+      ],
+      "text_markdown": "## Visiting DSI\nThe Data Science Institute is located on the University of Chicago campus across three buildings: 5460 S University Ave, Ryerson Laboratory, and the NBC Tower."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/is-climate-change-changing-clouds",
+  "page_title": "Is Climate Change Changing Clouds? | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Is Climate Change Changing Clouds",
+      "href": "https://datascience.uchicago.edu/research/is-climate-change-changing-clouds"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:07.886634+00:00",
+  "all_text_markdown": "Is Climate Change Changing Clouds?\n[Is Climate Change Changing Clouds?](https://datascience.uchicago.edu/research/is-climate-change-changing-clouds)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nClouds play a dominant role in the Earth’s radiation budget, both reflecting sunlight and trapping infrared radiation. Their responses are the primary source of uncertainty in the numerical simulations used to construct projections of future climate. Satellite data provides detailed imagery of clouds — especially their spatial and temporal distribution. A major open question in climate science is whether researchers can automatically extract spatiotemporal features of clouds from satellite imagery to aid in climate analysis.\nThis project is a joint effort among Argonne, UChicago Atmospheric Sciences, and UChicago Computer Science aimed at leveraging state-of-the-art computer vision and machine learning tools to extract cloud features from satellite data and characterize the temporal evolution of those patterns in response to a changing climate. This collaborative effort is necessary because off-the-shelf vision tools do not reflect the physical context of cloud formation, necessitating active collaborations between computer science and atmospheric science. Furthermore, the vast quantity of cloud data demands efficient, large-scale, and parallel computing capabilities being developed at Argonne.\nThis project was funded by the AI + Science initiative, a program organized by the University of Chicago [Office of Research and National Laboratories](https://researchinnovation.uchicago.edu) in collaboration with the Center for Data and Computing aimed at increasing interactions among the University of Chicago, Argonne National Laboratory, Fermi National Accelerator Laboratory, and the Toyota Technological Institute at Chicago.\nPrincipal Investigators: Rebecca Willett (UChicago), Ian Foster (Argonne, UChicago), Elisabeth Moyer (UChicago), Michael Maire (UChicago)\nRelated News, Insights, and Past Events\nHow AI Could Change Science\nUChicago Jumpstarts Collaborations with National Labs in Artificial Intelligence\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Is Climate Change Changing Clouds?](https://datascience.uchicago.edu/research/is-climate-change-changing-clouds)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Clouds play a dominant role in the Earth’s radiation budget, both reflecting sunlight and trapping infrared radiation. Their responses are the primary source of uncertainty in the numerical simulations used to construct projections of future climate. Satellite data provides detailed imagery of clouds — especially their spatial and temporal distribution. A major open question in climate science is whether researchers can automatically extract spatiotemporal features of clouds from satellite imagery to aid in climate analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "This project is a joint effort among Argonne, UChicago Atmospheric Sciences, and UChicago Computer Science aimed at leveraging state-of-the-art computer vision and machine learning tools to extract cloud features from satellite data and characterize the temporal evolution of those patterns in response to a changing climate. This collaborative effort is necessary because off-the-shelf vision tools do not reflect the physical context of cloud formation, necessitating active collaborations between computer science and atmospheric science. Furthermore, the vast quantity of cloud data demands efficient, large-scale, and parallel computing capabilities being developed at Argonne."
+        },
+        {
+          "type": "paragraph",
+          "text": "This project was funded by the AI + Science initiative, a program organized by the University of Chicago [Office of Research and National Laboratories](https://researchinnovation.uchicago.edu) in collaboration with the Center for Data and Computing aimed at increasing interactions among the University of Chicago, Argonne National Laboratory, Fermi National Accelerator Laboratory, and the Toyota Technological Institute at Chicago."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Rebecca Willett (UChicago), Ian Foster (Argonne, UChicago), Elisabeth Moyer (UChicago), Michael Maire (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Is Climate Change Changing Clouds?](https://datascience.uchicago.edu/research/is-climate-change-changing-clouds)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nClouds play a dominant role in the Earth’s radiation budget, both reflecting sunlight and trapping infrared radiation. Their responses are the primary source of uncertainty in the numerical simulations used to construct projections of future climate. Satellite data provides detailed imagery of clouds — especially their spatial and temporal distribution. A major open question in climate science is whether researchers can automatically extract spatiotemporal features of clouds from satellite imagery to aid in climate analysis.\nThis project is a joint effort among Argonne, UChicago Atmospheric Sciences, and UChicago Computer Science aimed at leveraging state-of-the-art computer vision and machine learning tools to extract cloud features from satellite data and characterize the temporal evolution of those patterns in response to a changing climate. This collaborative effort is necessary because off-the-shelf vision tools do not reflect the physical context of cloud formation, necessitating active collaborations between computer science and atmospheric science. Furthermore, the vast quantity of cloud data demands efficient, large-scale, and parallel computing capabilities being developed at Argonne.\nThis project was funded by the AI + Science initiative, a program organized by the University of Chicago [Office of Research and National Laboratories](https://researchinnovation.uchicago.edu) in collaboration with the Center for Data and Computing aimed at increasing interactions among the University of Chicago, Argonne National Laboratory, Fermi National Accelerator Laboratory, and the Toyota Technological Institute at Chicago.\nPrincipal Investigators: Rebecca Willett (UChicago), Ian Foster (Argonne, UChicago), Elisabeth Moyer (UChicago), Michael Maire (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How AI Could Change Science"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "UChicago Jumpstarts Collaborations with National Labs in Artificial Intelligence"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## How AI Could Change Science\n## UChicago Jumpstarts Collaborations with National Labs in Artificial Intelligence"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

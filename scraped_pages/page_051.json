@@ -1,0 +1,105 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/ai-driven-tutorials-for-radiology-student-training",
+  "page_title": "AI-Driven Tutorials for Radiology Student Training | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Ai Driven Tutorials For Radiology Student Training",
+      "href": "https://datascience.uchicago.edu/research/ai-driven-tutorials-for-radiology-student-training"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:03.953240+00:00",
+  "all_text_markdown": "AI-Driven Tutorials for Radiology Student Training\n[AI-Driven Tutorials for Radiology Student Training](https://datascience.uchicago.edu/research/ai-driven-tutorials-for-radiology-student-training)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nComputer-aided diagnosis of radiological images such as MRIs and X-rays was one of the first successful applications of AI to medicine. In this “human-in-the-loop” paradigm, computer vision models trained on large datasets of medical images detect potential signals of disease and make diagnoses, which are then manually checked by radiologists. This collaboration seeks to extend that loop by using computer models to help train future radiologists, via AI-driven tutorials that explain the patterns and predictions these algorithms have drawn from big data.\nUsing prostate MRIs as its initial focus, the researchers will develop an “AI teacher” that provides imaging examples alongside explanations of AI predictions. These tutorials will allow students to learn new AI-derived insights about image features to make diagnoses themselves, while familiarizing them with working in tandem with AI assistance. If successful, the tutorial concept could be transferable to training environments in pathology and other medical fields, as well as disciplines such as law and scientific research.\nPrincipal Investigator: Chenhao Tan (Assistant Professor, Computer Science and Data Science)\nRelated News, Insights, and Past Events\nCDAC Discovery Challenge Awardees Train Data Science on Medicine, Clean Water, and Education\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[AI-Driven Tutorials for Radiology Student Training](https://datascience.uchicago.edu/research/ai-driven-tutorials-for-radiology-student-training)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Computer-aided diagnosis of radiological images such as MRIs and X-rays was one of the first successful applications of AI to medicine. In this “human-in-the-loop” paradigm, computer vision models trained on large datasets of medical images detect potential signals of disease and make diagnoses, which are then manually checked by radiologists. This collaboration seeks to extend that loop by using computer models to help train future radiologists, via AI-driven tutorials that explain the patterns and predictions these algorithms have drawn from big data."
+        },
+        {
+          "type": "paragraph",
+          "text": "Using prostate MRIs as its initial focus, the researchers will develop an “AI teacher” that provides imaging examples alongside explanations of AI predictions. These tutorials will allow students to learn new AI-derived insights about image features to make diagnoses themselves, while familiarizing them with working in tandem with AI assistance. If successful, the tutorial concept could be transferable to training environments in pathology and other medical fields, as well as disciplines such as law and scientific research."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigator: Chenhao Tan (Assistant Professor, Computer Science and Data Science)"
+        }
+      ],
+      "text_markdown": "## [AI-Driven Tutorials for Radiology Student Training](https://datascience.uchicago.edu/research/ai-driven-tutorials-for-radiology-student-training)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nComputer-aided diagnosis of radiological images such as MRIs and X-rays was one of the first successful applications of AI to medicine. In this “human-in-the-loop” paradigm, computer vision models trained on large datasets of medical images detect potential signals of disease and make diagnoses, which are then manually checked by radiologists. This collaboration seeks to extend that loop by using computer models to help train future radiologists, via AI-driven tutorials that explain the patterns and predictions these algorithms have drawn from big data.\nUsing prostate MRIs as its initial focus, the researchers will develop an “AI teacher” that provides imaging examples alongside explanations of AI predictions. These tutorials will allow students to learn new AI-derived insights about image features to make diagnoses themselves, while familiarizing them with working in tandem with AI assistance. If successful, the tutorial concept could be transferable to training environments in pathology and other medical fields, as well as disciplines such as law and scientific research.\nPrincipal Investigator: Chenhao Tan (Assistant Professor, Computer Science and Data Science)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "CDAC Discovery Challenge Awardees Train Data Science on Medicine, Clean Water, and Education"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## CDAC Discovery Challenge Awardees Train Data Science on Medicine, Clean Water, and Education"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

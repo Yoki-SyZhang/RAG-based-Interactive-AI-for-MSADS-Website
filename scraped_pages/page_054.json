@@ -1,0 +1,114 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/machine-learning-to-improve-targeted-cancer-therapy",
+  "page_title": "Machine Learning to Improve Targeted Cancer Therapy | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Machine Learning To Improve Targeted Cancer Therapy",
+      "href": "https://datascience.uchicago.edu/research/machine-learning-to-improve-targeted-cancer-therapy"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:05.933040+00:00",
+  "all_text_markdown": "Machine Learning to Improve Targeted Cancer Therapy\n[Machine Learning to Improve Targeted Cancer Therapy](https://datascience.uchicago.edu/research/machine-learning-to-improve-targeted-cancer-therapy)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nAdvances in genomics have created many new cancer therapies that target specific genetic or molecular features, raising the potential for personalized treatment that improves effectiveness and decreases side effects. However, the majority of patients treated with targeted therapies do not respond as predicted, and detailed patient genomic information is expensive to acquire.\nThis collaboration proposes to improve targeting of cancer therapies by developing new AI approaches that recommend the best treatment based on a combination of genetic and pathology data. Researchers will build new methods drawing upon computer vision and machine learning to gather essential contextual information about individual cancers from tumor samples, utilizing both genomic and image-based features. This work will advance both artificial intelligence and cancer-focused data science by developing innovative solutions to emerging machine learning problems in cancer research, ultimately benefiting patients through more targeted, effective treatments.\nPrincipal Investigator: Samantha Riesenfeld (Assistant Professor of Molecular Engineering and Medicine)\n[Image: [“Adenoid cystic carcinoma” by Yale Rosen](https://www.flickr.com/photos/30950973@N03/5600774541).]\nRelated News, Insights, and Past Events\nUChicago graduate brings data science skills to behavioral science lab\nCDAC Discovery Challenge Awardees Train Data Science on Medicine, Clean Water, and Education\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Machine Learning to Improve Targeted Cancer Therapy](https://datascience.uchicago.edu/research/machine-learning-to-improve-targeted-cancer-therapy)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Advances in genomics have created many new cancer therapies that target specific genetic or molecular features, raising the potential for personalized treatment that improves effectiveness and decreases side effects. However, the majority of patients treated with targeted therapies do not respond as predicted, and detailed patient genomic information is expensive to acquire."
+        },
+        {
+          "type": "paragraph",
+          "text": "This collaboration proposes to improve targeting of cancer therapies by developing new AI approaches that recommend the best treatment based on a combination of genetic and pathology data. Researchers will build new methods drawing upon computer vision and machine learning to gather essential contextual information about individual cancers from tumor samples, utilizing both genomic and image-based features. This work will advance both artificial intelligence and cancer-focused data science by developing innovative solutions to emerging machine learning problems in cancer research, ultimately benefiting patients through more targeted, effective treatments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigator: Samantha Riesenfeld (Assistant Professor of Molecular Engineering and Medicine)"
+        },
+        {
+          "type": "paragraph",
+          "text": "[Image: [“Adenoid cystic carcinoma” by Yale Rosen](https://www.flickr.com/photos/30950973@N03/5600774541).]"
+        }
+      ],
+      "text_markdown": "## [Machine Learning to Improve Targeted Cancer Therapy](https://datascience.uchicago.edu/research/machine-learning-to-improve-targeted-cancer-therapy)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nAdvances in genomics have created many new cancer therapies that target specific genetic or molecular features, raising the potential for personalized treatment that improves effectiveness and decreases side effects. However, the majority of patients treated with targeted therapies do not respond as predicted, and detailed patient genomic information is expensive to acquire.\nThis collaboration proposes to improve targeting of cancer therapies by developing new AI approaches that recommend the best treatment based on a combination of genetic and pathology data. Researchers will build new methods drawing upon computer vision and machine learning to gather essential contextual information about individual cancers from tumor samples, utilizing both genomic and image-based features. This work will advance both artificial intelligence and cancer-focused data science by developing innovative solutions to emerging machine learning problems in cancer research, ultimately benefiting patients through more targeted, effective treatments.\nPrincipal Investigator: Samantha Riesenfeld (Assistant Professor of Molecular Engineering and Medicine)\n[Image: [“Adenoid cystic carcinoma” by Yale Rosen](https://www.flickr.com/photos/30950973@N03/5600774541).]"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "UChicago graduate brings data science skills to behavioral science lab"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "CDAC Discovery Challenge Awardees Train Data Science on Medicine, Clean Water, and Education"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## UChicago graduate brings data science skills to behavioral science lab\n## CDAC Discovery Challenge Awardees Train Data Science on Medicine, Clean Water, and Education"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

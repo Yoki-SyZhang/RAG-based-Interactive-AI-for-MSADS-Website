@@ -1,0 +1,110 @@
+{
+  "page_url": "https://datascience.uchicago.edu/news-events/events",
+  "page_title": "Events | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "News Events",
+      "href": "https://datascience.uchicago.edu/news-events"
+    },
+    {
+      "text": "Events",
+      "href": "https://datascience.uchicago.edu/news-events/events"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:50.120067+00:00",
+  "all_text_markdown": "Events\nAsk A Student in MS in Applied Data Science\nPathways to Impact in AI and Data Science with the Polsky Center for Entrepreneurship and Innovation\nEmma Liu (UChicago): Schmidt AI in Science Speaker Series\nInfo Session – MS in Applied Data Science (In-Person Program)\nChicago Data Night: Milan McGraw (Amazon Web Services)\nJorge Jaramillo (UChicago): Schmidt AI in Science Speaker Series\nAICE Speaker Series: Baylor Fox-Kemper (Brown University)\nData Science Seminar Series: Steve Veldman\nBenjamin Recht (UC Berkeley): Distinguished Speaker Series\nDean Knox (UPenn): Data & Democracy Speaker Series\nPast Events\nOpenAI Lunch & Learn: James Hairston, Global Head of Innovation Policy\nRamon Nogueira (UChicago): Schmidt AI in Science Speaker Series\nAI+Science Hackathon\nJon Kleinberg (Cornell): Distinguished Speaker Series",
+  "sections": [
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ask A Student in MS in Applied Data Science"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Pathways to Impact in AI and Data Science with the Polsky Center for Entrepreneurship and Innovation"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Emma Liu (UChicago): Schmidt AI in Science Speaker Series"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Info Session – MS in Applied Data Science (In-Person Program)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Chicago Data Night: Milan McGraw (Amazon Web Services)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Jorge Jaramillo (UChicago): Schmidt AI in Science Speaker Series"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AICE Speaker Series: Baylor Fox-Kemper (Brown University)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Data Science Seminar Series: Steve Veldman"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Benjamin Recht (UC Berkeley): Distinguished Speaker Series"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Dean Knox (UPenn): Data & Democracy Speaker Series"
+        }
+      ],
+      "text_markdown": "## Ask A Student in MS in Applied Data Science\n## Pathways to Impact in AI and Data Science with the Polsky Center for Entrepreneurship and Innovation\n## Emma Liu (UChicago): Schmidt AI in Science Speaker Series\n## Info Session – MS in Applied Data Science (In-Person Program)\n## Chicago Data Night: Milan McGraw (Amazon Web Services)\n## Jorge Jaramillo (UChicago): Schmidt AI in Science Speaker Series\n## AICE Speaker Series: Baylor Fox-Kemper (Brown University)\n## Data Science Seminar Series: Steve Veldman\n## Benjamin Recht (UC Berkeley): Distinguished Speaker Series\n## Dean Knox (UPenn): Data & Democracy Speaker Series"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "OpenAI Lunch & Learn: James Hairston, Global Head of Innovation Policy"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ramon Nogueira (UChicago): Schmidt AI in Science Speaker Series"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "AI+Science Hackathon"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Jon Kleinberg (Cornell): Distinguished Speaker Series"
+        }
+      ],
+      "text_markdown": "## Past Events\n## OpenAI Lunch & Learn: James Hairston, Global Head of Innovation Policy\n## Ramon Nogueira (UChicago): Schmidt AI in Science Speaker Series\n## AI+Science Hackathon\n## Jon Kleinberg (Cornell): Distinguished Speaker Series"
+    }
+  ]
+}

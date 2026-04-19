@@ -1,0 +1,93 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/examining-the-mystery-of-how-living-organisms-develop",
+  "page_title": "Examining The Mystery of How Living Organisms Develop | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Examining The Mystery Of How Living Organisms Develop",
+      "href": "https://datascience.uchicago.edu/research/examining-the-mystery-of-how-living-organisms-develop"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:06.579652+00:00",
+  "all_text_markdown": "Examining The Mystery of How Living Organisms Develop\n[Examining The Mystery of How Living Organisms Develop](https://datascience.uchicago.edu/research/examining-the-mystery-of-how-living-organisms-develop)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nMicroscopy techniques have given us a wealth of information about cells, from their molecular components to how multiple cells interact at the tissue level. Yet, we still do not know how molecular inputs determine the fate of a cell or how complex cellular interactions lead to tissue development. Understanding this behavior will unlock the mystery of how living organisms develop.\nUChicago Professors [Margaret Gardel](https://physics.uchicago.edu/people/profile/margaret-gardel) and [Vincenzo Vitelli](https://home.uchicago.edu/~vitelli/index.html) have set out to help solve this puzzle by establishing a machine learning pipeline that uses existing experimental data to extract the underlying principles of cell behavior at different scales. At the subcellular scale, they will identify key proteins that affect cell development and how the location of the protein within the cell impacts its function. At the multicellular scale, they will investigate cellular interactions to determine how specific groups of cells behave and how these random interactions affect cell and tissue development.\nThis study could improve our fundamental understanding of cell systems and offer new possibilities for the application of bioengineering in clinical diagnosis, ultimately providing us with the ability to control the cellular dynamics that lead to diseases ranging from cancer to dementia.\nPrincipal Investigators: Margaret Gardel (UChicago), Vincenzo Vitelli (UChicago)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Examining The Mystery of How Living Organisms Develop](https://datascience.uchicago.edu/research/examining-the-mystery-of-how-living-organisms-develop)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Microscopy techniques have given us a wealth of information about cells, from their molecular components to how multiple cells interact at the tissue level. Yet, we still do not know how molecular inputs determine the fate of a cell or how complex cellular interactions lead to tissue development. Understanding this behavior will unlock the mystery of how living organisms develop."
+        },
+        {
+          "type": "paragraph",
+          "text": "UChicago Professors [Margaret Gardel](https://physics.uchicago.edu/people/profile/margaret-gardel) and [Vincenzo Vitelli](https://home.uchicago.edu/~vitelli/index.html) have set out to help solve this puzzle by establishing a machine learning pipeline that uses existing experimental data to extract the underlying principles of cell behavior at different scales. At the subcellular scale, they will identify key proteins that affect cell development and how the location of the protein within the cell impacts its function. At the multicellular scale, they will investigate cellular interactions to determine how specific groups of cells behave and how these random interactions affect cell and tissue development."
+        },
+        {
+          "type": "paragraph",
+          "text": "This study could improve our fundamental understanding of cell systems and offer new possibilities for the application of bioengineering in clinical diagnosis, ultimately providing us with the ability to control the cellular dynamics that lead to diseases ranging from cancer to dementia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Margaret Gardel (UChicago), Vincenzo Vitelli (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Examining The Mystery of How Living Organisms Develop](https://datascience.uchicago.edu/research/examining-the-mystery-of-how-living-organisms-develop)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nMicroscopy techniques have given us a wealth of information about cells, from their molecular components to how multiple cells interact at the tissue level. Yet, we still do not know how molecular inputs determine the fate of a cell or how complex cellular interactions lead to tissue development. Understanding this behavior will unlock the mystery of how living organisms develop.\nUChicago Professors [Margaret Gardel](https://physics.uchicago.edu/people/profile/margaret-gardel) and [Vincenzo Vitelli](https://home.uchicago.edu/~vitelli/index.html) have set out to help solve this puzzle by establishing a machine learning pipeline that uses existing experimental data to extract the underlying principles of cell behavior at different scales. At the subcellular scale, they will identify key proteins that affect cell development and how the location of the protein within the cell impacts its function. At the multicellular scale, they will investigate cellular interactions to determine how specific groups of cells behave and how these random interactions affect cell and tissue development.\nThis study could improve our fundamental understanding of cell systems and offer new possibilities for the application of bioengineering in clinical diagnosis, ultimately providing us with the ability to control the cellular dynamics that lead to diseases ranging from cancer to dementia.\nPrincipal Investigators: Margaret Gardel (UChicago), Vincenzo Vitelli (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

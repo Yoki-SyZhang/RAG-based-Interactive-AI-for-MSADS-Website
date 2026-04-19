@@ -1,0 +1,89 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/chicago-white-sox-measuring-pitcher-deception-and-command-using-motion-tracking-data",
+  "page_title": "Chicago Baseball | Measuring Pitcher Deception and Command Using Motion Tracking Data | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Chicago White Sox Measuring Pitcher Deception And Command Using Motion Tracking Data",
+      "href": "https://datascience.uchicago.edu/research/chicago-white-sox-measuring-pitcher-deception-and-command-using-motion-tracking-data"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:43:26.823948+00:00",
+  "all_text_markdown": "Chicago Baseball | Measuring Pitcher Deception and Command Using Motion Tracking Data\n[Chicago Baseball | Measuring Pitcher Deception and Command Using Motion Tracking Data](https://datascience.uchicago.edu/research/chicago-white-sox-measuring-pitcher-deception-and-command-using-motion-tracking-data)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nThis capstone project explored how advanced data science methods can be used to better understand two complex aspects of baseball pitching: deception and command. Using publicly available pitch-level data from the 2024 MLB season, the team developed quantitative measures to capture how these qualities appear in real game outcomes.\nThe project focused on modeling relationships between pitch outcomes and biomechanical signals, with the goal of identifying patterns that contribute to effective pitching performance. Through this work, students applied statistical modeling, feature engineering, and predictive analysis to a real-world sports analytics problem.\nA couple of students from the team went on a podcast called Sox in the Basement to talk about the project, you can watch the video [here](https://youtu.be/kougRr3cJys?si=xk8Hyx4LVjOhLsUv).\nKeywords: Biometric modeling, graph neural networks, metric creation, metric evaluation, pitching analysis, sports\nFaculty Advisor\n[Jeanette Shutay, PhD Instructor; President & Chief Data Officer at Shutay Consulting](https://datascience.uchicago.edu/people/jeanette-shutay-phd)\nJeanette Shutay, PhD\nSupply Chain\nDr. Jeanette Shutay is currently the President and Chief Data Officer at Shutay Consulting. Jeanette is a strategic research and data science leader with extensive experience building and scaling advanced analytics and data science teams. Her analytical expertise spans across product, sales, marketing, supply chain, and operations. Jeanette also has approximately 10 years of consulting experience working with nonprofit organizations, educational institutions, and the federal government. As a consultant, Jeanette focuses on data strategy, research methodology and analysis, as well as campaign and program evaluation. Jeanette is incredibly passionate about nature and wildlife, and she tries to find ways to incorporate her skills to help improve the environment and the lives of all creatures that inhabit the Earth.",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Chicago Baseball | Measuring Pitcher Deception and Command Using Motion Tracking Data](https://datascience.uchicago.edu/research/chicago-white-sox-measuring-pitcher-deception-and-command-using-motion-tracking-data)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "This capstone project explored how advanced data science methods can be used to better understand two complex aspects of baseball pitching: deception and command. Using publicly available pitch-level data from the 2024 MLB season, the team developed quantitative measures to capture how these qualities appear in real game outcomes."
+        },
+        {
+          "type": "paragraph",
+          "text": "The project focused on modeling relationships between pitch outcomes and biomechanical signals, with the goal of identifying patterns that contribute to effective pitching performance. Through this work, students applied statistical modeling, feature engineering, and predictive analysis to a real-world sports analytics problem."
+        },
+        {
+          "type": "paragraph",
+          "text": "A couple of students from the team went on a podcast called Sox in the Basement to talk about the project, you can watch the video [here](https://youtu.be/kougRr3cJys?si=xk8Hyx4LVjOhLsUv)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keywords: Biometric modeling, graph neural networks, metric creation, metric evaluation, pitching analysis, sports"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Faculty Advisor"
+        },
+        {
+          "type": "list_item",
+          "text": "[Jeanette Shutay, PhD Instructor; President & Chief Data Officer at Shutay Consulting](https://datascience.uchicago.edu/people/jeanette-shutay-phd)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Jeanette Shutay, PhD"
+        },
+        {
+          "type": "paragraph",
+          "text": "Supply Chain"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dr. Jeanette Shutay is currently the President and Chief Data Officer at Shutay Consulting. Jeanette is a strategic research and data science leader with extensive experience building and scaling advanced analytics and data science teams. Her analytical expertise spans across product, sales, marketing, supply chain, and operations. Jeanette also has approximately 10 years of consulting experience working with nonprofit organizations, educational institutions, and the federal government. As a consultant, Jeanette focuses on data strategy, research methodology and analysis, as well as campaign and program evaluation. Jeanette is incredibly passionate about nature and wildlife, and she tries to find ways to incorporate her skills to help improve the environment and the lives of all creatures that inhabit the Earth."
+        }
+      ],
+      "text_markdown": "## [Chicago Baseball | Measuring Pitcher Deception and Command Using Motion Tracking Data](https://datascience.uchicago.edu/research/chicago-white-sox-measuring-pitcher-deception-and-command-using-motion-tracking-data)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nThis capstone project explored how advanced data science methods can be used to better understand two complex aspects of baseball pitching: deception and command. Using publicly available pitch-level data from the 2024 MLB season, the team developed quantitative measures to capture how these qualities appear in real game outcomes.\nThe project focused on modeling relationships between pitch outcomes and biomechanical signals, with the goal of identifying patterns that contribute to effective pitching performance. Through this work, students applied statistical modeling, feature engineering, and predictive analysis to a real-world sports analytics problem.\nA couple of students from the team went on a podcast called Sox in the Basement to talk about the project, you can watch the video [here](https://youtu.be/kougRr3cJys?si=xk8Hyx4LVjOhLsUv).\nKeywords: Biometric modeling, graph neural networks, metric creation, metric evaluation, pitching analysis, sports\n### Faculty Advisor\n- [Jeanette Shutay, PhD Instructor; President & Chief Data Officer at Shutay Consulting](https://datascience.uchicago.edu/people/jeanette-shutay-phd)\n# Jeanette Shutay, PhD\nSupply Chain\nDr. Jeanette Shutay is currently the President and Chief Data Officer at Shutay Consulting. Jeanette is a strategic research and data science leader with extensive experience building and scaling advanced analytics and data science teams. Her analytical expertise spans across product, sales, marketing, supply chain, and operations. Jeanette also has approximately 10 years of consulting experience working with nonprofit organizations, educational institutions, and the federal government. As a consultant, Jeanette focuses on data strategy, research methodology and analysis, as well as campaign and program evaluation. Jeanette is incredibly passionate about nature and wildlife, and she tries to find ways to incorporate her skills to help improve the environment and the lives of all creatures that inhabit the Earth."
+    }
+  ]
+}

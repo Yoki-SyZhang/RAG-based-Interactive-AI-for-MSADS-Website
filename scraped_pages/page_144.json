@@ -1,0 +1,521 @@
+{
+  "page_url": "https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025",
+  "page_title": "Summer 2025 | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Outreach",
+      "href": "https://datascience.uchicago.edu/outreach"
+    },
+    {
+      "text": "Data Science For Social Impact Network",
+      "href": "https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network"
+    },
+    {
+      "text": "Summer Experience",
+      "href": "https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience"
+    },
+    {
+      "text": "2025",
+      "href": "https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:43:06.749178+00:00",
+  "all_text_markdown": "[DSSI Summer Experience](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience)\n[Summer 2025](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025)\n[Summer 2024](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2024)\n[Summer 2023](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2023)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nSummer 2025\nDSSI students work on real-world data science research projects centered around a shared data science theme or approach. The theme for the 2025 Summer Experience was natural language processing (NLP) and large language models (LLM).\nStudents worked with real data to solve real-world problems in partnership with social impact organizations across the world. Many of these organizational partners come from with The 11th Hour Project, a program of the Schmidt Family Foundation, for which UChicago DSI serves as the [centralized software and data science hub](https://datascience.uchicago.edu/outreach/11th-hour-project).\n2025 Research Projects\nText Classification for Commercial Debt Tracking\nBankTrack is an international tracking, campaigning, and NGO support organization focused on private sector commercial banks and the activities they finance. Many such financial activities are disclosed through Form 8-Ks. A Form 8-K is a report that public companies in the United States file with the Securities and Exchange Commission (SEC) to disclose material events that may affect their financial health or investor interests. It essentially provides investors with real-time updates on significant developments. They can also be an important source of information to disclose hidden roles investors play in projects that can cause ethical concerns such as environmental or human rights harms. This summer, students worked to support BankTrack by developing a commercial debt tracker that helps advocacy organizations shed light on these financial relationships.\nTracy Nguyen, Sonia Pereira, Coral Fragoso Herrera, and Bidisha Dalai helped to build a text classifier to detect whether form 8Ks contain information relevant to commercial debt. The team utilized web-scraped data, as well as compiled training data and newly annotated data, to classify information based on its debt-relation status using prompt engineering and fine-tuning. Utilizing a combination of open source and proprietary language models, the group assessed accuracy and financial costs to determine the best approach of deployment on a larger dataset. In the end, they found that the Lianglab model successfully filtered non-debt-related forms efficiently and recommended that this model be integrated into Banktrack’s debt analysis pipeline.\nhttps://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_BankTrack.jpg\nQ/A Bot for Parsing Country-Specific Agricultural Regulations\nA Growing Culture is an organization committed to advancing global food sovereignty by challenging industrial agriculture and advocating for the rights of small-scale farmers. Central to their mission is the protection of traditional seed systems and the empowerment of communities to maintain control over their seeds. Hence a lot of their work naturally focuses on seed laws in a country that is governed by complex national and international legal conditions. To enable easy understanding of seed laws in a given country, it is important to parse this information and present it in a simplified manner. This summer, students worked to build a chatbot that can provide country-specific information about seed laws.\nTogether, Amari Gray, Jibek Gupta, Allen Jones, Gerardo Rojas, and Peter Ronemous utilized a dataset of 183 PDFs detailing seed laws in 78 countries and 9 languages. The group utilized a web-browser interface to deploy the chatbot in an accessible and user-friendly format for farmers. Utilizing a variety of language models, the group assessed each model’s efficiency with summarization, multilingualism, and performance. They were able to successfully obtain summarization outputs from multiple models, including Gemma, Phi-4, and Llama-3. They found that Phi-4 was the best model for the chatbot, as it offered fast and quality responses, was cost effective as an open-source model, and was compatible with hardware limitations. Some future directions of this work include expanding chatbot functionality to more countries, extending support in more languages, and improving the website’s concurrency to handle more users simultaneously.\nhttps://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_AgriChatBot.jpg\nTopic Classification of Grievances Against Palm Oil Producer\nThe palm oil industry is tied to land conflicts, labor violations, and environmental harm. There are several online databases of grievances submitted against palm oil producers, yet many community complaints remain scattered and overlooked. To better surface those grievances, there are efforts to organize them into a clear, accessible dataset. Students worked to support a public tool that promotes transparency, holds companies accountable, and amplifies the voices of affected communities in this regard.\nAs a team, Theron White, Helena Card, Uriel Fuentes, Owakamare Princewill, Nicole Page and Yuliia Ihnatesku worked together to build a palm oil grievance classifier. By utilizing topic modeling, the group was able to perform thematic analysis on grievances based on co-occurrence of words. Multiple methods were used to evaluate several topic modeling techniques, including visualizations (word clouds, topic listings, frequency graphs, etc.) and human oversight. Outcomes of initial topic models were tested for sustainability over previously unseen grievances by training a multi-label classifier that is capable of tagging each grievance with multiple topics. In the end, the team demonstrated they were able to create a sustainable and scalable pipeline to interpret palm oil grievances over time.\nhttps://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_PalmOil.jpg\nNamed Entity Recognition on Congressional Donation Records\nIdentifying which candidate is best aligned with an individual’s or organization’s values is key to actually voting in one’s best interest. This is particularly important for organizations like Climate Cabinet, which aim to identify and empower pro-climate candidates in smaller races where there is little information. To address this problem, students were tasked with helping classify donor data by donation type (individual or organization) to understand donor networks in politics.\nUsing donation records from five states, Adinai Niiazbekova, Drew Day, Sloan Louis, Gabriel Romero Torres, and Jakob Ontiveros utilized donation records data from Pennsylvania, Arizona, Michigan, Minnesota, and Texas. After preprocessing through binarized labels, the team used traditional statistical models (logistic regression, support vector machine, and random forest) and language models (ALBERT, RoBERTa, and DistilBERT) for training. To evaluate generalizability of the models, the group trained and tested on data from pairs of states and all states excluding Texas together. Texas data was used as a separate test set that was never utilized for training to get a true estimate of the model’s performance on previously unseen data. The baseline models generally performed well when trained and tested on the same set of states, but failed to generalize, showing signs of overfitting. The deep learning models also generally performed well when trained and tested on the same set of states. However, the models initially struggled to transfer when trained on one pair of states and tested on another. Through model experimentation and fine-tuning, students accurately classified donor names as either individuals or organizations across four states. Future work may focus on multi-class classification, breaking down organizations into subcategories such as committees, companies, parties, and more.\nhttps://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_NER.jpg\nBias or Stereotype Detection in Online Humorous Content\nHumor is prevalent in online textual content, but it can also serve as a source of trolling and perpetuate discrimination and cyberbullying in digital spaces. As a result, humor classification and generation tasks have attracted significant academic attention in recent years. However, existing corpora used for these tasks often lack detailed labelling of the specific elements that contribute to humor. Additionally, humor is highly subjective, making it difficult to analyze how hateful or offensive messages are softened through humor to gain acceptance. To address this, students worked to build a text classification system that is able to detect the use of stereotypes or biased representations in humorous content extracted from a collection of jokes in English publicly available online.\nAvery Pratt, Malcolm Felix, Jiaqi (Scarlett) He, Casidhe Pierre, and Dickson Acheampong explored two modeling approaches. Creating a novel annotation framework, students labeled datasets using their customized framework and compared their labeling to that of a finetuned model. The proposed annotation framework utilized two independent annotators for each example and required texts to be labelled across three dimensions: joke type, rhetoric, and target. Mistral and OpenAI were leveraged for few-shot prompting, and a host of pretrained models were finetuned and optimized for performance. In the end the study confirmed that while humor classification is challenging, prompt engineering offered flexibility and speed, especially for prototyping or exploring new joke types. However, fine-tuned models generally perform better on fixed tasks with well-labeled datasets. By combining these strategies, students progressed the research closer to automated systems that can understand and mitigate bias hidden in online humor.\nhttps://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_StereotypeHumor.jpg\n2025 Student Profiles\n[Adinai Niiazbekova City Colleges of Chicago](https://datascience.uchicago.edu/people/adinai-niiazabekova)\nAdinai Niiazbekova\n[Allen Jones Florida A&M University](https://datascience.uchicago.edu/people/allen-jones)\nAllen Jones\n[Amari Gray Morehouse College](https://datascience.uchicago.edu/people/amari-gray)\nAmari Gray\n[Avery Pratt Spelman College](https://datascience.uchicago.edu/people/avery-pratt)\nAvery Pratt\n[Bidisha Dalai University of Texas, San Antonio](https://datascience.uchicago.edu/people/bidishadalai)\nBidisha Dalai\n[Casidhe Pierre Florida A&M University](https://datascience.uchicago.edu/people/casidhe-pierre)\nCasidhe Pierre\n[Coral Fragoso Herrera University of Illinois at Chicago](https://datascience.uchicago.edu/people/coral-fragoso-herrera)\nCoral Fragoso Herrera\n[Dickson Acheampong Howard University](https://datascience.uchicago.edu/people/dicksonacheampong)\nDickson Acheampong\n[Drew Day University of Texas, San Antonio](https://datascience.uchicago.edu/people/drew-day)\nDrew Day\n[Gabriel Romero Torres University of Puerto Rico, Rio Piedras](https://datascience.uchicago.edu/people/gabriel-romero-torres)\nGabriel Romero Torres\n[Gerardo Rojas California State University, Fresno](https://datascience.uchicago.edu/people/gerardorojas)\nGerardo Rojas\n[Helena Card California State University, Fresno](https://datascience.uchicago.edu/people/helena-card)\nHelena Card\n[Jakob Ontiveros California State University, Fresno](https://datascience.uchicago.edu/people/jakob-ontiveros)\nJakob Ontiveros\n[Jiaqi (Scarlett) He University of Chicago](https://datascience.uchicago.edu/people/jiaqi-scarlett-he)\nJiaqi (Scarlett) He\n[Jibek Gupta Howard University](https://datascience.uchicago.edu/people/jibek-gupta)\nJibek Gupta\n[Malcolm Felix Prairie View A&M University](https://datascience.uchicago.edu/people/malcolm-felix)\nMalcolm Felix\n[Muritala Bello Chicago State University](https://datascience.uchicago.edu/people/muritalabello)\nMuritala Bello\n[Nicole Page North Carolina State University](https://datascience.uchicago.edu/people/nicole-page)\nNicole Page\n[Owakamare Princewill University of Chicago](https://datascience.uchicago.edu/people/owakamareprincewell)\nOwakamare Princewill\n[Peter Ronemous Prairie View A&M University](https://datascience.uchicago.edu/people/peter-ronemous)\nPeter Ronemous\n[Sloan Louis Spelman College](https://datascience.uchicago.edu/people/sloan-louis)\nSloan Louis\n[Sonia Pereira North Carolina State University](https://datascience.uchicago.edu/people/sonia-pereira)\nSonia Pereira\n[Theron White Morehouse College](https://datascience.uchicago.edu/people/theron-white)\nTheron White\n[Tracy Nguyen City Colleges of Chicago](https://datascience.uchicago.edu/people/tracey-nguyen)\nTracy Nguyen\n[Uriel Fuentes Figueroa University of Puerto Rico, Rio Piedras](https://datascience.uchicago.edu/people/uriel-fuentes-figueroa)\nUriel Fuentes Figueroa\n[Yuliia Ihnatesku University of Chicago](https://datascience.uchicago.edu/people/yuliia-ihnatesku)\nYuliia Ihnatesku\nLeadership and Staff\n[David Uminsky (he/him) Executive Director and Research Professor, Data Science Institute](https://datascience.uchicago.edu/people/david-uminsky)\nDavid Uminsky (he/him)\n[Satadisha Saha Bhowmick Preceptor, Data Science Institute](https://datascience.uchicago.edu/people/satadisha-saha-bhowmick)\nSatadisha Saha Bhowmick\n[Susan Paykin (she/her) Senior Associate Director, Community-Centered Data Science](https://datascience.uchicago.edu/people/susan-paykin)\nSusan Paykin (she/her)\nDavid Uminsky joined the University of Chicago in September 2020 as a senior research associate and Executive Director of Data Science. He was previously an associate professor of Mathematics and Executive Director of the Data Institute at University of San Francisco (USF). His research interests are in machine learning, signal processing, pattern formation, and dynamical systems. David is an associate editor of the Harvard Data Science Review. He was selected in 2015 by the National Academy of Sciences as a Kavli Frontiers of Science Fellow. He is also the founding Director of the BS in Data Science at USF and served as Director of the MS in Data Science program from 2014-2019. During the summer of 2018, David served as the Director of Research for the Mathematical Science Research Institute Undergrad Program on the topic of Mathematical Data Science.\nBefore joining USF he was a combined NSF and UC President’s Fellow at UCLA, where he was awarded the Chancellor’s Award for outstanding postdoctoral research. He holds a Ph.D. in Mathematics from Boston University and a BS in Mathematics from Harvey Mudd College.\nStaff\nhttps://datascience.uchicago.edu/people/toreana-meeky-she-her[Toreana Meeky](https://datascience.uchicago.edu/people/toreana-meeky-she-her)\nExecutive Assistant\nmeekyt@uchicago.edu\nSatadisha is a Preceptor focusing on data science education at the Data Science Institute of the University of Chicago, where she is working jointly with the City College of Chicago. She graduated with a PhD in Computer Science from the State University of New York at Binghamton, under the supervision of Prof. Weiyi Meng.\nHer research lies in the intersection of Natural Language Processing, Information Retrieval and Machine Learning. Her doctoral dissertation focussed on the problem of scalable Named Entity Recognition for Microblog Streams. To this end, her work involves applying and building state-of-the-art Deep Learning pipelines that yield more effective results for NLP tasks on microblog messages.\nShe also briefly worked as a Machine Learning Engineer for the Content Growth and Moderation Team at Quora.\nIn addition to her research, she had assisted the Department of Computer Science at SUNY Binghamton in teaching several graduate and undergraduate level courses. She is excited to continue her academic career and teaching journey in her role as a Preceptor. Outside her academic work, she spends time studying history, writing fiction and passionately supporting Liverpool Football Club. But mostly, she yearns for Kolkata!\nSusan Paykin is the Senior Associate Director, Community-Centered Data Science, at the DSI, where she oversees social impact and strategic partnership initiatives across the organization’s research, education, and engagement. She is also the Program Lead of the Open Spatial Lab where she leads geospatial data science projects and partner engagement. Susan was previously the Research Manager at the Center for Spatial Data Science at UChicago and has served in leadership roles for environmental and social impact organizations. She holds a Master in Public Policy (M.P.P) from the Harris School of Public Policy at University of Chicago and a B.A. from Brandeis University.\nRelated News, Insights, and Past Events\n2025 Summer Research Symposium Caps Off A Successful Year of DSI Summer Programs in Chicago\nDSI Celebrates Culmination of 2024 Summer Programs\nCapacity Accelerator Network Playbook\nCAN Social Impact Summer Experience Symposium Showcases Impactful Student Research",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[DSSI Summer Experience](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Summer 2025](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Summer 2024](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2024)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Summer 2023](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2023)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Summer 2025"
+        },
+        {
+          "type": "paragraph",
+          "text": "DSSI students work on real-world data science research projects centered around a shared data science theme or approach. The theme for the 2025 Summer Experience was natural language processing (NLP) and large language models (LLM)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Students worked with real data to solve real-world problems in partnership with social impact organizations across the world. Many of these organizational partners come from with The 11th Hour Project, a program of the Schmidt Family Foundation, for which UChicago DSI serves as the [centralized software and data science hub](https://datascience.uchicago.edu/outreach/11th-hour-project)."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "2025 Research Projects"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Text Classification for Commercial Debt Tracking"
+        },
+        {
+          "type": "paragraph",
+          "text": "BankTrack is an international tracking, campaigning, and NGO support organization focused on private sector commercial banks and the activities they finance. Many such financial activities are disclosed through Form 8-Ks. A Form 8-K is a report that public companies in the United States file with the Securities and Exchange Commission (SEC) to disclose material events that may affect their financial health or investor interests. It essentially provides investors with real-time updates on significant developments. They can also be an important source of information to disclose hidden roles investors play in projects that can cause ethical concerns such as environmental or human rights harms. This summer, students worked to support BankTrack by developing a commercial debt tracker that helps advocacy organizations shed light on these financial relationships."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tracy Nguyen, Sonia Pereira, Coral Fragoso Herrera, and Bidisha Dalai helped to build a text classifier to detect whether form 8Ks contain information relevant to commercial debt. The team utilized web-scraped data, as well as compiled training data and newly annotated data, to classify information based on its debt-relation status using prompt engineering and fine-tuning. Utilizing a combination of open source and proprietary language models, the group assessed accuracy and financial costs to determine the best approach of deployment on a larger dataset. In the end, they found that the Lianglab model successfully filtered non-debt-related forms efficiently and recommended that this model be integrated into Banktrack’s debt analysis pipeline."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_BankTrack.jpg"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Q/A Bot for Parsing Country-Specific Agricultural Regulations"
+        },
+        {
+          "type": "paragraph",
+          "text": "A Growing Culture is an organization committed to advancing global food sovereignty by challenging industrial agriculture and advocating for the rights of small-scale farmers. Central to their mission is the protection of traditional seed systems and the empowerment of communities to maintain control over their seeds. Hence a lot of their work naturally focuses on seed laws in a country that is governed by complex national and international legal conditions. To enable easy understanding of seed laws in a given country, it is important to parse this information and present it in a simplified manner. This summer, students worked to build a chatbot that can provide country-specific information about seed laws."
+        },
+        {
+          "type": "paragraph",
+          "text": "Together, Amari Gray, Jibek Gupta, Allen Jones, Gerardo Rojas, and Peter Ronemous utilized a dataset of 183 PDFs detailing seed laws in 78 countries and 9 languages. The group utilized a web-browser interface to deploy the chatbot in an accessible and user-friendly format for farmers. Utilizing a variety of language models, the group assessed each model’s efficiency with summarization, multilingualism, and performance. They were able to successfully obtain summarization outputs from multiple models, including Gemma, Phi-4, and Llama-3. They found that Phi-4 was the best model for the chatbot, as it offered fast and quality responses, was cost effective as an open-source model, and was compatible with hardware limitations. Some future directions of this work include expanding chatbot functionality to more countries, extending support in more languages, and improving the website’s concurrency to handle more users simultaneously."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_AgriChatBot.jpg"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic Classification of Grievances Against Palm Oil Producer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The palm oil industry is tied to land conflicts, labor violations, and environmental harm. There are several online databases of grievances submitted against palm oil producers, yet many community complaints remain scattered and overlooked. To better surface those grievances, there are efforts to organize them into a clear, accessible dataset. Students worked to support a public tool that promotes transparency, holds companies accountable, and amplifies the voices of affected communities in this regard."
+        },
+        {
+          "type": "paragraph",
+          "text": "As a team, Theron White, Helena Card, Uriel Fuentes, Owakamare Princewill, Nicole Page and Yuliia Ihnatesku worked together to build a palm oil grievance classifier. By utilizing topic modeling, the group was able to perform thematic analysis on grievances based on co-occurrence of words. Multiple methods were used to evaluate several topic modeling techniques, including visualizations (word clouds, topic listings, frequency graphs, etc.) and human oversight. Outcomes of initial topic models were tested for sustainability over previously unseen grievances by training a multi-label classifier that is capable of tagging each grievance with multiple topics. In the end, the team demonstrated they were able to create a sustainable and scalable pipeline to interpret palm oil grievances over time."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_PalmOil.jpg"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Named Entity Recognition on Congressional Donation Records"
+        },
+        {
+          "type": "paragraph",
+          "text": "Identifying which candidate is best aligned with an individual’s or organization’s values is key to actually voting in one’s best interest. This is particularly important for organizations like Climate Cabinet, which aim to identify and empower pro-climate candidates in smaller races where there is little information. To address this problem, students were tasked with helping classify donor data by donation type (individual or organization) to understand donor networks in politics."
+        },
+        {
+          "type": "paragraph",
+          "text": "Using donation records from five states, Adinai Niiazbekova, Drew Day, Sloan Louis, Gabriel Romero Torres, and Jakob Ontiveros utilized donation records data from Pennsylvania, Arizona, Michigan, Minnesota, and Texas. After preprocessing through binarized labels, the team used traditional statistical models (logistic regression, support vector machine, and random forest) and language models (ALBERT, RoBERTa, and DistilBERT) for training. To evaluate generalizability of the models, the group trained and tested on data from pairs of states and all states excluding Texas together. Texas data was used as a separate test set that was never utilized for training to get a true estimate of the model’s performance on previously unseen data. The baseline models generally performed well when trained and tested on the same set of states, but failed to generalize, showing signs of overfitting. The deep learning models also generally performed well when trained and tested on the same set of states. However, the models initially struggled to transfer when trained on one pair of states and tested on another. Through model experimentation and fine-tuning, students accurately classified donor names as either individuals or organizations across four states. Future work may focus on multi-class classification, breaking down organizations into subcategories such as committees, companies, parties, and more."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_NER.jpg"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Bias or Stereotype Detection in Online Humorous Content"
+        },
+        {
+          "type": "paragraph",
+          "text": "Humor is prevalent in online textual content, but it can also serve as a source of trolling and perpetuate discrimination and cyberbullying in digital spaces. As a result, humor classification and generation tasks have attracted significant academic attention in recent years. However, existing corpora used for these tasks often lack detailed labelling of the specific elements that contribute to humor. Additionally, humor is highly subjective, making it difficult to analyze how hateful or offensive messages are softened through humor to gain acceptance. To address this, students worked to build a text classification system that is able to detect the use of stereotypes or biased representations in humorous content extracted from a collection of jokes in English publicly available online."
+        },
+        {
+          "type": "paragraph",
+          "text": "Avery Pratt, Malcolm Felix, Jiaqi (Scarlett) He, Casidhe Pierre, and Dickson Acheampong explored two modeling approaches. Creating a novel annotation framework, students labeled datasets using their customized framework and compared their labeling to that of a finetuned model. The proposed annotation framework utilized two independent annotators for each example and required texts to be labelled across three dimensions: joke type, rhetoric, and target. Mistral and OpenAI were leveraged for few-shot prompting, and a host of pretrained models were finetuned and optimized for performance. In the end the study confirmed that while humor classification is challenging, prompt engineering offered flexibility and speed, especially for prototyping or exploring new joke types. However, fine-tuned models generally perform better on fixed tasks with well-labeled datasets. By combining these strategies, students progressed the research closer to automated systems that can understand and mitigate bias hidden in online humor."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_StereotypeHumor.jpg"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2025 Student Profiles"
+        },
+        {
+          "type": "list_item",
+          "text": "[Adinai Niiazbekova City Colleges of Chicago](https://datascience.uchicago.edu/people/adinai-niiazabekova)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Adinai Niiazbekova"
+        },
+        {
+          "type": "list_item",
+          "text": "[Allen Jones Florida A&M University](https://datascience.uchicago.edu/people/allen-jones)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Allen Jones"
+        },
+        {
+          "type": "list_item",
+          "text": "[Amari Gray Morehouse College](https://datascience.uchicago.edu/people/amari-gray)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Amari Gray"
+        },
+        {
+          "type": "list_item",
+          "text": "[Avery Pratt Spelman College](https://datascience.uchicago.edu/people/avery-pratt)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Avery Pratt"
+        },
+        {
+          "type": "list_item",
+          "text": "[Bidisha Dalai University of Texas, San Antonio](https://datascience.uchicago.edu/people/bidishadalai)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Bidisha Dalai"
+        },
+        {
+          "type": "list_item",
+          "text": "[Casidhe Pierre Florida A&M University](https://datascience.uchicago.edu/people/casidhe-pierre)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Casidhe Pierre"
+        },
+        {
+          "type": "list_item",
+          "text": "[Coral Fragoso Herrera University of Illinois at Chicago](https://datascience.uchicago.edu/people/coral-fragoso-herrera)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Coral Fragoso Herrera"
+        },
+        {
+          "type": "list_item",
+          "text": "[Dickson Acheampong Howard University](https://datascience.uchicago.edu/people/dicksonacheampong)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Dickson Acheampong"
+        },
+        {
+          "type": "list_item",
+          "text": "[Drew Day University of Texas, San Antonio](https://datascience.uchicago.edu/people/drew-day)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Drew Day"
+        },
+        {
+          "type": "list_item",
+          "text": "[Gabriel Romero Torres University of Puerto Rico, Rio Piedras](https://datascience.uchicago.edu/people/gabriel-romero-torres)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Gabriel Romero Torres"
+        },
+        {
+          "type": "list_item",
+          "text": "[Gerardo Rojas California State University, Fresno](https://datascience.uchicago.edu/people/gerardorojas)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Gerardo Rojas"
+        },
+        {
+          "type": "list_item",
+          "text": "[Helena Card California State University, Fresno](https://datascience.uchicago.edu/people/helena-card)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Helena Card"
+        },
+        {
+          "type": "list_item",
+          "text": "[Jakob Ontiveros California State University, Fresno](https://datascience.uchicago.edu/people/jakob-ontiveros)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Jakob Ontiveros"
+        },
+        {
+          "type": "list_item",
+          "text": "[Jiaqi (Scarlett) He University of Chicago](https://datascience.uchicago.edu/people/jiaqi-scarlett-he)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Jiaqi (Scarlett) He"
+        },
+        {
+          "type": "list_item",
+          "text": "[Jibek Gupta Howard University](https://datascience.uchicago.edu/people/jibek-gupta)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Jibek Gupta"
+        },
+        {
+          "type": "list_item",
+          "text": "[Malcolm Felix Prairie View A&M University](https://datascience.uchicago.edu/people/malcolm-felix)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Malcolm Felix"
+        },
+        {
+          "type": "list_item",
+          "text": "[Muritala Bello Chicago State University](https://datascience.uchicago.edu/people/muritalabello)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Muritala Bello"
+        },
+        {
+          "type": "list_item",
+          "text": "[Nicole Page North Carolina State University](https://datascience.uchicago.edu/people/nicole-page)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Nicole Page"
+        },
+        {
+          "type": "list_item",
+          "text": "[Owakamare Princewill University of Chicago](https://datascience.uchicago.edu/people/owakamareprincewell)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Owakamare Princewill"
+        },
+        {
+          "type": "list_item",
+          "text": "[Peter Ronemous Prairie View A&M University](https://datascience.uchicago.edu/people/peter-ronemous)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Peter Ronemous"
+        },
+        {
+          "type": "list_item",
+          "text": "[Sloan Louis Spelman College](https://datascience.uchicago.edu/people/sloan-louis)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Sloan Louis"
+        },
+        {
+          "type": "list_item",
+          "text": "[Sonia Pereira North Carolina State University](https://datascience.uchicago.edu/people/sonia-pereira)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Sonia Pereira"
+        },
+        {
+          "type": "list_item",
+          "text": "[Theron White Morehouse College](https://datascience.uchicago.edu/people/theron-white)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Theron White"
+        },
+        {
+          "type": "list_item",
+          "text": "[Tracy Nguyen City Colleges of Chicago](https://datascience.uchicago.edu/people/tracey-nguyen)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Tracy Nguyen"
+        },
+        {
+          "type": "list_item",
+          "text": "[Uriel Fuentes Figueroa University of Puerto Rico, Rio Piedras](https://datascience.uchicago.edu/people/uriel-fuentes-figueroa)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Uriel Fuentes Figueroa"
+        },
+        {
+          "type": "list_item",
+          "text": "[Yuliia Ihnatesku University of Chicago](https://datascience.uchicago.edu/people/yuliia-ihnatesku)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Yuliia Ihnatesku"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Leadership and Staff"
+        },
+        {
+          "type": "list_item",
+          "text": "[David Uminsky (he/him) Executive Director and Research Professor, Data Science Institute](https://datascience.uchicago.edu/people/david-uminsky)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "David Uminsky (he/him)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Satadisha Saha Bhowmick Preceptor, Data Science Institute](https://datascience.uchicago.edu/people/satadisha-saha-bhowmick)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Satadisha Saha Bhowmick"
+        },
+        {
+          "type": "list_item",
+          "text": "[Susan Paykin (she/her) Senior Associate Director, Community-Centered Data Science](https://datascience.uchicago.edu/people/susan-paykin)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Susan Paykin (she/her)"
+        },
+        {
+          "type": "paragraph",
+          "text": "David Uminsky joined the University of Chicago in September 2020 as a senior research associate and Executive Director of Data Science. He was previously an associate professor of Mathematics and Executive Director of the Data Institute at University of San Francisco (USF). His research interests are in machine learning, signal processing, pattern formation, and dynamical systems. David is an associate editor of the Harvard Data Science Review. He was selected in 2015 by the National Academy of Sciences as a Kavli Frontiers of Science Fellow. He is also the founding Director of the BS in Data Science at USF and served as Director of the MS in Data Science program from 2014-2019. During the summer of 2018, David served as the Director of Research for the Mathematical Science Research Institute Undergrad Program on the topic of Mathematical Data Science."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before joining USF he was a combined NSF and UC President’s Fellow at UCLA, where he was awarded the Chancellor’s Award for outstanding postdoctoral research. He holds a Ph.D. in Mathematics from Boston University and a BS in Mathematics from Harvey Mudd College."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Staff"
+        },
+        {
+          "type": "paragraph",
+          "text": "https://datascience.uchicago.edu/people/toreana-meeky-she-her[Toreana Meeky](https://datascience.uchicago.edu/people/toreana-meeky-she-her)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Executive Assistant"
+        },
+        {
+          "type": "paragraph",
+          "text": "meekyt@uchicago.edu"
+        },
+        {
+          "type": "paragraph",
+          "text": "Satadisha is a Preceptor focusing on data science education at the Data Science Institute of the University of Chicago, where she is working jointly with the City College of Chicago. She graduated with a PhD in Computer Science from the State University of New York at Binghamton, under the supervision of Prof. Weiyi Meng."
+        },
+        {
+          "type": "paragraph",
+          "text": "Her research lies in the intersection of Natural Language Processing, Information Retrieval and Machine Learning. Her doctoral dissertation focussed on the problem of scalable Named Entity Recognition for Microblog Streams. To this end, her work involves applying and building state-of-the-art Deep Learning pipelines that yield more effective results for NLP tasks on microblog messages."
+        },
+        {
+          "type": "paragraph",
+          "text": "She also briefly worked as a Machine Learning Engineer for the Content Growth and Moderation Team at Quora."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition to her research, she had assisted the Department of Computer Science at SUNY Binghamton in teaching several graduate and undergraduate level courses. She is excited to continue her academic career and teaching journey in her role as a Preceptor. Outside her academic work, she spends time studying history, writing fiction and passionately supporting Liverpool Football Club. But mostly, she yearns for Kolkata!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Susan Paykin is the Senior Associate Director, Community-Centered Data Science, at the DSI, where she oversees social impact and strategic partnership initiatives across the organization’s research, education, and engagement. She is also the Program Lead of the Open Spatial Lab where she leads geospatial data science projects and partner engagement. Susan was previously the Research Manager at the Center for Spatial Data Science at UChicago and has served in leadership roles for environmental and social impact organizations. She holds a Master in Public Policy (M.P.P) from the Harris School of Public Policy at University of Chicago and a B.A. from Brandeis University."
+        }
+      ],
+      "text_markdown": "## [DSSI Summer Experience](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience)\n- [Summer 2025](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2025)\n- [Summer 2024](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2024)\n- [Summer 2023](https://datascience.uchicago.edu/outreach/data-science-for-social-impact-network/summer-experience/2023)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\n# Summer 2025\nDSSI students work on real-world data science research projects centered around a shared data science theme or approach. The theme for the 2025 Summer Experience was natural language processing (NLP) and large language models (LLM).\nStudents worked with real data to solve real-world problems in partnership with social impact organizations across the world. Many of these organizational partners come from with The 11th Hour Project, a program of the Schmidt Family Foundation, for which UChicago DSI serves as the [centralized software and data science hub](https://datascience.uchicago.edu/outreach/11th-hour-project).\n## 2025 Research Projects\n### Text Classification for Commercial Debt Tracking\nBankTrack is an international tracking, campaigning, and NGO support organization focused on private sector commercial banks and the activities they finance. Many such financial activities are disclosed through Form 8-Ks. A Form 8-K is a report that public companies in the United States file with the Securities and Exchange Commission (SEC) to disclose material events that may affect their financial health or investor interests. It essentially provides investors with real-time updates on significant developments. They can also be an important source of information to disclose hidden roles investors play in projects that can cause ethical concerns such as environmental or human rights harms. This summer, students worked to support BankTrack by developing a commercial debt tracker that helps advocacy organizations shed light on these financial relationships.\nTracy Nguyen, Sonia Pereira, Coral Fragoso Herrera, and Bidisha Dalai helped to build a text classifier to detect whether form 8Ks contain information relevant to commercial debt. The team utilized web-scraped data, as well as compiled training data and newly annotated data, to classify information based on its debt-relation status using prompt engineering and fine-tuning. Utilizing a combination of open source and proprietary language models, the group assessed accuracy and financial costs to determine the best approach of deployment on a larger dataset. In the end, they found that the Lianglab model successfully filtered non-debt-related forms efficiently and recommended that this model be integrated into Banktrack’s debt analysis pipeline.\nhttps://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_BankTrack.jpg\n### Q/A Bot for Parsing Country-Specific Agricultural Regulations\nA Growing Culture is an organization committed to advancing global food sovereignty by challenging industrial agriculture and advocating for the rights of small-scale farmers. Central to their mission is the protection of traditional seed systems and the empowerment of communities to maintain control over their seeds. Hence a lot of their work naturally focuses on seed laws in a country that is governed by complex national and international legal conditions. To enable easy understanding of seed laws in a given country, it is important to parse this information and present it in a simplified manner. This summer, students worked to build a chatbot that can provide country-specific information about seed laws.\nTogether, Amari Gray, Jibek Gupta, Allen Jones, Gerardo Rojas, and Peter Ronemous utilized a dataset of 183 PDFs detailing seed laws in 78 countries and 9 languages. The group utilized a web-browser interface to deploy the chatbot in an accessible and user-friendly format for farmers. Utilizing a variety of language models, the group assessed each model’s efficiency with summarization, multilingualism, and performance. They were able to successfully obtain summarization outputs from multiple models, including Gemma, Phi-4, and Llama-3. They found that Phi-4 was the best model for the chatbot, as it offered fast and quality responses, was cost effective as an open-source model, and was compatible with hardware limitations. Some future directions of this work include expanding chatbot functionality to more countries, extending support in more languages, and improving the website’s concurrency to handle more users simultaneously.\nhttps://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_AgriChatBot.jpg\n### Topic Classification of Grievances Against Palm Oil Producer\nThe palm oil industry is tied to land conflicts, labor violations, and environmental harm. There are several online databases of grievances submitted against palm oil producers, yet many community complaints remain scattered and overlooked. To better surface those grievances, there are efforts to organize them into a clear, accessible dataset. Students worked to support a public tool that promotes transparency, holds companies accountable, and amplifies the voices of affected communities in this regard.\nAs a team, Theron White, Helena Card, Uriel Fuentes, Owakamare Princewill, Nicole Page and Yuliia Ihnatesku worked together to build a palm oil grievance classifier. By utilizing topic modeling, the group was able to perform thematic analysis on grievances based on co-occurrence of words. Multiple methods were used to evaluate several topic modeling techniques, including visualizations (word clouds, topic listings, frequency graphs, etc.) and human oversight. Outcomes of initial topic models were tested for sustainability over previously unseen grievances by training a multi-label classifier that is capable of tagging each grievance with multiple topics. In the end, the team demonstrated they were able to create a sustainable and scalable pipeline to interpret palm oil grievances over time.\nhttps://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_PalmOil.jpg\n### Named Entity Recognition on Congressional Donation Records\nIdentifying which candidate is best aligned with an individual’s or organization’s values is key to actually voting in one’s best interest. This is particularly important for organizations like Climate Cabinet, which aim to identify and empower pro-climate candidates in smaller races where there is little information. To address this problem, students were tasked with helping classify donor data by donation type (individual or organization) to understand donor networks in politics.\nUsing donation records from five states, Adinai Niiazbekova, Drew Day, Sloan Louis, Gabriel Romero Torres, and Jakob Ontiveros utilized donation records data from Pennsylvania, Arizona, Michigan, Minnesota, and Texas. After preprocessing through binarized labels, the team used traditional statistical models (logistic regression, support vector machine, and random forest) and language models (ALBERT, RoBERTa, and DistilBERT) for training. To evaluate generalizability of the models, the group trained and tested on data from pairs of states and all states excluding Texas together. Texas data was used as a separate test set that was never utilized for training to get a true estimate of the model’s performance on previously unseen data. The baseline models generally performed well when trained and tested on the same set of states, but failed to generalize, showing signs of overfitting. The deep learning models also generally performed well when trained and tested on the same set of states. However, the models initially struggled to transfer when trained on one pair of states and tested on another. Through model experimentation and fine-tuning, students accurately classified donor names as either individuals or organizations across four states. Future work may focus on multi-class classification, breaking down organizations into subcategories such as committees, companies, parties, and more.\nhttps://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_NER.jpg\n### Bias or Stereotype Detection in Online Humorous Content\nHumor is prevalent in online textual content, but it can also serve as a source of trolling and perpetuate discrimination and cyberbullying in digital spaces. As a result, humor classification and generation tasks have attracted significant academic attention in recent years. However, existing corpora used for these tasks often lack detailed labelling of the specific elements that contribute to humor. Additionally, humor is highly subjective, making it difficult to analyze how hateful or offensive messages are softened through humor to gain acceptance. To address this, students worked to build a text classification system that is able to detect the use of stereotypes or biased representations in humorous content extracted from a collection of jokes in English publicly available online.\nAvery Pratt, Malcolm Felix, Jiaqi (Scarlett) He, Casidhe Pierre, and Dickson Acheampong explored two modeling approaches. Creating a novel annotation framework, students labeled datasets using their customized framework and compared their labeling to that of a finetuned model. The proposed annotation framework utilized two independent annotators for each example and required texts to be labelled across three dimensions: joke type, rhetoric, and target. Mistral and OpenAI were leveraged for few-shot prompting, and a host of pretrained models were finetuned and optimized for performance. In the end the study confirmed that while humor classification is challenging, prompt engineering offered flexibility and speed, especially for prototyping or exploring new joke types. However, fine-tuned models generally perform better on fixed tasks with well-labeled datasets. By combining these strategies, students progressed the research closer to automated systems that can understand and mitigate bias hidden in online humor.\nhttps://datascience.uchicago.edu/wp-content/uploads/2025/08/DSSI-2025_StereotypeHumor.jpg\n### 2025 Student Profiles\n- [Adinai Niiazbekova City Colleges of Chicago](https://datascience.uchicago.edu/people/adinai-niiazabekova)\n# Adinai Niiazbekova\n- [Allen Jones Florida A&M University](https://datascience.uchicago.edu/people/allen-jones)\n# Allen Jones\n- [Amari Gray Morehouse College](https://datascience.uchicago.edu/people/amari-gray)\n# Amari Gray\n- [Avery Pratt Spelman College](https://datascience.uchicago.edu/people/avery-pratt)\n# Avery Pratt\n- [Bidisha Dalai University of Texas, San Antonio](https://datascience.uchicago.edu/people/bidishadalai)\n# Bidisha Dalai\n- [Casidhe Pierre Florida A&M University](https://datascience.uchicago.edu/people/casidhe-pierre)\n# Casidhe Pierre\n- [Coral Fragoso Herrera University of Illinois at Chicago](https://datascience.uchicago.edu/people/coral-fragoso-herrera)\n# Coral Fragoso Herrera\n- [Dickson Acheampong Howard University](https://datascience.uchicago.edu/people/dicksonacheampong)\n# Dickson Acheampong\n- [Drew Day University of Texas, San Antonio](https://datascience.uchicago.edu/people/drew-day)\n# Drew Day\n- [Gabriel Romero Torres University of Puerto Rico, Rio Piedras](https://datascience.uchicago.edu/people/gabriel-romero-torres)\n# Gabriel Romero Torres\n- [Gerardo Rojas California State University, Fresno](https://datascience.uchicago.edu/people/gerardorojas)\n# Gerardo Rojas\n- [Helena Card California State University, Fresno](https://datascience.uchicago.edu/people/helena-card)\n# Helena Card\n- [Jakob Ontiveros California State University, Fresno](https://datascience.uchicago.edu/people/jakob-ontiveros)\n# Jakob Ontiveros\n- [Jiaqi (Scarlett) He University of Chicago](https://datascience.uchicago.edu/people/jiaqi-scarlett-he)\n# Jiaqi (Scarlett) He\n- [Jibek Gupta Howard University](https://datascience.uchicago.edu/people/jibek-gupta)\n# Jibek Gupta\n- [Malcolm Felix Prairie View A&M University](https://datascience.uchicago.edu/people/malcolm-felix)\n# Malcolm Felix\n- [Muritala Bello Chicago State University](https://datascience.uchicago.edu/people/muritalabello)\n# Muritala Bello\n- [Nicole Page North Carolina State University](https://datascience.uchicago.edu/people/nicole-page)\n# Nicole Page\n- [Owakamare Princewill University of Chicago](https://datascience.uchicago.edu/people/owakamareprincewell)\n# Owakamare Princewill\n- [Peter Ronemous Prairie View A&M University](https://datascience.uchicago.edu/people/peter-ronemous)\n# Peter Ronemous\n- [Sloan Louis Spelman College](https://datascience.uchicago.edu/people/sloan-louis)\n# Sloan Louis\n- [Sonia Pereira North Carolina State University](https://datascience.uchicago.edu/people/sonia-pereira)\n# Sonia Pereira\n- [Theron White Morehouse College](https://datascience.uchicago.edu/people/theron-white)\n# Theron White\n- [Tracy Nguyen City Colleges of Chicago](https://datascience.uchicago.edu/people/tracey-nguyen)\n# Tracy Nguyen\n- [Uriel Fuentes Figueroa University of Puerto Rico, Rio Piedras](https://datascience.uchicago.edu/people/uriel-fuentes-figueroa)\n# Uriel Fuentes Figueroa\n- [Yuliia Ihnatesku University of Chicago](https://datascience.uchicago.edu/people/yuliia-ihnatesku)\n# Yuliia Ihnatesku\n### Leadership and Staff\n- [David Uminsky (he/him) Executive Director and Research Professor, Data Science Institute](https://datascience.uchicago.edu/people/david-uminsky)\n# David Uminsky (he/him)\n- [Satadisha Saha Bhowmick Preceptor, Data Science Institute](https://datascience.uchicago.edu/people/satadisha-saha-bhowmick)\n# Satadisha Saha Bhowmick\n- [Susan Paykin (she/her) Senior Associate Director, Community-Centered Data Science](https://datascience.uchicago.edu/people/susan-paykin)\n# Susan Paykin (she/her)\nDavid Uminsky joined the University of Chicago in September 2020 as a senior research associate and Executive Director of Data Science. He was previously an associate professor of Mathematics and Executive Director of the Data Institute at University of San Francisco (USF). His research interests are in machine learning, signal processing, pattern formation, and dynamical systems. David is an associate editor of the Harvard Data Science Review. He was selected in 2015 by the National Academy of Sciences as a Kavli Frontiers of Science Fellow. He is also the founding Director of the BS in Data Science at USF and served as Director of the MS in Data Science program from 2014-2019. During the summer of 2018, David served as the Director of Research for the Mathematical Science Research Institute Undergrad Program on the topic of Mathematical Data Science.\nBefore joining USF he was a combined NSF and UC President’s Fellow at UCLA, where he was awarded the Chancellor’s Award for outstanding postdoctoral research. He holds a Ph.D. in Mathematics from Boston University and a BS in Mathematics from Harvey Mudd College.\n## Staff\nhttps://datascience.uchicago.edu/people/toreana-meeky-she-her[Toreana Meeky](https://datascience.uchicago.edu/people/toreana-meeky-she-her)\nExecutive Assistant\nmeekyt@uchicago.edu\nSatadisha is a Preceptor focusing on data science education at the Data Science Institute of the University of Chicago, where she is working jointly with the City College of Chicago. She graduated with a PhD in Computer Science from the State University of New York at Binghamton, under the supervision of Prof. Weiyi Meng.\nHer research lies in the intersection of Natural Language Processing, Information Retrieval and Machine Learning. Her doctoral dissertation focussed on the problem of scalable Named Entity Recognition for Microblog Streams. To this end, her work involves applying and building state-of-the-art Deep Learning pipelines that yield more effective results for NLP tasks on microblog messages.\nShe also briefly worked as a Machine Learning Engineer for the Content Growth and Moderation Team at Quora.\nIn addition to her research, she had assisted the Department of Computer Science at SUNY Binghamton in teaching several graduate and undergraduate level courses. She is excited to continue her academic career and teaching journey in her role as a Preceptor. Outside her academic work, she spends time studying history, writing fiction and passionately supporting Liverpool Football Club. But mostly, she yearns for Kolkata!\nSusan Paykin is the Senior Associate Director, Community-Centered Data Science, at the DSI, where she oversees social impact and strategic partnership initiatives across the organization’s research, education, and engagement. She is also the Program Lead of the Open Spatial Lab where she leads geospatial data science projects and partner engagement. Susan was previously the Research Manager at the Center for Spatial Data Science at UChicago and has served in leadership roles for environmental and social impact organizations. She holds a Master in Public Policy (M.P.P) from the Harris School of Public Policy at University of Chicago and a B.A. from Brandeis University."
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "2025 Summer Research Symposium Caps Off A Successful Year of DSI Summer Programs in Chicago"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "DSI Celebrates Culmination of 2024 Summer Programs"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Capacity Accelerator Network Playbook"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "CAN Social Impact Summer Experience Symposium Showcases Impactful Student Research"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## 2025 Summer Research Symposium Caps Off A Successful Year of DSI Summer Programs in Chicago\n## DSI Celebrates Culmination of 2024 Summer Programs\n## Capacity Accelerator Network Playbook\n## CAN Social Impact Summer Experience Symposium Showcases Impactful Student Research"
+    }
+  ]
+}

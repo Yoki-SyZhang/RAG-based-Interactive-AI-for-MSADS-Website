@@ -1,0 +1,149 @@
+{
+  "page_url": "https://datascience.uchicago.edu/education",
+  "page_title": "Education | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Education",
+      "href": "https://datascience.uchicago.edu/education"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:34.223874+00:00",
+  "all_text_markdown": "Building the foundations of data science, considering its ethical and societal implications, and communicating its discoveries to make the most powerful and positive real-world impact.\nUndergraduate Data Science Major\nA curriculum combining computational and analytical skills, domain knowledge, communication skills, and ethics. See the Committee for Data Science for more.\nPhD in Data Science\nThe PhD curriculum combines training in mathematical foundations of data science, responsible data use and communication, and advanced computational methods.\nMS in Applied Data Science\nDesigned for professionals with backgrounds in technical fields who want to become data scientists, a program with rigorous classes, expert instructors, leading-edge technology, and an unparalleled network of industry professionals.\nMBA/MS in Applied Data Science\nEarn a high-powered joint degree at the intersection of business and technology. An MBA and Applied Data Science degree equips you to bridge the gap between tech and management and provide effective leadership in data-centric environments.\nMS in Data Science\nThe Master’s in Data Science (MSDS) has been developed for students interested in pursuing a research career in data science with courses taught by faculty from the departments of statistics, computer science, and many other departments across the university.\nMS in Computational Analysis and Public Policy\nA rigorous, two-year program offered jointly by the Harris School of Public Policy and the UChicago Department of Computer Science.\nOther Education Programs\nReimagining data science education and broadening participation in the field for students across grade levels and institutions.\n[Data Science Clinic](https://datascience.uchicago.edu/education/data-science-clinic)\n[DSI Summer Lab](https://datascience.uchicago.edu/education/summerlab)\n[Data4All High School Bridge Workshop](https://datascience.uchicago.edu/outreach/data4all)",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Building the foundations of data science, considering its ethical and societal implications, and communicating its discoveries to make the most powerful and positive real-world impact."
+        }
+      ],
+      "text_markdown": "Building the foundations of data science, considering its ethical and societal implications, and communicating its discoveries to make the most powerful and positive real-world impact."
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Undergraduate Data Science Major"
+        },
+        {
+          "type": "paragraph",
+          "text": "A curriculum combining computational and analytical skills, domain knowledge, communication skills, and ethics. See the Committee for Data Science for more."
+        }
+      ],
+      "text_markdown": "## Undergraduate Data Science Major\nA curriculum combining computational and analytical skills, domain knowledge, communication skills, and ethics. See the Committee for Data Science for more."
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "PhD in Data Science"
+        },
+        {
+          "type": "paragraph",
+          "text": "The PhD curriculum combines training in mathematical foundations of data science, responsible data use and communication, and advanced computational methods."
+        }
+      ],
+      "text_markdown": "## PhD in Data Science\nThe PhD curriculum combines training in mathematical foundations of data science, responsible data use and communication, and advanced computational methods."
+    },
+    {
+      "section_index": 3,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MS in Applied Data Science"
+        },
+        {
+          "type": "paragraph",
+          "text": "Designed for professionals with backgrounds in technical fields who want to become data scientists, a program with rigorous classes, expert instructors, leading-edge technology, and an unparalleled network of industry professionals."
+        }
+      ],
+      "text_markdown": "## MS in Applied Data Science\nDesigned for professionals with backgrounds in technical fields who want to become data scientists, a program with rigorous classes, expert instructors, leading-edge technology, and an unparalleled network of industry professionals."
+    },
+    {
+      "section_index": 4,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MBA/MS in Applied Data Science"
+        },
+        {
+          "type": "paragraph",
+          "text": "Earn a high-powered joint degree at the intersection of business and technology. An MBA and Applied Data Science degree equips you to bridge the gap between tech and management and provide effective leadership in data-centric environments."
+        }
+      ],
+      "text_markdown": "## MBA/MS in Applied Data Science\nEarn a high-powered joint degree at the intersection of business and technology. An MBA and Applied Data Science degree equips you to bridge the gap between tech and management and provide effective leadership in data-centric environments."
+    },
+    {
+      "section_index": 5,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MS in Data Science"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Master’s in Data Science (MSDS) has been developed for students interested in pursuing a research career in data science with courses taught by faculty from the departments of statistics, computer science, and many other departments across the university."
+        }
+      ],
+      "text_markdown": "## MS in Data Science\nThe Master’s in Data Science (MSDS) has been developed for students interested in pursuing a research career in data science with courses taught by faculty from the departments of statistics, computer science, and many other departments across the university."
+    },
+    {
+      "section_index": 6,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MS in Computational Analysis and Public Policy"
+        },
+        {
+          "type": "paragraph",
+          "text": "A rigorous, two-year program offered jointly by the Harris School of Public Policy and the UChicago Department of Computer Science."
+        }
+      ],
+      "text_markdown": "## MS in Computational Analysis and Public Policy\nA rigorous, two-year program offered jointly by the Harris School of Public Policy and the UChicago Department of Computer Science."
+    },
+    {
+      "section_index": 7,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Other Education Programs"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reimagining data science education and broadening participation in the field for students across grade levels and institutions."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Data Science Clinic](https://datascience.uchicago.edu/education/data-science-clinic)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[DSI Summer Lab](https://datascience.uchicago.edu/education/summerlab)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Data4All High School Bridge Workshop](https://datascience.uchicago.edu/outreach/data4all)"
+        }
+      ],
+      "text_markdown": "## Other Education Programs\nReimagining data science education and broadening participation in the field for students across grade levels and institutions.\n## [Data Science Clinic](https://datascience.uchicago.edu/education/data-science-clinic)\n## [DSI Summer Lab](https://datascience.uchicago.edu/education/summerlab)\n## [Data4All High School Bridge Workshop](https://datascience.uchicago.edu/outreach/data4all)"
+    }
+  ]
+}

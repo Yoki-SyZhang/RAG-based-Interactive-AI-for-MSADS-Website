@@ -1,0 +1,116 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/deciphering-cuneiform-with-artificial-intelligence",
+  "page_title": "Deciphering Cuneiform with Artificial Intelligence | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Deciphering Cuneiform With Artificial Intelligence",
+      "href": "https://datascience.uchicago.edu/research/deciphering-cuneiform-with-artificial-intelligence"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:14.465498+00:00",
+  "all_text_markdown": "Deciphering Cuneiform with Artificial Intelligence\n[Deciphering Cuneiform with Artificial Intelligence](https://datascience.uchicago.edu/research/deciphering-cuneiform-with-artificial-intelligence)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nManually deciphering a cuneiform tablet is a laborious, time-consuming, and error-prone process. This project explores how recent advances in computer vision can assist researchers by automatically identifying symbols and words in images of cuneiform tablets. It will leverage the extensively annotated collections of the Online Cultural and Historical Research Environment (OCHRE) as training data for machine learning vision models that preliminary results suggest are accurate up to 83 percent of the time. This discovery grant will facilitate an important step towards the goal of meaningful automatic transcription and indexing of the extensive worldwide cuneiform tablet collection.\nPrincipal Investigators: Sanjay Krishnan (Assistant Professor, Computer Science), Susanne Paulus (Associate Professor, Assyriology), Sandra Schloen (Manager, OCHRE Data Service of the Oriental Institute), Miller Prosser (Research Database Specialist, OCHRE Data Service of the Oriental Institute)\nRelated News, Insights, and Past Events\nCDAC Summer Lab: Image Analysis + AI\nData Dispatches: Deciphering Cuneiform with Artificial Intelligence\nDeciphering Cuneiform with Artificial Intelligence\nAncient Language Processing: Teaching Computers to Read Cuneiform Tablets\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Deciphering Cuneiform with Artificial Intelligence](https://datascience.uchicago.edu/research/deciphering-cuneiform-with-artificial-intelligence)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Manually deciphering a cuneiform tablet is a laborious, time-consuming, and error-prone process. This project explores how recent advances in computer vision can assist researchers by automatically identifying symbols and words in images of cuneiform tablets. It will leverage the extensively annotated collections of the Online Cultural and Historical Research Environment (OCHRE) as training data for machine learning vision models that preliminary results suggest are accurate up to 83 percent of the time. This discovery grant will facilitate an important step towards the goal of meaningful automatic transcription and indexing of the extensive worldwide cuneiform tablet collection."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Sanjay Krishnan (Assistant Professor, Computer Science), Susanne Paulus (Associate Professor, Assyriology), Sandra Schloen (Manager, OCHRE Data Service of the Oriental Institute), Miller Prosser (Research Database Specialist, OCHRE Data Service of the Oriental Institute)"
+        }
+      ],
+      "text_markdown": "## [Deciphering Cuneiform with Artificial Intelligence](https://datascience.uchicago.edu/research/deciphering-cuneiform-with-artificial-intelligence)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nManually deciphering a cuneiform tablet is a laborious, time-consuming, and error-prone process. This project explores how recent advances in computer vision can assist researchers by automatically identifying symbols and words in images of cuneiform tablets. It will leverage the extensively annotated collections of the Online Cultural and Historical Research Environment (OCHRE) as training data for machine learning vision models that preliminary results suggest are accurate up to 83 percent of the time. This discovery grant will facilitate an important step towards the goal of meaningful automatic transcription and indexing of the extensive worldwide cuneiform tablet collection.\nPrincipal Investigators: Sanjay Krishnan (Assistant Professor, Computer Science), Susanne Paulus (Associate Professor, Assyriology), Sandra Schloen (Manager, OCHRE Data Service of the Oriental Institute), Miller Prosser (Research Database Specialist, OCHRE Data Service of the Oriental Institute)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "CDAC Summer Lab: Image Analysis + AI"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Data Dispatches: Deciphering Cuneiform with Artificial Intelligence"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Deciphering Cuneiform with Artificial Intelligence"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Ancient Language Processing: Teaching Computers to Read Cuneiform Tablets"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## CDAC Summer Lab: Image Analysis + AI\n## Data Dispatches: Deciphering Cuneiform with Artificial Intelligence\n## Deciphering Cuneiform with Artificial Intelligence\n## Ancient Language Processing: Teaching Computers to Read Cuneiform Tablets"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

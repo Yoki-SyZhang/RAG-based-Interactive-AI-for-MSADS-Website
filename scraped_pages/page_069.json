@@ -1,0 +1,85 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/a-mobile-decision-making-interface-for-doctors-without-internet",
+  "page_title": "Mobile Decision-Making for Doctors Without Internet | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "A Mobile Decision Making Interface For Doctors Without Internet",
+      "href": "https://datascience.uchicago.edu/research/a-mobile-decision-making-interface-for-doctors-without-internet"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:15.779035+00:00",
+  "all_text_markdown": "Mobile Decision-Making for Doctors Without Internet\n[Mobile Decision-Making for Doctors Without Internet](https://datascience.uchicago.edu/research/a-mobile-decision-making-interface-for-doctors-without-internet)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nA large sector of the medical profession in Nigeria lacks traditional decision making systems because of inadequate internet infrastructure, and the country has no electronic medical records. This project will build a mobile system running on conventional Android devices that allows doctors in this region to access basic medical records and perform queries (such as “side effects of diazepam”) over encrypted text messages, as well as access real-time information on the spread of diseases such as contagious infections.\nPrincipal Investigators: Andrey Rzhetsky (Edna K. Papazian Professor of Medicine), Pedro Lopes (Associate Professor, Computer Science)\nMore Projects\nMachine Learning Models for Predicting Heart Disease Progression\nOn-Chip Machine Learning for intelligent Pixel Detectors\nImproving Batteries to Combat Climate Change",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Mobile Decision-Making for Doctors Without Internet](https://datascience.uchicago.edu/research/a-mobile-decision-making-interface-for-doctors-without-internet)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "A large sector of the medical profession in Nigeria lacks traditional decision making systems because of inadequate internet infrastructure, and the country has no electronic medical records. This project will build a mobile system running on conventional Android devices that allows doctors in this region to access basic medical records and perform queries (such as “side effects of diazepam”) over encrypted text messages, as well as access real-time information on the spread of diseases such as contagious infections."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Andrey Rzhetsky (Edna K. Papazian Professor of Medicine), Pedro Lopes (Associate Professor, Computer Science)"
+        }
+      ],
+      "text_markdown": "## [Mobile Decision-Making for Doctors Without Internet](https://datascience.uchicago.edu/research/a-mobile-decision-making-interface-for-doctors-without-internet)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nA large sector of the medical profession in Nigeria lacks traditional decision making systems because of inadequate internet infrastructure, and the country has no electronic medical records. This project will build a mobile system running on conventional Android devices that allows doctors in this region to access basic medical records and perform queries (such as “side effects of diazepam”) over encrypted text messages, as well as access real-time information on the spread of diseases such as contagious infections.\nPrincipal Investigators: Andrey Rzhetsky (Edna K. Papazian Professor of Medicine), Pedro Lopes (Associate Professor, Computer Science)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "On-Chip Machine Learning for intelligent Pixel Detectors"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Improving Batteries to Combat Climate Change"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Machine Learning Models for Predicting Heart Disease Progression\n## On-Chip Machine Learning for intelligent Pixel Detectors\n## Improving Batteries to Combat Climate Change"
+    }
+  ]
+}

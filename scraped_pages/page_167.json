@@ -1,0 +1,83 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-applications-of-generative-ai-in-emergency-department-admission-evaluation",
+  "page_title": "Research (GPT for Healthcare) | Applications of Generative AI in Emergency Department Admission Evaluation | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Research Gpt For Healthcare Applications Of Generative Ai In Emergency Department Admission Evaluation",
+      "href": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-applications-of-generative-ai-in-emergency-department-admission-evaluation"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:43:24.204069+00:00",
+  "all_text_markdown": "Research (GPT for Healthcare) | Applications of Generative AI in Emergency Department Admission Evaluation\n[Research (GPT for Healthcare) | Applications of Generative AI in Emergency Department Admission Evaluation](https://datascience.uchicago.edu/research/research-gpt-for-healthcare-applications-of-generative-ai-in-emergency-department-admission-evaluation)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nArtificial intelligence (AI) and machine learning (ML) are increasingly transforming healthcare operations, particularly in emergency departments (EDs) where rapid, high-stakes decision-making is critical. Building on traditional supervised models, this study introduces a comparative framework evaluating large language model (LLM) + ML architectures against an extended hybrid system that integrates agentic AI (superagent) capabilities. Using structured medical records and unstructured triage notes, the agentic model coordinates data retrieval, contextual interpretation, and probabilistic inference. The agentic framework demonstrated the strongest overall performance, with the reasoning-enabled agent achieving the highest AUC (0.81) and the no-reasoning agent achieving the highest F1-score for admitted cases (0.55). In comparison, the baseline LLM reached an AUC of 0.535 and an F1-score of 0.33, while the XGBoost model achieved an AUC of 0.52 and an F1-score of 0.17. These results highlight the potential of agentic workflows for more balanced and adaptable ED admission prediction.\nRead more about the project in this[article](https://datascience.uchicago.edu/news/masters-in-applied-data-science-autumn-2025-capstone-winners)about the Autumn 2025 Capstone Showcase.\nWatch the team present this project at 46:24 in the session recording [here](https://uchicago.box.com/s/t6hnvrcwhxvowky2iw6tcncxgf0qj7bz).\nKeywords: generative AI, agentic AI, large language models, machine learning, emergency department, hospital admission prediction, healthcare analytics, clinical decision support\nRelated News, Insights, and Past Events\nMaster’s in Applied Data Science Autumn 2025 Capstone Winners",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Research (GPT for Healthcare) | Applications of Generative AI in Emergency Department Admission Evaluation](https://datascience.uchicago.edu/research/research-gpt-for-healthcare-applications-of-generative-ai-in-emergency-department-admission-evaluation)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Artificial intelligence (AI) and machine learning (ML) are increasingly transforming healthcare operations, particularly in emergency departments (EDs) where rapid, high-stakes decision-making is critical. Building on traditional supervised models, this study introduces a comparative framework evaluating large language model (LLM) + ML architectures against an extended hybrid system that integrates agentic AI (superagent) capabilities. Using structured medical records and unstructured triage notes, the agentic model coordinates data retrieval, contextual interpretation, and probabilistic inference. The agentic framework demonstrated the strongest overall performance, with the reasoning-enabled agent achieving the highest AUC (0.81) and the no-reasoning agent achieving the highest F1-score for admitted cases (0.55). In comparison, the baseline LLM reached an AUC of 0.535 and an F1-score of 0.33, while the XGBoost model achieved an AUC of 0.52 and an F1-score of 0.17. These results highlight the potential of agentic workflows for more balanced and adaptable ED admission prediction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read more about the project in this[article](https://datascience.uchicago.edu/news/masters-in-applied-data-science-autumn-2025-capstone-winners)about the Autumn 2025 Capstone Showcase."
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch the team present this project at 46:24 in the session recording [here](https://uchicago.box.com/s/t6hnvrcwhxvowky2iw6tcncxgf0qj7bz)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keywords: generative AI, agentic AI, large language models, machine learning, emergency department, hospital admission prediction, healthcare analytics, clinical decision support"
+        }
+      ],
+      "text_markdown": "## [Research (GPT for Healthcare) | Applications of Generative AI in Emergency Department Admission Evaluation](https://datascience.uchicago.edu/research/research-gpt-for-healthcare-applications-of-generative-ai-in-emergency-department-admission-evaluation)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nArtificial intelligence (AI) and machine learning (ML) are increasingly transforming healthcare operations, particularly in emergency departments (EDs) where rapid, high-stakes decision-making is critical. Building on traditional supervised models, this study introduces a comparative framework evaluating large language model (LLM) + ML architectures against an extended hybrid system that integrates agentic AI (superagent) capabilities. Using structured medical records and unstructured triage notes, the agentic model coordinates data retrieval, contextual interpretation, and probabilistic inference. The agentic framework demonstrated the strongest overall performance, with the reasoning-enabled agent achieving the highest AUC (0.81) and the no-reasoning agent achieving the highest F1-score for admitted cases (0.55). In comparison, the baseline LLM reached an AUC of 0.535 and an F1-score of 0.33, while the XGBoost model achieved an AUC of 0.52 and an F1-score of 0.17. These results highlight the potential of agentic workflows for more balanced and adaptable ED admission prediction.\nRead more about the project in this[article](https://datascience.uchicago.edu/news/masters-in-applied-data-science-autumn-2025-capstone-winners)about the Autumn 2025 Capstone Showcase.\nWatch the team present this project at 46:24 in the session recording [here](https://uchicago.box.com/s/t6hnvrcwhxvowky2iw6tcncxgf0qj7bz).\nKeywords: generative AI, agentic AI, large language models, machine learning, emergency department, hospital admission prediction, healthcare analytics, clinical decision support"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Master’s in Applied Data Science Autumn 2025 Capstone Winners"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Master’s in Applied Data Science Autumn 2025 Capstone Winners"
+    }
+  ]
+}

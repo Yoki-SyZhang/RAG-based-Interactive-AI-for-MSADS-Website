@@ -1,0 +1,101 @@
+{
+  "page_url": "https://datascience.uchicago.edu/education/phd-in-data-science",
+  "page_title": "PhD in Data Science | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Education",
+      "href": "https://datascience.uchicago.edu/education"
+    },
+    {
+      "text": "Phd In Data Science",
+      "href": "https://datascience.uchicago.edu/education/phd-in-data-science"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:36.849449+00:00",
+  "all_text_markdown": "Share\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nPhD in Data Science\nStudents conduct research on cutting edge problems alongside preeminent faculty at UChicago and explore the emerging field of Data Science. As an emerging discipline, Data Science addresses foundational problems across the entire data life cycle. Tackling issues of inequity, climate change, and sustainability will require cutting edge research in artificial intelligence and data usage combined with innovative educational programs to train students in the concepts of information systems. Students of Data Science will not only immerse themselves in a rapidly evolving field; they will help redefine it altogether.\nResearch Excellence:\nAs a PhD student in Data Science, you will learn from faculty who have developed research programs that span a wide variety of data science and AI topics, from theory to applications, with a focus on making a societal impact.\nResearch Topics:\n[Artificial Intelligence](https://codas.uchicago.edu/research/artificial-intelligence)\n[Data, AI, and Society](https://codas.uchicago.edu/research/data-ai-and-society)\n[Data Systems](https://codas.uchicago.edu/research/data-systems)\n[Human-Centered Data Science](https://codas.uchicago.edu/research/human-centered-ds)\n[Machine Learning and Statistics](https://codas.uchicago.edu/research/ai-ml-and-stats)\n[Theory](https://codas.uchicago.edu/research/foundations)\n[Use-Inspired Data Science](https://codas.uchicago.edu/research/use-inspired-ds)\nFor more information, including a link to the application, see the [Committee on Data Science website](https://codas.uchicago.edu).",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "PhD in Data Science"
+        },
+        {
+          "type": "paragraph",
+          "text": "Students conduct research on cutting edge problems alongside preeminent faculty at UChicago and explore the emerging field of Data Science. As an emerging discipline, Data Science addresses foundational problems across the entire data life cycle. Tackling issues of inequity, climate change, and sustainability will require cutting edge research in artificial intelligence and data usage combined with innovative educational programs to train students in the concepts of information systems. Students of Data Science will not only immerse themselves in a rapidly evolving field; they will help redefine it altogether."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Research Excellence:"
+        },
+        {
+          "type": "paragraph",
+          "text": "As a PhD student in Data Science, you will learn from faculty who have developed research programs that span a wide variety of data science and AI topics, from theory to applications, with a focus on making a societal impact."
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Research Topics:"
+        },
+        {
+          "type": "list_item",
+          "text": "[Artificial Intelligence](https://codas.uchicago.edu/research/artificial-intelligence)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Data, AI, and Society](https://codas.uchicago.edu/research/data-ai-and-society)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Data Systems](https://codas.uchicago.edu/research/data-systems)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Human-Centered Data Science](https://codas.uchicago.edu/research/human-centered-ds)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Machine Learning and Statistics](https://codas.uchicago.edu/research/ai-ml-and-stats)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Theory](https://codas.uchicago.edu/research/foundations)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Use-Inspired Data Science](https://codas.uchicago.edu/research/use-inspired-ds)"
+        },
+        {
+          "type": "paragraph",
+          "text": "For more information, including a link to the application, see the [Committee on Data Science website](https://codas.uchicago.edu)."
+        }
+      ],
+      "text_markdown": "## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\n# PhD in Data Science\nStudents conduct research on cutting edge problems alongside preeminent faculty at UChicago and explore the emerging field of Data Science. As an emerging discipline, Data Science addresses foundational problems across the entire data life cycle. Tackling issues of inequity, climate change, and sustainability will require cutting edge research in artificial intelligence and data usage combined with innovative educational programs to train students in the concepts of information systems. Students of Data Science will not only immerse themselves in a rapidly evolving field; they will help redefine it altogether.\n#### Research Excellence:\nAs a PhD student in Data Science, you will learn from faculty who have developed research programs that span a wide variety of data science and AI topics, from theory to applications, with a focus on making a societal impact.\n##### Research Topics:\n- [Artificial Intelligence](https://codas.uchicago.edu/research/artificial-intelligence)\n- [Data, AI, and Society](https://codas.uchicago.edu/research/data-ai-and-society)\n- [Data Systems](https://codas.uchicago.edu/research/data-systems)\n- [Human-Centered Data Science](https://codas.uchicago.edu/research/human-centered-ds)\n- [Machine Learning and Statistics](https://codas.uchicago.edu/research/ai-ml-and-stats)\n- [Theory](https://codas.uchicago.edu/research/foundations)\n- [Use-Inspired Data Science](https://codas.uchicago.edu/research/use-inspired-ds)\nFor more information, including a link to the application, see the [Committee on Data Science website](https://codas.uchicago.edu)."
+    }
+  ]
+}

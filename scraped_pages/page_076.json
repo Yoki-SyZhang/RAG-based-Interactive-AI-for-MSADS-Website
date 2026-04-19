@@ -1,0 +1,89 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/building-cyberinfrastructure-for-rate-event-searches",
+  "page_title": "Building Cyberinfrastructure for Rare-Event Searches | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Building Cyberinfrastructure For Rate Event Searches",
+      "href": "https://datascience.uchicago.edu/research/building-cyberinfrastructure-for-rate-event-searches"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:20.330096+00:00",
+  "all_text_markdown": "Building Cyberinfrastructure for Rare-Event Searches\n[Building Cyberinfrastructure for Rare-Event Searches](https://datascience.uchicago.edu/research/building-cyberinfrastructure-for-rate-event-searches)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nDuring the past decade, the incorporation of machine learning (ML) techniques, in particular deep learning (DL), has innovated the field of particle physics. Notably, recent advances in image processing have made Convolutional Neural Networks the most common DL applications in particle physics. Despite the success of DL methods in solving complex problems in particle physics, application in astroparticle and rare-event search experiments is still a field where more progress is needed. In addition, most of the ML and DL techniques in particle physics are ad-hoc and tailored.\nAssociate Professor [Luca Grandi](https://physics.uchicago.edu/people/profile/luca-grandi), PhD student [Lanqing Yuan](https://physics.uchicago.edu/people/profile/lanqing-yuan) and their collaborators are applying data-demanding machine learning techniques to the XENONnT rare event search. XENONnT is a dark matter search, which will serve as a testbed for the cyberinfrastructure being developed. The results of this project will be applied to future machine learning based dark matter searches, significantly benefiting XENON science.\nPrincipal Investigators: Luca Grandi (UChicago), Lanqing Yuan (UChicago)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Building Cyberinfrastructure for Rare-Event Searches](https://datascience.uchicago.edu/research/building-cyberinfrastructure-for-rate-event-searches)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "During the past decade, the incorporation of machine learning (ML) techniques, in particular deep learning (DL), has innovated the field of particle physics. Notably, recent advances in image processing have made Convolutional Neural Networks the most common DL applications in particle physics. Despite the success of DL methods in solving complex problems in particle physics, application in astroparticle and rare-event search experiments is still a field where more progress is needed. In addition, most of the ML and DL techniques in particle physics are ad-hoc and tailored."
+        },
+        {
+          "type": "paragraph",
+          "text": "Associate Professor [Luca Grandi](https://physics.uchicago.edu/people/profile/luca-grandi), PhD student [Lanqing Yuan](https://physics.uchicago.edu/people/profile/lanqing-yuan) and their collaborators are applying data-demanding machine learning techniques to the XENONnT rare event search. XENONnT is a dark matter search, which will serve as a testbed for the cyberinfrastructure being developed. The results of this project will be applied to future machine learning based dark matter searches, significantly benefiting XENON science."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Luca Grandi (UChicago), Lanqing Yuan (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Building Cyberinfrastructure for Rare-Event Searches](https://datascience.uchicago.edu/research/building-cyberinfrastructure-for-rate-event-searches)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nDuring the past decade, the incorporation of machine learning (ML) techniques, in particular deep learning (DL), has innovated the field of particle physics. Notably, recent advances in image processing have made Convolutional Neural Networks the most common DL applications in particle physics. Despite the success of DL methods in solving complex problems in particle physics, application in astroparticle and rare-event search experiments is still a field where more progress is needed. In addition, most of the ML and DL techniques in particle physics are ad-hoc and tailored.\nAssociate Professor [Luca Grandi](https://physics.uchicago.edu/people/profile/luca-grandi), PhD student [Lanqing Yuan](https://physics.uchicago.edu/people/profile/lanqing-yuan) and their collaborators are applying data-demanding machine learning techniques to the XENONnT rare event search. XENONnT is a dark matter search, which will serve as a testbed for the cyberinfrastructure being developed. The results of this project will be applied to future machine learning based dark matter searches, significantly benefiting XENON science.\nPrincipal Investigators: Luca Grandi (UChicago), Lanqing Yuan (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "page_url": "https://datascience.uchicago.edu/about/about-dsi",
+  "page_title": "The UChicago Data Science Institute | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "About",
+      "href": "https://datascience.uchicago.edu/about"
+    },
+    {
+      "text": "About Dsi",
+      "href": "https://datascience.uchicago.edu/about/about-dsi"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:41:48.781200+00:00",
+  "all_text_markdown": "About facet-arrow-down\n[The UChicago Data Science Institute](https://datascience.uchicago.edu/about/about-dsi)\n[Jobs & Opportunities](https://datascience.uchicago.edu/about/jobs)\n[Contact](https://datascience.uchicago.edu/about/contact)\n[Visiting DSI](https://datascience.uchicago.edu/about/visiting-dsi)\n[About](https://datascience.uchicago.edu/about)\n[The UChicago Data Science Institute](https://datascience.uchicago.edu/about/about-dsi)\n[Jobs & Opportunities](https://datascience.uchicago.edu/about/jobs)\n[Contact](https://datascience.uchicago.edu/about/contact)\n[Visiting DSI](https://datascience.uchicago.edu/about/visiting-dsi)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nThe UChicago Data Science Institute\nThe mission of DSI is to address important scientific and societal questions through coordinated advances in applications, models, algorithms, and platforms. To execute this goal, we:\nResearch: Transcending traditional boundaries by organizing our research into interdisciplinary and foundational themes focused on high impact results that can benefit society, with programs including multi-year research initiatives, seed grants for high-risk, high-reward research projects, and the development of a research ecosystem.\nPartnerships: Using data science as a lens to re-envision the University of Chicago’s relationship with the South Side of Chicago, greater Chicagoland and globally, we use a community-centered approach to lead, innovate and engage with industry, government, and nonprofits to create meaningful social impact.\nEducation: Expanding upon the conventional view of data science — a combination of statistics, computer science and domain expertise — to build out the foundations of the field, consider its ethical and societal implications, and communicate its discoveries to make the most powerful and positive real-world impact\nThe Data Science Institute partners with the [UChicago Department of Computer Science](https://www.cs.uchicago.edu) and the [UChicago Department of Statistics](https://stat.uchicago.edu), and is co-located with UChicago CS in the [John Crerar Library Building](https://www.cs.uchicago.edu/about/our-new-building). But the scope of DSI stretches beyond these departments, facilitating research partnerships and programming for all UChicago divisions, departments, and schools. DSI is also part of an ambitious, multi-year expansion of computer science, data science, and AI efforts at the University of Chicago.\nDSI builds upon the successes of the Center for Data and Computing (CDAC), the intellectual hub and incubator for data science and AI research at the University of Chicago from 2018-2021. All CDAC research projects and programs continue under the Data Science Institute.\n[Support DSI](https://campaign.uchicago.edu/priorities/center-for-data-and-computing)",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[About](https://datascience.uchicago.edu/about)"
+        },
+        {
+          "type": "list_item",
+          "text": "[The UChicago Data Science Institute](https://datascience.uchicago.edu/about/about-dsi)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Jobs & Opportunities](https://datascience.uchicago.edu/about/jobs)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Contact](https://datascience.uchicago.edu/about/contact)"
+        },
+        {
+          "type": "list_item",
+          "text": "[Visiting DSI](https://datascience.uchicago.edu/about/visiting-dsi)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "The UChicago Data Science Institute"
+        },
+        {
+          "type": "paragraph",
+          "text": "The mission of DSI is to address important scientific and societal questions through coordinated advances in applications, models, algorithms, and platforms. To execute this goal, we:"
+        },
+        {
+          "type": "list_item",
+          "text": "Research: Transcending traditional boundaries by organizing our research into interdisciplinary and foundational themes focused on high impact results that can benefit society, with programs including multi-year research initiatives, seed grants for high-risk, high-reward research projects, and the development of a research ecosystem."
+        },
+        {
+          "type": "list_item",
+          "text": "Partnerships: Using data science as a lens to re-envision the University of Chicago’s relationship with the South Side of Chicago, greater Chicagoland and globally, we use a community-centered approach to lead, innovate and engage with industry, government, and nonprofits to create meaningful social impact."
+        },
+        {
+          "type": "list_item",
+          "text": "Education: Expanding upon the conventional view of data science — a combination of statistics, computer science and domain expertise — to build out the foundations of the field, consider its ethical and societal implications, and communicate its discoveries to make the most powerful and positive real-world impact"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Data Science Institute partners with the [UChicago Department of Computer Science](https://www.cs.uchicago.edu) and the [UChicago Department of Statistics](https://stat.uchicago.edu), and is co-located with UChicago CS in the [John Crerar Library Building](https://www.cs.uchicago.edu/about/our-new-building). But the scope of DSI stretches beyond these departments, facilitating research partnerships and programming for all UChicago divisions, departments, and schools. DSI is also part of an ambitious, multi-year expansion of computer science, data science, and AI efforts at the University of Chicago."
+        },
+        {
+          "type": "paragraph",
+          "text": "DSI builds upon the successes of the Center for Data and Computing (CDAC), the intellectual hub and incubator for data science and AI research at the University of Chicago from 2018-2021. All CDAC research projects and programs continue under the Data Science Institute."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Support DSI](https://campaign.uchicago.edu/priorities/center-for-data-and-computing)"
+        }
+      ],
+      "text_markdown": "## [About](https://datascience.uchicago.edu/about)\n- [The UChicago Data Science Institute](https://datascience.uchicago.edu/about/about-dsi)\n- [Jobs & Opportunities](https://datascience.uchicago.edu/about/jobs)\n- [Contact](https://datascience.uchicago.edu/about/contact)\n- [Visiting DSI](https://datascience.uchicago.edu/about/visiting-dsi)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\n# The UChicago Data Science Institute\nThe mission of DSI is to address important scientific and societal questions through coordinated advances in applications, models, algorithms, and platforms. To execute this goal, we:\n- Research: Transcending traditional boundaries by organizing our research into interdisciplinary and foundational themes focused on high impact results that can benefit society, with programs including multi-year research initiatives, seed grants for high-risk, high-reward research projects, and the development of a research ecosystem.\n- Partnerships: Using data science as a lens to re-envision the University of Chicago’s relationship with the South Side of Chicago, greater Chicagoland and globally, we use a community-centered approach to lead, innovate and engage with industry, government, and nonprofits to create meaningful social impact.\n- Education: Expanding upon the conventional view of data science — a combination of statistics, computer science and domain expertise — to build out the foundations of the field, consider its ethical and societal implications, and communicate its discoveries to make the most powerful and positive real-world impact\nThe Data Science Institute partners with the [UChicago Department of Computer Science](https://www.cs.uchicago.edu) and the [UChicago Department of Statistics](https://stat.uchicago.edu), and is co-located with UChicago CS in the [John Crerar Library Building](https://www.cs.uchicago.edu/about/our-new-building). But the scope of DSI stretches beyond these departments, facilitating research partnerships and programming for all UChicago divisions, departments, and schools. DSI is also part of an ambitious, multi-year expansion of computer science, data science, and AI efforts at the University of Chicago.\nDSI builds upon the successes of the Center for Data and Computing (CDAC), the intellectual hub and incubator for data science and AI research at the University of Chicago from 2018-2021. All CDAC research projects and programs continue under the Data Science Institute.\n[Support DSI](https://campaign.uchicago.edu/priorities/center-for-data-and-computing)"
+    }
+  ]
+}

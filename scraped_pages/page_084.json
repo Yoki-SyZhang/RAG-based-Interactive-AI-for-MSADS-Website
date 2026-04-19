@@ -1,0 +1,121 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/exploring-climate-and-biodiversity-with-3d-deep-learning",
+  "page_title": "Exploring Climate and Biodiversity with 3D Deep Learning | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Exploring Climate And Biodiversity With 3D Deep Learning",
+      "href": "https://datascience.uchicago.edu/research/exploring-climate-and-biodiversity-with-3d-deep-learning"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:25.594078+00:00",
+  "all_text_markdown": "Exploring Climate and Biodiversity with 3D Deep Learning\n[Exploring Climate and Biodiversity with 3D Deep Learning](https://datascience.uchicago.edu/research/exploring-climate-and-biodiversity-with-3d-deep-learning)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nUnderstanding the impact of climate change on the diversity of global marine species has important economic value for fishery and policy making. Changes in water temperature, nutrients, and ecological associations can affect an organism’s physical form and growth, which are critical to determining where a species can survive. Using modern 3D imaging technology, this project will quantify large-scale variations in bivalve shell morphology and statistically analyze how they respond to global climate change by developing highly efficient end-to-end geometric deep learning systems that can automatically extract latent semantic representations from millions of micro-CT scans.\nPrincipal Investigators: Gordon Kindlmann (Associate Professor, Computer Science), William Irvine (Professor, Physics)\nRelated News, Insights, and Past Events\nElizabeth Barnes (Colorado State University) – Explainable AI for Climate Science: Opening the black box to reveal planet Earth\nData Dispatches: Exploring Climate and Biodiversity with 3D Deep Learning\nExploring Climate and Biodiversity with 3D Deep Learning\nSpatial filters of function and phylogeny determine morphological disparity with latitude\nShell Game: Exploring Climate and Biodiversity with 3D Deep Learning\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Exploring Climate and Biodiversity with 3D Deep Learning](https://datascience.uchicago.edu/research/exploring-climate-and-biodiversity-with-3d-deep-learning)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Understanding the impact of climate change on the diversity of global marine species has important economic value for fishery and policy making. Changes in water temperature, nutrients, and ecological associations can affect an organism’s physical form and growth, which are critical to determining where a species can survive. Using modern 3D imaging technology, this project will quantify large-scale variations in bivalve shell morphology and statistically analyze how they respond to global climate change by developing highly efficient end-to-end geometric deep learning systems that can automatically extract latent semantic representations from millions of micro-CT scans."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Gordon Kindlmann (Associate Professor, Computer Science), William Irvine (Professor, Physics)"
+        }
+      ],
+      "text_markdown": "## [Exploring Climate and Biodiversity with 3D Deep Learning](https://datascience.uchicago.edu/research/exploring-climate-and-biodiversity-with-3d-deep-learning)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nUnderstanding the impact of climate change on the diversity of global marine species has important economic value for fishery and policy making. Changes in water temperature, nutrients, and ecological associations can affect an organism’s physical form and growth, which are critical to determining where a species can survive. Using modern 3D imaging technology, this project will quantify large-scale variations in bivalve shell morphology and statistically analyze how they respond to global climate change by developing highly efficient end-to-end geometric deep learning systems that can automatically extract latent semantic representations from millions of micro-CT scans.\nPrincipal Investigators: Gordon Kindlmann (Associate Professor, Computer Science), William Irvine (Professor, Physics)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Elizabeth Barnes (Colorado State University) – Explainable AI for Climate Science: Opening the black box to reveal planet Earth"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Data Dispatches: Exploring Climate and Biodiversity with 3D Deep Learning"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Exploring Climate and Biodiversity with 3D Deep Learning"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Spatial filters of function and phylogeny determine morphological disparity with latitude"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Shell Game: Exploring Climate and Biodiversity with 3D Deep Learning"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Elizabeth Barnes (Colorado State University) – Explainable AI for Climate Science: Opening the black box to reveal planet Earth\n## Data Dispatches: Exploring Climate and Biodiversity with 3D Deep Learning\n## Exploring Climate and Biodiversity with 3D Deep Learning\n## Spatial filters of function and phylogeny determine morphological disparity with latitude\n## Shell Game: Exploring Climate and Biodiversity with 3D Deep Learning"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

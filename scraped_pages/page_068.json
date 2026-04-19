@@ -1,0 +1,89 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/improving-prediction-of-breast-cancer-patient-response-to-therapy",
+  "page_title": "Improving Prediction of Breast Cancer Patient Response to Therapy | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Improving Prediction Of Breast Cancer Patient Response To Therapy",
+      "href": "https://datascience.uchicago.edu/research/improving-prediction-of-breast-cancer-patient-response-to-therapy"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:15.121570+00:00",
+  "all_text_markdown": "Improving Prediction of Breast Cancer Patient Response to Therapy\n[Improving Prediction of Breast Cancer Patient Response to Therapy](https://datascience.uchicago.edu/research/improving-prediction-of-breast-cancer-patient-response-to-therapy)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nBreast cancer remains the most common and deadliest cancer for women worldwide. Chemotherapy is an essential component of treatment, and the addition of neoadjuvant immunotherapies have demonstrated improved responses for patients with HER2- BC. However, no robust method exists for predicting which patients will respond to immunotherapy. As immunotherapy toxicities may be permanent and severely impact quality of life, selecting which patients will respond to immunotherapy is of critical importance for patient care.\nUChicago postdoctoral fellow [Madeleine S. Torcasso](https://datascience.uchicago.edu/people/madeleine-torcasso), along with [Dr. Maryellen L. Giger](https://radiology.uchicago.edu/faculty/maryellen-l-giger-phd) and [Dr. Frederick Howard](https://biologicalsciences.uchicago.edu/faculty/frederick-howard-md), are working to address this issue by utilizing machine learning to enable the discovery of response-predictive spatial immunity features from highly multiplexed fluorescence microscopy, or high-plex IF, images. High-plex IF allows for spatial analysis of the tumor:immune environment and other cellular features of breast cancer. The results of this work will help to better select patients for immunotherapy, improving outcomes and reducing toxicity for breast cancer patients.\nPrincipal Investigators: Madeleine S. Torcasso (UChicago), Dr. Maryellen L. Giger (UChicago), Dr. Frederick Howard (UChicago Medicine)\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Improving Prediction of Breast Cancer Patient Response to Therapy](https://datascience.uchicago.edu/research/improving-prediction-of-breast-cancer-patient-response-to-therapy)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Breast cancer remains the most common and deadliest cancer for women worldwide. Chemotherapy is an essential component of treatment, and the addition of neoadjuvant immunotherapies have demonstrated improved responses for patients with HER2- BC. However, no robust method exists for predicting which patients will respond to immunotherapy. As immunotherapy toxicities may be permanent and severely impact quality of life, selecting which patients will respond to immunotherapy is of critical importance for patient care."
+        },
+        {
+          "type": "paragraph",
+          "text": "UChicago postdoctoral fellow [Madeleine S. Torcasso](https://datascience.uchicago.edu/people/madeleine-torcasso), along with [Dr. Maryellen L. Giger](https://radiology.uchicago.edu/faculty/maryellen-l-giger-phd) and [Dr. Frederick Howard](https://biologicalsciences.uchicago.edu/faculty/frederick-howard-md), are working to address this issue by utilizing machine learning to enable the discovery of response-predictive spatial immunity features from highly multiplexed fluorescence microscopy, or high-plex IF, images. High-plex IF allows for spatial analysis of the tumor:immune environment and other cellular features of breast cancer. The results of this work will help to better select patients for immunotherapy, improving outcomes and reducing toxicity for breast cancer patients."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Madeleine S. Torcasso (UChicago), Dr. Maryellen L. Giger (UChicago), Dr. Frederick Howard (UChicago Medicine)"
+        }
+      ],
+      "text_markdown": "## [Improving Prediction of Breast Cancer Patient Response to Therapy](https://datascience.uchicago.edu/research/improving-prediction-of-breast-cancer-patient-response-to-therapy)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nBreast cancer remains the most common and deadliest cancer for women worldwide. Chemotherapy is an essential component of treatment, and the addition of neoadjuvant immunotherapies have demonstrated improved responses for patients with HER2- BC. However, no robust method exists for predicting which patients will respond to immunotherapy. As immunotherapy toxicities may be permanent and severely impact quality of life, selecting which patients will respond to immunotherapy is of critical importance for patient care.\nUChicago postdoctoral fellow [Madeleine S. Torcasso](https://datascience.uchicago.edu/people/madeleine-torcasso), along with [Dr. Maryellen L. Giger](https://radiology.uchicago.edu/faculty/maryellen-l-giger-phd) and [Dr. Frederick Howard](https://biologicalsciences.uchicago.edu/faculty/frederick-howard-md), are working to address this issue by utilizing machine learning to enable the discovery of response-predictive spatial immunity features from highly multiplexed fluorescence microscopy, or high-plex IF, images. High-plex IF allows for spatial analysis of the tumor:immune environment and other cellular features of breast cancer. The results of this work will help to better select patients for immunotherapy, improving outcomes and reducing toxicity for breast cancer patients.\nPrincipal Investigators: Madeleine S. Torcasso (UChicago), Dr. Maryellen L. Giger (UChicago), Dr. Frederick Howard (UChicago Medicine)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

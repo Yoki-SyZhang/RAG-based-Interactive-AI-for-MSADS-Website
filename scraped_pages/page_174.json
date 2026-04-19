@@ -1,0 +1,81 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/aetna-optimization-engine-creation-scenario-planning-and-sensitivity-analysis-tool",
+  "page_title": "Aetna | Optimization Engine Creation - Scenario Planning and Sensitivity Analysis Tool | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Aetna Optimization Engine Creation Scenario Planning And Sensitivity Analysis Tool",
+      "href": "https://datascience.uchicago.edu/research/aetna-optimization-engine-creation-scenario-planning-and-sensitivity-analysis-tool"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:43:28.799285+00:00",
+  "all_text_markdown": "Aetna | Optimization Engine Creation – Scenario Planning and Sensitivity Analysis Tool\n[Aetna | Optimization Engine Creation – Scenario Planning and Sensitivity Analysis Tool](https://datascience.uchicago.edu/research/aetna-optimization-engine-creation-scenario-planning-and-sensitivity-analysis-tool)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nAetna conducts extensive outreach to improve Healthcare Effectiveness Data and Information Set (HEDIS) compliance, yet current communication strategies do not account for variation in member behavior or channel effectiveness. This research develops an analytical framework that integrates descriptive analysis, multi-touch attribution, and causal modeling to quantify the impact of email, SMS, and call outreach on compliance outcomes. A simulation engine and sensitivity analysis tool further enable scenario-based planning under operational constraints. These components support evidence-based outreach planning by enabling well-informed budget allocation, strategic scenario evaluation, and data-driven decision-making for Aetna’s marketing and engagement operations.\nKeywords: Outreach optimization, simulation engine, healthcare analytics, compliance, Medicare stars, data-driven decision-making, personalization, predictive modeling, Tableau dashboard\nWatch the team present this project at 01:50:28 in the session recording [here](https://uchicago.box.com/s/zlzx5vu0w30c1ni2c0avmjeu7jgnktge).\nFaculty Advisor\n[Jonathan Williams, MS Assistant Clinical Professor](https://datascience.uchicago.edu/people/jonathan-williams-ms)\nJonathan Williams, MS\nJonathan Williams has been working in statistical consulting and data science education for fourteen years and currently teaches full-time at the University of Chicago. Previously, he managed data science teams at Civis Analytics, working on behalf of public sector clients, and before that he worked as a vice president at Compass Lexecon, providing and supporting expert reports and expert testimony for litigation. Jonathan earned his BA and MS degrees in statistics from the University of Chicago (’07, ’08) and is also an alumni of the Master of Science in Analytics (now known as [MS in Applied Data Science](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science)) program (’16). His focuses include regression analysis, data visualization, technical writing, financial valuation, mortgage portfolio modeling, and damages estimation.",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Aetna | Optimization Engine Creation – Scenario Planning and Sensitivity Analysis Tool](https://datascience.uchicago.edu/research/aetna-optimization-engine-creation-scenario-planning-and-sensitivity-analysis-tool)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aetna conducts extensive outreach to improve Healthcare Effectiveness Data and Information Set (HEDIS) compliance, yet current communication strategies do not account for variation in member behavior or channel effectiveness. This research develops an analytical framework that integrates descriptive analysis, multi-touch attribution, and causal modeling to quantify the impact of email, SMS, and call outreach on compliance outcomes. A simulation engine and sensitivity analysis tool further enable scenario-based planning under operational constraints. These components support evidence-based outreach planning by enabling well-informed budget allocation, strategic scenario evaluation, and data-driven decision-making for Aetna’s marketing and engagement operations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keywords: Outreach optimization, simulation engine, healthcare analytics, compliance, Medicare stars, data-driven decision-making, personalization, predictive modeling, Tableau dashboard"
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch the team present this project at 01:50:28 in the session recording [here](https://uchicago.box.com/s/zlzx5vu0w30c1ni2c0avmjeu7jgnktge)."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Faculty Advisor"
+        },
+        {
+          "type": "list_item",
+          "text": "[Jonathan Williams, MS Assistant Clinical Professor](https://datascience.uchicago.edu/people/jonathan-williams-ms)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Jonathan Williams, MS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jonathan Williams has been working in statistical consulting and data science education for fourteen years and currently teaches full-time at the University of Chicago. Previously, he managed data science teams at Civis Analytics, working on behalf of public sector clients, and before that he worked as a vice president at Compass Lexecon, providing and supporting expert reports and expert testimony for litigation. Jonathan earned his BA and MS degrees in statistics from the University of Chicago (’07, ’08) and is also an alumni of the Master of Science in Analytics (now known as [MS in Applied Data Science](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science)) program (’16). His focuses include regression analysis, data visualization, technical writing, financial valuation, mortgage portfolio modeling, and damages estimation."
+        }
+      ],
+      "text_markdown": "## [Aetna | Optimization Engine Creation – Scenario Planning and Sensitivity Analysis Tool](https://datascience.uchicago.edu/research/aetna-optimization-engine-creation-scenario-planning-and-sensitivity-analysis-tool)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nAetna conducts extensive outreach to improve Healthcare Effectiveness Data and Information Set (HEDIS) compliance, yet current communication strategies do not account for variation in member behavior or channel effectiveness. This research develops an analytical framework that integrates descriptive analysis, multi-touch attribution, and causal modeling to quantify the impact of email, SMS, and call outreach on compliance outcomes. A simulation engine and sensitivity analysis tool further enable scenario-based planning under operational constraints. These components support evidence-based outreach planning by enabling well-informed budget allocation, strategic scenario evaluation, and data-driven decision-making for Aetna’s marketing and engagement operations.\nKeywords: Outreach optimization, simulation engine, healthcare analytics, compliance, Medicare stars, data-driven decision-making, personalization, predictive modeling, Tableau dashboard\nWatch the team present this project at 01:50:28 in the session recording [here](https://uchicago.box.com/s/zlzx5vu0w30c1ni2c0avmjeu7jgnktge).\n### Faculty Advisor\n- [Jonathan Williams, MS Assistant Clinical Professor](https://datascience.uchicago.edu/people/jonathan-williams-ms)\n# Jonathan Williams, MS\nJonathan Williams has been working in statistical consulting and data science education for fourteen years and currently teaches full-time at the University of Chicago. Previously, he managed data science teams at Civis Analytics, working on behalf of public sector clients, and before that he worked as a vice president at Compass Lexecon, providing and supporting expert reports and expert testimony for litigation. Jonathan earned his BA and MS degrees in statistics from the University of Chicago (’07, ’08) and is also an alumni of the Master of Science in Analytics (now known as [MS in Applied Data Science](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science)) program (’16). His focuses include regression analysis, data visualization, technical writing, financial valuation, mortgage portfolio modeling, and damages estimation."
+    }
+  ]
+}

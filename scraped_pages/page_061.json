@@ -1,0 +1,109 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/automating-electron-microscopy-with-ai",
+  "page_title": "Automating Electron Microscopy with AI | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Automating Electron Microscopy With Ai",
+      "href": "https://datascience.uchicago.edu/research/automating-electron-microscopy-with-ai"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:10.522737+00:00",
+  "all_text_markdown": "Automating Electron Microscopy with AI\n[Automating Electron Microscopy with AI](https://datascience.uchicago.edu/research/automating-electron-microscopy-with-ai)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nElectron microscopy (EM) is widely used in materials science to characterize nanostructures. Currently, the collection and analysis of EM data requires a human operator resulting in both low acquisition throughput and the introduction of bias.\nPostdoctoral Fellow [Minhal Hasham](https://www.linkedin.com/in/minhal-hasham-ph-d-a7a8a745) (UChicago), along with Professor [Paul Alivisatos](https://chemistry.uchicago.edu/faculty/paul-alivisatos) (UChicago), [Dr. Joeson Wong](https://jamesfranckinstitute.uchicago.edu/people/profile/joeson-wong) (UChicago), [Dr. Chang Liu](https://www.linkedin.com/in/chang-liu-221061a5), and Xingzhi Wang are developing a fully automated EM workflow to automate focussing and image acquisition. As-acquired images will be denoised and classified using machine learning algorithms, removing the need for a human operator to manually quantify the data, resulting in orders-of-magnitude increases in data volume and summary statistics.\nThis high-throughput and bias-free data acquisition protocol promises to both accelerate the discovery process by providing on-the-fly control for in situ/operando experiments and increase data precision by removing any operator-induced bias during data acquisition and analysis.\nPrincipal Investigators: Dr. Minhal Hasham (UChicago), Dr. Joeson Wong (UChicago), Dr. Chang Liu (UChicago), Xingzhi Wang (UChicago), Prof. Paul Alivisatos (UChicago)\nRelated News, Insights, and Past Events\nMaster’s in Applied Data Science Winter 2024 Capstone Winners\nMore Projects\nDeveloping Artificial Curiosity Algorithms\nDiscovering the Design Rules Linking Protein Sequence to Function\nMachine Learning Models for Predicting Heart Disease Progression",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Automating Electron Microscopy with AI](https://datascience.uchicago.edu/research/automating-electron-microscopy-with-ai)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Electron microscopy (EM) is widely used in materials science to characterize nanostructures. Currently, the collection and analysis of EM data requires a human operator resulting in both low acquisition throughput and the introduction of bias."
+        },
+        {
+          "type": "paragraph",
+          "text": "Postdoctoral Fellow [Minhal Hasham](https://www.linkedin.com/in/minhal-hasham-ph-d-a7a8a745) (UChicago), along with Professor [Paul Alivisatos](https://chemistry.uchicago.edu/faculty/paul-alivisatos) (UChicago), [Dr. Joeson Wong](https://jamesfranckinstitute.uchicago.edu/people/profile/joeson-wong) (UChicago), [Dr. Chang Liu](https://www.linkedin.com/in/chang-liu-221061a5), and Xingzhi Wang are developing a fully automated EM workflow to automate focussing and image acquisition. As-acquired images will be denoised and classified using machine learning algorithms, removing the need for a human operator to manually quantify the data, resulting in orders-of-magnitude increases in data volume and summary statistics."
+        },
+        {
+          "type": "paragraph",
+          "text": "This high-throughput and bias-free data acquisition protocol promises to both accelerate the discovery process by providing on-the-fly control for in situ/operando experiments and increase data precision by removing any operator-induced bias during data acquisition and analysis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Dr. Minhal Hasham (UChicago), Dr. Joeson Wong (UChicago), Dr. Chang Liu (UChicago), Xingzhi Wang (UChicago), Prof. Paul Alivisatos (UChicago)"
+        }
+      ],
+      "text_markdown": "## [Automating Electron Microscopy with AI](https://datascience.uchicago.edu/research/automating-electron-microscopy-with-ai)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nElectron microscopy (EM) is widely used in materials science to characterize nanostructures. Currently, the collection and analysis of EM data requires a human operator resulting in both low acquisition throughput and the introduction of bias.\nPostdoctoral Fellow [Minhal Hasham](https://www.linkedin.com/in/minhal-hasham-ph-d-a7a8a745) (UChicago), along with Professor [Paul Alivisatos](https://chemistry.uchicago.edu/faculty/paul-alivisatos) (UChicago), [Dr. Joeson Wong](https://jamesfranckinstitute.uchicago.edu/people/profile/joeson-wong) (UChicago), [Dr. Chang Liu](https://www.linkedin.com/in/chang-liu-221061a5), and Xingzhi Wang are developing a fully automated EM workflow to automate focussing and image acquisition. As-acquired images will be denoised and classified using machine learning algorithms, removing the need for a human operator to manually quantify the data, resulting in orders-of-magnitude increases in data volume and summary statistics.\nThis high-throughput and bias-free data acquisition protocol promises to both accelerate the discovery process by providing on-the-fly control for in situ/operando experiments and increase data precision by removing any operator-induced bias during data acquisition and analysis.\nPrincipal Investigators: Dr. Minhal Hasham (UChicago), Dr. Joeson Wong (UChicago), Dr. Chang Liu (UChicago), Xingzhi Wang (UChicago), Prof. Paul Alivisatos (UChicago)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Master’s in Applied Data Science Winter 2024 Capstone Winners"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Master’s in Applied Data Science Winter 2024 Capstone Winners"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Developing Artificial Curiosity Algorithms"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Discovering the Design Rules Linking Protein Sequence to Function"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Machine Learning Models for Predicting Heart Disease Progression"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Developing Artificial Curiosity Algorithms\n## Discovering the Design Rules Linking Protein Sequence to Function\n## Machine Learning Models for Predicting Heart Disease Progression"
+    }
+  ]
+}

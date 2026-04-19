@@ -1,0 +1,109 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-mcp-driven-multi-agent-rag-enhanced-llm-system-for-prostate-cancer-temporal-summarization",
+  "page_title": "Research (GPT for Healthcare) | MCP-driven Multi-Agent RAG-Enhanced LLM System for Prostate Cancer Temporal Summarization | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Research Gpt For Healthcare Mcp Driven Multi Agent Rag Enhanced Llm System For Prostate Cancer Temporal Summarization",
+      "href": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-mcp-driven-multi-agent-rag-enhanced-llm-system-for-prostate-cancer-temporal-summarization"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:43:24.864099+00:00",
+  "all_text_markdown": "Research (GPT for Healthcare) | MCP-driven Multi-Agent RAG-Enhanced LLM System for Prostate Cancer Temporal Summarization\n[Research (GPT for Healthcare) | MCP-driven Multi-Agent RAG-Enhanced LLM System for Prostate Cancer Temporal Summarization](https://datascience.uchicago.edu/research/research-gpt-for-healthcare-mcp-driven-multi-agent-rag-enhanced-llm-system-for-prostate-cancer-temporal-summarization)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nThis project developed a model context protocol (MCP)-governed, LangGraph-orchestrated, retrieval-augmented large language model (RAG-LLM) system for prostate cancer care. Using a synthetic dataset of 500 longitudinal patient records, the system generates timeline-based clinical summaries, interpretable treatment recommendations, and average lifespan predictions at 5-, 10-, and 15-year horizons with rationale. Each agent operates through secure MCP calls, ensuring transparency and minimizing hallucination. Preliminary evaluation shows accurate temporal sequencing, clinically aligned outputs, and explainable reasoning. The findings demonstrate the feasibility of agentic, RAG-enhanced LLMs to support oncology decision-making through auditable, evidence-grounded automation.\nWatch the team present this project at 59:40 in the session recording [here](https://uchicago.box.com/s/t6hnvrcwhxvowky2iw6tcncxgf0qj7bz).\nKeywords: Explainable AI, Healthcare, Retrieval Augmented Generation, Model Context Protocol, Prostate Cancer, Temporal Summarization, Lifespan Analysis, Treatment Recommendation\nFaculty Advisor\n[Utku Pamuksuz, PhD Associate Clinical Professor; Co-Founder Inference Analytics](https://datascience.uchicago.edu/people/utku-pamuksuz-phd)\nUtku Pamuksuz, PhD\nDr. Pamuksuz, a professor of AI, specializes in applied mathematics, machine/deep learning, responsible and generative AI. He has contributed to various analytics journals, including IEEE Transactions on Artificial Intelligence, and has shared his insights at several national and international conferences.\nSince joining the University of Chicago as a faculty member in 2018, Dr. Pamuksuz has taught a range of subjects, including data mining, machine learning, and linear & non-linear models, along with more specialized areas like AI-data science for leaders and Generative AI Research. His supervision of capstone theses has often centered on computer vision and natural language processing.\nIn the professional realm, Dr. Pamuksuz has an impressive record. He has led data science teams at several Fortune 500 companies, provided expert consultancy in architecting cloud-based machine learning solutions, and co-founded Inference Analytics in 2018. Under his leadership, Inference Analytics was recognized in 2023 as one of the top Machine Learning Companies in Illinois, marking a significant milestone in healthcare analytics in Chicago.\nDr. Pamuksuz’s academic path has taken him through some of Illinois’ most prestigious universities. He completed his MS in Computer Engineering/Science at Northwestern University and went on to earn his Ph.D. from UIUC. Today, he contributes his expertise as a faculty member at the University of Chicago. This journey, connecting three significant academic institutions, reflects a strong foundation and dedication to his field and a deep engagement with the state’s rich educational landscape. Outside of his professional endeavors, Dr. Pamuksuz is enthusiastic about hackathons, not only participating in several but also organizing them twice annually since 2020. His involvement has yielded notable success in various data challenges. As a sports fan, he follows Champions League Soccer, supporting Galatasaray, and enjoys engaging in basketball and volleyball during his leisure time. He also enjoys smooth/gypsy jazz where you can find him on Wednesdays in his favorite place Green Mill.\nRelated News, Insights, and Past Events\nMS in Applied Data Science Students Present AI-Powered Clinical Decision Support System at SIIM 2025",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Research (GPT for Healthcare) | MCP-driven Multi-Agent RAG-Enhanced LLM System for Prostate Cancer Temporal Summarization](https://datascience.uchicago.edu/research/research-gpt-for-healthcare-mcp-driven-multi-agent-rag-enhanced-llm-system-for-prostate-cancer-temporal-summarization)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "This project developed a model context protocol (MCP)-governed, LangGraph-orchestrated, retrieval-augmented large language model (RAG-LLM) system for prostate cancer care. Using a synthetic dataset of 500 longitudinal patient records, the system generates timeline-based clinical summaries, interpretable treatment recommendations, and average lifespan predictions at 5-, 10-, and 15-year horizons with rationale. Each agent operates through secure MCP calls, ensuring transparency and minimizing hallucination. Preliminary evaluation shows accurate temporal sequencing, clinically aligned outputs, and explainable reasoning. The findings demonstrate the feasibility of agentic, RAG-enhanced LLMs to support oncology decision-making through auditable, evidence-grounded automation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Watch the team present this project at 59:40 in the session recording [here](https://uchicago.box.com/s/t6hnvrcwhxvowky2iw6tcncxgf0qj7bz)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keywords: Explainable AI, Healthcare, Retrieval Augmented Generation, Model Context Protocol, Prostate Cancer, Temporal Summarization, Lifespan Analysis, Treatment Recommendation"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Faculty Advisor"
+        },
+        {
+          "type": "list_item",
+          "text": "[Utku Pamuksuz, PhD Associate Clinical Professor; Co-Founder Inference Analytics](https://datascience.uchicago.edu/people/utku-pamuksuz-phd)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Utku Pamuksuz, PhD"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dr. Pamuksuz, a professor of AI, specializes in applied mathematics, machine/deep learning, responsible and generative AI. He has contributed to various analytics journals, including IEEE Transactions on Artificial Intelligence, and has shared his insights at several national and international conferences."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since joining the University of Chicago as a faculty member in 2018, Dr. Pamuksuz has taught a range of subjects, including data mining, machine learning, and linear & non-linear models, along with more specialized areas like AI-data science for leaders and Generative AI Research. His supervision of capstone theses has often centered on computer vision and natural language processing."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the professional realm, Dr. Pamuksuz has an impressive record. He has led data science teams at several Fortune 500 companies, provided expert consultancy in architecting cloud-based machine learning solutions, and co-founded Inference Analytics in 2018. Under his leadership, Inference Analytics was recognized in 2023 as one of the top Machine Learning Companies in Illinois, marking a significant milestone in healthcare analytics in Chicago."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dr. Pamuksuz’s academic path has taken him through some of Illinois’ most prestigious universities. He completed his MS in Computer Engineering/Science at Northwestern University and went on to earn his Ph.D. from UIUC. Today, he contributes his expertise as a faculty member at the University of Chicago. This journey, connecting three significant academic institutions, reflects a strong foundation and dedication to his field and a deep engagement with the state’s rich educational landscape. Outside of his professional endeavors, Dr. Pamuksuz is enthusiastic about hackathons, not only participating in several but also organizing them twice annually since 2020. His involvement has yielded notable success in various data challenges. As a sports fan, he follows Champions League Soccer, supporting Galatasaray, and enjoys engaging in basketball and volleyball during his leisure time. He also enjoys smooth/gypsy jazz where you can find him on Wednesdays in his favorite place Green Mill."
+        }
+      ],
+      "text_markdown": "## [Research (GPT for Healthcare) | MCP-driven Multi-Agent RAG-Enhanced LLM System for Prostate Cancer Temporal Summarization](https://datascience.uchicago.edu/research/research-gpt-for-healthcare-mcp-driven-multi-agent-rag-enhanced-llm-system-for-prostate-cancer-temporal-summarization)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nThis project developed a model context protocol (MCP)-governed, LangGraph-orchestrated, retrieval-augmented large language model (RAG-LLM) system for prostate cancer care. Using a synthetic dataset of 500 longitudinal patient records, the system generates timeline-based clinical summaries, interpretable treatment recommendations, and average lifespan predictions at 5-, 10-, and 15-year horizons with rationale. Each agent operates through secure MCP calls, ensuring transparency and minimizing hallucination. Preliminary evaluation shows accurate temporal sequencing, clinically aligned outputs, and explainable reasoning. The findings demonstrate the feasibility of agentic, RAG-enhanced LLMs to support oncology decision-making through auditable, evidence-grounded automation.\nWatch the team present this project at 59:40 in the session recording [here](https://uchicago.box.com/s/t6hnvrcwhxvowky2iw6tcncxgf0qj7bz).\nKeywords: Explainable AI, Healthcare, Retrieval Augmented Generation, Model Context Protocol, Prostate Cancer, Temporal Summarization, Lifespan Analysis, Treatment Recommendation\n### Faculty Advisor\n- [Utku Pamuksuz, PhD Associate Clinical Professor; Co-Founder Inference Analytics](https://datascience.uchicago.edu/people/utku-pamuksuz-phd)\n# Utku Pamuksuz, PhD\nDr. Pamuksuz, a professor of AI, specializes in applied mathematics, machine/deep learning, responsible and generative AI. He has contributed to various analytics journals, including IEEE Transactions on Artificial Intelligence, and has shared his insights at several national and international conferences.\nSince joining the University of Chicago as a faculty member in 2018, Dr. Pamuksuz has taught a range of subjects, including data mining, machine learning, and linear & non-linear models, along with more specialized areas like AI-data science for leaders and Generative AI Research. His supervision of capstone theses has often centered on computer vision and natural language processing.\nIn the professional realm, Dr. Pamuksuz has an impressive record. He has led data science teams at several Fortune 500 companies, provided expert consultancy in architecting cloud-based machine learning solutions, and co-founded Inference Analytics in 2018. Under his leadership, Inference Analytics was recognized in 2023 as one of the top Machine Learning Companies in Illinois, marking a significant milestone in healthcare analytics in Chicago.\nDr. Pamuksuz’s academic path has taken him through some of Illinois’ most prestigious universities. He completed his MS in Computer Engineering/Science at Northwestern University and went on to earn his Ph.D. from UIUC. Today, he contributes his expertise as a faculty member at the University of Chicago. This journey, connecting three significant academic institutions, reflects a strong foundation and dedication to his field and a deep engagement with the state’s rich educational landscape. Outside of his professional endeavors, Dr. Pamuksuz is enthusiastic about hackathons, not only participating in several but also organizing them twice annually since 2020. His involvement has yielded notable success in various data challenges. As a sports fan, he follows Champions League Soccer, supporting Galatasaray, and enjoys engaging in basketball and volleyball during his leisure time. He also enjoys smooth/gypsy jazz where you can find him on Wednesdays in his favorite place Green Mill."
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MS in Applied Data Science Students Present AI-Powered Clinical Decision Support System at SIIM 2025"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## MS in Applied Data Science Students Present AI-Powered Clinical Decision Support System at SIIM 2025"
+    }
+  ]
+}

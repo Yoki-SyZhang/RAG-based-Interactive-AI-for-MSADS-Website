@@ -1,0 +1,81 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/ateema-ai-driven-media-kit",
+  "page_title": "Ateema | AI-Driven Media Kit | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Ateema Ai Driven Media Kit",
+      "href": "https://datascience.uchicago.edu/research/ateema-ai-driven-media-kit"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:43:28.137111+00:00",
+  "all_text_markdown": "Ateema | AI-Driven Media Kit\n[Ateema | AI-Driven Media Kit](https://datascience.uchicago.edu/research/ateema-ai-driven-media-kit)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nAteema Media & Marketing is building an AI-driven media-kit platform to replace a manual, inconsistent sales process in Chicago’s hospitality marketing sector. A Retrieval-Augmented Generation (RAG) recommendation engine ingests customer profiles and product descriptions, then retrieves and composes tailored campaign proposals under explicit business rules (e.g., goals and budget tiers). A cleaned corpus of 778 customer–product records from 150+ clients is embedded and indexed in Facebook AI Similarity Search (FAISS) with Product Quantization (PQ) and Hierarchical Navigable Small World (HNSW) for efficient search; a stateless Large Language Model(LLM), guided by structured prompts and the D.R.I.V.E. framework, produces concise “investment pages” with supporting rationale. The system degrades gracefully with partial inputs and improves continuously by reintegrating new deals and products into offline indexing. Evaluation will focus on top-k relevance (Precision@k, Recall@k) and Average Reciprocal Hit Rank (ARHR), complemented by expert sales feedback on business fit and clarity. The architecture is designed to raise close rates by improving proposal quality, speed, and pricing transparency.\nKeywords: RAG, recommender systems, embeddings, FAISS, product quantization, HNSW, prompt engineering, sales enablement, hospitality marketing, budget allocation, proposal automation\nFaculty Advisor\n[Sanjay Boddhu, PhD Instructor; Capstone and Advisor, Head of UniMap Automation at HERE Technologies](https://datascience.uchicago.edu/people/sanjay-boddhu-phd)\nSanjay Boddhu, PhD\nSanjay Boddhu is the Head of AI/ML Engineering at HERE Technologies, a global leader in location data and platform services. He has over 15 years of experience in leading and mentoring diverse and distributed teams in developing state-of-the-art applications and solutions in the domains of Computer Vision, Image Processing, Natural Language Processing, Predictive Analytics, and Data Science Strategy/Modeling. He holds a Ph.D. in Computer Science and Engineering from Wright State University and is a Senior Member of the IEEE.\nAt HERE, he is leading the UniMap Automation initiative, which leverages AI and machine learning to transform raw spatial and nonspatial data from various sources, such as imagery, probe data, car camera feeds, lidar, and IoT data, into an actionable, navigable digital map that is updated in near real-time. He is also responsible for designing and deploying algorithms at scale, managing product roadmaps and stakeholder engagements, and driving innovation and excellence in map automation and computer vision. His mission is to revolutionize how maps are created and maintained, and to enable new use cases and opportunities for autonomous and robotic mobility.",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Ateema | AI-Driven Media Kit](https://datascience.uchicago.edu/research/ateema-ai-driven-media-kit)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ateema Media & Marketing is building an AI-driven media-kit platform to replace a manual, inconsistent sales process in Chicago’s hospitality marketing sector. A Retrieval-Augmented Generation (RAG) recommendation engine ingests customer profiles and product descriptions, then retrieves and composes tailored campaign proposals under explicit business rules (e.g., goals and budget tiers). A cleaned corpus of 778 customer–product records from 150+ clients is embedded and indexed in Facebook AI Similarity Search (FAISS) with Product Quantization (PQ) and Hierarchical Navigable Small World (HNSW) for efficient search; a stateless Large Language Model(LLM), guided by structured prompts and the D.R.I.V.E. framework, produces concise “investment pages” with supporting rationale. The system degrades gracefully with partial inputs and improves continuously by reintegrating new deals and products into offline indexing. Evaluation will focus on top-k relevance (Precision@k, Recall@k) and Average Reciprocal Hit Rank (ARHR), complemented by expert sales feedback on business fit and clarity. The architecture is designed to raise close rates by improving proposal quality, speed, and pricing transparency."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keywords: RAG, recommender systems, embeddings, FAISS, product quantization, HNSW, prompt engineering, sales enablement, hospitality marketing, budget allocation, proposal automation"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Faculty Advisor"
+        },
+        {
+          "type": "list_item",
+          "text": "[Sanjay Boddhu, PhD Instructor; Capstone and Advisor, Head of UniMap Automation at HERE Technologies](https://datascience.uchicago.edu/people/sanjay-boddhu-phd)"
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "Sanjay Boddhu, PhD"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sanjay Boddhu is the Head of AI/ML Engineering at HERE Technologies, a global leader in location data and platform services. He has over 15 years of experience in leading and mentoring diverse and distributed teams in developing state-of-the-art applications and solutions in the domains of Computer Vision, Image Processing, Natural Language Processing, Predictive Analytics, and Data Science Strategy/Modeling. He holds a Ph.D. in Computer Science and Engineering from Wright State University and is a Senior Member of the IEEE."
+        },
+        {
+          "type": "paragraph",
+          "text": "At HERE, he is leading the UniMap Automation initiative, which leverages AI and machine learning to transform raw spatial and nonspatial data from various sources, such as imagery, probe data, car camera feeds, lidar, and IoT data, into an actionable, navigable digital map that is updated in near real-time. He is also responsible for designing and deploying algorithms at scale, managing product roadmaps and stakeholder engagements, and driving innovation and excellence in map automation and computer vision. His mission is to revolutionize how maps are created and maintained, and to enable new use cases and opportunities for autonomous and robotic mobility."
+        }
+      ],
+      "text_markdown": "## [Ateema | AI-Driven Media Kit](https://datascience.uchicago.edu/research/ateema-ai-driven-media-kit)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nAteema Media & Marketing is building an AI-driven media-kit platform to replace a manual, inconsistent sales process in Chicago’s hospitality marketing sector. A Retrieval-Augmented Generation (RAG) recommendation engine ingests customer profiles and product descriptions, then retrieves and composes tailored campaign proposals under explicit business rules (e.g., goals and budget tiers). A cleaned corpus of 778 customer–product records from 150+ clients is embedded and indexed in Facebook AI Similarity Search (FAISS) with Product Quantization (PQ) and Hierarchical Navigable Small World (HNSW) for efficient search; a stateless Large Language Model(LLM), guided by structured prompts and the D.R.I.V.E. framework, produces concise “investment pages” with supporting rationale. The system degrades gracefully with partial inputs and improves continuously by reintegrating new deals and products into offline indexing. Evaluation will focus on top-k relevance (Precision@k, Recall@k) and Average Reciprocal Hit Rank (ARHR), complemented by expert sales feedback on business fit and clarity. The architecture is designed to raise close rates by improving proposal quality, speed, and pricing transparency.\nKeywords: RAG, recommender systems, embeddings, FAISS, product quantization, HNSW, prompt engineering, sales enablement, hospitality marketing, budget allocation, proposal automation\n### Faculty Advisor\n- [Sanjay Boddhu, PhD Instructor; Capstone and Advisor, Head of UniMap Automation at HERE Technologies](https://datascience.uchicago.edu/people/sanjay-boddhu-phd)\n# Sanjay Boddhu, PhD\nSanjay Boddhu is the Head of AI/ML Engineering at HERE Technologies, a global leader in location data and platform services. He has over 15 years of experience in leading and mentoring diverse and distributed teams in developing state-of-the-art applications and solutions in the domains of Computer Vision, Image Processing, Natural Language Processing, Predictive Analytics, and Data Science Strategy/Modeling. He holds a Ph.D. in Computer Science and Engineering from Wright State University and is a Senior Member of the IEEE.\nAt HERE, he is leading the UniMap Automation initiative, which leverages AI and machine learning to transform raw spatial and nonspatial data from various sources, such as imagery, probe data, car camera feeds, lidar, and IoT data, into an actionable, navigable digital map that is updated in near real-time. He is also responsible for designing and deploying algorithms at scale, managing product roadmaps and stakeholder engagements, and driving innovation and excellence in map automation and computer vision. His mission is to revolutionize how maps are created and maintained, and to enable new use cases and opportunities for autonomous and robotic mobility."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_url": "https://datascience.uchicago.edu/research/racial-inequality-in-financial-resilience",
+  "page_title": "Racial Inequality in Financial Resilience | DSI",
+  "meta_description": "",
+  "breadcrumbs": [
+    {
+      "text": "Home",
+      "href": "https://datascience.uchicago.edu"
+    },
+    {
+      "text": "Research",
+      "href": "https://datascience.uchicago.edu/research"
+    },
+    {
+      "text": "Racial Inequality In Financial Resilience",
+      "href": "https://datascience.uchicago.edu/research/racial-inequality-in-financial-resilience"
+    }
+  ],
+  "scraped_at": "2026-04-19T01:42:09.191998+00:00",
+  "all_text_markdown": "Racial Inequality in Financial Resilience\n[Racial Inequality in Financial Resilience](https://datascience.uchicago.edu/research/racial-inequality-in-financial-resilience)\nShare\nEmail page on Facebook (opens new window)\nShare page on X (opens new window)\nEmail Page (opens new window)\nHow do income instability and access to resources shape racial inequality? This project will use administrative data to construct the first estimates of financial resilience by race. Using anonymized data from millions of bank accounts to measure income and spending on a day-to-day basis, the researchers will study how households cope with difficult economic shocks such as job loss and measure financial resilience by whether household members cut back on grocery spending, skip doctors appointments, and miss bill payments. This project may uncover a new dimension of racial inequality, one with significant welfare and policy implications.\nPrincipal Investigators: Peter Ganong (Associate Professor, Harris School of Public Policy), Damon Jones (Associate Professor, Harris School of Public Policy), Pascal Noel (Neubauer Family Professor of Finance)\nRelated News, Insights, and Past Events\nPeter Ganong – “Consumer Spending During Unemployment: Positive and Normative Implications”\nMore Projects\nFacebook Messenger Chatbot for Surveys and Intervention Testing\nUnderstanding Divergent Interpretations of Political Information\nUnderstanding and Auditing Content Moderation Policies",
+  "sections": [
+    {
+      "section_index": 0,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "[Racial Inequality in Financial Resilience](https://datascience.uchicago.edu/research/racial-inequality-in-financial-resilience)"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Share"
+        },
+        {
+          "type": "list_item",
+          "text": "Email page on Facebook (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Share page on X (opens new window)"
+        },
+        {
+          "type": "list_item",
+          "text": "Email Page (opens new window)"
+        },
+        {
+          "type": "paragraph",
+          "text": "How do income instability and access to resources shape racial inequality? This project will use administrative data to construct the first estimates of financial resilience by race. Using anonymized data from millions of bank accounts to measure income and spending on a day-to-day basis, the researchers will study how households cope with difficult economic shocks such as job loss and measure financial resilience by whether household members cut back on grocery spending, skip doctors appointments, and miss bill payments. This project may uncover a new dimension of racial inequality, one with significant welfare and policy implications."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principal Investigators: Peter Ganong (Associate Professor, Harris School of Public Policy), Damon Jones (Associate Professor, Harris School of Public Policy), Pascal Noel (Neubauer Family Professor of Finance)"
+        }
+      ],
+      "text_markdown": "## [Racial Inequality in Financial Resilience](https://datascience.uchicago.edu/research/racial-inequality-in-financial-resilience)\n## Share\n- Email page on Facebook (opens new window)\n- Share page on X (opens new window)\n- Email Page (opens new window)\nHow do income instability and access to resources shape racial inequality? This project will use administrative data to construct the first estimates of financial resilience by race. Using anonymized data from millions of bank accounts to measure income and spending on a day-to-day basis, the researchers will study how households cope with difficult economic shocks such as job loss and measure financial resilience by whether household members cut back on grocery spending, skip doctors appointments, and miss bill payments. This project may uncover a new dimension of racial inequality, one with significant welfare and policy implications.\nPrincipal Investigators: Peter Ganong (Associate Professor, Harris School of Public Policy), Damon Jones (Associate Professor, Harris School of Public Policy), Pascal Noel (Neubauer Family Professor of Finance)"
+    },
+    {
+      "section_index": 1,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Related News, Insights, and Past Events"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Peter Ganong – “Consumer Spending During Unemployment: Positive and Normative Implications”"
+        }
+      ],
+      "text_markdown": "## Related News, Insights, and Past Events\n## Peter Ganong – “Consumer Spending During Unemployment: Positive and Normative Implications”"
+    },
+    {
+      "section_index": 2,
+      "content": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "More Projects"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Facebook Messenger Chatbot for Surveys and Intervention Testing"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Understanding Divergent Interpretations of Political Information"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Understanding and Auditing Content Moderation Policies"
+        }
+      ],
+      "text_markdown": "## More Projects\n## Facebook Messenger Chatbot for Surveys and Intervention Testing\n## Understanding Divergent Interpretations of Political Information\n## Understanding and Auditing Content Moderation Policies"
+    }
+  ]
+}

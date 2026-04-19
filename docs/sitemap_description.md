@@ -1,12 +1,5 @@
 # MS in Applied Data Science — Site Sitemap
 
-Mapped: 2026-04-18  
-Revised: 2026-04-19 — (1) Events & Deadlines, Tuition/Fees/Aid, Our Students, Explore MS-ADS Campus, Career Outcomes promoted to D1; (2) HTTP HEAD verification: in-person-program and online-program canonical URLs corrected to short form (`/education/masters-programs/in-person-program/` and `…/online-program/`); long-form `ms-in-applied-data-science/` variants are 301 aliases.  
-Scope: datascience.uchicago.edu, depth 0–2 program pages + D3 capstone research pages  
-Method: Manual fetch via WebFetch (static HTML, no JS rendering); one request per page, extracting title, links, sidebar, breadcrumb, and estimated word count only — no full-content retrieval.
-
----
-
 ## 1. URL Tree
 
 ```

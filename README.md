@@ -1,2 +1,75 @@
 # RAG-based-Interactive-AI-for-MSADS-Website
+
+## Project Context
+
 The project aims to develop a RAG-based conversational AI system that can efficiently retrieve and generate accurate responses to inquiries about the MS in Applied Data Science program at the University of Chicago. The system will leverage both textual data from the program’s webpage and a pre-trained LLM to provide detailed, context-aware answers.
+
+Knowledge base source: https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/
+
+## Repository Structure
+
+```
+.
+├── README.md                        # this file
+├── data/
+│   ├── raw_scraped_pages/           # Khalil & Wenbo 的 177 个 json
+│   │   ├── page_001.json
+│   │   └── ...
+│   ├── cleaned_sections/            # 清洗后的输出
+│       └── chunks.jsonl             # 最终给 Cindy & Haobo 的 chunks
+│  
+├── interim/                         # 中间产物             
+│   ├── homepage_step1.json          # 网页爬取sample
+│   └── sitemap.json                 # sitemap flat records
+
+├── docs/
+│   ├── requirements/
+│   │   └── Class project-1 Midterm Project.pdf
+│   ├── sitemap_description.md       # sitemap
+│   └── url_classification.json      # ← 从 sitemap 机读化出来的分类表
+│    
+├── scripts/
+│   ├── Stage1_data_processing/        
+│   ├── Stage2_vectorDB/                 
+│   ├── Stage3_LLM_agent/                
+│   └── Stage4_UI/               
+└── reports/
+    └── cleaning_report.md           # 清洗统计+被 skip 的页面清单
+```
+
+
+## Project Breakdown
+
+```
+1. 数据准备
+    1. 抓取 UChicago MS in Applied Data Science 项目网页及其子页面的信息
+    （包括项目介绍、课程、faculty、admission、career resources 等）
+        1. 网站结构梳理
+        2. 爬虫
+    2. 清洗  
+        1. 去除爬虫artifacts
+    3. 结构化 
+        1. 要有meta data作为LLM回答时候的quotation
+2. 检索系统
+    1. Chunking
+    2. embedding 
+    3. 存进vector DB 做 retrieval（如 Chroma / FAISS / Pinecone）
+3. 问答生成
+    1. 把检索结果喂给 LLM，做 RAG 问答
+        1. System instruction的设计
+    2. 保证回答尽量 grounded 
+        1. 可能需要ground truth
+        2. 指标评估：
+            1. retrieval accuracy 
+            2. response relevance 
+4. 前端界面
+    1. 做一个简单可用的界面，比如 Streamlit 或 Flask，让用户输入问题并实时得到回答。
+    2. 测试一下效果 
+5. 评估与交付
+    1. 可运行 chatbot
+    2. 指标评估结果
+    3. Submission:
+        1. 5页以上文档
+        2. 10分钟 PPT
+
+```

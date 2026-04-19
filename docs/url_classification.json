@@ -1,0 +1,342 @@
+{
+  "schema_version": "1.0",
+  "generated_from": "docs/sitemap_description.md",
+  "generated_date": "2026-04-19",
+  "entries": [
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/",
+      "priority": "must",
+      "depth": 0,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/in-person-program/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/in-person-program/",
+      "priority": "must",
+      "depth": 1,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/online-program/",
+      "priority": "must",
+      "depth": 1,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/course-progressions/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/course-progressions/",
+      "priority": "must",
+      "depth": 1,
+      "special_handling": ["verify_accordion_expansion"]
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/faqs/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/faqs/",
+      "priority": "must",
+      "depth": 1,
+      "special_handling": ["verify_accordion_expansion"]
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/",
+      "priority": "must",
+      "depth": 1,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/instructors-staff/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/instructors-staff/",
+      "priority": "must",
+      "depth": 1,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects/",
+      "priority": "must",
+      "depth": 1,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/events-deadlines/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/events-deadlines/",
+      "priority": "must",
+      "depth": 1,
+      "special_handling": ["flag_for_periodic_rescrape", "exclude_registration_links"]
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/career-outcomes/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/career-outcomes/",
+      "priority": "should",
+      "depth": 1,
+      "special_handling": ["exclude_image_embedded_content"]
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid/",
+      "canonical_url": "https://datascience.uchicago.edu/education/tuition-fees-aid/",
+      "priority": "should",
+      "depth": 1,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students/",
+      "priority": "should",
+      "depth": 1,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/explore-the-ms-ads-campus/",
+      "canonical_url": "https://datascience.uchicago.edu/explore-the-ms-ads-campus/",
+      "priority": "should",
+      "depth": 1,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive/",
+      "priority": "should",
+      "depth": 2,
+      "special_handling": ["incomplete_listing_warning"]
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/argonne-rezzy-ai-support-chatbot-for-ev-charger-reservation-app-evrez/",
+      "canonical_url": "https://datascience.uchicago.edu/research/argonne-rezzy-ai-support-chatbot-for-ev-charger-reservation-app-evrez/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/inference-analytics-automated-icd-10-code-prediction-for-healthcare-reports-using-large-language-models/",
+      "canonical_url": "https://datascience.uchicago.edu/research/inference-analytics-automated-icd-10-code-prediction-for-healthcare-reports-using-large-language-models/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-mcp-driven-multi-agent-rag-enhanced-llm-system-for-prostate-cancer-temporal-summarization/",
+      "canonical_url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-mcp-driven-multi-agent-rag-enhanced-llm-system-for-prostate-cancer-temporal-summarization/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/global-iq-optimizing-roi-of-global-talent-mobility-through-predictive-modeling-and-optimization-for-corporate-programs-policies/",
+      "canonical_url": "https://datascience.uchicago.edu/research/global-iq-optimizing-roi-of-global-talent-mobility-through-predictive-modeling-and-optimization-for-corporate-programs-policies/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-applications-of-generative-ai-in-emergency-department-admission-evaluation/",
+      "canonical_url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-applications-of-generative-ai-in-emergency-department-admission-evaluation/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/chicago-white-sox-measuring-pitcher-deception-and-command-using-motion-tracking-data/",
+      "canonical_url": "https://datascience.uchicago.edu/research/chicago-white-sox-measuring-pitcher-deception-and-command-using-motion-tracking-data/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/aetna-optimization-engine-creation-scenario-planning-and-sensitivity-analysis-tool/",
+      "canonical_url": "https://datascience.uchicago.edu/research/aetna-optimization-engine-creation-scenario-planning-and-sensitivity-analysis-tool/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/latentview-analytics-visual-defect-detection/",
+      "canonical_url": "https://datascience.uchicago.edu/research/latentview-analytics-visual-defect-detection/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/here-technologies-vehicle-perception-data-vpd-and-here-lane-model-alignment/",
+      "canonical_url": "https://datascience.uchicago.edu/research/here-technologies-vehicle-perception-data-vpd-and-here-lane-model-alignment/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/ateema-ai-driven-media-kit/",
+      "canonical_url": "https://datascience.uchicago.edu/research/ateema-ai-driven-media-kit/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/how-to-apply/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/",
+      "priority": "alias",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/about-us/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/instructors-staff/",
+      "priority": "alias",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/capstone-projects/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects/",
+      "priority": "alias",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/in-person-program/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/in-person-program/",
+      "priority": "alias",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/online-program/",
+      "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/online-program/",
+      "priority": "alias",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/",
+      "canonical_url": "https://datascience.uchicago.edu/research/",
+      "priority": "skip",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/about/leadership-staff/",
+      "canonical_url": "https://datascience.uchicago.edu/about/leadership-staff/",
+      "priority": "skip",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/fellows-and-scholars/",
+      "canonical_url": "https://datascience.uchicago.edu/fellows-and-scholars/",
+      "priority": "skip",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://www.uchicago.edu/en/education-and-research/academic-calendar",
+      "canonical_url": "https://www.uchicago.edu/en/education-and-research/academic-calendar",
+      "priority": "skip",
+      "depth": null,
+      "special_handling": []
+    }
+  ],
+  "url_patterns": [
+    {
+      "url_pattern": "https://datascience.uchicago.edu/people/{slug}/",
+      "regex": "^https://datascience\\.uchicago\\.edu/people/[^/]+/$",
+      "priority": "should",
+      "special_handling": ["redact_pii"]
+    },
+    {
+      "url_pattern": "https://datascience.uchicago.edu/research/{slug}/",
+      "regex": "^https://datascience\\.uchicago\\.edu/research/[^/]+/$",
+      "priority": "optional",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://datascience.uchicago.edu/news/*",
+      "regex": "^https://datascience\\.uchicago\\.edu/news/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://datascience.uchicago.edu/events/*",
+      "regex": "^https://datascience\\.uchicago\\.edu/events/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://datascience.uchicago.edu/insights/*",
+      "regex": "^https://datascience\\.uchicago\\.edu/insights/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://apply-psd.uchicago.edu/*",
+      "regex": "^https://apply-psd\\.uchicago\\.edu/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://www.chicagobooth.edu/*",
+      "regex": "^https://www\\.chicagobooth\\.edu/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://physicalsciences.uchicago.edu/*",
+      "regex": "^https://physicalsciences\\.uchicago\\.edu/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://applieddatascience.psd.uchicago.edu/*",
+      "regex": "^https://applieddatascience\\.psd\\.uchicago\\.edu/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://grad.uchicago.edu/*",
+      "regex": "^https://grad\\.uchicago\\.edu/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://internationalaffairs.uchicago.edu/*",
+      "regex": "^https://internationalaffairs\\.uchicago\\.edu/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://bursar.uchicago.edu/*",
+      "regex": "^https://bursar\\.uchicago\\.edu/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://financialaid.uchicago.edu/*",
+      "regex": "^https://financialaid\\.uchicago\\.edu/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://www.youtube.com/*",
+      "regex": "^https://www\\.youtube\\.com/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://youtu.be/*",
+      "regex": "^https://youtu\\.be/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://www.bls.gov/*",
+      "regex": "^https://www\\.bls\\.gov/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://www.linkedin.com/*",
+      "regex": "^https://www\\.linkedin\\.com/",
+      "priority": "skip",
+      "special_handling": []
+    }
+  ]
+}

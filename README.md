@@ -12,11 +12,11 @@ Knowledge base source: https://datascience.uchicago.edu/education/masters-progra
 .
 ├── README.md                        # this file
 ├── data/
-│   ├── raw_scraped_pages/           # Khalil & Wenbo 的 177 个 json
+│   ├── raw_scraped_pages/           # json
 │   │   ├── page_001.json
 │   │   └── ...
 │   ├── cleaned_sections/            # 清洗后的输出
-│       └── chunks.jsonl             # 最终给 Cindy & Haobo 的 chunks
+│       
 │  
 ├── interim/                         # 中间产物             
 │   ├── homepage_step1.json          # 网页爬取sample
@@ -26,15 +26,19 @@ Knowledge base source: https://datascience.uchicago.edu/education/masters-progra
 │   ├── requirements/
 │   │   └── Class project-1 Midterm Project.pdf
 │   ├── sitemap_description.md       # sitemap
-│   └── url_classification.json      # ← 从 sitemap 机读化出来的分类表
+│   └── url_classification.json      # 从 sitemap 机读化出来的分类表
 │    
 ├── scripts/
-│   ├── Stage1_data_processing/        
+│   ├── Stage1_data_processing/      
+│   │   ├── uchicago_spider_step1.py  
+│   │   ├── uchicago_spider_step2.py   
+│   │   └── clean_for_structure.ipynb
+│   │ 
 │   ├── Stage2_vectorDB/                 
 │   ├── Stage3_LLM_agent/                
 │   └── Stage4_UI/               
 └── reports/
-    └── cleaning_report.md           # 清洗统计+被 skip 的页面清单
+    └── page_inventory.md           # 核对已爬取的pages和sitemap的出入，指导url_classification.json的撰写
 ```
 
 

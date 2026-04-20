@@ -30,8 +30,8 @@ Knowledge base source: https://datascience.uchicago.edu/education/masters-progra
 │    
 ├── scripts/
 │   ├── Stage1_data_processing/      
-│   │   ├── uchicago_spider_step1.py  
-│   │   ├── uchicago_spider_step2.py   
+│   │   ├── uchicago_spider_step1.py     # BFS-crawl the site
+│   │   ├── uchicago_spider_step2.py     # Scrape each URL and write JSON files
 │   │   └── clean_for_structure.ipynb
 │   │ 
 │   ├── Stage2_vectorDB/                 

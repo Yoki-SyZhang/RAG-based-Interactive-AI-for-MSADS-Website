@@ -180,24 +180,9 @@
 
 ---
 
-## 3. Footers and Header Menus
+## 3. Footers and Header Menus 
 
-### Global Header Menu (appears on all pages)
-
-Top-level nav clusters, links that are NOT part of the MS-ADS program section:
-
-| Cluster | Representative URLs |
-|---------|-------------------|
-| About | /about/, /about/about-dsi/, /about/leadership-staff/, /about/jobs/, /about/visiting-dsi/, /about/contact/ |
-| Education | /education/, /education/undergrad-major/, /education/masters-programs/, /education/phd-in-data-science/, /education/data-science-clinic/, /education/summer-research-programs/ |
-| Research | /research/, /research/ai-science/, /research/data-democracy/, /research/aice-ai-for-climate/, /research/novel-intelligence/, /research/projects/ |
-| Outreach | /outreach/, /outreach/industry-partnerships/, /outreach/community-data-fellows/, /outreach/data4all/ |
-| News & Events | /news-events/news/, /news-events/events/ |
-
-Pages on: all pages  
-Flag: None of these are in-scope MS-ADS content pages.
-
-### Global Footer (appears on all pages)
+### Global Header Menu & Footer (appears on all pages)
 
 | Label | URL |
 |-------|-----|
@@ -216,7 +201,7 @@ Flag: None of these are in-scope MS-ADS content pages.
 | Contact | https://datascience.uchicago.edu/about/contact/ |
 
 Pages on: all pages  
-Flag: None are in-scope MS-ADS content pages.
+Flag: None are in-scope MS-ADS content pages, but all are classified as "dsi-general".
 
 ### Social Media Footer Links (all pages)
 
@@ -409,12 +394,6 @@ Flag: Sidebar is absent from D0 itself — see Concern #6 and Notes on Skill App
 | **Alias — skip** | https://datascience.uchicago.edu/capstone-projects/ | Confirmed 301 → /ms-in-applied-data-science/capstone-projects/; store in `url_aliases` metadata only |
 | **Alias — skip** | https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/in-person-program/ | Confirmed 301 → /education/masters-programs/in-person-program/; store in `url_aliases` metadata only |
 | **Alias — skip** | https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/online-program/ | Confirmed 301 → /education/masters-programs/online-program/; store in `url_aliases` metadata only |
-| **Skip** | /news/* | Ephemeral news articles; dated content |
-| **Skip** | /events/* (DSI-wide) | Ephemeral event pages |
-| **Skip** | /insights/* | Blog-style analytical posts; not core program info |
-| **Skip** | https://apply-psd.uchicago.edu/* | External application portal; no text content to ingest |
-| **Skip** | https://www.chicagobooth.edu/* | External domain (Booth joint degree) |
-| **Skip** | https://physicalsciences.uchicago.edu/* | External domain |
 | **DSI-general** | https://datascience.uchicago.edu/ | DSI 首页 |
 | **DSI-general** | https://datascience.uchicago.edu/about/ | DSI 简介入口 |
 | **DSI-general** | https://datascience.uchicago.edu/about/about-dsi/ | DSI 详细介绍 |
@@ -422,9 +401,23 @@ Flag: Sidebar is absent from D0 itself — see Concern #6 and Notes on Skill App
 | **DSI-general** | https://datascience.uchicago.edu/research/ | DSI 研究入口 |
 | **DSI-general** | https://datascience.uchicago.edu/insights/ | DSI Insights 入口 |
 | **DSI-general** | https://datascience.uchicago.edu/outreach/ | DSI 外展项目入口 |
-| **Skip** | /about/leadership-staff/ | General DSI leadership; not program-specific |
-| **Skip (via pattern)** | /about/* (除 dsi-general 列明条目外) | DSI 深层页面，与 ADS 无直接关联 |
-| **Skip (via pattern)** | /outreach/* (除 dsi-general 列明条目外) | DSI 外展深层页面，与 ADS 无直接关联 |
+| **DSI-general** | https://datascience.uchicago.edu/about/leadership-staff/ | Footer nav (People) — §3 Flag |
+| **DSI-general** | https://datascience.uchicago.edu/news-events/news/ | Footer nav (News) — §3 Flag |
+| **DSI-general** | https://datascience.uchicago.edu/news-events/events/ | Footer nav (Events) — §3 Flag |
+| **DSI-general** | https://datascience.uchicago.edu/about/jobs/ | Footer nav (Jobs) — §3 Flag |
+| **DSI-general** | https://datascience.uchicago.edu/newsletter-archive/ | Footer nav — §3 Flag |
+| **DSI-general** | https://physicalsciences.uchicago.edu/ | Footer nav (Physical Sciences Division) — external; §3 Flag |
+| **DSI-general** | https://datascience.uchicago.edu/nondiscrimination-statement/ | Footer nav — §3 Flag |
+| **DSI-general** | https://accessibility.uchicago.edu | Footer nav — external; §3 Flag |
+| **DSI-general** | https://datascience.uchicago.edu/about/contact/ | Footer nav (Contact) — §3 Flag |
+| **Skip** | /news/* (DSI news articles) | Ephemeral; deeper than footer nav entry |
+| **Skip** | /events/* (DSI-wide) | Ephemeral event pages |
+| **Skip** | /insights/* | Blog-style analytical posts; not core program info |
+| **Skip** | https://apply-psd.uchicago.edu/* | External application portal; no text content to ingest |
+| **Skip** | https://www.chicagobooth.edu/* | External domain (Booth joint degree) |
+| **Skip** | https://physicalsciences.uchicago.edu/* | External domain deeper pages |
+| **Skip** | /about/* (除 dsi-general 列明条目外) | DSI 深层页面，与 ADS 无直接关联 |
+| **Skip** | /outreach/* (除 dsi-general 列明条目外) | DSI 外展深层页面，与 ADS 无直接关联 |
 
 ---
 

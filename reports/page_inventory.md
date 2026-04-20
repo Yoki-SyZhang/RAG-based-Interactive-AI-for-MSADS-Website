@@ -96,9 +96,9 @@ Sitemap reference: `docs/url_classification.json`
 raw 中存在大量非 sitemap 列出的 `/research/[slug]` 页面，命中 url_patterns 中 `optional` 规则。  
 见 sitemap §2 中标注 `[optional via pattern]` 的条目。
 
-### dsi-general（7 个）— DSI 顶层 Hub 页面
+### dsi-general（7 个 Hub + footer/header 导航链接）— DSI 顶层页面
 
-> ADS 项目属于 DSI 组织体系，这 7 个顶层 Hub 页面标记为 `dsi-general`，表示可选择性纳入以提供 ADS 项目背景知识。其余 DSI 子页面一律 `skip`（`/about/*`、`/outreach/*` 已在 url_patterns 中设 catch-all skip 规则）。
+> ADS 项目属于 DSI 组织体系，这 7 个顶层 Hub 页面标记为 `dsi-general`，表示可选择性纳入以提供 ADS 项目背景知识。其余 DSI 子页面一律 `skip`（`/about/*`、`/outreach/*` 已在 url_patterns 中设 catch-all skip 规则）。此外，`data/raw_scraped_pages/footer.json` 中 `links[]` 的所有 `href` 亦归入 `dsi-general`（见 §3 Header/Footer 分类及 §7 Recommended Scrape List）。
 
 | URL | raw 状态 |
 |-----|---------|

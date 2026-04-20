@@ -50,7 +50,7 @@
       "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/instructors-staff/",
       "priority": "must",
       "depth": 1,
-      "special_handling": []
+      "special_handling": ["verify_accordion_expansion"]
     },
     {
       "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects/",
@@ -69,35 +69,35 @@
     {
       "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/career-outcomes/",
       "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/career-outcomes/",
-      "priority": "should",
+      "priority": "must",
       "depth": 1,
       "special_handling": ["exclude_image_embedded_content"]
     },
     {
       "url": "https://datascience.uchicago.edu/education/tuition-fees-aid/",
       "canonical_url": "https://datascience.uchicago.edu/education/tuition-fees-aid/",
-      "priority": "should",
+      "priority": "must",
       "depth": 1,
       "special_handling": []
     },
     {
       "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students/",
       "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students/",
-      "priority": "should",
+      "priority": "must",
       "depth": 1,
       "special_handling": []
     },
     {
       "url": "https://datascience.uchicago.edu/explore-the-ms-ads-campus/",
       "canonical_url": "https://datascience.uchicago.edu/explore-the-ms-ads-campus/",
-      "priority": "should",
+      "priority": "must",
       "depth": 1,
       "special_handling": []
     },
     {
       "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive/",
       "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive/",
-      "priority": "should",
+      "priority": "must",
       "depth": 2,
       "special_handling": ["incomplete_listing_warning"]
     },
@@ -172,6 +172,209 @@
       "special_handling": []
     },
     {
+      "url": "https://datascience.uchicago.edu/research/tokio-marine-highland-flood-risk-rating-of-a-property-leveraging-digital-elevation-model/",
+      "canonical_url": "https://datascience.uchicago.edu/research/tokio-marine-highland-flood-risk-rating-of-a-property-leveraging-digital-elevation-model/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/here-technologies-ai-powered-feature-extraction-from-street-level-imagery-for-automated-mapmaking/",
+      "canonical_url": "https://datascience.uchicago.edu/research/here-technologies-ai-powered-feature-extraction-from-street-level-imagery-for-automated-mapmaking/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/charactour-ai-developing-a-personality-driven-generative-ai-model-for-capturing-diverse-linguistic-styles/",
+      "canonical_url": "https://datascience.uchicago.edu/research/charactour-ai-developing-a-personality-driven-generative-ai-model-for-capturing-diverse-linguistic-styles/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/united-airlines-intelligent-airport-agent-for-enhanced-gate-service/",
+      "canonical_url": "https://datascience.uchicago.edu/research/united-airlines-intelligent-airport-agent-for-enhanced-gate-service/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-concordagent-an-integrated-ai-agent-for-ultrasound-pathology/",
+      "canonical_url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-concordagent-an-integrated-ai-agent-for-ultrasound-pathology/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/rakuten-graphrag-or-similar-llm-applications-for-analyzing-advertiser-and-publisher-partnership/",
+      "canonical_url": "https://datascience.uchicago.edu/research/rakuten-graphrag-or-similar-llm-applications-for-analyzing-advertiser-and-publisher-partnership/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/here-technologies-ensuring-map-freshness-with-an-ai-powered-places-data-pipeline/",
+      "canonical_url": "https://datascience.uchicago.edu/research/here-technologies-ensuring-map-freshness-with-an-ai-powered-places-data-pipeline/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/grai-matter-total-value-of-workforce-tvow/",
+      "canonical_url": "https://datascience.uchicago.edu/research/grai-matter-total-value-of-workforce-tvow/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/argonne-lead-vehicle-distance-estimation-using-forward-vision-in-ego-vehicles/",
+      "canonical_url": "https://datascience.uchicago.edu/research/argonne-lead-vehicle-distance-estimation-using-forward-vision-in-ego-vehicles/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/inference-analytics-healthcare-specialized-llm-with-reinforcement-learning/",
+      "canonical_url": "https://datascience.uchicago.edu/research/inference-analytics-healthcare-specialized-llm-with-reinforcement-learning/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare/",
+      "canonical_url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/aetna-optimization-engine-creation-multi-objective-optimization-model/",
+      "canonical_url": "https://datascience.uchicago.edu/research/aetna-optimization-engine-creation-multi-objective-optimization-model/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/healthlab-innovations-inc-continuity-engines-unlock-dark-data-to-save-lives-through-ai-driven-follow-ups/",
+      "canonical_url": "https://datascience.uchicago.edu/research/healthlab-innovations-inc-continuity-engines-unlock-dark-data-to-save-lives-through-ai-driven-follow-ups/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/aetna-measuring-the-impact-of-diverse-marketing-campaigns-on-medicare-stars-performance/",
+      "canonical_url": "https://datascience.uchicago.edu/research/aetna-measuring-the-impact-of-diverse-marketing-campaigns-on-medicare-stars-performance/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/global-iq-optimizing-roi-of-global-talent-mobility-through-llm-based-corporate-employee-decision-support/",
+      "canonical_url": "https://datascience.uchicago.edu/research/global-iq-optimizing-roi-of-global-talent-mobility-through-llm-based-corporate-employee-decision-support/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/rakuten-llm-driven-large-scale-scraping-and-competitive-marketing-strategy/",
+      "canonical_url": "https://datascience.uchicago.edu/research/rakuten-llm-driven-large-scale-scraping-and-competitive-marketing-strategy/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/inference-analytics-ai-powered-scientific-research-assistant/",
+      "canonical_url": "https://datascience.uchicago.edu/research/inference-analytics-ai-powered-scientific-research-assistant/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/lexlead-ai-legal-services-recommendation-system/",
+      "canonical_url": "https://datascience.uchicago.edu/research/lexlead-ai-legal-services-recommendation-system/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-agentic-clinical-rag-model-context-protocol-based-framework/",
+      "canonical_url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-agentic-clinical-rag-model-context-protocol-based-framework/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/healthlab-innovations-inc-synergy-engines-unlocking-business-strategies-with-ai-4000-digital-health-companies/",
+      "canonical_url": "https://datascience.uchicago.edu/research/healthlab-innovations-inc-synergy-engines-unlocking-business-strategies-with-ai-4000-digital-health-companies/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/aetna-developing-a-predictive-medicare-grievance-model-for-cms-star-ratings-improvement/",
+      "canonical_url": "https://datascience.uchicago.edu/research/aetna-developing-a-predictive-medicare-grievance-model-for-cms-star-ratings-improvement/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/global-iq-optimizing-roi-of-global-talent-mobility-through-predictive-modeling-and-optimization-of-employee-compensation/",
+      "canonical_url": "https://datascience.uchicago.edu/research/global-iq-optimizing-roi-of-global-talent-mobility-through-predictive-modeling-and-optimization-of-employee-compensation/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/research-robotics-enders-game4/",
+      "canonical_url": "https://datascience.uchicago.edu/research/research-robotics-enders-game4/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/uniqlo-china-enhancing-actionability-of-external-market-data-with-ai/",
+      "canonical_url": "https://datascience.uchicago.edu/research/uniqlo-china-enhancing-actionability-of-external-market-data-with-ai/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/labelmaster-digital-marketing-alchemy-unlocking-data-driven-success-or-the-roi-playbook-mastering-ads-emails-web-traffic/",
+      "canonical_url": "https://datascience.uchicago.edu/research/labelmaster-digital-marketing-alchemy-unlocking-data-driven-success-or-the-roi-playbook-mastering-ads-emails-web-traffic/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/royal-cyber-llm-powered-auto-grading-assignment-with-feedback/",
+      "canonical_url": "https://datascience.uchicago.edu/research/royal-cyber-llm-powered-auto-grading-assignment-with-feedback/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-reinforcement-learning-driven-multi-agent-framework-for-unifying-clinical-imaging-and-text-retrieval/",
+      "canonical_url": "https://datascience.uchicago.edu/research/research-gpt-for-healthcare-reinforcement-learning-driven-multi-agent-framework-for-unifying-clinical-imaging-and-text-retrieval/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/global-iq-soup-to-nuts-creating-a-global-living-wage-data-product/",
+      "canonical_url": "https://datascience.uchicago.edu/research/global-iq-soup-to-nuts-creating-a-global-living-wage-data-product/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/research/research-robotics-robartists4/",
+      "canonical_url": "https://datascience.uchicago.edu/research/research-robotics-robartists4/",
+      "priority": "optional",
+      "depth": 3,
+      "special_handling": []
+    },
+    {
       "url": "https://datascience.uchicago.edu/how-to-apply/",
       "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/",
       "priority": "alias",
@@ -207,9 +410,51 @@
       "special_handling": []
     },
     {
+      "url": "https://datascience.uchicago.edu/",
+      "canonical_url": "https://datascience.uchicago.edu/",
+      "priority": "dsi-general",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/about/",
+      "canonical_url": "https://datascience.uchicago.edu/about/",
+      "priority": "dsi-general",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/about/about-dsi/",
+      "canonical_url": "https://datascience.uchicago.edu/about/about-dsi/",
+      "priority": "dsi-general",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/education/",
+      "canonical_url": "https://datascience.uchicago.edu/education/",
+      "priority": "dsi-general",
+      "depth": null,
+      "special_handling": []
+    },
+    {
       "url": "https://datascience.uchicago.edu/research/",
       "canonical_url": "https://datascience.uchicago.edu/research/",
-      "priority": "skip",
+      "priority": "dsi-general",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/insights/",
+      "canonical_url": "https://datascience.uchicago.edu/insights/",
+      "priority": "dsi-general",
+      "depth": null,
+      "special_handling": []
+    },
+    {
+      "url": "https://datascience.uchicago.edu/outreach/",
+      "canonical_url": "https://datascience.uchicago.edu/outreach/",
+      "priority": "dsi-general",
       "depth": null,
       "special_handling": []
     },
@@ -239,13 +484,25 @@
     {
       "url_pattern": "https://datascience.uchicago.edu/people/{slug}/",
       "regex": "^https://datascience\\.uchicago\\.edu/people/[^/]+/$",
-      "priority": "should",
+      "priority": "optional",
       "special_handling": ["redact_pii"]
     },
     {
       "url_pattern": "https://datascience.uchicago.edu/research/{slug}/",
       "regex": "^https://datascience\\.uchicago\\.edu/research/[^/]+/$",
       "priority": "optional",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://datascience.uchicago.edu/about/*",
+      "regex": "^https://datascience\\.uchicago\\.edu/about/",
+      "priority": "skip",
+      "special_handling": []
+    },
+    {
+      "url_pattern": "https://datascience.uchicago.edu/outreach/*",
+      "regex": "^https://datascience\\.uchicago\\.edu/outreach/",
+      "priority": "skip",
       "special_handling": []
     },
     {

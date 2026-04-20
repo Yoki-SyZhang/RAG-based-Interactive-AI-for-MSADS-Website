@@ -18,16 +18,8 @@
 │   │     (alias: /capstone-projects/ — D0 links to short form; see Concern #1)
 │   └── [D2] https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive/
 │             (sidebar sub-item, directly clickable from program sidebar)
-│         ├── [D3] https://datascience.uchicago.edu/research/argonne-rezzy-ai-support-chatbot-for-ev-charger-reservation-app-evrez/
-│         ├── [D3] https://datascience.uchicago.edu/research/inference-analytics-automated-icd-10-code-prediction-for-healthcare-reports-using-large-language-models/
-│         ├── [D3] https://datascience.uchicago.edu/research/research-gpt-for-healthcare-mcp-driven-multi-agent-rag-enhanced-llm-system-for-prostate-cancer-temporal-summarization/
-│         ├── [D3] https://datascience.uchicago.edu/research/global-iq-optimizing-roi-of-global-talent-mobility-through-predictive-modeling-and-optimization-for-corporate-programs-policies/
-│         ├── [D3] https://datascience.uchicago.edu/research/research-gpt-for-healthcare-applications-of-generative-ai-in-emergency-department-admission-evaluation/
-│         ├── [D3] https://datascience.uchicago.edu/research/chicago-white-sox-measuring-pitcher-deception-and-command-using-motion-tracking-data/
-│         ├── [D3] https://datascience.uchicago.edu/research/aetna-optimization-engine-creation-scenario-planning-and-sensitivity-analysis-tool/
-│         ├── [D3] https://datascience.uchicago.edu/research/latentview-analytics-visual-defect-detection/
-│         ├── [D3] https://datascience.uchicago.edu/research/here-technologies-vehicle-perception-data-vpd-and-here-lane-model-alignment/
-│         └── [D3] https://datascience.uchicago.edu/research/ateema-ai-driven-media-kit/
+│         └── [D3] https://datascience.uchicago.edu/research/[capstone-slug]/  (×39 MS-ADS capstone projects — see Concern #6)
+│                   Full URL list in §2 D3 Flat Depth Listing.
 │
 ├── [D1] https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/course-progressions/
 │
@@ -156,6 +148,35 @@
 74. https://datascience.uchicago.edu/research/latentview-analytics-visual-defect-detection/
 75. https://datascience.uchicago.edu/research/here-technologies-vehicle-perception-data-vpd-and-here-lane-model-alignment/
 76. https://datascience.uchicago.edu/research/ateema-ai-driven-media-kit/
+77. https://datascience.uchicago.edu/research/tokio-marine-highland-flood-risk-rating-of-a-property-leveraging-digital-elevation-model/
+78. https://datascience.uchicago.edu/research/here-technologies-ai-powered-feature-extraction-from-street-level-imagery-for-automated-mapmaking/
+79. https://datascience.uchicago.edu/research/charactour-ai-developing-a-personality-driven-generative-ai-model-for-capturing-diverse-linguistic-styles/
+80. https://datascience.uchicago.edu/research/united-airlines-intelligent-airport-agent-for-enhanced-gate-service/
+81. https://datascience.uchicago.edu/research/research-gpt-for-healthcare-concordagent-an-integrated-ai-agent-for-ultrasound-pathology/
+82. https://datascience.uchicago.edu/research/rakuten-graphrag-or-similar-llm-applications-for-analyzing-advertiser-and-publisher-partnership/
+83. https://datascience.uchicago.edu/research/here-technologies-ensuring-map-freshness-with-an-ai-powered-places-data-pipeline/
+84. https://datascience.uchicago.edu/research/grai-matter-total-value-of-workforce-tvow/
+85. https://datascience.uchicago.edu/research/argonne-lead-vehicle-distance-estimation-using-forward-vision-in-ego-vehicles/
+86. https://datascience.uchicago.edu/research/inference-analytics-healthcare-specialized-llm-with-reinforcement-learning/
+87. https://datascience.uchicago.edu/research/research-gpt-for-healthcare/
+88. https://datascience.uchicago.edu/research/aetna-optimization-engine-creation-multi-objective-optimization-model/
+89. https://datascience.uchicago.edu/research/healthlab-innovations-inc-continuity-engines-unlock-dark-data-to-save-lives-through-ai-driven-follow-ups/
+90. https://datascience.uchicago.edu/research/aetna-measuring-the-impact-of-diverse-marketing-campaigns-on-medicare-stars-performance/
+91. https://datascience.uchicago.edu/research/global-iq-optimizing-roi-of-global-talent-mobility-through-llm-based-corporate-employee-decision-support/
+92. https://datascience.uchicago.edu/research/rakuten-llm-driven-large-scale-scraping-and-competitive-marketing-strategy/
+93. https://datascience.uchicago.edu/research/inference-analytics-ai-powered-scientific-research-assistant/
+94. https://datascience.uchicago.edu/research/lexlead-ai-legal-services-recommendation-system/
+95. https://datascience.uchicago.edu/research/research-gpt-for-healthcare-agentic-clinical-rag-model-context-protocol-based-framework/
+96. https://datascience.uchicago.edu/research/healthlab-innovations-inc-synergy-engines-unlocking-business-strategies-with-ai-4000-digital-health-companies/
+97. https://datascience.uchicago.edu/research/aetna-developing-a-predictive-medicare-grievance-model-for-cms-star-ratings-improvement/
+98. https://datascience.uchicago.edu/research/global-iq-optimizing-roi-of-global-talent-mobility-through-predictive-modeling-and-optimization-of-employee-compensation/
+99. https://datascience.uchicago.edu/research/research-robotics-enders-game4/
+100. https://datascience.uchicago.edu/research/uniqlo-china-enhancing-actionability-of-external-market-data-with-ai/
+101. https://datascience.uchicago.edu/research/labelmaster-digital-marketing-alchemy-unlocking-data-driven-success-or-the-roi-playbook-mastering-ads-emails-web-traffic/
+102. https://datascience.uchicago.edu/research/royal-cyber-llm-powered-auto-grading-assignment-with-feedback/
+103. https://datascience.uchicago.edu/research/research-gpt-for-healthcare-reinforcement-learning-driven-multi-agent-framework-for-unifying-clinical-imaging-and-text-retrieval/
+104. https://datascience.uchicago.edu/research/global-iq-soup-to-nuts-creating-a-global-living-wage-data-product/
+105. https://datascience.uchicago.edu/research/research-robotics-robartists4/
 
 ---
 
@@ -275,11 +296,11 @@ Flag: Sidebar is absent from D0 itself — see Concern #6 and Notes on Skill App
 | 18 | D2 | /people/jose-alvarado/ | Jose Alvarado | Staff bio | ~350 | Static HTML |
 | 19 | D2 | /people/matthew-harris-ridker/ | Matthew Harris-Ridker | Staff bio | ~350 | Static HTML |
 | 20–66 | D2 | /people/[name]/ (×47) | [Faculty/Staff Name] | Faculty/staff bio | ~350 avg | Static HTML |
-| 67–76 | D3 | /research/[capstone-slug]/ (×10) | [Capstone Project Title] | Capstone project case study | ~225 avg | Static HTML |
+| 67–105 | D3 | /research/[capstone-slug]/ (×39) | [Capstone Project Title] | Capstone project case study | ~225 avg | Static HTML |
 
 **Note on rows 20–66:** These are the remaining faculty and instructors listed on the instructors-staff D1 page. All URLs are in the flat listing (§3). Each is a terminal profile page with no in-scope sub-pages.
 
-**Note on rows 67–76:** All 10 capstone project URLs are listed in the flat listing (§3) and in the URL Tree. The sampled page (Argonne/Rezzy) confirmed ~200–250 words of substantive, unique project content per page.
+**Note on rows 67–105:** All 39 capstone project URLs are listed in the flat listing (§2 D3) and in the URL Tree. These were sourced from all 4 pages of the capstone-project-archive (paginated via JS; fetched 2026-04-19). The sampled page (Argonne/Rezzy) confirmed ~200–250 words of substantive, unique project content per page.
 
 ---
 
@@ -355,11 +376,11 @@ Flag: Sidebar is absent from D0 itself — see Concern #6 and Notes on Skill App
 
 ### 6. Capstone project archive shows only 10 featured projects
 
-**Description:** The Capstone Project Archive page lists 10 featured projects as D3 pages at `/research/[slug]/`. This may not represent the complete archive — additional projects may be paginated, accessible via a different listing, or hosted on an external showcase platform.
+**Description:** The Capstone Project Archive page lists all 39 MS-ADS capstone projects across 4 JS-paginated pages at `/research/[slug]/`.
 
-**Evidence:** https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive/ — 10 linked projects confirmed; no pagination controls observed; no indication of total project count.
+**Evidence:** https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive/ — pagination uses `?_paged=2/3/4` (client-side JS); all 39 URLs fetched manually on 2026-04-19 and enumerated in §2 D3 and the URL Tree. Static HTML scraper only captures page 1 (10 items).
 
-**Recommendation:** Treat the 10 listed projects as the current showcase subset. If a more complete project corpus is needed, check for additional archive pages or the YouTube playlist linked from the Capstone Projects D1 page.
+**Recommendation:** The full set of 39 project URLs is now documented. All 39 are classified `optional` in url_classification.json. No further discovery needed.
 
 ---
 
@@ -376,13 +397,13 @@ Flag: Sidebar is absent from D0 itself — see Concern #6 and Notes on Skill App
 | **Must** | .../ms-in-applied-data-science/instructors-staff/ | Faculty/staff listing — also gateway to 50 profiles |
 | **Must** | .../ms-in-applied-data-science/capstone-projects/ | Core program feature |
 | **Must** | .../ms-in-applied-data-science/events-deadlines/ | Application deadlines; re-scrape each cycle |
-| **Should** | .../ms-in-applied-data-science/career-outcomes/ | Career data; note image-embedded chart gap (Concern #2) |
-| **Should** | /education/tuition-fees-aid/ | Financial info — shared with other programs but linked heavily |
-| **Should** | .../ms-in-applied-data-science/our-students/ | Student perspectives |
-| **Should** | /explore-the-ms-ads-campus/ | Campus/program culture |
-| **Should** | .../ms-in-applied-data-science/capstone-project-archive/ | Gateway to D3 project pages |
-| **Should** | /people/[name]/ — all 50+ profiles | Faculty/staff bios; strip email, phone, office address (PII) |
-| **Optional** | /research/[capstone-slug]/ — all 10 D3 pages | Capstone case studies; ~225 words each; useful for project topic queries |
+| **Must** | .../ms-in-applied-data-science/career-outcomes/ | Career data; note image-embedded chart gap (Concern #2) |
+| **Must** | /education/tuition-fees-aid/ | Financial info — shared with other programs but linked heavily |
+| **Must** | .../ms-in-applied-data-science/our-students/ | Student perspectives |
+| **Must** | /explore-the-ms-ads-campus/ | Campus/program culture |
+| **Must** | .../ms-in-applied-data-science/capstone-project-archive/ | Gateway to D3 project pages |
+| **Optional** | /people/[name]/ — all 50+ profiles | **人工Review结果：** /people/ URL 的信息可以在 /instructors-staff/ 的 Accordion 里看到（包含完整传记段落），且用户一般无法直接点击到 /people/ URL，所以不做进一步爬取。 |
+| **Optional** | /research/[capstone-slug]/ — all 39 D3 pages | Capstone case studies; ~225 words each; useful for project topic queries; full URL list in §2 D3 |
 | **Alias — skip** | https://datascience.uchicago.edu/how-to-apply/ | Confirmed 301 → /ms-in-applied-data-science/how-to-apply/; store in `url_aliases` metadata only |
 | **Alias — skip** | https://datascience.uchicago.edu/about-us/ | Confirmed 301 → /ms-in-applied-data-science/instructors-staff/; store in `url_aliases` metadata only |
 | **Alias — skip** | https://datascience.uchicago.edu/capstone-projects/ | Confirmed 301 → /ms-in-applied-data-science/capstone-projects/; store in `url_aliases` metadata only |
@@ -394,8 +415,34 @@ Flag: Sidebar is absent from D0 itself — see Concern #6 and Notes on Skill App
 | **Skip** | https://apply-psd.uchicago.edu/* | External application portal; no text content to ingest |
 | **Skip** | https://www.chicagobooth.edu/* | External domain (Booth joint degree) |
 | **Skip** | https://physicalsciences.uchicago.edu/* | External domain |
-| **Skip** | /research/ (DSI hub) | General DSI research; not MS-ADS specific |
+| **DSI-general** | https://datascience.uchicago.edu/ | DSI 首页 |
+| **DSI-general** | https://datascience.uchicago.edu/about/ | DSI 简介入口 |
+| **DSI-general** | https://datascience.uchicago.edu/about/about-dsi/ | DSI 详细介绍 |
+| **DSI-general** | https://datascience.uchicago.edu/education/ | DSI 教育项目入口 |
+| **DSI-general** | https://datascience.uchicago.edu/research/ | DSI 研究入口 |
+| **DSI-general** | https://datascience.uchicago.edu/insights/ | DSI Insights 入口 |
+| **DSI-general** | https://datascience.uchicago.edu/outreach/ | DSI 外展项目入口 |
 | **Skip** | /about/leadership-staff/ | General DSI leadership; not program-specific |
+| **Skip (via pattern)** | /about/* (除 dsi-general 列明条目外) | DSI 深层页面，与 ADS 无直接关联 |
+| **Skip (via pattern)** | /outreach/* (除 dsi-general 列明条目外) | DSI 外展深层页面，与 ADS 无直接关联 |
+
+---
+
+## 8. DSI-General 页面分类
+
+MS-ADS 项目属于 UChicago Data Science Institute (DSI)，与 DSI 存在组织归属关系。为此特设 **`dsi-general`** 优先级，收录 DSI 各大板块的顶层 Hub 页面，作为背景知识补充（非 ADS 专属内容）：
+
+| URL | 板块说明 |
+|-----|---------|
+| https://datascience.uchicago.edu/ | DSI 官网首页 |
+| https://datascience.uchicago.edu/about/ | DSI 简介入口（About 板块） |
+| https://datascience.uchicago.edu/about/about-dsi/ | DSI 详细介绍 |
+| https://datascience.uchicago.edu/education/ | DSI 教育项目入口（含 MS-ADS 等多个项目） |
+| https://datascience.uchicago.edu/research/ | DSI 研究入口（含 Capstone archive） |
+| https://datascience.uchicago.edu/insights/ | DSI Insights 入口 |
+| https://datascience.uchicago.edu/outreach/ | DSI 外展项目入口 |
+
+**分类策略：** 以上 7 个 Hub 页面标记为 `dsi-general`，表示可选择性纳入以提供 ADS 项目的组织背景；**其余进一步深挖 DSI 的子页面**（如 `/about/jobs/`、`/outreach/data4all/`、`/education/undergrad-major/` 等）均视为与 ADS 项目无直接关联，自动分类为 `skip`，不做抓取。url_patterns 中已为 `/about/*` 和 `/outreach/*` 添加 catch-all skip 规则。
 
 ---
 

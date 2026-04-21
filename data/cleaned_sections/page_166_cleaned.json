@@ -1,0 +1,59 @@
+{
+  "source_file": "page_166.json",
+  "url": [
+    "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects/",
+    "https://datascience.uchicago.edu/capstone-projects/"
+  ],
+  "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects/",
+  "page_title": "Capstone Projects | DSI",
+  "meta_description": "The data science capstone project is designed for students to gain invaluable experience by applying data-driven solutions to analytics-related problems.",
+  "breadcrumbs": "Home > Education > Masters Programs > Ms In Applied Data Science > Capstone Projects",
+  "scraped_at": "2026-04-19T01:43:23.557141+00:00",
+  "structured_sections": [
+    {
+      "section_index": 2,
+      "text_markdown": "## Capstone Projects\nThe culminating experience in the [Master’s in Applied Data Science](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science) program is a [Capstone Project](https://www.youtube.com/watch?index=5&list=PL0IrIAIuK93EonLgPKZ7oIcpt0p_j58vm&v=0WcB9SzlT84). You will immerse yourself in a real business problem and will gain valuable, data driven insights using authentic data. Together with project sponsors, you will develop a data science solution to address organization problems, enhance analytics capabilities, and expand talent pools and employment opportunities. Leveraging the university’s rich research portfolio, you also have the option to join a [research-focused team](https://datascience.uchicago.edu/research). Hear directly from a faculty advisor in[this video](https://youtu.be/MwiC2Ec3WmM?si=uhze_TeTdpmQHjae) about how students engage in research-driven capstone projects with real-world applications."
+    },
+    {
+      "section_index": 3,
+      "text_markdown": "## Capstone Experience"
+    },
+    {
+      "section_index": 4,
+      "text_markdown": "## Capstone Research Projects"
+    },
+    {
+      "section_index": 5,
+      "text_markdown": "## Interested in Becoming a Capstone Sponsor?\nThe Master’s in Applied Data Science program accepts projects year-round for placement during the Spring and Autumn quarter, with the Spring quarter being the largest cohort. All projects must be submitted no later than one month prior to the beginning of the preferred starting quarter based on the [UChicago academic calendar](https://www.uchicago.edu/en/education-and-research/academic-calendar). Want more information? Find details and answers to FAQs in this Capstone Sponsorship Guidelines document—[click here](https://datascience.uchicago.edu/wp-content/uploads/2024/11/MS-ADS-Capstone-Sponsor-Guide-2025-2.pdf) to download the PDF."
+    },
+    {
+      "section_index": 6,
+      "text_markdown": "## Selected Capstone Projects"
+    },
+    {
+      "section_index": 7,
+      "text_markdown": "## AI-Powered Storytelling App\nUChicago Applied Data Science students designed an AI-powered app that transforms children’s prompts into personalized stories. Using natural language processing and machine learning, the team built a system that generates dynamic, age-appropriate narratives in real time, showcasing how data science can merge creativity with technology to bring imagination to life."
+    },
+    {
+      "section_index": 8,
+      "text_markdown": "## SkySearch – Smarter Search from Above\nAs part of their Capstone Project, a team of MS in Applied Data Science students developed SkySearch, a drone-based vision system that enables drones to identify and locate objects in real-world environments using simple human prompts.\nInstead of relying on a fixed list of recognizable objects, SkySearch expands what drones can search for, allowing them to respond to more complex and dynamic scenarios."
+    },
+    {
+      "section_index": 9,
+      "text_markdown": "## Data Science for Good\nFrom predicting floods to powering potential clinical breakthroughs, students in the University of Chicago MS in Applied Data Science program are using their skills to make a real impact."
+    },
+    {
+      "section_index": 10,
+      "text_markdown": "## Capstone Sponsor Incentives\nSponsors derive measurable benefits from this unique opportunity to support higher education. Partner organizations propose real-world problems, untested ideas or research queries. Students review them from the perspective of data scientists trained to generate actionable insights that provide long-term value. Through the project, Capstone partners gain access to a symbiotic pool of world-class students, highly accomplished instructors, and cited researchers, resulting in optimized utilization of modern data science-based methods, using your data. Further, for many sponsors, the project becomes a meaningful source of recruitment through the excellent pool of students who work on your project."
+    },
+    {
+      "section_index": 11,
+      "text_markdown": "## Capstone Sponsor Obligations\nWhile there is no monetary cost or contract necessary to sponsor a project, we do consider this a partnership. Teams comprised of four students and guided by an instructor and subject matter expert are provided with expectations from the capstone sponsor and learning objectives, assignments, and evaluation requirements from instructors. In turn, Capstone partners should be prepared to provide the following:\nA detailed problem statement with a description of the data and expected results\nTwo or more points of contact\nAccess to data relevant to the project by the first week of the applicable quarter\nEngagement through regular meetings (typically bi-weekly) while classes are in session\nIf requested, a non-disclosure agreement that may be completed by the student team"
+    },
+    {
+      "section_index": 12,
+      "text_markdown": "## Interested in Becoming a Capstone or Industry Research Partner?\nGet in touch with us to submit your idea for a collaboration or ask us questions about how the partnership process works."
+    }
+  ],
+  "Note": ""
+}

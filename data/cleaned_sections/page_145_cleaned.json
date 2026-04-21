@@ -1,0 +1,71 @@
+{
+  "source_file": "page_145.json",
+  "url": [
+    "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/",
+    "https://datascience.uchicago.edu/how-to-apply/"
+  ],
+  "canonical_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply/",
+  "page_title": "How to Apply | DSI",
+  "meta_description": "Learn what it takes to complete your online application to the data science masters program. We encourage professionals from all backgrounds to apply.",
+  "breadcrumbs": "Home > Education > Masters Programs > Ms In Applied Data Science > How To Apply",
+  "scraped_at": "2026-04-19T01:43:07.416268+00:00",
+  "structured_sections": [
+    {
+      "section_index": 3,
+      "text_markdown": "## Master’s in Applied Data Science Application Requirements\nThe [application portal](https://apply-psd.uchicago.edu/apply)* for 2026 entrance is now open. Check out our blog post [here](https://datascience.uchicago.edu/news/applying-to-the-ms-in-applied-data-science-program-heres-what-we-look-for) on tips for applying to the program.\nThe [In-Person](https://datascience.uchicago.edu/education/masters-programs/in-person-program) and [Online](https://datascience.uchicago.edu/education/masters-programs/online-program) program admits full- and part-time students for entrance in the autumn quarter annually.\nOnly completed applications are sent for committee review.\n*The [application portal](https://apply-psd.uchicago.edu/apply) may close early if the cohort is filled."
+    },
+    {
+      "section_index": 4,
+      "text_markdown": "## Next Application Deadlines:\nIn-Person:\nAutumn 2026January 26, 2026 – International Application Deadline (requiring visa sponsorship from UChicago) March 4, 2026 – Second Priority Application Deadline May 6, 2026 – Third Priority Application Deadline June 23, 2026 – Final Application Deadline\nJanuary 26, 2026 – International Application Deadline (requiring visa sponsorship from UChicago)\nMarch 4, 2026 – Second Priority Application Deadline\nMay 6, 2026 – Third Priority Application Deadline\nJune 23, 2026 – Final Application Deadline\nOnline:\nAutumn 2026June 23, 2026 – Final Application Deadline\nJune 23, 2026 – Final Application Deadline\nInternational applicants who require a new visa and did not apply by the January 2026 deadline must plan to apply in the next application cycle for Autumn 2027 entry.\nApplicants who are currently studying in the United States on an F-1 visa and will transfer their SEVIS record from another U.S. institution may still apply by the remaining application deadlines"
+    },
+    {
+      "section_index": 5,
+      "text_markdown": "## Letters of Recommendation\nThe MS in Applied Data Science program requires two letters of recommendation. We strongly recommend that at least one letter is written by someone such as a direct manager/supervisor or internship supervisor who can attest to skills you demonstrated or gained though a professional workplace experience (e.g., leadership, teamwork, collaboration, initiative, management, other).\nNote: Letters of recommendation can be uploaded after you submit your application. Recommended sources for letters of recommendation include: professors; supervisors or managers; professional mentors.\nWe do not accept letters of recommendation from family members, friends, or peers."
+    },
+    {
+      "section_index": 6,
+      "text_markdown": "## Candidate Statement\nThe candidate statement is a key part of your application. The admissions committee pays careful attention to how you understand and present your aims and qualifications. The application will include a prompt with detailed instructions on the information the program is looking for in your candidate statement.\nBest practices to keep in mind as you write:\nDo not restate your resume.\nYour statement should not exceed 700 words."
+    },
+    {
+      "section_index": 7,
+      "text_markdown": "## Resume/CV\nThe Master’s in Applied Data Science admissions committee will review your resume. We encourage you to take the time to carefully update the resume you submit to us.\nImportant to Include:\nWork experience, including internships and part-time positions in the analytics/data science space\nMajor accomplishments and awards\nEducational background, including areas of study\nProfessional conferences attended\nNot needed:\nUndergraduate or graduate GPA"
+    },
+    {
+      "section_index": 8,
+      "text_markdown": "## Programming Supplement\nYour [application](https://apply-psd.uchicago.edu/apply) contains a section on programming skills. Although applicants with limited skills in R or Python can and do get accepted into the program, the admissions committee values prior programming experience. Include a PDF of no more than two pages demonstrating current programming language skills.\nExamples include a PDF submission of work completed in R or Python. The programming supplement must be shared as a PDF file. We are looking for the following in your code (see below). Please note your code does not need to contain all of the below.\nIngest data from csv\nManage different data types\nUse your function for data analysis\nVisualize data\nWrangle data\nWrite your own function\nImport libraries"
+    },
+    {
+      "section_index": 9,
+      "text_markdown": "## Virtual Portfolio\nThe MS in Applied Data Science requires short, recorded videos to a given prompt(s) within the application. These short videos give applicants an alternative means to outline why they are a strong fit for the MS in Applied Data Science program.\nOne video prompt response is required; the other is optional. Each video should be approximately 1:30 minutes in length."
+    },
+    {
+      "section_index": 10,
+      "text_markdown": "## International Students\nOnly the full-time, in-person program is visa-eligible.\nInternational students are also welcome to apply to our Master’s in Applied Data Science Online program, which does not require citizenship or permanent resident status and does not provide visa sponsorship."
+    },
+    {
+      "section_index": 11,
+      "text_markdown": "## English Language Requirement\nApplicants to the Master’s in Applied Data Science program who do not meet the English Language Proficiency criteria must submit proof of English language proficiency.\nMinimum scores for the Master’s in Applied Data Science program: TOEFL: 102 (prior requirement) or 5 (current requirement; no subscore requirement); IELTS, 7 (no subscore requirement).\nPlease review our waiver policy [here](https://grad.uchicago.edu/admissions/apply/english-language-requirements)."
+    },
+    {
+      "section_index": 12,
+      "text_markdown": "## Transcripts from all previous colleges and universities attended\nWhen applying to the program, only your unofficial transcripts are required. If you are admitted into the program, then official transcripts must be sent to the following (note a bachelor’s degree is required to apply to the program):\nPlease have your institution send your e-transcripts directly to:\napplieddatascience-admissions@uchicago.edu.\nIf your institution cannot send your documents electronically, please have them send your transcripts to the following mailing address.\nPlease note, if documents are being mailed, we must receive them in their original, school-sealed envelope. If your documents are not received in a school-sealed envelope, they will be considered unofficial. Additionally, if your transcript does not list degree conferral information (degree earned and date of conferral), we will also need to receive an attested copy of your degree certificate."
+    },
+    {
+      "section_index": 13,
+      "text_markdown": "## Application Fee\nThere is a $90 non-refundable application fee. For questions regarding an application fee waiver, please refer to the [Physical Sciences Division fee waiver policy](https://physicalsciences.uchicago.edu/academics/application-requirements)."
+    },
+    {
+      "section_index": 14,
+      "text_markdown": "## Tuition, Fees, & Aid\nThe program awards merit-based scholarships. Read more about [Tuition, Fees, & Aid](https://datascience.uchicago.edu/education/tuition-fees-aid)."
+    },
+    {
+      "section_index": 15,
+      "text_markdown": "## Meet your Admissions Counselor\nPatrick Vonesh – Online Program Senior Assistant Director of Enrollment Management\nPatrick Vonesh supports prospective students throughout the admissions process for the Online Master of Science in Applied Data Science program.\n[Learn more about Patrick](https://datascience.uchicago.edu/people/patrick-vonesh)\n[Start My App](https://apply-psd.uchicago.edu/apply) [Schedule an Appointment](https://apply-psd.uchicago.edu/portal/onlinemsads)\nJose Alvarado – In-Person Program Associate Director of Enrollment Management\nJose Alvarado supports prospective students throughout the admissions process for the In-Person Master of Science in Applied Data Science program.\n[Learn more about Jose](https://datascience.uchicago.edu/people/jose-alvarado)\n[Start My App](https://apply-psd.uchicago.edu/apply) [Schedule an Appointment](https://apply-psd.uchicago.edu/portal/inpersonmsads)\nMatthew Harris-Ridker – In-Person Program & Online Program Assistant Director of Enrollment Management\nMatthew Harris-Ridker supports prospective students throughout the admissions process for the In-Person and Online Master of Science in Applied Data Science program.\n[Learn more about Matthew](https://datascience.uchicago.edu/people/matthew-harris-ridker)\n[Start My App](https://apply-psd.uchicago.edu/apply) [Schedule an Appointment](https://apply-psd.uchicago.edu/portal/adshrs)"
+    },
+    {
+      "section_index": 16,
+      "text_markdown": "## Get in Touch\nBefore we get back to you, please check to see if your question has already been answered on our [FAQs page.](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/faqs)"
+    }
+  ],
+  "Note": ""
+}

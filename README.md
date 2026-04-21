@@ -12,33 +12,38 @@ Knowledge base source: https://datascience.uchicago.edu/education/masters-progra
 .
 ├── README.md                        # this file
 ├── data/
-│   ├── raw_scraped_pages/           # json
+│   ├── raw_scraped_pages/           # 爬虫原始输出，176个page_*.json + footer.json
+│   │   ├── footer.json
 │   │   ├── page_001.json
 │   │   └── ...
-│   ├── cleaned_sections/            # 清洗后的输出
-│       
-│  
-├── interim/                         # 中间产物             
+│   └── cleaned_sections/            # Stage 1 输出，14个must页面，每页一个JSON
+│       ├── page_042_cleaned.json
+│       └── ...
+│
+├── interim/                         # 中间产物
 │   ├── homepage_step1.json          # 网页爬取sample
 │   └── sitemap.json                 # sitemap flat records
-
+│
 ├── docs/
 │   ├── requirements/
 │   │   └── Class project-1 Midterm Project.pdf
-│   ├── sitemap_description.md       # sitemap
-│   └── url_classification.json      # 从 sitemap 机读化出来的分类表
-│    
+│   ├── sitemap_description.md       # sitemap说明
+│   ├── url_classification.json      # 手工标注的URL分类规则表
+│   └── url_class_reference.json     # 筛选后作为参考的URL分类结果
+│
 ├── scripts/
-│   ├── Stage1_data_processing/      
-│   │   ├── uchicago_spider_step1.py     # BFS-crawl the site
-│   │   ├── uchicago_spider_step2.py     # Scrape each URL and write JSON files
-│   │   └── clean_for_structure.ipynb
-│   │ 
-│   ├── Stage2_vectorDB/                 
-│   ├── Stage3_LLM_agent/                
-│   └── Stage4_UI/               
+│   ├── Stage1_data_processing/
+│   │   ├── uchicago_spider_step1.py     # BFS-crawl the site，输出sitemap
+│   │   ├── uchicago_spider_step2.py     # 按URL逐页爬取，写入raw_scraped_pages/
+│   │   └── clean_for_structure.ipynb    # Stage 1主notebook：分类、清洗、结构化、导出
+│   │
+│   ├── Stage2_vectorDB/
+│   ├── Stage3_LLM_agent/
+│   └── Stage4_UI/
+│
 └── reports/
-    └── page_inventory.md           # 核对已爬取的pages和sitemap的出入，指导url_classification.json的撰写
+    ├── page_inventory.md            # 核对已爬取的pages和sitemap的出入，指导url_classification.json的撰写
+    └── Stage1_complete_report.md    # Stage 1完整说明：各节功能、输出schema、设计决策
 ```
 
 

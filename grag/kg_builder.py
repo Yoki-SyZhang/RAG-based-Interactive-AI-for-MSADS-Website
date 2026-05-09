@@ -1,22 +1,9 @@
 """
-本文件负责“从网页 HTML 构建 DOM-aware knowledge graph”。
+Builds a DOM-aware knowledge graph from raw page HTML.
 
-这是项目里最核心的清洗/结构化代码。它解决的问题是：
-网页上的 heading 大小不一定代表真实层级；accordion、tab、table 这些组件也不能被简单
-当作普通文本。因此这里尽量根据真实 DOM 包含关系来构建图。
-
-它做的事：
-1. 删除网页噪声：script/style/nav/footer/form/social widget 等。
-2. 找到每个页面的 main 内容区域。
-3. 为整个项目建立 root node：Program: MS in Applied Data Science。
-4. 为每个 URL 建 Page node。
-5. 根据 DOM 结构识别 Section、Accordion、AccordionItem、TabGroup、Table 等节点。
-6. 把真正可以检索的文本做成 Chunk node。
-7. 用 HAS_PAGE、HAS_SECTION、HAS_ACCORDION_ITEM、HAS_CONTENT 等边连接这些节点。
-
-输出有两份：
-- graph：nodes + edges，用来表达网页结构。
-- chunks：真正参与 retrieval 的文本块，每个 chunk 带 page_title、url、path、source_type。
+Strips noise elements, locates main content, and parses sections, accordions,
+tabs, tables, and people directories into structured graph nodes and retrievable
+text chunks. Returns a graph (nodes + edges) and a flat list of chunks.
 """
 
 import hashlib

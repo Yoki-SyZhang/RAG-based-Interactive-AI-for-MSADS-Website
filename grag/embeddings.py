@@ -1,16 +1,8 @@
 """
-本文件负责“把文本变成向量”。
+Text-to-vector encoding backends for the RAG pipeline.
 
-在这个 RAG 项目里，vector retrieval 需要先把每个 chunk 编码成 embedding；
-用户查询时也要用同一个 embedding 模型编码，然后用向量相似度找相关 chunk。
-
-这里提供三种后端：
-1. SentenceTransformerEmbedder：优先使用本地 Hugging Face 缓存的 BAAI/bge-small-en-v1.5。
-2. OllamaEmbedder：如果你明确指定 --embedding-backend ollama，则通过 Ollama HTTP 服务做 embedding。
-3. TfidfSvdEmbedder：如果前两种都不可用，用 TF-IDF/SVD 兜底，保证 retrieval 流程还能跑。
-
-注意：生成回答的 qwen3:8b 用 Ollama；embedding 不一定要用 Ollama。
-本项目推荐：qwen3:8b 负责回答生成，BAAI/bge-small-en-v1.5 负责 embedding。
+Provides three backends in priority order: SentenceTransformer (local HF cache),
+Ollama, and TF-IDF/SVD fallback. Use choose_embedder() to get the best available one.
 """
 
 import json

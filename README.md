@@ -104,7 +104,7 @@ The evaluator LLM is also `qwen3:8b` via Ollama, wrapped through LangChain. RAGA
 | File | Role |
 |---|---|
 | [scrape.py](scrape.py) | Entry point. Uses Playwright to render each MSADS page and saves raw HTML + URL to `raw/`. |
-| [url_class_reference.json](url_class_reference.json) | Static config listing all target URLs to scrape (the `"must"` list). Read by `scrape.py` to determine which pages to visit. |
+| [docs/url_class_reference.json](docs/url_class_reference.json) | Static config listing all target URLs to scrape (the `"must"` list). Read by `scrape.py` to determine which pages to visit. |
 
 ### Stage 1 — Index Building
 
@@ -135,7 +135,7 @@ The evaluator LLM is also `qwen3:8b` via Ollama, wrapped through LangChain. RAGA
 | [agent/prompts.py](agent/prompts.py) | All LLM prompt templates: `QUERY_REWRITE_SYSTEM`, `AGENT_DECISION_SYSTEM`, `EVIDENCE_JUDGE_SYSTEM`, `ANSWER_GENERATION_SYSTEM`, and their user-turn formatters. |
 | [agent/query_rewriter.py](agent/query_rewriter.py) | Calls `OllamaClient.chat_json()` with the rewrite prompt. Splits compound questions into separate retrieval queries. |
 | [agent/tools.py](agent/tools.py) | `AgentTools` class wraps `grag/retriever.py` and `grag/graph_tools.py`. Implements all five agent tools and a `dispatch()` router. Formats LLM-visible result strings and caches `inspect_page` outputs for the judge. |
-| [page_summaries.json](page_summaries.json) | Manually maintained list of page labels and plain-English descriptions for all scraped pages. Read by `agent/tools.py` to power the `list_page_summaries` tool, which lets the agent identify relevant pages before drilling into their KG structure. |
+| [docs/page_summaries.json](docs/page_summaries.json) | Manually maintained list of page labels and plain-English descriptions for all scraped pages. Read by `agent/tools.py` to power the `list_page_summaries` tool, which lets the agent identify relevant pages before drilling into their KG structure. |
 | [agent/agent_loop.py](agent/agent_loop.py) | Main loop: rewrite → decision → tool execution → judge → evidence absorption. Stops on `sufficient_evidence` or `max_tool_calls` (9). |
 | [agent/answer_generator.py](agent/answer_generator.py) | Calls `OllamaClient.chat_text()` with evidence block. Extracts `[n]` citation markers via regex and builds `Citation` objects from `evidence_container` metadata. |
 | [agent/logger.py](agent/logger.py) | Writes a full run log to `log/YYYY-MM-DD_HHMMSS_<run_id>.json` after each request. |
@@ -150,8 +150,9 @@ The evaluator LLM is also `qwen3:8b` via Ollama, wrapped through LangChain. RAGA
 
 | File | Role |
 |---|---|
-| [eval/ragas_eval.ipynb](eval/ragas_eval.ipynb) | End-to-end RAGAS evaluation. Loads 30 curated questions from `eval_queries.json`, runs the full agent on each (with file-based caching in `agent_run_cache.json`), then scores Faithfulness / AnswerRelevancy / ContextPrecision / ContextRecall. Includes a manual single-query test cell for qualitative inspection. |
-| [eval_queries.json](eval_queries.json) | 30 hand-crafted evaluation questions with ground-truth answers, gold URLs, and difficulty labels across admission, curriculum, tuition, and career categories. |
+| [eval/ragas_eval.ipynb](eval/ragas_eval.ipynb) | End-to-end RAGAS evaluation. Loads 30 curated questions from `docs/eval_queries.json`, runs the full agent on each (with file-based caching in `docs/agent_run_cache.json`), then scores Faithfulness / AnswerRelevancy / ContextPrecision / ContextRecall. Results exported to `docs/ragas_results.csv`. Includes a manual single-query test cell for qualitative inspection. |
+| [docs/eval_queries.json](docs/eval_queries.json) | 30 hand-crafted evaluation questions with ground-truth answers, gold URLs, and difficulty labels across admission, curriculum, tuition, and career categories. |
+| [docs/rag_agent_plan.md](docs/rag_agent_plan.md) | Full design document for the agent architecture: prompt specs, tool definitions, evidence schemas, and RAGAS evaluation plan. |
 
 ---
 

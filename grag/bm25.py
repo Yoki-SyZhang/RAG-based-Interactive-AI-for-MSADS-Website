@@ -1,15 +1,8 @@
 """
-本文件实现 keyword retrieval，也就是 BM25 检索。
+BM25 keyword retrieval index.
 
-为什么需要它：
-vector retrieval 擅长语义相似，但对 deadline、tuition、OPT、TOEFL 这类精确词，
-关键词匹配通常更稳。BM25 会根据 query 词在每个 chunk 里出现的情况给分。
-
-这个项目没有额外安装 rank_bm25，所以这里写了一个很小的 BM25Index：
-1. build_index.py 构建时，把所有 chunk 文本传进 BM25Index。
-2. BM25Index 统计每个词在每个文档中的词频，以及全局 IDF。
-3. retrieve.py 查询时调用 scores(query)，得到每个 chunk 的 keyword_score。
-4. keyword_score 会和 vector_score、graph_score 一起融合排序。
+Complements vector search for exact-term queries (deadlines, tuition, OPT, etc.).
+Built from all chunk texts at index time; call scores(query) at retrieval time.
 """
 
 import math

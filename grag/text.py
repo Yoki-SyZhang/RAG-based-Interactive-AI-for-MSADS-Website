@@ -1,13 +1,8 @@
 """
-本文件放文本处理的通用小工具。
+Shared text-processing utilities used by the KG builder, BM25 index, and graph scorer.
 
-这些函数会被 KG 构建、BM25、graph scoring 共同使用：
-1. clean_text：清理 HTML 里抽出来的文本，比如合并空格、处理 HTML entity。
-2. tokenize：把文本切成小写 token，并去掉简单英文停用词。
-3. chunk_words：把过长文本切成有 overlap 的小段，避免单个 chunk 太长影响检索。
-
-简单说：其他模块不直接自己处理字符串，而是尽量复用这里的规则，保证 build 和 retrieve
-阶段的文本处理一致。
+Provides clean_text, tokenize, and chunk_words to keep text handling consistent
+across the build and retrieval stages.
 """
 
 import re

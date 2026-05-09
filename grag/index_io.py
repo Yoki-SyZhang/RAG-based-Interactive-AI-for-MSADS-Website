@@ -1,12 +1,8 @@
 """
-本文件负责索引文件的读写路径管理。
+Index file I/O helpers.
 
-它没有复杂算法，只是把重复的文件操作集中起来：
-1. write_json/read_json：写入和读取 JSON。
-2. write_pickle/read_pickle：写入和读取 Python pickle，比如 BM25 index。
-3. manifest：统一定义 index/ 目录里每个文件叫什么。
-
-这样 build_index.py 和 retrieve.py 不需要各自手写一套路径，减少文件名不一致的问题。
+Centralizes JSON/pickle read-write utilities and the index/ directory manifest
+so build_index.py and retriever.py share consistent file paths.
 """
 
 import json

@@ -1,18 +1,11 @@
 """
-运行顺序第 1 步：构建 retrieval 需要的所有离线索引。
+Build all offline indexes needed for retrieval.
 
-这个脚本是整个项目的“入口构建脚本”。它不回答问题，只负责把 raw/ 里的网页数据
-加工成后续 retrieve.py 可以使用的文件。
+Reads raw page JSON from raw/, builds a DOM-aware knowledge graph and chunks,
 
-主要流程：
-1. 从 raw/ 读取每个页面的 JSON，里面最重要的是 html 字段。
-2. 调用 grag/kg_builder.py，把 HTML 清洗成 DOM-aware knowledge graph 和 chunks。
-3. 把每个 chunk 的 path + text 送进 grag/embeddings.py，生成向量 embeddings。
-4. 调用 grag/bm25.py，建立关键词 BM25 索引。
-5. 把人工可读的清洗结果写到 processed/。
-6. 把检索运行时需要的索引文件写到 index/。
+Generates vector embeddings, builds a BM25 keyword index, and writes all artifacts to processed/ and index/. 
 
-你想重新清洗网页、重新建 KG、重新建向量索引时，就运行这个文件。
+Re-run this whenever you want to rebuild the graph or indexes from scratch.
 """
 
 import argparse
@@ -446,7 +439,7 @@ def main() -> None:
     write_json(paths["chunks"], chunks)
     create_collection(paths["chroma"], chunks, vectors)
     write_pickle(paths["bm25"], bm25)
-    page_summaries = build_page_summaries(graph, Path("page_summaries.json"))
+    page_summaries = build_page_summaries(graph, Path("docs/page_summaries.json"))
     write_json(paths["page_summaries"], page_summaries)
     write_json(out_dir / "page_summaries.json", page_summaries)
     write_json(

@@ -55,8 +55,8 @@ class GraphNavigator:
             for node in self.graph.get("nodes", [])
             if node.get("type") == "Page"
         }
-        if not self.page_summaries and Path("page_summaries.json").exists():
-            self.page_summaries = self._map_raw_page_summaries(Path("page_summaries.json"))
+        if not self.page_summaries and Path("docs/page_summaries.json").exists():
+            self.page_summaries = self._map_raw_page_summaries(Path("docs/page_summaries.json"))
 
     def list_page_summaries(self, query: str = "", limit: int = 8) -> List[Dict[str, Any]]:
         summaries = self.page_summaries or self._fallback_page_summaries()

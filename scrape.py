@@ -2,7 +2,7 @@
 Stage 1 scraper for this MSADS Graph RAG project.
 
 Default behavior in this project folder:
-1. Read URLs from ./url_class_reference.json.
+1. Read URLs from ./docs/url_class_reference.json.
 2. Fetch the "must" URLs by default.
 3. Save one raw HTML JSON file per page into ./raw/.
 
@@ -307,8 +307,8 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Scrape MSADS pages into project raw/ JSON files.")
     parser.add_argument(
         "--url-ref",
-        default=str(project_root / "url_class_reference.json"),
-        help="Path to url_class_reference.json. Defaults to ./url_class_reference.json.",
+        default=str(project_root / "docs" / "url_class_reference.json"),
+        help="Path to url_class_reference.json. Defaults to ./docs/url_class_reference.json.",
     )
     parser.add_argument(
         "--output-dir",

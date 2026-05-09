@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Our Students debug</title>
+  <style>
+    :root { color-scheme: light; --ink:#171717; --muted:#666; --line:#ddd; --soft:#f6f6f4; --accent:#800000; }
+    body { margin:0; font-family: Arial, sans-serif; color:var(--ink); background:#fff; }
+    header { padding:24px 32px; border-bottom:1px solid var(--line); background:#fafafa; }
+    header h1 { margin:0 0 8px; font-size:28px; }
+    header a { color:var(--accent); word-break:break-word; }
+    main { display:grid; grid-template-columns:minmax(360px, 44%) 1fr; gap:24px; padding:24px 32px; }
+    section { min-width:0; }
+    h2 { margin:0 0 14px; font-size:18px; }
+    ul { list-style:none; padding-left:18px; margin:6px 0; border-left:1px solid var(--line); }
+    summary { cursor:pointer; padding:7px 8px; border-radius:6px; }
+    summary:hover { background:var(--soft); }
+    .type { display:inline-block; min-width:92px; color:var(--accent); font-weight:700; }
+    .label { font-weight:600; }
+    .rel { color:var(--muted); margin-right:8px; font-size:12px; }
+    .count,.badge { margin-left:8px; color:var(--muted); font-size:12px; border:1px solid var(--line); border-radius:999px; padding:1px 6px; }
+    .chunk-node { margin:8px 0 8px 6px; padding:10px; background:var(--soft); border-radius:6px; }
+    .chunk-node p { margin:6px 0 0; color:#333; line-height:1.45; white-space:pre-wrap; }
+    .chunk-id { font-family: Consolas, monospace; color:#444; }
+    .chunk-list { display:grid; gap:12px; }
+    .chunk-card { border:1px solid var(--line); border-radius:8px; padding:14px; }
+    .chunk-card h3 { margin:8px 0; font-size:14px; line-height:1.35; color:var(--accent); }
+    .chunk-card p { margin:0; line-height:1.5; white-space:pre-wrap; }
+    .chunk-meta { display:flex; gap:8px; color:var(--muted); font-size:12px; }
+    @media (max-width: 900px) { main { grid-template-columns:1fr; padding:18px; } header { padding:18px; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Our Students</h1>
+    <a href="https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students">https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students</a>
+  </header>
+  <main>
+    <section>
+      <h2>Graph Tree</h2>
+      <ul><li class="node"><details open><summary><span class="type">Page</span><span class="label">Our Students</span><span class="count">3</span></summary><ul><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Page Header Content</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:9ed8607b3d0225cc</span><span class="badge">page_header_content</span><p>MS in Applied Data Science Our students are the best part of our Master&#39;s in Applied Data Science program. Meet some of our current students!</p></li></ul></details></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Embedded Data Visualizations</span><span class="count">9</span></summary><ul><li class="node"><details><summary><span class="rel">HAS_DIAGRAM</span><span class="type">Diagram</span><span class="label">In-Person Program Age Breakdown</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b58ab32244cdf37f</span><span class="badge">diagram_data</span><p>In-Person Program Age Breakdown
+Chart type: donut
+- 21-24: 72%
+- 25-29: 20%
+- 30-34: 5%
+- 35+: 3%</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_DIAGRAM</span><span class="type">Diagram</span><span class="label">Online Program Age Breakdown</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b48421dd810dbaff</span><span class="badge">diagram_data</span><p>Online Program Age Breakdown
+Chart type: donut
+- 21-24: 44.4%
+- 25-29: 14.8%
+- 30-34: 25.9%
+- 35+: 14.8%</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_DIAGRAM</span><span class="type">Diagram</span><span class="label">In-Person Program Gender Breakdown</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:0d7afa2670ae0337</span><span class="badge">diagram_data</span><p>In-Person Program Gender Breakdown
+Chart type: bar
+- Female: 48.1%
+- Male: 51.9%</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_DIAGRAM</span><span class="type">Diagram</span><span class="label">Online Program Gender Breakdown</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:18e547acd8ce46b8</span><span class="badge">diagram_data</span><p>Online Program Gender Breakdown
+Chart type: bar
+- Female: 44.4%
+- Male: 55.6%</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_DIAGRAM</span><span class="type">Diagram</span><span class="label">In-Person Program Work Experience</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:58d60ca87b69765c</span><span class="badge">diagram_data</span><p>In-Person Program Work Experience
+Chart type: bar
+- 0 Years: 61.2%
+- 1-3 Years: 27.9%
+- 4-5 Years: 4.3%
+- 6+ Years: 6.6%</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_DIAGRAM</span><span class="type">Diagram</span><span class="label">Online Program Work Experience</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:19040efe4fba40f3</span><span class="badge">diagram_data</span><p>Online Program Work Experience
+Chart type: bar
+- 0 Years: 29.6%
+- 1-3 Years: 40.7%
+- 4-5 Years: 11.1%
+- 6+ Years: 18.5%</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_DIAGRAM</span><span class="type">Diagram</span><span class="label">Top 5 In-Person Program Majors</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:194f71907001e9e4</span><span class="badge">diagram_data</span><p>Top 5 In-Person Program Majors
+Chart type: bar
+- Science: 30%
+- Math: 21%
+- Economics: 11%
+- Business: 8%
+- Finance: 5%</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_DIAGRAM</span><span class="type">Diagram</span><span class="label">Top 5 Online Program Majors</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:1a1b7b7f7151fabb</span><span class="badge">diagram_data</span><p>Top 5 Online Program Majors
+Chart type: bar
+- Science: 25%
+- Math: 21%
+- Economics: 11%
+- Business: 21%
+- Engineering: 21%</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_DIAGRAM</span><span class="type">Diagram</span><span class="label">Student Geographic Distribution</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:4b8f12801016ea22</span><span class="badge">diagram_data</span><p>Student Geographic Distribution
+Chart type: chart
+- United States: 71
+- Canada: 6
+- Mexico: 3
+- COL: 3
+- BOL: 1
+- France: 1
+- ESP: 2
+- GHA: 1
+- United Kingdom: 1
+- POL: 1
+- NGA: 1
+- UGA: 2
+- TUR: 1
+- SAU: 2
+- KAZ: 1
+- AF...</p></li></ul></details></li></ul></details></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Meet a Few of Our Students</span><span class="count">8</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:277040a098ae143a</span><span class="badge">p</span><p>A snapshot of the talented students in our MS in Applied Data Science program.</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:d414377430ab1091</span><span class="badge">span</span><p>I chose the MS-ADS program for its rigorous, industry-focused curriculum and the opportunity to learn from world-class faculty who bridge academic research with real-world applications. The program’s emphasis on hands-on...</p></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Age Breakdown (In-Person &amp; Online)</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:ef4b75be43e0f8ef</span><span class="badge">p</span><p>The MS in Applied Data Science program attracts learners at different stages of their academic and professional journeys. This chart compares age distribution across the Autumn 2025 in-person and online cohorts.</p></li></ul></details></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Gender Breakdown (In-Person &amp; Online)</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b5ef77d04368995e</span><span class="badge">p</span><p>Our students come from a broad range of backgrounds and experiences. Below is a comparison of gender representation across the Autumn 2025 in-person and online cohorts.</p></li></ul></details></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:2f45e6c415662eae</span><span class="badge">p</span><p>I chose this program due to a combination of theoretical learning and great connections to industry through the capstone project, events, and great alumni network.</p></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Work Experience (In-Person &amp; Online)</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:4c01d7568e7b47b5</span><span class="badge">p</span><p>Students enter the program with varied professional backgrounds—from early-career analysts to seasoned engineers and managers. This comparison shows the level of work experience represented in the Autumn 2025 in-person a...</p></li></ul></details></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Top 5 Undergraduate Majors (In-Person &amp; Online)</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:193a8f9ebc6c8403</span><span class="badge">p</span><p>Our students come from a wide range of academic foundations. The charts below highlight the most common undergraduate majors represented in the Autumn 2025 in-person and online cohorts.</p></li></ul></details></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Primary Citizenship (In-Person Students)</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:9c81ce61374db591</span><span class="badge">p</span><p>The Autumn 2025 in-person cohort includes students from around the world. This map highlights the primary citizenship of students in this incoming class.</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:04069ba2fdc25939</span><span class="badge">span</span><p>I ultimately chose the MS-ADS program because I liked how experienced the professors were in the industry. I also appreciate that we are taught necessary skills that are very relevant to today’s job market in analytics,...</p></li></ul></details></li></ul></details></li></ul></details></li></ul>
+    </section>
+    <section>
+      <h2>Chunks (19)</h2>
+      <div class="chunk-list">
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#1</span>
+                <span>page_header_content</span>
+              </div>
+              <h3>Our Students &gt; Page Header Content</h3>
+              <p>MS in Applied Data Science Our students are the best part of our Master&#39;s in Applied Data Science program. Meet some of our current students!</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#2</span>
+                <span>diagram_data</span>
+              </div>
+              <h3>Our Students &gt; Embedded Data Visualizations &gt; In-Person Program Age Breakdown</h3>
+              <p>In-Person Program Age Breakdown
+Chart type: donut
+- 21-24: 72%
+- 25-29: 20%
+- 30-34: 5%
+- 35+: 3%</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#3</span>
+                <span>diagram_data</span>
+              </div>
+              <h3>Our Students &gt; Embedded Data Visualizations &gt; Online Program Age Breakdown</h3>
+              <p>Online Program Age Breakdown
+Chart type: donut
+- 21-24: 44.4%
+- 25-29: 14.8%
+- 30-34: 25.9%
+- 35+: 14.8%</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#4</span>
+                <span>diagram_data</span>
+              </div>
+              <h3>Our Students &gt; Embedded Data Visualizations &gt; In-Person Program Gender Breakdown</h3>
+              <p>In-Person Program Gender Breakdown
+Chart type: bar
+- Female: 48.1%
+- Male: 51.9%</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#5</span>
+                <span>diagram_data</span>
+              </div>
+              <h3>Our Students &gt; Embedded Data Visualizations &gt; Online Program Gender Breakdown</h3>
+              <p>Online Program Gender Breakdown
+Chart type: bar
+- Female: 44.4%
+- Male: 55.6%</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#6</span>
+                <span>diagram_data</span>
+              </div>
+              <h3>Our Students &gt; Embedded Data Visualizations &gt; In-Person Program Work Experience</h3>
+              <p>In-Person Program Work Experience
+Chart type: bar
+- 0 Years: 61.2%
+- 1-3 Years: 27.9%
+- 4-5 Years: 4.3%
+- 6+ Years: 6.6%</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#7</span>
+                <span>diagram_data</span>
+              </div>
+              <h3>Our Students &gt; Embedded Data Visualizations &gt; Online Program Work Experience</h3>
+              <p>Online Program Work Experience
+Chart type: bar
+- 0 Years: 29.6%
+- 1-3 Years: 40.7%
+- 4-5 Years: 11.1%
+- 6+ Years: 18.5%</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#8</span>
+                <span>diagram_data</span>
+              </div>
+              <h3>Our Students &gt; Embedded Data Visualizations &gt; Top 5 In-Person Program Majors</h3>
+              <p>Top 5 In-Person Program Majors
+Chart type: bar
+- Science: 30%
+- Math: 21%
+- Economics: 11%
+- Business: 8%
+- Finance: 5%</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#9</span>
+                <span>diagram_data</span>
+              </div>
+              <h3>Our Students &gt; Embedded Data Visualizations &gt; Top 5 Online Program Majors</h3>
+              <p>Top 5 Online Program Majors
+Chart type: bar
+- Science: 25%
+- Math: 21%
+- Economics: 11%
+- Business: 21%
+- Engineering: 21%</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#10</span>
+                <span>diagram_data</span>
+              </div>
+              <h3>Our Students &gt; Embedded Data Visualizations &gt; Student Geographic Distribution</h3>
+              <p>Student Geographic Distribution
+Chart type: chart
+- United States: 71
+- Canada: 6
+- Mexico: 3
+- COL: 3
+- BOL: 1
+- France: 1
+- ESP: 2
+- GHA: 1
+- United Kingdom: 1
+- POL: 1
+- NGA: 1
+- UGA: 2
+- TUR: 1
+- SAU: 2
+- KAZ: 1
+- AFG: 1
+- PAK: 4
+- India: 22
+- China: 47
+- MNG: 1
+- THA: 1
+- VNM: 6
+- South Korea: 9
+- Japan: 2
+- PHL: 1
+- New Zealand: 1</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#11</span>
+                <span>p</span>
+              </div>
+              <h3>Our Students &gt; Meet a Few of Our Students</h3>
+              <p>A snapshot of the talented students in our MS in Applied Data Science program.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#12</span>
+                <span>span</span>
+              </div>
+              <h3>Our Students &gt; Meet a Few of Our Students</h3>
+              <p>I chose the MS-ADS program for its rigorous, industry-focused curriculum and the opportunity to learn from world-class faculty who bridge academic research with real-world applications. The program’s emphasis on hands-on learning through the capstone project particularly appealed to me, as it allows students to tackle complex, data-driven problems in collaboration with leading organizations.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#13</span>
+                <span>p</span>
+              </div>
+              <h3>Our Students &gt; Meet a Few of Our Students &gt; Age Breakdown (In-Person &amp; Online)</h3>
+              <p>The MS in Applied Data Science program attracts learners at different stages of their academic and professional journeys. This chart compares age distribution across the Autumn 2025 in-person and online cohorts.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#14</span>
+                <span>p</span>
+              </div>
+              <h3>Our Students &gt; Meet a Few of Our Students &gt; Gender Breakdown (In-Person &amp; Online)</h3>
+              <p>Our students come from a broad range of backgrounds and experiences. Below is a comparison of gender representation across the Autumn 2025 in-person and online cohorts.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#15</span>
+                <span>p</span>
+              </div>
+              <h3>Our Students &gt; Meet a Few of Our Students</h3>
+              <p>I chose this program due to a combination of theoretical learning and great connections to industry through the capstone project, events, and great alumni network.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#16</span>
+                <span>p</span>
+              </div>
+              <h3>Our Students &gt; Meet a Few of Our Students &gt; Work Experience (In-Person &amp; Online)</h3>
+              <p>Students enter the program with varied professional backgrounds—from early-career analysts to seasoned engineers and managers. This comparison shows the level of work experience represented in the Autumn 2025 in-person and online cohorts.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#17</span>
+                <span>p</span>
+              </div>
+              <h3>Our Students &gt; Meet a Few of Our Students &gt; Top 5 Undergraduate Majors (In-Person &amp; Online)</h3>
+              <p>Our students come from a wide range of academic foundations. The charts below highlight the most common undergraduate majors represented in the Autumn 2025 in-person and online cohorts.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#18</span>
+                <span>p</span>
+              </div>
+              <h3>Our Students &gt; Meet a Few of Our Students &gt; Primary Citizenship (In-Person Students)</h3>
+              <p>The Autumn 2025 in-person cohort includes students from around the world. This map highlights the primary citizenship of students in this incoming class.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#19</span>
+                <span>span</span>
+              </div>
+              <h3>Our Students &gt; Meet a Few of Our Students &gt; Primary Citizenship (In-Person Students)</h3>
+              <p>I ultimately chose the MS-ADS program because I liked how experienced the professors were in the industry. I also appreciate that we are taught necessary skills that are very relevant to today’s job market in analytics, which I didn’t get to experience in undergrad.</p>
+            </article>
+            </div>
+    </section>
+  </main>
+</body>
+</html>

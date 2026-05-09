@@ -1,0 +1,107 @@
+[
+  {
+    "label": "main",
+    "description": "UChicago MS in Applied Data Science program overview: mission, degree types offered (In-Person and Online), program highlights, and general program information.",
+    "page_id": "page:7b9e2af0a426bdaa",
+    "page_title": "Master's in Applied Data Science",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science"
+  },
+  {
+    "label": "in_person_program",
+    "description": "In-Person MSADS program details: 1-year track (intensive summer + autumn/winter/spring quarters) and 2-year track structure; required core courses (Data Engineering Platforms, Machine Learning, Leadership); elective concentrations; on-campus Chicago experience; schedule and format.",
+    "page_id": "page:fe9d95e97a7ee76f",
+    "page_title": "In-Person Program",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/in-person-program"
+  },
+  {
+    "label": "online_program",
+    "description": "Online MSADS program details: course schedule and format; asynchronous and synchronous learning; how the online program differs from in-person; delivery modality and student expectations.",
+    "page_id": "page:dd76146bcccd1e59",
+    "page_title": "Online Program",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/online-program"
+  },
+  {
+    "label": "course_progressions",
+    "description": "Detailed quarter-by-quarter course lists for each track and program type (in-person 1-year, in-person 2-year, online). Specific course names, sequencing, and elective options by academic quarter.",
+    "page_id": "page:4f1aba5696f12664",
+    "page_title": "Course Progressions",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/course-progressions"
+  },
+  {
+    "label": "faqs",
+    "description": "Comprehensive frequently asked questions covering all aspects of the MSADS program that prospective and current students may ask, including but not limited to: admissions requirements and prerequisites, scholarships and financial aid, housing and living arrangements, program format differences (1-year vs 2-year vs online), workload, internship and career support, graduation requirements, and any other program-related topics.",
+    "page_id": "page:a1d4f5293a26528e",
+    "page_title": "FAQs",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/faqs"
+  },
+  {
+    "label": "how_to_apply",
+    "description": "Application process and requirements: required materials (transcripts, letters of recommendation, personal statement), application rounds, deadlines, prerequisite coursework, and how to submit an application.",
+    "page_id": "page:7fb2f6ecae8feeeb",
+    "page_title": "How to Apply",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply"
+  },
+  {
+    "label": "tuition_fees_aid",
+    "description": "Program costs: per-course tuition, quarterly and total program fees, scholarship types and amounts, financial aid options, and cost of attendance for in-person and online tracks.",
+    "page_id": "page:a5c1f12af4c1e404",
+    "page_title": "Tuition, Fees, & Aid",
+    "source_url": "https://datascience.uchicago.edu/education/tuition-fees-aid"
+  },
+  {
+    "label": "events_deadlines",
+    "description": "Application deadlines by round, upcoming information sessions and virtual events, open house dates. Time-sensitive scheduling information for prospective applicants.",
+    "page_id": "page:67040130e69817d7",
+    "page_title": "Events & Deadlines",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/events-deadlines"
+  },
+  {
+    "label": "career_outcomes",
+    "description": "Career outcomes and post-graduation employment overview, career support services. NOTE: Employer and alumni company names are displayed as logo images on this page and are not accessible as text — only general career statistics and descriptions (in text form) are available.",
+    "page_id": "page:3b627f133d126e95",
+    "page_title": "Career Outcomes",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/career-outcomes"
+  },
+  {
+    "label": "capstone",
+    "description": "Capstone project program requirements, overview, and the capstone project archive index listing featured student projects across various industries.",
+    "page_id": "page:7bb1d6dfc9a88079",
+    "page_title": "Capstone Projects",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects"
+  },
+  {
+    "label": "capstone",
+    "description": "Capstone project program requirements, overview, and the capstone project archive index listing featured student projects across various industries.",
+    "page_id": "page:2543d2c914737192",
+    "page_title": "Capstone Project Archive",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive"
+  },
+  {
+    "label": "capstone_projects",
+    "description": "Detailed descriptions of individual capstone projects completed by MSADS students, covering domains such as healthcare AI, retail analytics, financial modeling, NLP, computer vision, LLM applications, and other applied data science topics. Use when asking about specific project topics, partner companies, or examples of student work.",
+    "page_id": "page:7bb1d6dfc9a88079",
+    "page_title": "Capstone Projects",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects"
+  },
+  {
+    "label": "instructors_staff",
+    "description": "MSADS faculty and staff directory: instructor names, their specializations, academic backgrounds, and industry experience. Use for questions about who teaches specific topics, faculty expertise, research interests, or staff contacts.",
+    "page_id": "page:f4f2b27925a19440",
+    "page_title": "Faculty, Instructors, Staff",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/instructors-staff"
+  },
+  {
+    "label": "our_students",
+    "description": "Current student demographics, backgrounds, and student spotlights. Information about the MSADS student community, diversity, and student experience.",
+    "page_id": "page:1c2b530a9935e8fd",
+    "page_title": "Our Students",
+    "source_url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students"
+  },
+  {
+    "label": "explore_campus",
+    "description": "Campus life, Chicago living, and the in-person student experience. Information about the UChicago campus environment, Chicago city life, and extracurricular aspects of the in-person program.",
+    "page_id": "page:d9c2c01f1083e9e6",
+    "page_title": "Explore the MS-ADS Campus",
+    "source_url": "https://datascience.uchicago.edu/explore-the-ms-ads-campus"
+  }
+]

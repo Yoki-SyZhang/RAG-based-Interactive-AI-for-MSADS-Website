@@ -1,0 +1,1355 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Faculty, Instructors, Staff debug</title>
+  <style>
+    :root { color-scheme: light; --ink:#171717; --muted:#666; --line:#ddd; --soft:#f6f6f4; --accent:#800000; }
+    body { margin:0; font-family: Arial, sans-serif; color:var(--ink); background:#fff; }
+    header { padding:24px 32px; border-bottom:1px solid var(--line); background:#fafafa; }
+    header h1 { margin:0 0 8px; font-size:28px; }
+    header a { color:var(--accent); word-break:break-word; }
+    main { display:grid; grid-template-columns:minmax(360px, 44%) 1fr; gap:24px; padding:24px 32px; }
+    section { min-width:0; }
+    h2 { margin:0 0 14px; font-size:18px; }
+    ul { list-style:none; padding-left:18px; margin:6px 0; border-left:1px solid var(--line); }
+    summary { cursor:pointer; padding:7px 8px; border-radius:6px; }
+    summary:hover { background:var(--soft); }
+    .type { display:inline-block; min-width:92px; color:var(--accent); font-weight:700; }
+    .label { font-weight:600; }
+    .rel { color:var(--muted); margin-right:8px; font-size:12px; }
+    .count,.badge { margin-left:8px; color:var(--muted); font-size:12px; border:1px solid var(--line); border-radius:999px; padding:1px 6px; }
+    .chunk-node { margin:8px 0 8px 6px; padding:10px; background:var(--soft); border-radius:6px; }
+    .chunk-node p { margin:6px 0 0; color:#333; line-height:1.45; white-space:pre-wrap; }
+    .chunk-id { font-family: Consolas, monospace; color:#444; }
+    .chunk-list { display:grid; gap:12px; }
+    .chunk-card { border:1px solid var(--line); border-radius:8px; padding:14px; }
+    .chunk-card h3 { margin:8px 0; font-size:14px; line-height:1.35; color:var(--accent); }
+    .chunk-card p { margin:0; line-height:1.5; white-space:pre-wrap; }
+    .chunk-meta { display:flex; gap:8px; color:var(--muted); font-size:12px; }
+    @media (max-width: 900px) { main { grid-template-columns:1fr; padding:18px; } header { padding:18px; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Faculty, Instructors, Staff</h1>
+    <a href="https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/instructors-staff">https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/instructors-staff</a>
+  </header>
+  <main>
+    <section>
+      <h2>Graph Tree</h2>
+      <ul><li class="node"><details open><summary><span class="type">Page</span><span class="label">Faculty, Instructors, Staff</span><span class="count">4</span></summary><ul><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Page Header Content</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:56fd064c66b2dcb3</span><span class="badge">page_header_content</span><p>MS in Applied Data Science</p></li></ul></details></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:722eea544233a864</span><span class="badge">p</span><p>As a Master’s in Applied Data Science student, you will learn from faculty and instructors who are public- and private-sector leaders in emerging AI/AutoML technologie s. They are drawn from technologically savvy busines...</p></li><li class="node"><details><summary><span class="rel">HAS_PEOPLE_GROUP</span><span class="type">PeopleGroup</span><span class="label">Faculty, Instructors</span><span class="count">31</span></summary><ul><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Greg Green</span><span class="count">6</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:fcb81492ca9eb20c</span><span class="badge">person_position</span><p>Greg Green (Faculty, Instructors): Senior Instructional Professor; Senior Director of the DSI Polsky Transform Initiative; Senior Director of DSI Executive and Professional Education</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:ea86d98790c9239c</span><span class="badge">person_bio</span><p>Greg Green is Senior Instructional Professor and Director of the MS in Applied Data Science Program at the University of Chicago, and Senior Director for Industrial Partnerships and Strategy at the Data Science Institute...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:eff4a2a73c81631c</span><span class="badge">person_bio</span><p>Dr. Green is reshaping the content and approaches used to educate the next generation of professional data scientists at the University of Chicago. Additionally, Greg is designing new, creative offerings more deeply conn...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:163775566cf6115c</span><span class="badge">person_bio</span><p>Throughout his professional career, Greg has used his expertise in digital strategies, business analytics, and new product development to drive rapid revenue growth and accelerate business transformation. His previous wo...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:fd12b95c8c6e771a</span><span class="badge">person_bio</span><p>Greg’s industry roles include Chief Analytics Officer at Harland Clarke Holdings, Director at Google, EVP/Managing Director at Publicis Groupe, and Analytics Practice Lead at PwC. Greg’s patented cloud-based media analyt...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:3a8e83854d2d053c</span><span class="badge">person_bio</span><p>Greg holds a Doctor of Philosophy in Mathematics from Claremont Graduate School and a Master of Science in Statistics from Michigan State University. Born in Owosso, Michigan, Greg is married to Jill, an artist, and thei...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Arnab Bose, PhD</span><span class="count">4</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:a068f4e1db3d4bba</span><span class="badge">person_position</span><p>Arnab Bose, PhD (Faculty, Instructors): Associate Senior Instructional Professor, Program Director of MS in Applied Data Science Online Program; Chief Scientific Officer, UST AlphaAI</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:3cfade1f3caa725f</span><span class="badge">person_bio</span><p>Dr. Arnab Bose is an Associate Senior Instructional Professor, Faculty Director of the online program, and Curriculum Director in the Master of Science in Applied Data Science program at the University of Chicago Data Sc...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:5dee878ba7e4de28</span><span class="badge">person_bio</span><p>As an entrepreneur, Arnab had a startup focused on industrial applications of AI in healthcare, finance, semiconductor, and retail that he successfully exited post-acquisition. He is an advisor to AI companies and the Ch...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:133681b611eaaa2d</span><span class="badge">person_bio</span><p>Arnab has published a book, book chapters, and numerous peer-reviewed conference &amp; journal papers. He enjoys public speaking and has given talks in the US, Australia, Saudi Arabia, and India. He is an avid traveler and h...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Francisco Azeredo, PhD</span><span class="count">6</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:2af29576d9fa9c3d</span><span class="badge">person_position</span><p>Francisco Azeredo, PhD (Faculty, Instructors): Associate Clinical Professor</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:55739cf79c1fa160</span><span class="badge">person_bio</span><p>Francisco Azeredo is a financial economist and decision scientist with over 15 years of experience working for leading financial and consulting firms in the Chicago area.</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:bbed49e21b2fa678</span><span class="badge">person_bio</span><p>He is presently an Associate Clinical Professor at the University of Chicago. P reviously, he was the senior vice-president at Northern Trust, working on research and development of quantitative strategies for fixed inco...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:1853c6afd21ecd2c</span><span class="badge">person_bio</span><p>Prior to joining asset management, Francisco led strategic and quantitative driven projects across Northern Trust’s three major business units. His experience included leading analytics projects on foreign exchange globa...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:12adcf78f751d563</span><span class="badge">person_bio</span><p>His prior work experience includes credit risk, operational risk and macroeconomic modeling for stress testing and capital planning, analysis of complex financial instruments, interest rate modeling, and econometric and...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:71fa0754b1353946</span><span class="badge">person_bio</span><p>His research in financial economics was recognized by leading economists in the Handbook of the Equity Risk Premium, Intermediate Financial Theory, and an encyclopedia of behavior economics. He currently teaches reinforc...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Anil D Chaturvedi, PhD</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:e62ae2cdc9ee5ff5</span><span class="badge">person_position</span><p>Anil D Chaturvedi, PhD (Faculty, Instructors): Associate Clinical Professor</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:4f00bb04f5780322</span><span class="badge">person_bio</span><p>Anil Chaturvedi has over 35 years of professional experience at companies such as AT&amp;T Bell Labs, Kraft Foods, Capital One, and Accenture. He has provided consulting services to Bank of America, Fannie Mae, Johnson &amp; Joh...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Nick Kadochnikov</span><span class="count">3</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:24e6b4a9241d5895</span><span class="badge">person_position</span><p>Nick Kadochnikov (Faculty, Instructors): Associate Clinical Professor</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:7f5c567195f6c261</span><span class="badge">person_bio</span><p>Nick Kadochnikov is an Associate Clinical Professor at University of Chicago Data Science Institute as well as head of Artificial Intelligence and Advanced Technology group at Harbor Global, where he is at the forefront...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:6e4db7cf8cb0a266</span><span class="badge">person_bio</span><p>Before joining Harbor, Nick served as a Director of AI at William Blair, where he oversaw the development of advanced AI/ML capabilities and intelligent workflows to transform Investment Banking processes. Prior to that,...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Ming-Long Lam, PhD</span><span class="count">4</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:6357bb4b6ce0ad9f</span><span class="badge">person_position</span><p>Ming-Long Lam, PhD (Faculty, Instructors): Assistant Clinical Professor</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:042c5a8bf11cc7ce</span><span class="badge">person_bio</span><p>I am a full-stack data scientist, software developer, and educator with diverse backgrounds. I have thirty years of experience in applying data science in commercial software development, property and casualty insurance,...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:f9c72649ebcbe95c</span><span class="badge">person_bio</span><p>I co-published the book “Using Data Analysis to Improve Student Learning: Toward 100% Proficiency” in 2006. I published the e-book “A Practitioner’s Guide to Machine Learning” in 2020.</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:175e12c3ac29a07d</span><span class="badge">person_bio</span><p>I received my Ph.D. in statistics from the University of Chicago.</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Roger Moore, MBA</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:53d1d78a5e4dbefc</span><span class="badge">person_position</span><p>Roger Moore, MBA (Faculty, Instructors): Associate Clinical Professor</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:dd51cd0945d05f5c</span><span class="badge">person_bio</span><p>Roger is an Associate Clinical Professor at the University of Chicago. He teaches Leadership Skills in the Master of Science in Applied Data Science program. Previously Roger was VP, Analytics and Customer Operations at...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Utku Pamuksuz, PhD</span><span class="count">5</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b1c8a1004738ef77</span><span class="badge">person_position</span><p>Utku Pamuksuz, PhD (Faculty, Instructors): Associate Clinical Professor; Co-Founder Inference Analytics</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:a345d4ce1f856a81</span><span class="badge">person_bio</span><p>Dr. Pamuksuz, a professor of AI, specializes in applied mathematics, machine/deep learning, responsible and generative AI. He has contributed to various analytics journals, including IEEE Transactions on Artificial Intel...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:5bd708ebf3f0ae0b</span><span class="badge">person_bio</span><p>Since joining the University of Chicago as a faculty member in 2018, Dr. Pamuksuz has taught a range of subjects, including data mining, machine learning, and linear &amp; non-linear models, along with more specialized areas...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:da08c34e2ef12da8</span><span class="badge">person_bio</span><p>In the professional realm, Dr. Pamuksuz has an impressive record. He has led data science teams at several Fortune 500 companies, provided expert consultancy in architecting cloud-based machine learning solutions, and co...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:a38a08b59b25cf9e</span><span class="badge">person_bio</span><p>Dr. Pamuksuz’s academic path has taken him through some of Illinois’ most prestigious universities. He completed his MS in Computer Engineering/Science at Northwestern University and went on to earn his Ph.D. from UIUC....</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Donald Patchell, MSE, MBA</span><span class="count">3</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b1897644baddb9d6</span><span class="badge">person_position</span><p>Donald Patchell, MSE, MBA (Faculty, Instructors): Associate Clinical Professor</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:d2a170a6ce934959</span><span class="badge">person_bio</span><p>Over more than 30 years, Don has served in a variety of assignments that utilize research and data analysis to provide impact to major CPG, Retail and Foodservice companies. Don currently serves Associate Clinical Profes...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:c0c19a3ff6892cb1</span><span class="badge">person_bio</span><p>Don was also an active duty U.S. Army officer for 11 years – serving in troop leadership positions in South Korea, Germany and the U.S. Don graduated from the United States Military Academy at West Point with a BS in Eng...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Jonathan Williams, MS</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:9fed53a93fc85702</span><span class="badge">person_position</span><p>Jonathan Williams, MS (Faculty, Instructors): Assistant Clinical Professor</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:e25c434e2c3ffec9</span><span class="badge">person_bio</span><p>Jonathan Williams has been working in statistical consulting and data science education for fourteen years and currently teaches full-time at the University of Chicago. Previously, he managed data science teams at Civis...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Shaddy Abado, PhD</span><span class="count">3</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:06dee7a214a3aa2a</span><span class="badge">person_position</span><p>Shaddy Abado, PhD (Faculty, Instructors): Adjunct Associate Professor; Lead Data Scientist at Ulta Beauty</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:abf7a9e232154422</span><span class="badge">person_bio</span><p>Shaddy Abado is a Lead Data Scientist at Ulta Beauty, where he focuses on developing machine learning models to optimize marketing strategies and enhance personalized experiences. With a background in engineering, throug...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:130565a490bfab46</span><span class="badge">person_bio</span><p>Currently, Shaddy is an Adjunct Associate Professor at the University of Chicago for the MS in Applied Data Science program. He holds three US patents, has presented his research at national conferences, and has publishe...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Gizem Agar, PhD</span><span class="count">3</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:7744f4a29d52202d</span><span class="badge">person_position</span><p>Gizem Agar, PhD (Faculty, Instructors): Instructor; Analytics &amp; Transformation Leader</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:d950da808bfe2f4d</span><span class="badge">person_bio</span><p>Gizem Agar, PhD is an expert in data analytics, machine learning, and transformation with a passion for mentoring. With 15+ years of interdisciplinary academic and industry experience, her latest work is in manufacturing...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:e86a39c3f2494e24</span><span class="badge">person_bio</span><p>Dr. Agar teaches Principles of Data Mining, Python for Analytics, Supply Chain Optimization, Capstone courses and advises students. She holds a PhD and MSc in Industrial Engineering from University of Oklahoma, and BSc i...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Mike Anderson</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:563af939b9e20d2e</span><span class="badge">person_position</span><p>Mike Anderson (Faculty, Instructors): Adjunct Assistant Professor</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:29dda93c46f9ecb8</span><span class="badge">person_bio</span><p>Mike is a Staff Data Scientist at Google. His role involves consulting with large advertisers to help develop data science solutions to their marketing-related challenges. Before joining Google, Mike was a Senior Data Sc...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Steve Barry</span><span class="count">4</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:ce9825dd1d20c90b</span><span class="badge">person_position</span><p>Steve Barry (Faculty, Instructors): Instructor; Head of Technology and Data, Savant Wealth Management</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:46531ab39863c24a</span><span class="badge">person_bio</span><p>Steve Barry serves as technology and data leader at a global investment bank. He brings more than 25 years of leadership experience in the realms of technology and finance. Furthermore, Steve’s expertise extends to data...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:221d7963e8f5bba4</span><span class="badge">person_bio</span><p>Steve is currently a Lecturer in the Master’s in Applied Data Science at the University of Chicago. He graduated with a master’s degree from the same program in 2020. His background in finance and technology, has been pi...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:a8619b688e02a6f8</span><span class="badge">person_bio</span><p>Complementing his professional experience, Steve served as a Teaching Assistant in the same University of Chicago Master’s program for three years for multiple courses including: BDP, DEPA, ML, and Data Visualization. Th...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Shree Bharadwaj, MS</span><span class="count">3</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:370b14d8d64d4d58</span><span class="badge">person_position</span><p>Shree Bharadwaj, MS (Faculty, Instructors): Instructor; Director and Innovation Fellow at West Monroe</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:c0b565791022cf6c</span><span class="badge">person_bio</span><p>Shree Bharadwaj works at West Monroe, a management consulting company. As the AI Center of Excellence lead for M&amp;A, he advises private equity and venture capital firms and C-level executives on value creation, post-close...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:08e4136fbfcfafb7</span><span class="badge">person_bio</span><p>Bharadwaj was elected to the Global Standards Architecture Board at GS1, where he worked with global industry leaders to develop standards, road maps, and governance and compliance requirements relating to food services,...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Sanjay Boddhu, PhD</span><span class="count">3</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b4b514369fb10901</span><span class="badge">person_position</span><p>Sanjay Boddhu, PhD (Faculty, Instructors): Instructor; Capstone and Advisor, Head of UniMap Automation at HERE Technologies</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:87d0f9de2901653b</span><span class="badge">person_bio</span><p>Sanjay Boddhu is the Head of AI/ML Engineering at HERE Technologies, a global leader in location data and platform services. He has over 15 years of experience in leading and mentoring diverse and distributed teams in de...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:ac5622866d499a2c</span><span class="badge">person_bio</span><p>At HERE, he is leading the UniMap Automation initiative, which leverages AI and machine learning to transform raw spatial and nonspatial data from various sources, such as imagery, probe data, car camera feeds, lidar, an...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Fouad Bousetouane, PhD</span><span class="count">6</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:d5f467f57c505cd1</span><span class="badge">person_position</span><p>Fouad Bousetouane, PhD (Faculty, Instructors): Instructor; Co-Founder and Chief AI Officer at InterspectAI Inc.</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:bfae600feefbcb3e</span><span class="badge">person_bio</span><p>Dr. Fouad Bousetouane is a distinguished expert and innovator in artificial intelligence and machine learning. Currently, he serves as the Co-Founder and Chief AI Officer at InterspectAI Inc., working to revolutionize th...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:1b41693aa2cd5f5e</span><span class="badge">person_bio</span><p>Professionally, Dr. Bousetouane has a successful track record of leading large machine learning and AI teams, delivering solutions that drive significant business impact for Fortune 500 companies. His leadership has shap...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:7285f6ab40639117</span><span class="badge">person_bio</span><p>Dr. Bousetouane’s academic background is rooted in rigorous research and scholarship. He completed his doctorate at UBMA in Algeria, in collaboration with ULCO in France, and later received an accredited Ph.D. from the U...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:d5e28de7d94bf567</span><span class="badge">person_bio</span><p>Throughout his career, Dr. Bousetouane has been honored with multiple awards, including recognition as one of the top 30 AI scientists by MIT-Arabia Magazine, the Timmy Award for Best Tech Manager in Chicago (2020), and...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:d94f0a42ee0989ff</span><span class="badge">person_bio</span><p>A strong advocate for ethical AI practices, Dr. Bousetouane actively participates in AI panels, mentors aspiring professionals, and champions responsible AI frameworks that ensure a positive societal impact, solidifying...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Shahbaz Chaudhary, MA</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:ba3ba4c43c9d5d11</span><span class="badge">person_position</span><p>Shahbaz Chaudhary, MA (Faculty, Instructors): Instructor; Manager of Data Science, Charles Schwab</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:d30cd3da84f58e96</span><span class="badge">person_bio</span><p>Shahbaz Chaudhary has over fifteen years of experience developing software systems for financial companies, specializing, most recently, in trading systems. His free and open-source tools are widely used on Wall Street....</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Sebastien Donadio, PhD</span><span class="count">3</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:88aef190e712bdd6</span><span class="badge">person_position</span><p>Sebastien Donadio, PhD (Faculty, Instructors): Instructor; Chief Technology Officer, TradAir</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:a07939603a3bc254</span><span class="badge">person_bio</span><p>Sebastien Donation has nearly two decades of experience in the fields of high-performance computing, software design and development, and financial computing. Currently an architect in Bloomberg Office of the CTO, he has...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:afa083b9e0300f98</span><span class="badge">person_bio</span><p>Sebastien has taught various computer science and financial engineering courses over the past fifteen years at a variety of academic institutions, including the University of Versailles, Columbia University’s Fu Foundati...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Ignas Grabauskas</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:5bcfff808ca4b109</span><span class="badge">person_position</span><p>Ignas Grabauskas (Faculty, Instructors): Instructor; Data Scientist at Simpson Thacher</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b3a3b74c501f7f37</span><span class="badge">person_bio</span><p>Ignas Grabauskas is a Data Scientist at Simpson, Thacher, &amp; Bartlett, a premier law firm well-known for its expertise in financial and corporate law. Ignas has over five years of experience applying machine learning and...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Batu Gundogdu, PhD</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:92d5c02cb479234f</span><span class="badge">person_position</span><p>Batu Gundogdu, PhD (Faculty, Instructors): Instructor; Research Assistant Professor (BSD), Senior AI Engineer at Eva</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:1fa175a270cb7f2d</span><span class="badge">person_bio</span><p>Batu Gundogdu holds a Ph.D. in Electrical Engineering and brings over 15 years of experience developing deep-learning models across the fields of speech, language, and medical imaging. Most recently, he served as Researc...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Justin Kurland, PhD</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:f848ddf8f10c0820</span><span class="badge">person_position</span><p>Justin Kurland, PhD (Faculty, Instructors): Instructor; Vice President, Tech Fellow in the Engineering Division at Goldman Sachs</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:bc892abdd415cd47</span><span class="badge">person_bio</span><p>Dr. Justin Kurland is Vice President, Tech Fellow in the Engineering Division at Goldman Sachs. Justin’s 20+ years in data and analytics include a senior lectureship in the Department of Computer Science at the Universit...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Jeong-Yoon Lee, PhD</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:0f93f5f760efb1c2</span><span class="badge">person_position</span><p>Jeong-Yoon Lee, PhD (Faculty, Instructors): Lecturer</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:c18ff5eb57dc21b7</span><span class="badge">person_bio</span><p>Jeong-Yoon Lee is a Sr. Manager in Applied Science at Uber, where he leads research and development in personalization, targeting, optimization, and causal inference for marketing. Jeong is also leading the CausalML proj...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">John Navarro</span><span class="count">4</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:31ebe2d675be86a3</span><span class="badge">person_position</span><p>John Navarro (Faculty, Instructors): Adjunct Assistant Professor</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:c8da2443dbfdca7e</span><span class="badge">person_bio</span><p>John Navarro is an Adjunct Instructor in the Master of Science in Applied Data Science program at the University of Chicago, bringing a unique blend of academic expertise and real-world industry experience to the classro...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:0dee9a3162c662c7</span><span class="badge">person_bio</span><p>Before assuming his current role, John built a diverse career in consulting, data science, and finance. He was a Strategy Consulting/Data Science Manager at McKinsey &amp; Company, a Data Science Manager at Accenture, and a...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:647c9cd742043ddc</span><span class="badge">person_bio</span><p>A double graduate of the University of Chicago, John holds a Bachelor of Arts in Economics and a Master of Science in Applied Data Science. His teaching draws directly from his professional experiences, integrating stati...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Danny Ng, PhD</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:d438c2aa7efcd700</span><span class="badge">person_position</span><p>Danny Ng, PhD (Faculty, Instructors): Instructor; Director of Machine Learning at Expedia Group</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:13348c71c0d22068</span><span class="badge">person_bio</span><p>Danny Ng is a Director of Machine Learning at Expedia Group. At Expedia, one of the world’s leading travel companies, Danny leads a team of scientists on developing machine learning models for travel search experience. D...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Ashish Pujari</span><span class="count">3</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:1b727aeff6855fca</span><span class="badge">person_position</span><p>Ashish Pujari (Faculty, Instructors): Adjunct Associate Professor</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:8cdb50ca5b80413d</span><span class="badge">person_bio</span><p>Ashish Pujari is a Data and AI consultant, practitioner, and educator with over 20 years of experience in in machine learning, big data, and cloud computing. He has led large global technology and data science teams and...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:53525c9adfa70a55</span><span class="badge">person_bio</span><p>As a Principal ML/AI Architect at AWS, Ashish provides strategic guidance to enterprise customers on leveraging the cloud for AI and Machine Learning. Prior to joining Amazon, he served in various technology leadership r...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Jenny Schmidt</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:fe236b07d261f8b3</span><span class="badge">person_position</span><p>Jenny Schmidt (Faculty, Instructors): Instructor; Analytics Talent Development Specialist</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b8a499abc3113bcd</span><span class="badge">person_bio</span><p>Jenny Schmidt, founder of J Schmidt Consulting, is an expert in developing analytics talent. As an experienced leadership and career coach, Jenny works with those seeking to enter the analytics field and analytics profes...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Jeanette Shutay, PhD</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:ba8e3cc95169d161</span><span class="badge">person_position</span><p>Jeanette Shutay, PhD (Faculty, Instructors): Instructor; President &amp; Chief Data Officer at Shutay Consulting</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b02a1d43756d06b1</span><span class="badge">person_bio</span><p>Dr. Jeanette Shutay is currently the President and Chief Data Officer at Shutay Consulting. Jeanette is a strategic research and data science leader with extensive experience building and scaling advanced analytics and d...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Fan Yang, PhD</span><span class="count">3</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:ddb3388f4ab6a1ab</span><span class="badge">person_position</span><p>Fan Yang, PhD (Faculty, Instructors): Instructor; Senior Manager at Discover Financial Service</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:2731b311f42177cf</span><span class="badge">person_bio</span><p>Fan Yang is an experienced professional in the financial industry, blending over a decade of expertise in data science and financial modeling with a background in consumer banking. Specializing in Deposits, Residential L...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:19baf0e6aa3cf470</span><span class="badge">person_bio</span><p>His professional narrative also includes tenures at BMO, where he led the Marketing Advanced Data Analytics team, and KeyBank/Northern Trust, focusing on Comprehensive Capital Analysis and Review (CCAR) and Current Expec...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Dmitri Sidorov</span><span class="count">5</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:8e8a5496f87f27de</span><span class="badge">person_position</span><p>Dmitri Sidorov (Faculty, Instructors): Instructor; Principal Data Scientist at Abbott</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:1cd5630e96c1c51d</span><span class="badge">person_bio</span><p>Dr. Dmitri Sidorov is a Principal Data Scientist at Abbott Laboratories, a multinational healthcare company, specializing in research-based drugs, medical devices, diagnostics, and nutritional products.</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:f4e92753ccb3dd00</span><span class="badge">person_bio</span><p>He earned a PhD in Physics from Oklahoma State University with a focus in analysis of data from particle physics experiments and applying statistics.</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:2392cd6bc08f5ae0</span><span class="badge">person_bio</span><p>Dmitri has over a decade of professional experience analyzing Big Data, using various methods and techniques, and generating relevant and actionable insights. He teaches R for Data Science and Big Data and Cloud Computin...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b2df58eee17c24be</span><span class="badge">person_bio</span><p>This experience gave him a strong belief that any endeavor can be improved by intelligent use of data.</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Igor Yakushin, PhD</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:21dde3a57e01cd98</span><span class="badge">person_position</span><p>Igor Yakushin, PhD (Faculty, Instructors): Adjunct Assistant Professor; Applied Scientist</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:f42e0954eaf8783c</span><span class="badge">person_bio</span><p>PhD in Theoretical Physics, MS in Computer Science. Currently – Applied Scientist at Amazon. Previous jobs: Computational Scientist at the Argonne National Laboratory, Scientist at LIGO project of California Institute of...</p></li></ul></details></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PEOPLE_GROUP</span><span class="type">PeopleGroup</span><span class="label">Staff</span><span class="count">21</span></summary><ul><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Taylor Alexander, MA</span><span class="count">4</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:4f52733c47f91e60</span><span class="badge">person_position</span><p>Taylor Alexander, MA (Staff): Associate Director, Instructional Services, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:98bebdb0d4bb300e</span><span class="badge">person_bio</span><p>Taylor Alexander serves as the Associate Director of Instructional Services for the MS in Applied Data Science program. A graduate of the University of Chicago’s Harris School of Public Policy, she plays a key role in ov...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:5e2c757abfc3d562</span><span class="badge">person_bio</span><p>With over a decade of experience in higher education, Taylor brings a strong background in international comparative education and foreign credential evaluation. Her interest in data science was sparked during her gradua...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:a187312372508c29</span><span class="badge">person_bio</span><p>Her current research centers on the ethical application of artificial intelligence in higher education, reflecting her commitment to advancing thoughtful, responsible innovation in the field.</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Briana Allen, MEd</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:6ebdd4a2235cdf9a</span><span class="badge">person_position</span><p>Briana Allen, MEd (Staff): Executive Director, MS Applied Data Science Program</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:21e67e4d67efd5a2</span><span class="badge">person_bio</span><p>Briana Allen serves as the Executive Director of the MS Applied Data Science Program. Briana oversees the day-to-day responsibilities of the Instructional Services and Operations teams. Briana holds a Master of Technolog...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Jose Alvarado</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:673ea19938dbe9af</span><span class="badge">person_position</span><p>Jose Alvarado (Staff): Associate Director, Enrollment Management, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:26d0d75e585ef214</span><span class="badge">person_bio</span><p>Jose Alvarado serves as the Associate Director of Enrollment Management for the MS in Applied Data Science program. Prior to his current role, Jose served as a higher education professional specializing in recruitment an...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Josie Badillo Sittig</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:5a09ab04c7e2a26b</span><span class="badge">person_position</span><p>Josie Badillo Sittig (Staff): Assistant Director, Marketing/Advertising &amp; Communications, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:ae253c605ef31b1d</span><span class="badge">person_bio</span><p>Josie Badillo Sittig currently holds the role of Assistant Director of Marketing/Advertising &amp; Communications for the MS in Applied Data Science program. With an extensive background exclusively in the advertising agency...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Zach Brown</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b51a158f0a5179b7</span><span class="badge">person_position</span><p>Zach Brown (Staff): Operations Coordinator</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:2c1232d87dec33eb</span><span class="badge">person_bio</span><p>Zach Brown is an Operations Coordinator for the Applied Data Science Operations team. In this role, he manages room reservations and oversees classroom technology for MS-ADS classes and events within NBC Tower. Drawing o...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Kendall Cox</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:42e91a458612c18e</span><span class="badge">person_position</span><p>Kendall Cox (Staff): Operations Coordinator</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:97806c8eb0cfee5e</span><span class="badge">person_bio</span><p>Kendall Cox has been a valuable member of the University of Chicago for nearly six years. He graduated from St. Thomas University in Miami, Florida, with a bachelor’s degree in business administration and management. Ken...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Nick DiAntonio, MEd</span><span class="count">3</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:9b9f393c85d0c654</span><span class="badge">person_position</span><p>Nick DiAntonio, MEd (Staff): Graduate Academic Advisor, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:7bbf0e6d6f6ab7a1</span><span class="badge">person_bio</span><p>Nick DiAntonio serves as one of the Graduate Academic Advisors for the MS in Applied Data Science program at the University of Chicago. Nick primarily advises students in the In-Person Program. As a Graduate Academic Adv...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:eef32c520fbb4c7c</span><span class="badge">person_bio</span><p>Prior to working at the University of Chicago, Nick earned his Bachelor of Science in Education and Master of Education from Kent State University in Kent, Ohio. Nick has worked professionally in higher education since 2...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Lauren Isaacman Darga, MA</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:72296a61c00825cf</span><span class="badge">person_position</span><p>Lauren Isaacman Darga, MA (Staff): Assistant Director, External Partnerships, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:8094fb621364ae7f</span><span class="badge">person_bio</span><p>Lauren Isaacman Darga is the Assistant Director of External Partnerships for the MS in Applied Data Science program at the University of Chicago. In this role, she is committed to establishing meaningful relationships an...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Matthew Harris-Ridker</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:41a9a848c3dd76f4</span><span class="badge">person_position</span><p>Matthew Harris-Ridker (Staff): Assistant Director, Enrollment Management, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:c632382b8315b48a</span><span class="badge">person_bio</span><p>Matthew Harris-Ridker serves as the Assistant Director of Enrollment Management for the MS in Applied Data Science program. Prior to his current role, Matthew has served as a higher education professional working in recr...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Henry Igunbor</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:7df1c132b8aa9a67</span><span class="badge">person_position</span><p>Henry Igunbor (Staff): Senior Manager of Facilities and IT</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:b7d6c90f8cf400c5</span><span class="badge">person_bio</span><p>Henry Igunbor currently holds the role of Senior Manager of Facilities and IT, overseeing the 28th floor of the NBC Tower. His primary focus is continuous improvement, ensuring that both facilities and technology operate...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Emma Kerr-Ketchum, MA</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:6fceb47710fc29a9</span><span class="badge">person_position</span><p>Emma Kerr-Ketchum, MA (Staff): Assistant Director, Instructional Services, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:2e546b00014e9530</span><span class="badge">person_bio</span><p>Emma Kerr-Ketchum is the Assistant Director of Instructional Services for the MS in Applied Data Science (MS-ADS) program. Before this role, she worked as an Admissions Assistant for the MS in Computer Science program at...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Samantha Kruse</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:fdd4220eb33b06ae</span><span class="badge">person_position</span><p>Samantha Kruse (Staff): Associate Director, Student Affairs, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:d14f5f4d76fc01e7</span><span class="badge">person_bio</span><p>Samantha Kruse serves as the Associate Director of Student Affairs for the MS in Applied Data Science. After starting a career in community organizing and politics, Samantha realized her passion for working with students...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Lauren Milewski, MSEd</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:7b72c37281a9b1b1</span><span class="badge">person_position</span><p>Lauren Milewski, MSEd (Staff): Instructional Designer, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:eb32e3c26ed56dd5</span><span class="badge">person_bio</span><p>Lauren is the Instructional Designer for the MS in Applied Data Science program. She helps instructors craft learning experiences that engage students in rigorous academic work and prepare them for fulfilling careers. Mo...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Alison Ossyra</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:a0615de31627301c</span><span class="badge">person_position</span><p>Alison Ossyra (Staff): Director, External Partnerships and Career Services, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:268d011e1b6f21a3</span><span class="badge">person_bio</span><p>Alison Ossyra is the Director of External Partnerships and Career Services for the Master’s in Applied Data Science (MS-ADS) program. Since 2017, Alison has been dedicated to supporting MS-ADS students in various capacit...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">DuJuan Smith, PhD</span><span class="count">3</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:9bf420540de98d27</span><span class="badge">person_position</span><p>DuJuan Smith, PhD (Staff): Director, Student Affairs, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:f5a23dd478ac90be</span><span class="badge">person_bio</span><p>Dr. DuJuan Smith currently serves as the Director of Student Affairs for the MS in Applied Data Science program at the University of Chicago. In his role, he oversees graduate academic advising, student-related matters,...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:e50c916033c22088</span><span class="badge">person_bio</span><p>and an M.S.Ed. in Clinical Mental Health Counseling from Northern Illinois University (NIU). In his spare time, he teaches youth photography, loves to travel, and is engaged in Brazilian jiu-jitsu. DuJuan is an active an...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Daniel Truesdale, MPP</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:211ff132809f682a</span><span class="badge">person_position</span><p>Daniel Truesdale, MPP (Staff): Director, Enrollment Management and Analytics, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:30c10affdcf27a52</span><span class="badge">person_bio</span><p>Daniel Truesdale serves as the Director of Enrollment Management &amp; Analytics for the MS in Applied Data Science in-person and online programs. He is also the host of ChatADS, the program’s podcast exploring real-world ap...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Patrick Vonesh</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:6ebc481e448ad3d7</span><span class="badge">person_position</span><p>Patrick Vonesh (Staff): Senior Assistant Director, Enrollment Management, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:eeddcfe7b368effd</span><span class="badge">person_bio</span><p>Patrick Vonesh serves as the Senior Assistant Director of Enrollment Management for the Applied Data Science Program. Prior to his current role, Patrick worked with academic institutions across the United States in enrol...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Taylor Wallace, MEd</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:4d07a272bd06504c</span><span class="badge">person_position</span><p>Taylor Wallace, MEd (Staff): Senior Graduate Academic Advisor, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:e4f848062a1baf4d</span><span class="badge">person_bio</span><p>Taylor Wallace serves as the primary Academic Advisor for the MS in Applied Data Science in-person program with last names A-K. Taylor received her B.S from The University of Texas at Austin in Deaf Education, and her M....</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Jennifer Wei, MEM</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:85dadd35254bc75a</span><span class="badge">person_position</span><p>Jennifer Wei, MEM (Staff): Assistant Director, Career Services, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:90adf6072f86e847</span><span class="badge">person_bio</span><p>Jennifer Wei is the Assistant Director of Career Services for the Master’s in Applied Data Science (MS-ADS) program. Her focus is on advising MS-ADS students in their career journey through individualized sessions and ca...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Samantha Widemon, MNA</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:0a954316e3f37978</span><span class="badge">person_position</span><p>Samantha Widemon, MNA (Staff): Senior Graduate Academic Advisor, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:af979a9282946b36</span><span class="badge">person_bio</span><p>Samantha Widemon serves as a Senior Graduate Academic Advisors for the MS in Applied Data Science in-person and online programs at the University of Chicago. Samantha earned her Bachelor’s in Communication Studies degree...</p></li></ul></details></li><li class="node"><details><summary><span class="rel">HAS_PERSON</span><span class="type">Person</span><span class="label">Ben Wiebers</span><span class="count">2</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:1871e3eaf860173a</span><span class="badge">person_position</span><p>Ben Wiebers (Staff): Assistant Director of Career Services, MS in Applied Data Science</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:ae3821ef1c4bed55</span><span class="badge">person_bio</span><p>Ben Wiebers is the Assistant Director of Career Services for the Master’s in Applied Data Science (MS-ADS) program. He brings a holistic approach to career advising, with a special emphasis on online students within the...</p></li></ul></details></li></ul></details></li></ul></details></li></ul>
+    </section>
+    <section>
+      <h2>Chunks (145)</h2>
+      <div class="chunk-list">
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#1</span>
+                <span>page_header_content</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Page Header Content</h3>
+              <p>MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#2</span>
+                <span>p</span>
+              </div>
+              <h3>Faculty, Instructors, Staff</h3>
+              <p>As a Master’s in Applied Data Science student, you will learn from faculty and instructors who are public- and private-sector leaders in emerging AI/AutoML technologie s. They are drawn from technologically savvy businesses in the Chicagoland region–one of the country’s top hubs for data-intensive industries and forward-thinking companies. Our program leadership and staff support the success of our diverse student body and maintain our curricular excellence in the evolving field of data science.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#3</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Greg Green</h3>
+              <p>Greg Green (Faculty, Instructors): Senior Instructional Professor; Senior Director of the DSI Polsky Transform Initiative; Senior Director of DSI Executive and Professional Education</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#4</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Greg Green &gt; Bio</h3>
+              <p>Greg Green is Senior Instructional Professor and Director of the MS in Applied Data Science Program at the University of Chicago, and Senior Director for Industrial Partnerships and Strategy at the Data Science Institute. Dr. Green helps the University of Chicago professional data science students learn to apply data science to solve complex industry problems with greater impact.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#5</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Greg Green &gt; Bio</h3>
+              <p>Dr. Green is reshaping the content and approaches used to educate the next generation of professional data scientists at the University of Chicago. Additionally, Greg is designing new, creative offerings more deeply connected to MS and PhD research programs in Data Science, Computer Science, Statistics, and Financial Mathematics. New course offerings developed and launched since joining the University of Chicago include an innovative approach to “Leadership in Data Science and Artificial Intelligence”, “Consulting in Data Science” and “Your Career in Data Science”.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#6</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Greg Green &gt; Bio</h3>
+              <p>Throughout his professional career, Greg has used his expertise in digital strategies, business analytics, and new product development to drive rapid revenue growth and accelerate business transformation. His previous work bringing innovation to an academic environment included authoring a Marketing Analytics course, designing a pre-requisite applied statistics course and serving as a lecturer for Marketing Analytics at Northwestern University.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#7</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Greg Green &gt; Bio</h3>
+              <p>Greg’s industry roles include Chief Analytics Officer at Harland Clarke Holdings, Director at Google, EVP/Managing Director at Publicis Groupe, and Analytics Practice Lead at PwC. Greg’s patented cloud-based media analytics platform was highlighted in Harvard Business Review and Fast Company .</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#8</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Greg Green &gt; Bio</h3>
+              <p>Greg holds a Doctor of Philosophy in Mathematics from Claremont Graduate School and a Master of Science in Statistics from Michigan State University. Born in Owosso, Michigan, Greg is married to Jill, an artist, and their adult children include two more artists, a teacher, and an engineer. Greg and his family enjoy snowboarding, snow/water skiing and live theatre—as well as good food and friendships. Their passion for the environment is reflected in a love for Lake Michigan where they like to spend as much of the summer as possible.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#9</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Arnab Bose, PhD</h3>
+              <p>Arnab Bose, PhD (Faculty, Instructors): Associate Senior Instructional Professor, Program Director of MS in Applied Data Science Online Program; Chief Scientific Officer, UST AlphaAI</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#10</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Arnab Bose, PhD &gt; Bio</h3>
+              <p>Dr. Arnab Bose is an Associate Senior Instructional Professor, Faculty Director of the online program, and Curriculum Director in the Master of Science in Applied Data Science program at the University of Chicago Data Science Institute. He has over two and a half decades of industry experience and enjoys working with data to influence behavioral outcomes.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#11</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Arnab Bose, PhD &gt; Bio</h3>
+              <p>As an entrepreneur, Arnab had a startup focused on industrial applications of AI in healthcare, finance, semiconductor, and retail that he successfully exited post-acquisition. He is an advisor to AI companies and the Chief Scientific Officer at UST AlphaAI. At the University of Chicago, Arnab teaches Machine Learning, Machine Learning Operations, Time Series Analysis and Forecasting, and Data Science in Healthcare.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#12</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Arnab Bose, PhD &gt; Bio</h3>
+              <p>Arnab has published a book, book chapters, and numerous peer-reviewed conference &amp; journal papers. He enjoys public speaking and has given talks in the US, Australia, Saudi Arabia, and India. He is an avid traveler and has visited the 7 wonders of the world. Arnab holds MS and PhD degrees from the University of Southern California and a BTech from the Indian Institute of Technology, Kharagpur, India.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#13</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Francisco Azeredo, PhD</h3>
+              <p>Francisco Azeredo, PhD (Faculty, Instructors): Associate Clinical Professor</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#14</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Francisco Azeredo, PhD &gt; Bio</h3>
+              <p>Francisco Azeredo is a financial economist and decision scientist with over 15 years of experience working for leading financial and consulting firms in the Chicago area.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#15</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Francisco Azeredo, PhD &gt; Bio</h3>
+              <p>He is presently an Associate Clinical Professor at the University of Chicago. P reviously, he was the senior vice-president at Northern Trust, working on research and development of quantitative strategies for fixed income and equities at Northern Trust Asset Management.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#16</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Francisco Azeredo, PhD &gt; Bio</h3>
+              <p>Prior to joining asset management, Francisco led strategic and quantitative driven projects across Northern Trust’s three major business units. His experience included leading analytics projects on foreign exchange global revenue forecast, wealth management client deposit modeling, wealth management digital client behavior modeling, treasury deposit modeling, derivatives and hedging solutions and foreign exchange high-frequency algorithmic execution cost. He also conducted research on foreign exchange algorithmic execution methods and securities lending price modeling.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#17</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Francisco Azeredo, PhD &gt; Bio</h3>
+              <p>His prior work experience includes credit risk, operational risk and macroeconomic modeling for stress testing and capital planning, analysis of complex financial instruments, interest rate modeling, and econometric and predictive analysis for litigation matters involving financial institutions and multinational corporations.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#18</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Francisco Azeredo, PhD &gt; Bio</h3>
+              <p>His research in financial economics was recognized by leading economists in the Handbook of the Equity Risk Premium, Intermediate Financial Theory, and an encyclopedia of behavior economics. He currently teaches reinforcement learning, statistical analysis, non-linear statistical modeling, and optimization methods in the MS in Applied Data Science program at the University of Chicago and has five years of prior experience teaching at Northwestern University, the University of California, Santa Barbara and Riverside. He holds a PhD in Economics from the University of California, Santa Barbara.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#19</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Anil D Chaturvedi, PhD</h3>
+              <p>Anil D Chaturvedi, PhD (Faculty, Instructors): Associate Clinical Professor</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#20</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Anil D Chaturvedi, PhD &gt; Bio</h3>
+              <p>Anil Chaturvedi has over 35 years of professional experience at companies such as AT&amp;T Bell Labs, Kraft Foods, Capital One, and Accenture. He has provided consulting services to Bank of America, Fannie Mae, Johnson &amp; Johnson, and Procter &amp; Gamble. His general research interests include enhancing business value using data science. He has patented and published advanced algorithms for predictive modeling, market segmentation, new product development, product positioning, customer loyalty, consumer promotion mix optimization, and brand strategy. He earned his PhD from Rutgers University and an MBA from IIM Ahmedabad, India.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#21</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Nick Kadochnikov</h3>
+              <p>Nick Kadochnikov (Faculty, Instructors): Associate Clinical Professor</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#22</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Nick Kadochnikov &gt; Bio</h3>
+              <p>Nick Kadochnikov is an Associate Clinical Professor at University of Chicago Data Science Institute as well as head of Artificial Intelligence and Advanced Technology group at Harbor Global, where he is at the forefront of creating cutting-edge Generative AI tools and advanced tech solutions. These innovative capabilities assist law firms and corporate legal teams in enhancing their service quality, making legal processes more streamlined, accessible, and requiring less manual effort.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#23</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Nick Kadochnikov &gt; Bio</h3>
+              <p>Before joining Harbor, Nick served as a Director of AI at William Blair, where he oversaw the development of advanced AI/ML capabilities and intelligent workflows to transform Investment Banking processes. Prior to that, Nick dedicated 20 years at IBM, successfully crafting AI solutions for a wide range of enterprise functions such as supply-chain, sales, marketing, finance, procurement, and legal. In his final role at IBM Watson Health Consulting, his main focus was on utilizing AI to address healthcare challenges, enhancing patient outcomes, elevating population health, and optimizing the efficiency of clinical trials.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#24</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Ming-Long Lam, PhD</h3>
+              <p>Ming-Long Lam, PhD (Faculty, Instructors): Assistant Clinical Professor</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#25</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Ming-Long Lam, PhD &gt; Bio</h3>
+              <p>I am a full-stack data scientist, software developer, and educator with diverse backgrounds. I have thirty years of experience in applying data science in commercial software development, property and casualty insurance, and retail financial service industries. I specialize in algorithm development with an emphasis on statistical learning, machine learning, and artificial intelligence.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#26</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Ming-Long Lam, PhD &gt; Bio</h3>
+              <p>I co-published the book “Using Data Analysis to Improve Student Learning: Toward 100% Proficiency” in 2006. I published the e-book “A Practitioner’s Guide to Machine Learning” in 2020.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#27</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Ming-Long Lam, PhD &gt; Bio</h3>
+              <p>I received my Ph.D. in statistics from the University of Chicago.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#28</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Roger Moore, MBA</h3>
+              <p>Roger Moore, MBA (Faculty, Instructors): Associate Clinical Professor</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#29</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Roger Moore, MBA &gt; Bio</h3>
+              <p>Roger is an Associate Clinical Professor at the University of Chicago. He teaches Leadership Skills in the Master of Science in Applied Data Science program. Previously Roger was VP, Analytics and Customer Operations at Entytle. Entytle provides a SaaS tool supporting customer installed base automated sales with AI and machine learning. Roger has also worked at Gartner, Sagence, Booz &amp; Co, PwC, Diamond Management &amp; Technology Partners and the Boston Consulting Group. Roger is active in the data, analytics and technology communities in the Chicago area. He attends many MeetUps, roundtables and industry events. Roger founded and chairs the Chicago Booth Big Data &amp; Analytics Roundtable.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#30</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Utku Pamuksuz, PhD</h3>
+              <p>Utku Pamuksuz, PhD (Faculty, Instructors): Associate Clinical Professor; Co-Founder Inference Analytics</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#31</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Utku Pamuksuz, PhD &gt; Bio</h3>
+              <p>Dr. Pamuksuz, a professor of AI, specializes in applied mathematics, machine/deep learning, responsible and generative AI. He has contributed to various analytics journals, including IEEE Transactions on Artificial Intelligence, and has shared his insights at several national and international conferences.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#32</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Utku Pamuksuz, PhD &gt; Bio</h3>
+              <p>Since joining the University of Chicago as a faculty member in 2018, Dr. Pamuksuz has taught a range of subjects, including data mining, machine learning, and linear &amp; non-linear models, along with more specialized areas like AI-data science for leaders and Generative AI Research. His supervision of capstone theses has often centered on computer vision and natural language processing.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#33</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Utku Pamuksuz, PhD &gt; Bio</h3>
+              <p>In the professional realm, Dr. Pamuksuz has an impressive record. He has led data science teams at several Fortune 500 companies, provided expert consultancy in architecting cloud-based machine learning solutions, and co-founded Inference Analytics in 2018. Under his leadership, Inference Analytics was recognized in 2023 as one of the top Machine Learning Companies in Illinois, marking a significant milestone in healthcare analytics in Chicago.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#34</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Utku Pamuksuz, PhD &gt; Bio</h3>
+              <p>Dr. Pamuksuz’s academic path has taken him through some of Illinois’ most prestigious universities. He completed his MS in Computer Engineering/Science at Northwestern University and went on to earn his Ph.D. from UIUC. Today, he contributes his expertise as a faculty member at the University of Chicago. This journey, connecting three significant academic institutions, reflects a strong foundation and dedication to his field and a deep engagement with the state’s rich educational landscape. Outside of his professional endeavors, Dr. Pamuksuz is enthusiastic about hackathons, not only participating in several but also organizing them twice annually since 2020. His involvement has yielded notable success in various data challenges. As a sports fan, he follows Champions League Soccer, supporting Galatasaray, and enjoys engaging in basketball and volleyball during his leisure time. He also enjoys smooth/gypsy jazz where you can find him on Wednesdays in his favorite place Green Mill.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#35</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Donald Patchell, MSE, MBA</h3>
+              <p>Donald Patchell, MSE, MBA (Faculty, Instructors): Associate Clinical Professor</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#36</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Donald Patchell, MSE, MBA &gt; Bio</h3>
+              <p>Over more than 30 years, Don has served in a variety of assignments that utilize research and data analysis to provide impact to major CPG, Retail and Foodservice companies. Don currently serves Associate Clinical Professor at the University of Chicago. Previously Don served as Board President of Chicago Chapter of the American Statistical Association and as Program Director of the MS, Business Analytics program at DePaul University. As Senior VP, Analytics for HAVI Group, Don helped pioneer new analytics implementations for McDonald’s and Coca-Cola. Prior to joining HAVI Group, Don was Director of Advertising Analytics for Sears, Roebuck &amp; Co. – bringing cutting edge analytics of Sears’ media (tv, radio, print) support to drive ROI based decision making. Don has also managed research and analytics for several major brands for Kraft Foods and site location analytics and modeling for Hallmark Cards.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#37</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Donald Patchell, MSE, MBA &gt; Bio</h3>
+              <p>Don was also an active duty U.S. Army officer for 11 years – serving in troop leadership positions in South Korea, Germany and the U.S. Don graduated from the United States Military Academy at West Point with a BS in Engineering. Additionally, he has an MSE in Operations Research from The University of Texas at Austin and MBA from the University of Kansas.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#38</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Jonathan Williams, MS</h3>
+              <p>Jonathan Williams, MS (Faculty, Instructors): Assistant Clinical Professor</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#39</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Jonathan Williams, MS &gt; Bio</h3>
+              <p>Jonathan Williams has been working in statistical consulting and data science education for fourteen years and currently teaches full-time at the University of Chicago. Previously, he managed data science teams at Civis Analytics, working on behalf of public sector clients, and before that he worked as a vice president at Compass Lexecon, providing and supporting expert reports and expert testimony for litigation. Jonathan earned his BA and MS degrees in statistics from the University of Chicago (’07, ’08) and is also an alumni of the Master of Science in Analytics (now known as MS in Applied Data Science ) program (’16). His focuses include regression analysis, data visualization, technical writing, financial valuation, mortgage portfolio modeling, and damages estimation.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#40</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Shaddy Abado, PhD</h3>
+              <p>Shaddy Abado, PhD (Faculty, Instructors): Adjunct Associate Professor; Lead Data Scientist at Ulta Beauty</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#41</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Shaddy Abado, PhD &gt; Bio</h3>
+              <p>Shaddy Abado is a Lead Data Scientist at Ulta Beauty, where he focuses on developing machine learning models to optimize marketing strategies and enhance personalized experiences. With a background in engineering, throughout his career, Shaddy’s interests span various fields ranging from researching light-fluid interactions for aero-optics applications, developing data driven solutions for equipment predictive maintenance, and consulting companies throughout their digital transformation. Shaddy is passionate about teaching and engaging students in insightful education. Since 2012, he has been instructing graduate-level courses in various academic programs.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#42</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Shaddy Abado, PhD &gt; Bio</h3>
+              <p>Currently, Shaddy is an Adjunct Associate Professor at the University of Chicago for the MS in Applied Data Science program. He holds three US patents, has presented his research at national conferences, and has published papers in peer-reviewed journals and conference proceedings. Shaddy holds a PhD in aerospace and mechanical engineering from the University of Notre Dame.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#43</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Gizem Agar, PhD</h3>
+              <p>Gizem Agar, PhD (Faculty, Instructors): Instructor; Analytics &amp; Transformation Leader</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#44</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Gizem Agar, PhD &gt; Bio</h3>
+              <p>Gizem Agar, PhD is an expert in data analytics, machine learning, and transformation with a passion for mentoring. With 15+ years of interdisciplinary academic and industry experience, her latest work is in manufacturing, pricing, logistics, and supply chain. She has received the CEO Award and Outstanding Achievement in Analytics awards for her contributions to Caterpillar.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#45</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Gizem Agar, PhD &gt; Bio</h3>
+              <p>Dr. Agar teaches Principles of Data Mining, Python for Analytics, Supply Chain Optimization, Capstone courses and advises students. She holds a PhD and MSc in Industrial Engineering from University of Oklahoma, and BSc in IE and a BSc in CE from Cankaya University, Turkiye. She was a visiting scholar at the Kuhne Logistics University (Hamburg, Germany) and at the Technical University of Vienna (Vienna, Austria).</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#46</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Mike Anderson</h3>
+              <p>Mike Anderson (Faculty, Instructors): Adjunct Assistant Professor</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#47</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Mike Anderson &gt; Bio</h3>
+              <p>Mike is a Staff Data Scientist at Google. His role involves consulting with large advertisers to help develop data science solutions to their marketing-related challenges. Before joining Google, Mike was a Senior Data Scientist at Nielsen, analyzing smart TV data. Mike has a PhD in Astrophysics from the University of Michigan. He also worked as a postdoctoral researcher at the Max-Planck Institute for Astrophysics in Germany before moving to Data Science.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#48</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Steve Barry</h3>
+              <p>Steve Barry (Faculty, Instructors): Instructor; Head of Technology and Data, Savant Wealth Management</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#49</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Steve Barry &gt; Bio</h3>
+              <p>Steve Barry serves as technology and data leader at a global investment bank. He brings more than 25 years of leadership experience in the realms of technology and finance. Furthermore, Steve’s expertise extends to data science and AI, with a demonstrated proficiency in platforms like AWS, Azure, and GCP.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#50</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Steve Barry &gt; Bio</h3>
+              <p>Steve is currently a Lecturer in the Master’s in Applied Data Science at the University of Chicago. He graduated with a master’s degree from the same program in 2020. His background in finance and technology, has been pivotal in applying data science in practical contexts.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#51</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Steve Barry &gt; Bio</h3>
+              <p>Complementing his professional experience, Steve served as a Teaching Assistant in the same University of Chicago Master’s program for three years for multiple courses including: BDP, DEPA, ML, and Data Visualization. This role allowed him to bridge the gap between academic knowledge and its application in the finance and tech industries. Steve is an enthusiastic lifelong learner that provides him unique perspective to communicate complex concepts clearly.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#52</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Shree Bharadwaj, MS</h3>
+              <p>Shree Bharadwaj, MS (Faculty, Instructors): Instructor; Director and Innovation Fellow at West Monroe</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#53</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Shree Bharadwaj, MS &gt; Bio</h3>
+              <p>Shree Bharadwaj works at West Monroe, a management consulting company. As the AI Center of Excellence lead for M&amp;A, he advises private equity and venture capital firms and C-level executives on value creation, post-close synergies, and data and analytics (BI/AI) strategies focused on business outcomes. In his previous executive leadership roles at Syndigo and IRI, he led the product ownership, data strategy, data science, next-gen platform and M&amp;A integrations. His expertise revolves around growth and innovation, leadership and operational excellence. Additionally, his focus revolve around automation and driving decisioning using AI/ML, data engineering at scale using on-premise and cloud platforms, effective data visualizations, model-driven design, and algorithimic thinking.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#54</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Shree Bharadwaj, MS &gt; Bio</h3>
+              <p>Bharadwaj was elected to the Global Standards Architecture Board at GS1, where he worked with global industry leaders to develop standards, road maps, and governance and compliance requirements relating to food services, healthcare, retail, supply chain, and CPG/FMCG verticals. His experience spans across multiple industries that include AdTech, EdTech, Fintech, healthcare, MarTech, public safety, retail, and telecom in organizations that range from startups to Fortune 100 companies. His interests include His interests include Intelligent Systems and Robotics, Machine Learning at scale, Data Engineering, Data Visualization &amp; Knowledge Engineering.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#55</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Sanjay Boddhu, PhD</h3>
+              <p>Sanjay Boddhu, PhD (Faculty, Instructors): Instructor; Capstone and Advisor, Head of UniMap Automation at HERE Technologies</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#56</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Sanjay Boddhu, PhD &gt; Bio</h3>
+              <p>Sanjay Boddhu is the Head of AI/ML Engineering at HERE Technologies, a global leader in location data and platform services. He has over 15 years of experience in leading and mentoring diverse and distributed teams in developing state-of-the-art applications and solutions in the domains of Computer Vision, Image Processing, Natural Language Processing, Predictive Analytics, and Data Science Strategy/Modeling. He holds a Ph.D. in Computer Science and Engineering from Wright State University and is a Senior Member of the IEEE.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#57</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Sanjay Boddhu, PhD &gt; Bio</h3>
+              <p>At HERE, he is leading the UniMap Automation initiative, which leverages AI and machine learning to transform raw spatial and nonspatial data from various sources, such as imagery, probe data, car camera feeds, lidar, and IoT data, into an actionable, navigable digital map that is updated in near real-time. He is also responsible for designing and deploying algorithms at scale, managing product roadmaps and stakeholder engagements, and driving innovation and excellence in map automation and computer vision. His mission is to revolutionize how maps are created and maintained, and to enable new use cases and opportunities for autonomous and robotic mobility.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#58</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Fouad Bousetouane, PhD</h3>
+              <p>Fouad Bousetouane, PhD (Faculty, Instructors): Instructor; Co-Founder and Chief AI Officer at InterspectAI Inc.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#59</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Fouad Bousetouane, PhD &gt; Bio</h3>
+              <p>Dr. Fouad Bousetouane is a distinguished expert and innovator in artificial intelligence and machine learning. Currently, he serves as the Co-Founder and Chief AI Officer at InterspectAI Inc., working to revolutionize the human resources industry through advanced AI-driven solutions. Dr. Bousetouane also teaches Generative AI at the University of Chicago, where he mentors master’s students, guiding them through high-impact projects that prepare the next generation of AI professionals with real-world applications.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#60</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Fouad Bousetouane, PhD &gt; Bio</h3>
+              <p>Professionally, Dr. Bousetouane has a successful track record of leading large machine learning and AI teams, delivering solutions that drive significant business impact for Fortune 500 companies. His leadership has shaped cross-functional AI initiatives, cementing his reputation as an innovator in AI-driven business transformation.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#61</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Fouad Bousetouane, PhD &gt; Bio</h3>
+              <p>Dr. Bousetouane’s academic background is rooted in rigorous research and scholarship. He completed his doctorate at UBMA in Algeria, in collaboration with ULCO in France, and later received an accredited Ph.D. from the University of Nevada, Las Vegas (UNLV). His postdoctoral work at UNLV focused on deep learning for multimodal data, leading to numerous publications in top-tier journals and conferences. As a respected reviewer, he contributes his expertise to prominent journals and conferences, including IET-Image Processing Journal, IEEE Transactions on Intelligent Transportation Systems, IEEE-IROS2012, and IEEE-ITSC-2015.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#62</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Fouad Bousetouane, PhD &gt; Bio</h3>
+              <p>Throughout his career, Dr. Bousetouane has been honored with multiple awards, including recognition as one of the top 30 AI scientists by MIT-Arabia Magazine, the Timmy Award for Best Tech Manager in Chicago (2020), and designation as a top emerging leader by Marquis Emerging Leaders Magazine in 2024. His leadership in AI innovation also earned his team a place on Fortune’s list of “America’s Most Innovative Teams.” Additionally, Dr. Bousetouane was appointed by Amazon/AWS as one of the judges for the Foundation and Generative AI Model Development Awards.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#63</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Fouad Bousetouane, PhD &gt; Bio</h3>
+              <p>A strong advocate for ethical AI practices, Dr. Bousetouane actively participates in AI panels, mentors aspiring professionals, and champions responsible AI frameworks that ensure a positive societal impact, solidifying his influence in AI innovation and education.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#64</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Shahbaz Chaudhary, MA</h3>
+              <p>Shahbaz Chaudhary, MA (Faculty, Instructors): Instructor; Manager of Data Science, Charles Schwab</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#65</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Shahbaz Chaudhary, MA &gt; Bio</h3>
+              <p>Shahbaz Chaudhary has over fifteen years of experience developing software systems for financial companies, specializing, most recently, in trading systems. His free and open-source tools are widely used on Wall Street. Three years ago, he made the switch to data science. He graduated from the University of Chicago’s Master of Science in Analytics program, where his team won top honors for their capstone project. He is currently working at Charles Schwab as a manager of data science.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#66</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Sebastien Donadio, PhD</h3>
+              <p>Sebastien Donadio, PhD (Faculty, Instructors): Instructor; Chief Technology Officer, TradAir</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#67</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Sebastien Donadio, PhD &gt; Bio</h3>
+              <p>Sebastien Donation has nearly two decades of experience in the fields of high-performance computing, software design and development, and financial computing. Currently an architect in Bloomberg Office of the CTO, he has a wide variety of professional experience, including serving as CTO of a FX/Crypto trading shop, head of software engineering at HC Technologies, quantitative trading strategy software developer at Sun Trading, partner at high-frequency trading hedge fund AienTech, and a technological leader in creating operating systems for the Department of Defense. He also has research experience with Bull, and as an IT Credit Risk Manager with Société Générale in France.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#68</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Sebastien Donadio, PhD &gt; Bio</h3>
+              <p>Sebastien has taught various computer science and financial engineering courses over the past fifteen years at a variety of academic institutions, including the University of Versailles, Columbia University’s Fu Foundation School of Engineering and Applied Science, University of Chicago and NYU Tandon School of Engineering. Courses taught include: Computer Architecture, Parallel Architecture, Operating Systems, Machine Learning, Advanced Programming, Real-time Smart Systems, Computing for Finance in Python, and Advanced Computing for Finance. Sebastien holds a PhD in High Performance Computing Optimization, an MBA in Finance and Management, and an MSc in Analytics from the University of Chicago. His main passion is technology, but he is also a scuba diving instructor and an experienced rock-climber.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#69</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Ignas Grabauskas</h3>
+              <p>Ignas Grabauskas (Faculty, Instructors): Instructor; Data Scientist at Simpson Thacher</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#70</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Ignas Grabauskas &gt; Bio</h3>
+              <p>Ignas Grabauskas is a Data Scientist at Simpson, Thacher, &amp; Bartlett, a premier law firm well-known for its expertise in financial and corporate law. Ignas has over five years of experience applying machine learning and deep learning techniques to the finance and legal domains. His recent work includes using LLMs for various tasks such as document classification, customized named-entity recognition (NER), and summarization. Ignas holds a BA in Physics from the University of Chicago and is an alumnus of the MS in Applied Data Science program.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#71</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Batu Gundogdu, PhD</h3>
+              <p>Batu Gundogdu, PhD (Faculty, Instructors): Instructor; Research Assistant Professor (BSD), Senior AI Engineer at Eva</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#72</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Batu Gundogdu, PhD &gt; Bio</h3>
+              <p>Batu Gundogdu holds a Ph.D. in Electrical Engineering and brings over 15 years of experience developing deep-learning models across the fields of speech, language, and medical imaging. Most recently, he served as Research Faculty in the Department of Radiology at the University of Chicago for four years, where he led AI efforts at the MRI Research Center. Dr. Gundogdu is currently a Senior AI Engineer at Eva, a startup building next-generation AI compute platforms. In the UChicago MS in Applied Data Science program, he shares his practical insights and experiences with students on being an AI engineer and scientist across diverse venues—including research institutions (UChicago MRI Research Center), corporate companies (Analog Devices – ADI), government (Navy and NATO), and startups (Eva). He teaches courses on Bayesian Machine Learning for Generative AI and Advanced Linear Algebra for Machine Learning.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#73</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Justin Kurland, PhD</h3>
+              <p>Justin Kurland, PhD (Faculty, Instructors): Instructor; Vice President, Tech Fellow in the Engineering Division at Goldman Sachs</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#74</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Justin Kurland, PhD &gt; Bio</h3>
+              <p>Dr. Justin Kurland is Vice President, Tech Fellow in the Engineering Division at Goldman Sachs. Justin’s 20+ years in data and analytics include a senior lectureship in the Department of Computer Science at the University of Waikato, 50+ peer-reviewed publications, and numerous open-source contributions in Machine Learning and Times Series forecasting. With degrees from Rutgers University, Boston University, and University College London, Justin also has extensive data science consulting experience working with organizations like Microsoft and the UK Home Office.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#75</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Jeong-Yoon Lee, PhD</h3>
+              <p>Jeong-Yoon Lee, PhD (Faculty, Instructors): Lecturer</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#76</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Jeong-Yoon Lee, PhD &gt; Bio</h3>
+              <p>Jeong-Yoon Lee is a Sr. Manager in Applied Science at Uber, where he leads research and development in personalization, targeting, optimization, and causal inference for marketing. Jeong is also leading the CausalML project, an open-source Python package that provides a suite of causal machine-learning algorithms based on recent research. He has co-organized the causal machine learning tutorial and workshops (CMLKDD) at KDD since 2021. As an avid participant in machine learning competitions, Jeong won the KDD Cup in 2012 and 2015 and was ranked in the top 10 at Kaggle in 2015. He also served as the KDD Cup co-chair in 2018. Prior to joining Uber, Jeong was a Sr. Research Scientist at Netflix, a Sr. Applied ML Scientist at Microsoft, and the Chief Data Scientist at Conversion Logic. Jeong received his Ph.D. in Computer Science from the University of Southern California and his B.S. in Electrical Engineering from Seoul National University.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#77</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; John Navarro</h3>
+              <p>John Navarro (Faculty, Instructors): Adjunct Assistant Professor</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#78</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; John Navarro &gt; Bio</h3>
+              <p>John Navarro is an Adjunct Instructor in the Master of Science in Applied Data Science program at the University of Chicago, bringing a unique blend of academic expertise and real-world industry experience to the classroom. He currently serves as Chief Financial Officer at John Burns Construction Company, where he leads financial operations, drives long-term strategic planning, and implements advanced analytics to guide organizational decision-making.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#79</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; John Navarro &gt; Bio</h3>
+              <p>Before assuming his current role, John built a diverse career in consulting, data science, and finance. He was a Strategy Consulting/Data Science Manager at McKinsey &amp; Company, a Data Science Manager at Accenture, and a Senior Data Scientist at 84.51°, a leading data analytics firm. Earlier in his career, he specialized in algorithmic trading and financial modeling with HC Technologies, International Trading Group, and StoneX Group.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#80</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; John Navarro &gt; Bio</h3>
+              <p>A double graduate of the University of Chicago, John holds a Bachelor of Arts in Economics and a Master of Science in Applied Data Science. His teaching draws directly from his professional experiences, integrating statistical modeling, computational methods, and strategic insight to help students bridge theory with practice. Known for his industry-informed approach and commitment to mentorship, he challenges students to think critically, apply rigorous analytics, and connect their work to real-world impact.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#81</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Danny Ng, PhD</h3>
+              <p>Danny Ng, PhD (Faculty, Instructors): Instructor; Director of Machine Learning at Expedia Group</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#82</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Danny Ng, PhD &gt; Bio</h3>
+              <p>Danny Ng is a Director of Machine Learning at Expedia Group. At Expedia, one of the world’s leading travel companies, Danny leads a team of scientists on developing machine learning models for travel search experience. Danny is also an Adjunct Lecturer at the University of Chicago where he teaches graduate courses for the Master of Science in Applied Data Science program. Danny earned his PhD in Statistics from the University of Chicago.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#83</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Ashish Pujari</h3>
+              <p>Ashish Pujari (Faculty, Instructors): Adjunct Associate Professor</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#84</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Ashish Pujari &gt; Bio</h3>
+              <p>Ashish Pujari is a Data and AI consultant, practitioner, and educator with over 20 years of experience in in machine learning, big data, and cloud computing. He has led large global technology and data science teams and consulted for Fortune 500 companies in banking, finance, healthcare, insurance, and manufacturing.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#85</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Ashish Pujari &gt; Bio</h3>
+              <p>As a Principal ML/AI Architect at AWS, Ashish provides strategic guidance to enterprise customers on leveraging the cloud for AI and Machine Learning. Prior to joining Amazon, he served in various technology leadership roles at Credera, GLG, IRI, and Pegasystems. Ashish holds a Master of Science in Analytics from the University of Chicago and BS in Electrical Engineering from the National Institute of Technology, Rourkela.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#86</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Jenny Schmidt</h3>
+              <p>Jenny Schmidt (Faculty, Instructors): Instructor; Analytics Talent Development Specialist</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#87</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Jenny Schmidt &gt; Bio</h3>
+              <p>Jenny Schmidt, founder of J Schmidt Consulting, is an expert in developing analytics talent. As an experienced leadership and career coach, Jenny works with those seeking to enter the analytics field and analytics professionals to advance in their careers, get their ideas implemented, develop executive presence, and perform at a high level. She also partners with analytics leaders and HR executives to develop analytics talent and facilitates team-building workshops to improve the productivity and effectiveness of analytics teams. Jenny is an expert panelist for the International Institute for Analytics (IIA) and a founder of the Des Moines Data &amp; Analytics Meetup, a networking group for data and analytics professionals.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#88</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Jeanette Shutay, PhD</h3>
+              <p>Jeanette Shutay, PhD (Faculty, Instructors): Instructor; President &amp; Chief Data Officer at Shutay Consulting</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#89</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Jeanette Shutay, PhD &gt; Bio</h3>
+              <p>Dr. Jeanette Shutay is currently the President and Chief Data Officer at Shutay Consulting. Jeanette is a strategic research and data science leader with extensive experience building and scaling advanced analytics and data science teams. Her analytical expertise spans across product, sales, marketing, supply chain, and operations. Jeanette also has approximately 10 years of consulting experience working with nonprofit organizations, educational institutions, and the federal government. As a consultant, Jeanette focuses on data strategy, research methodology and analysis, as well as campaign and program evaluation. Jeanette is incredibly passionate about nature and wildlife, and she tries to find ways to incorporate her skills to help improve the environment and the lives of all creatures that inhabit the Earth.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#90</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Fan Yang, PhD</h3>
+              <p>Fan Yang, PhD (Faculty, Instructors): Instructor; Senior Manager at Discover Financial Service</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#91</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Fan Yang, PhD &gt; Bio</h3>
+              <p>Fan Yang is an experienced professional in the financial industry, blending over a decade of expertise in data science and financial modeling with a background in consumer banking. Specializing in Deposits, Residential Loans, Auto Loans, and Credit Cards. His journey has been marked by contributions to loss forecasting, marketing analytics, card acquisition model development, and credit data management. Currently serving as a Senior Manager at Discover Financial Service in Chicago, where he leads the Card Acquisition Risk Modeling team, overseeing both onshore and offshore operations. His role involves building machine learning models and providing strategic data-driven support for various business needs.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#92</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Fan Yang, PhD &gt; Bio</h3>
+              <p>His professional narrative also includes tenures at BMO, where he led the Marketing Advanced Data Analytics team, and KeyBank/Northern Trust, focusing on Comprehensive Capital Analysis and Review (CCAR) and Current Expected Credit Loss (CECL) Stress Tests. In these roles, he used advanced quantitative techniques XGBoost, and Convolutional neural network (CNN), helping companies drive business growth and optimize risk management strategies effectively. Fan’s educational background includes a Ph.D. in Statistics and an MBA from the University of Iowa. He currently teaches Time Series Analysis and Forecasting at the University of Chicago and has three years of prior experience teaching at the University of Iowa.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#93</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Dmitri Sidorov</h3>
+              <p>Dmitri Sidorov (Faculty, Instructors): Instructor; Principal Data Scientist at Abbott</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#94</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Dmitri Sidorov &gt; Bio</h3>
+              <p>Dr. Dmitri Sidorov is a Principal Data Scientist at Abbott Laboratories, a multinational healthcare company, specializing in research-based drugs, medical devices, diagnostics, and nutritional products.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#95</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Dmitri Sidorov &gt; Bio</h3>
+              <p>He earned a PhD in Physics from Oklahoma State University with a focus in analysis of data from particle physics experiments and applying statistics.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#96</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Dmitri Sidorov &gt; Bio</h3>
+              <p>Dmitri has over a decade of professional experience analyzing Big Data, using various methods and techniques, and generating relevant and actionable insights. He teaches R for Data Science and Big Data and Cloud Computing courses in the MS in Applied Data Science program at the University of Chicago.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#97</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Dmitri Sidorov &gt; Bio</h3>
+              <p>This experience gave him a strong belief that any endeavor can be improved by intelligent use of data.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#98</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Igor Yakushin, PhD</h3>
+              <p>Igor Yakushin, PhD (Faculty, Instructors): Adjunct Assistant Professor; Applied Scientist</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#99</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Faculty, Instructors &gt; Igor Yakushin, PhD &gt; Bio</h3>
+              <p>PhD in Theoretical Physics, MS in Computer Science. Currently – Applied Scientist at Amazon. Previous jobs: Computational Scientist at the Argonne National Laboratory, Scientist at LIGO project of California Institute of Technology. I specialize in scientific computing, HPC, machine learning, data analysis.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#100</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Taylor Alexander, MA</h3>
+              <p>Taylor Alexander, MA (Staff): Associate Director, Instructional Services, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#101</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Taylor Alexander, MA &gt; Bio</h3>
+              <p>Taylor Alexander serves as the Associate Director of Instructional Services for the MS in Applied Data Science program. A graduate of the University of Chicago’s Harris School of Public Policy, she plays a key role in overseeing foundational assessments, managing cloud computing resources, and supporting faculty and program development.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#102</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Taylor Alexander, MA &gt; Bio</h3>
+              <p>With over a decade of experience in higher education, Taylor brings a strong background in international comparative education and foreign credential evaluation. Her interest in data science was sparked during her graduate studies, where she discovered a passion for integrating data-driven approaches into education.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#103</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Taylor Alexander, MA &gt; Bio</h3>
+              <p>Her current research centers on the ethical application of artificial intelligence in higher education, reflecting her commitment to advancing thoughtful, responsible innovation in the field.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#104</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Briana Allen, MEd</h3>
+              <p>Briana Allen, MEd (Staff): Executive Director, MS Applied Data Science Program</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#105</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Briana Allen, MEd &gt; Bio</h3>
+              <p>Briana Allen serves as the Executive Director of the MS Applied Data Science Program. Briana oversees the day-to-day responsibilities of the Instructional Services and Operations teams. Briana holds a Master of Technology in Education and has a background in instructional design, with an emphasis in online course design. As a Quality Matters Certified Peer Reviewer, Briana focuses on the intersection of quality of online course development and student experiences, including how online best practices can be leveraged by in-person courses. Briana is passionate about mentoring instructors in the creation of high-quality instructional resources, leveraging active learning strategies, and applying instructional technologies that create engaging student experiences across all modalities.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#106</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Jose Alvarado</h3>
+              <p>Jose Alvarado (Staff): Associate Director, Enrollment Management, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#107</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Jose Alvarado &gt; Bio</h3>
+              <p>Jose Alvarado serves as the Associate Director of Enrollment Management for the MS in Applied Data Science program. Prior to his current role, Jose served as a higher education professional specializing in recruitment and enrollment management. He has worked at great institutions around the Chicagoland area like the University of Illinois Systems, Northwestern University, and Loyola University Chicago. He brings with him extensive knowledge working with undergraduate, graduate, and international student populations.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#108</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Josie Badillo Sittig</h3>
+              <p>Josie Badillo Sittig (Staff): Assistant Director, Marketing/Advertising &amp; Communications, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#109</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Josie Badillo Sittig &gt; Bio</h3>
+              <p>Josie Badillo Sittig currently holds the role of Assistant Director of Marketing/Advertising &amp; Communications for the MS in Applied Data Science program. With an extensive background exclusively in the advertising agency realm, Josie brings a wealth of experience gained from collaborating with diverse clients, spanning healthcare to lottery sectors. Prior to stepping into her current position, Josie’s career has been marked by a dedication to delivering impactful marketing and communications solutions.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#110</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Zach Brown</h3>
+              <p>Zach Brown (Staff): Operations Coordinator</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#111</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Zach Brown &gt; Bio</h3>
+              <p>Zach Brown is an Operations Coordinator for the Applied Data Science Operations team. In this role, he manages room reservations and oversees classroom technology for MS-ADS classes and events within NBC Tower. Drawing on more than a decade of experience in Student Center Facility Operations and Event Services, Zach brings valuable experience to his position. Previously, he held several roles at the Illini Union, University of Illinois at Urbana-Champaign. Most recently, he was the Program Manager for the Event Services Office, where he led a team of undergraduate students in processing all facility reservations. Zach’s educational background includes a Master’s in Higher Education Administration from Ohio University and a bachelor’s degree in psychology and Anthropology from Ohio State University.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#112</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Kendall Cox</h3>
+              <p>Kendall Cox (Staff): Operations Coordinator</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#113</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Kendall Cox &gt; Bio</h3>
+              <p>Kendall Cox has been a valuable member of the University of Chicago for nearly six years. He graduated from St. Thomas University in Miami, Florida, with a bachelor’s degree in business administration and management. Kendall began his journey with UCPE in January 2019, where he gained a wealth of knowledge in operations and faculty skills under the guidance of his manager, Duke Yoon. Fast forward to the present, and Kendall has transitioned to his role as an Operations Coordinator with ADS since mid-2024, where he plays a crucial role in supporting the operations of the Applied Data Science Master’s degree classes. But there’s more to Kendall than just his technical expertise! He has a hidden talent—he’s also a professional artist specializing in R&amp;B, Hip Hop, and Afro Beat music. As the youngest member of his family, Kendall is deeply passionate about personal growth and strives to be an inspirational figure to everyone around him.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#114</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Nick DiAntonio, MEd</h3>
+              <p>Nick DiAntonio, MEd (Staff): Graduate Academic Advisor, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#115</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Nick DiAntonio, MEd &gt; Bio</h3>
+              <p>Nick DiAntonio serves as one of the Graduate Academic Advisors for the MS in Applied Data Science program at the University of Chicago. Nick primarily advises students in the In-Person Program. As a Graduate Academic Advisor, Nick enjoys working with students to help them progress towards degree completion and meet their academic goals. For advising questions and assistance, please reach out to Nick at applieddatascience-advising@uchicago.edu or visit Connecting with Your MS in Applied Data Science Advisors .</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#116</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Nick DiAntonio, MEd &gt; Bio</h3>
+              <p>Prior to working at the University of Chicago, Nick earned his Bachelor of Science in Education and Master of Education from Kent State University in Kent, Ohio. Nick has worked professionally in higher education since 2018 and is dedicated to helping students succeed.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#117</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Lauren Isaacman Darga, MA</h3>
+              <p>Lauren Isaacman Darga, MA (Staff): Assistant Director, External Partnerships, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#118</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Lauren Isaacman Darga, MA &gt; Bio</h3>
+              <p>Lauren Isaacman Darga is the Assistant Director of External Partnerships for the MS in Applied Data Science program at the University of Chicago. In this role, she is committed to establishing meaningful relationships and bridging the gap between graduate students and external organizations. Lauren brings a wealth of experience including her tenure at Marsh McLennan, work in alumni relations for her alma mater, and involvement in minor-league baseball. She holds both BA and MA degrees in Organizational Communication from the University of Memphis.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#119</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Matthew Harris-Ridker</h3>
+              <p>Matthew Harris-Ridker (Staff): Assistant Director, Enrollment Management, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#120</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Matthew Harris-Ridker &gt; Bio</h3>
+              <p>Matthew Harris-Ridker serves as the Assistant Director of Enrollment Management for the MS in Applied Data Science program. Prior to his current role, Matthew has served as a higher education professional working in recruitment and enrollment management, and in study abroad recruitment and on-site student support. Matthew received his BA from The College of Wooster.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#121</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Henry Igunbor</h3>
+              <p>Henry Igunbor (Staff): Senior Manager of Facilities and IT</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#122</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Henry Igunbor &gt; Bio</h3>
+              <p>Henry Igunbor currently holds the role of Senior Manager of Facilities and IT, overseeing the 28th floor of the NBC Tower. His primary focus is continuous improvement, ensuring that both facilities and technology operate seamlessly to support a productive and efficient work/learning environment. With a strong background in IT infrastructure, cybersecurity, and vendor management, Henry has held leadership roles in IT and InfoSec, previously serving as Director of IT &amp; InfoSec and IT Infrastructure Analyst Senior Associate. He also worked as an IT &amp; AV Support – Systems Administrator at Kellogg Northwestern, where he provided technical support, managed AV operations, and ensured smooth IT functionality across various platforms. Throughout his career, he has led major IT initiatives, process optimizations, and cross-functional collaborations to drive operational excellence.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#123</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Emma Kerr-Ketchum, MA</h3>
+              <p>Emma Kerr-Ketchum, MA (Staff): Assistant Director, Instructional Services, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#124</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Emma Kerr-Ketchum, MA &gt; Bio</h3>
+              <p>Emma Kerr-Ketchum is the Assistant Director of Instructional Services for the MS in Applied Data Science (MS-ADS) program. Before this role, she worked as an Admissions Assistant for the MS in Computer Science program at the University of Chicago. She has been with the university since 2021, after relocating to the Chicago area from California following the completion of her graduate studies. Emma holds two master’s degrees from Stanford University, one in Sociology and one in Education, as well as a bachelor’s degree in Sociology with a minor in Education from the University of California, Santa Barbara.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#125</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Samantha Kruse</h3>
+              <p>Samantha Kruse (Staff): Associate Director, Student Affairs, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#126</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Samantha Kruse &gt; Bio</h3>
+              <p>Samantha Kruse serves as the Associate Director of Student Affairs for the MS in Applied Data Science. After starting a career in community organizing and politics, Samantha realized her passion for working with students and advocating on their behalf. Previously, she worked with graduate and undergraduate students in the nonprofit sector and the University of Illinois system. She specializes in student advising and retention and has been recognized for excellence in advising at the University of Illinois at Chicago. She also has experience in admissions and registrar functions for both credit and noncredit course offerings. Samantha earned her Master of Public Administration in 2018. Her capstone focused on public service motivation and retention.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#127</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Lauren Milewski, MSEd</h3>
+              <p>Lauren Milewski, MSEd (Staff): Instructional Designer, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#128</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Lauren Milewski, MSEd &gt; Bio</h3>
+              <p>Lauren is the Instructional Designer for the MS in Applied Data Science program. She helps instructors craft learning experiences that engage students in rigorous academic work and prepare them for fulfilling careers. Most recently, Lauren was the Senior Director of Learning and Design at Kepler College in Rwanda, where she led the design of their first bachelor’s degrees. Lauren is interested in how programs can promote educational equity and align with workforce needs, with a focus on helping students develop 21st century skills that enable them to be lifelong learners. Lauren holds an MSEd from Hunter College and a BA in English and Anthropology from the University of Michigan.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#129</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Alison Ossyra</h3>
+              <p>Alison Ossyra (Staff): Director, External Partnerships and Career Services, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#130</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Alison Ossyra &gt; Bio</h3>
+              <p>Alison Ossyra is the Director of External Partnerships and Career Services for the Master’s in Applied Data Science (MS-ADS) program. Since 2017, Alison has been dedicated to supporting MS-ADS students in various capacities. Currently, she oversees career services, fosters external partnerships, manages alumni relations, and coordinates capstone projects. Her diverse experience also includes roles in admissions and marketing. Alison holds a BA in International Studies from the University of Illinois. She began her career in higher education at Northwestern University, bringing a wealth of knowledge and a passion for student success to her current role.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#131</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; DuJuan Smith, PhD</h3>
+              <p>DuJuan Smith, PhD (Staff): Director, Student Affairs, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#132</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; DuJuan Smith, PhD &gt; Bio</h3>
+              <p>Dr. DuJuan Smith currently serves as the Director of Student Affairs for the MS in Applied Data Science program at the University of Chicago. In his role, he oversees graduate academic advising, student-related matters, and policy development to support the progression of all students. He loves helping others walk in purpose while amplifying their genius. He obtained his Ph.D. in Higher Education Administration in December 2020 at Illinois State University (ISU) in Higher Education Administration. His impressive career includes serving as the Assistant Dean of Student Life for Semester at Sea in the Spring of 2014 &amp; Spring of 2020; Assistant Dean of Students at the University of Illinois at Chicago (UIC), Assistant Dean of Students for the University of Houston (UH), and Coordinator of Judicial Affairs at Moraine Valley Community College. He holds a B.A. in Applied Sociology with a minor in Black Studies and an M.S.Ed. in Clinical Mental Health Counseling from Northern Illinois University (NIU). In his spare time, he teaches youth photography, loves to travel, and is engaged in Brazilian jiu-jitsu. DuJuan is an active and</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#133</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; DuJuan Smith, PhD &gt; Bio</h3>
+              <p>and an M.S.Ed. in Clinical Mental Health Counseling from Northern Illinois University (NIU). In his spare time, he teaches youth photography, loves to travel, and is engaged in Brazilian jiu-jitsu. DuJuan is an active and proud member of Alpha Phi Alpha Fraternity, Incorporated!</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#134</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Daniel Truesdale, MPP</h3>
+              <p>Daniel Truesdale, MPP (Staff): Director, Enrollment Management and Analytics, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#135</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Daniel Truesdale, MPP &gt; Bio</h3>
+              <p>Daniel Truesdale serves as the Director of Enrollment Management &amp; Analytics for the MS in Applied Data Science in-person and online programs. He is also the host of ChatADS, the program’s podcast exploring real-world applications of data science. A graduate from the Harris School of Public Policy at the University of Chicago, Daniel has been assisting students on their educational journey and encourages lifelong learning. He has also completed Machine Learning and Data Engineering courses at the University of Chicago, which enables him to understand the University’s commitment to Data Science.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#136</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Patrick Vonesh</h3>
+              <p>Patrick Vonesh (Staff): Senior Assistant Director, Enrollment Management, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#137</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Patrick Vonesh &gt; Bio</h3>
+              <p>Patrick Vonesh serves as the Senior Assistant Director of Enrollment Management for the Applied Data Science Program. Prior to his current role, Patrick worked with academic institutions across the United States in enrollment management. Patrick earned his BA and MA in History at Eastern Illinois University. Patrick ’s professional focus is working with talented students that want to grow their academic and professional understanding of Data Science as a discipline.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#138</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Taylor Wallace, MEd</h3>
+              <p>Taylor Wallace, MEd (Staff): Senior Graduate Academic Advisor, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#139</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Taylor Wallace, MEd &gt; Bio</h3>
+              <p>Taylor Wallace serves as the primary Academic Advisor for the MS in Applied Data Science in-person program with last names A-K. Taylor received her B.S from The University of Texas at Austin in Deaf Education, and her M.Ed from DePaul University in Higher Education Leadership, with an academic and professional focus on student affairs, student conduct and crisis, and event coordination. She brings a breadth of knowledge to advising the Applied Data Science program experience and finds a deep joy and honor in guiding students to their individual goals, pathways, and careers.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#140</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Jennifer Wei, MEM</h3>
+              <p>Jennifer Wei, MEM (Staff): Assistant Director, Career Services, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#141</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Jennifer Wei, MEM &gt; Bio</h3>
+              <p>Jennifer Wei is the Assistant Director of Career Services for the Master’s in Applied Data Science (MS-ADS) program. Her focus is on advising MS-ADS students in their career journey through individualized sessions and career workshops. Jennifer joins the program from industry where she worked in various engineering, consulting, and management roles. Jennifer holds a BS in Mechanical Engineering and a Master’s in Engineering Management from Northwestern University.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#142</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Samantha Widemon, MNA</h3>
+              <p>Samantha Widemon, MNA (Staff): Senior Graduate Academic Advisor, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#143</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Samantha Widemon, MNA &gt; Bio</h3>
+              <p>Samantha Widemon serves as a Senior Graduate Academic Advisors for the MS in Applied Data Science in-person and online programs at the University of Chicago. Samantha earned her Bachelor’s in Communication Studies degree from Northwestern University, and her Master’s in Nonprofit Administration, with certificates in Higher Education and Leadership, from North Park University. She has worked in higher education for eight years, providing administrative and advising support to students as they navigate through their undergraduate and graduate studies.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#144</span>
+                <span>person_position</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Ben Wiebers</h3>
+              <p>Ben Wiebers (Staff): Assistant Director of Career Services, MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#145</span>
+                <span>person_bio</span>
+              </div>
+              <h3>Faculty, Instructors, Staff &gt; Staff &gt; Ben Wiebers &gt; Bio</h3>
+              <p>Ben Wiebers is the Assistant Director of Career Services for the Master’s in Applied Data Science (MS-ADS) program. He brings a holistic approach to career advising, with a special emphasis on online students within the MS-ADS program. Prior to working at the university, Ben was a technical recruiter, helping to bring staff of all levels into niche technical roles across Chicago startups and enterprise companies in the US. Regardless of the setting, Ben centers his work on reflection and lifelong learning to enable others to identify and reach their goals. He holds a bachelor’s degree in Mathematics from the University of Wyoming and a master’s degree in Education from Loyola University Chicago.</p>
+            </article>
+            </div>
+    </section>
+  </main>
+</body>
+</html>

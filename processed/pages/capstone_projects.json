@@ -1,0 +1,502 @@
+{
+  "page": {
+    "id": "page:7bb1d6dfc9a88079",
+    "title": "Capstone Projects",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+    "raw_file": "raw/education__masters_programs__ms_in_applied_data_science__capstone_projects.json"
+  },
+  "how_to_debug": [
+    "先看 graph_tree，确认网页结构是否像页面真实结构。",
+    "再看 chunks，确认每个可检索文本块是否属于正确的 path。",
+    "如果检索结果奇怪，优先检查对应 page 的 path 和 source_type。"
+  ],
+  "graph_tree": {
+    "id": "page:7bb1d6dfc9a88079",
+    "type": "Page",
+    "label": "Capstone Projects",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+    "children": [
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:f818b0574831f787",
+          "type": "Section",
+          "label": "Page Header Content",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "source_type": "page_header_content",
+          "path": [
+            "Capstone Projects",
+            "Page Header Content"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:81afdf5f30825ae8",
+                "type": "Chunk",
+                "label": "MS in Applied Data Science You will stay at the cutting edge of what real client",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+                "source_type": "page_header_content",
+                "path": [
+                  "Capstone Projects",
+                  "Page Header Content"
+                ],
+                "text_preview": "MS in Applied Data Science You will stay at the cutting edge of what real clients need from data scientists through the Capstone experience. You will enhance your collaboration skills, benefit mentoring, and engage in ne...",
+                "text_length": 376
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_CONTENT",
+        "node": {
+          "id": "chunk:4a0362f97c230240",
+          "type": "Chunk",
+          "label": "The culminating experience in the Master’s in Applied Data Science program is a",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "source_type": "p",
+          "path": [
+            "Capstone Projects"
+          ],
+          "text_preview": "The culminating experience in the Master’s in Applied Data Science program is a Capstone Project . You will immerse yourself in a real business problem and will gain valuable, data driven insights using authentic data. T...",
+          "text_length": 667
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:f323ea953a4c7d65",
+          "type": "Section",
+          "label": "Capstone Experience",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Projects",
+            "Capstone Experience"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:ff7e7a3ed46e0b56",
+          "type": "Section",
+          "label": "Capstone Research Projects",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Projects",
+            "Capstone Research Projects"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:716fd27a335cf4cf",
+          "type": "Section",
+          "label": "Interested in Becoming a Capstone Sponsor?",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Projects",
+            "Interested in Becoming a Capstone Sponsor?"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:87e07b73b3530be0",
+                "type": "Chunk",
+                "label": "The Master’s in Applied Data Science program accepts projects year-round for pla",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+                "source_type": "p",
+                "path": [
+                  "Capstone Projects",
+                  "Interested in Becoming a Capstone Sponsor?"
+                ],
+                "text_preview": "The Master’s in Applied Data Science program accepts projects year-round for placement during the Spring and Autumn quarter, with the Spring quarter being the largest cohort. All projects must be submitted no later than...",
+                "text_length": 466
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:f0c2f98f88433f5d",
+          "type": "Section",
+          "label": "Selected Capstone Projects",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Projects",
+            "Selected Capstone Projects"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:82250d09b694ae9a",
+          "type": "Section",
+          "label": "AI-Powered Storytelling App",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "heading_tag": "h3",
+          "path": [
+            "Capstone Projects",
+            "AI-Powered Storytelling App"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:167b378d6433d0b5",
+                "type": "Chunk",
+                "label": "UChicago Applied Data Science students designed an AI-powered app that transform",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+                "source_type": "p",
+                "path": [
+                  "Capstone Projects",
+                  "AI-Powered Storytelling App"
+                ],
+                "text_preview": "UChicago Applied Data Science students designed an AI-powered app that transforms children’s prompts into personalized stories. Using natural language processing and machine learning, the team built a system that generat...",
+                "text_length": 367
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:5c43e19844f81b49",
+          "type": "Section",
+          "label": "SkySearch – Smarter Search from Above",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "heading_tag": "h3",
+          "path": [
+            "Capstone Projects",
+            "SkySearch – Smarter Search from Above"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:28293ad43ca21b3b",
+                "type": "Chunk",
+                "label": "As part of their Capstone Project, a team of MS in Applied Data Science students",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+                "source_type": "p",
+                "path": [
+                  "Capstone Projects",
+                  "SkySearch – Smarter Search from Above"
+                ],
+                "text_preview": "As part of their Capstone Project, a team of MS in Applied Data Science students developed SkySearch, a drone-based vision system that enables drones to identify and locate objects in real-world environments using simple...",
+                "text_length": 235
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:c1496edd1aab6872",
+                "type": "Chunk",
+                "label": "Instead of relying on a fixed list of recognizable objects, SkySearch expands wh",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+                "source_type": "p",
+                "path": [
+                  "Capstone Projects",
+                  "SkySearch – Smarter Search from Above"
+                ],
+                "text_preview": "Instead of relying on a fixed list of recognizable objects, SkySearch expands what drones can search for, allowing them to respond to more complex and dynamic scenarios.",
+                "text_length": 169
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:025e42bfb9e0ac97",
+          "type": "Section",
+          "label": "Data Science for Good",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "heading_tag": "h3",
+          "path": [
+            "Capstone Projects",
+            "Data Science for Good"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:8a64d4bcb718630f",
+                "type": "Chunk",
+                "label": "From predicting floods to powering potential clinical breakthroughs, students in",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+                "source_type": "p",
+                "path": [
+                  "Capstone Projects",
+                  "Data Science for Good"
+                ],
+                "text_preview": "From predicting floods to powering potential clinical breakthroughs, students in the University of Chicago MS in Applied Data Science program are using their skills to make a real impact.",
+                "text_length": 187
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:6b1fc8d66672645c",
+          "type": "Section",
+          "label": "Capstone Sponsor Incentives",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "heading_tag": "h3",
+          "path": [
+            "Capstone Projects",
+            "Capstone Sponsor Incentives"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:7450448083b6e935",
+                "type": "Chunk",
+                "label": "Sponsors derive measurable benefits from this unique opportunity to support high",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+                "source_type": "p",
+                "path": [
+                  "Capstone Projects",
+                  "Capstone Sponsor Incentives"
+                ],
+                "text_preview": "Sponsors derive measurable benefits from this unique opportunity to support higher education. Partner organizations propose real-world problems, untested ideas or research queries. Students review them from the perspecti...",
+                "text_length": 701
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:6b34f1e3243f7a43",
+          "type": "Section",
+          "label": "Capstone Sponsor Obligations",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "heading_tag": "h3",
+          "path": [
+            "Capstone Projects",
+            "Capstone Sponsor Obligations"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:2e424a4d775dede6",
+                "type": "Chunk",
+                "label": "While there is no monetary cost or contract necessary to sponsor a project, we d",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+                "source_type": "p",
+                "path": [
+                  "Capstone Projects",
+                  "Capstone Sponsor Obligations"
+                ],
+                "text_preview": "While there is no monetary cost or contract necessary to sponsor a project, we do consider this a partnership. Teams comprised of four students and guided by an instructor and subject matter expert are provided with expe...",
+                "text_length": 410
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:620332965f94e60f",
+                "type": "Chunk",
+                "label": "- A detailed problem statement with a description of the data and expected resul",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+                "source_type": "ul",
+                "path": [
+                  "Capstone Projects",
+                  "Capstone Sponsor Obligations"
+                ],
+                "text_preview": "- A detailed problem statement with a description of the data and expected results\n- Two or more points of contact\n- Access to data relevant to the project by the first week of the applicable quarter\n- Engagement through...",
+                "text_length": 373
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:0288fccdc1108361",
+          "type": "Section",
+          "label": "Interested in Becoming a Capstone or Industry Research Partner?",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+          "heading_tag": "h3",
+          "path": [
+            "Capstone Projects",
+            "Interested in Becoming a Capstone or Industry Research Partner?"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:3505bab34c92e099",
+                "type": "Chunk",
+                "label": "Get in touch with us to submit your idea for a collaboration or ask us questions",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+                "source_type": "p",
+                "path": [
+                  "Capstone Projects",
+                  "Interested in Becoming a Capstone or Industry Research Partner?"
+                ],
+                "text_preview": "Get in touch with us to submit your idea for a collaboration or ask us questions about how the partnership process works.",
+                "text_length": 121
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "chunks": [
+    {
+      "id": "chunk:81afdf5f30825ae8",
+      "text": "MS in Applied Data Science You will stay at the cutting edge of what real clients need from data scientists through the Capstone experience. You will enhance your collaboration skills, benefit mentoring, and engage in networking opportunities. These faculty-mentored teams add value to top companies across multiple sectors—from finance to entertainment, automotive, and more!",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+      "page_id": "page:7bb1d6dfc9a88079",
+      "page_title": "Capstone Projects",
+      "path": [
+        "Capstone Projects",
+        "Page Header Content"
+      ],
+      "source_type": "page_header_content"
+    },
+    {
+      "id": "chunk:4a0362f97c230240",
+      "text": "The culminating experience in the Master’s in Applied Data Science program is a Capstone Project . You will immerse yourself in a real business problem and will gain valuable, data driven insights using authentic data. Together with project sponsors, you will develop a data science solution to address organization problems, enhance analytics capabilities, and expand talent pools and employment opportunities. Leveraging the university’s rich research portfolio, you also have the option to join a research-focused team . Hear directly from a faculty advisor in this video about how students engage in research-driven capstone projects with real-world applications.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+      "page_id": "page:7bb1d6dfc9a88079",
+      "page_title": "Capstone Projects",
+      "path": [
+        "Capstone Projects"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:87e07b73b3530be0",
+      "text": "The Master’s in Applied Data Science program accepts projects year-round for placement during the Spring and Autumn quarter, with the Spring quarter being the largest cohort. All projects must be submitted no later than one month prior to the beginning of the preferred starting quarter based on the UChicago academic calendar . Want more information? Find details and answers to FAQs in this Capstone Sponsorship Guidelines document— click here to download the PDF.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+      "page_id": "page:7bb1d6dfc9a88079",
+      "page_title": "Capstone Projects",
+      "path": [
+        "Capstone Projects",
+        "Interested in Becoming a Capstone Sponsor?"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:167b378d6433d0b5",
+      "text": "UChicago Applied Data Science students designed an AI-powered app that transforms children’s prompts into personalized stories. Using natural language processing and machine learning, the team built a system that generates dynamic, age-appropriate narratives in real time, showcasing how data science can merge creativity with technology to bring imagination to life.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+      "page_id": "page:7bb1d6dfc9a88079",
+      "page_title": "Capstone Projects",
+      "path": [
+        "Capstone Projects",
+        "AI-Powered Storytelling App"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:28293ad43ca21b3b",
+      "text": "As part of their Capstone Project, a team of MS in Applied Data Science students developed SkySearch, a drone-based vision system that enables drones to identify and locate objects in real-world environments using simple human prompts.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+      "page_id": "page:7bb1d6dfc9a88079",
+      "page_title": "Capstone Projects",
+      "path": [
+        "Capstone Projects",
+        "SkySearch – Smarter Search from Above"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:c1496edd1aab6872",
+      "text": "Instead of relying on a fixed list of recognizable objects, SkySearch expands what drones can search for, allowing them to respond to more complex and dynamic scenarios.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+      "page_id": "page:7bb1d6dfc9a88079",
+      "page_title": "Capstone Projects",
+      "path": [
+        "Capstone Projects",
+        "SkySearch – Smarter Search from Above"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:8a64d4bcb718630f",
+      "text": "From predicting floods to powering potential clinical breakthroughs, students in the University of Chicago MS in Applied Data Science program are using their skills to make a real impact.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+      "page_id": "page:7bb1d6dfc9a88079",
+      "page_title": "Capstone Projects",
+      "path": [
+        "Capstone Projects",
+        "Data Science for Good"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:7450448083b6e935",
+      "text": "Sponsors derive measurable benefits from this unique opportunity to support higher education. Partner organizations propose real-world problems, untested ideas or research queries. Students review them from the perspective of data scientists trained to generate actionable insights that provide long-term value. Through the project, Capstone partners gain access to a symbiotic pool of world-class students, highly accomplished instructors, and cited researchers, resulting in optimized utilization of modern data science-based methods, using your data. Further, for many sponsors, the project becomes a meaningful source of recruitment through the excellent pool of students who work on your project.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+      "page_id": "page:7bb1d6dfc9a88079",
+      "page_title": "Capstone Projects",
+      "path": [
+        "Capstone Projects",
+        "Capstone Sponsor Incentives"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:2e424a4d775dede6",
+      "text": "While there is no monetary cost or contract necessary to sponsor a project, we do consider this a partnership. Teams comprised of four students and guided by an instructor and subject matter expert are provided with expectations from the capstone sponsor and learning objectives, assignments, and evaluation requirements from instructors. In turn, Capstone partners should be prepared to provide the following:",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+      "page_id": "page:7bb1d6dfc9a88079",
+      "page_title": "Capstone Projects",
+      "path": [
+        "Capstone Projects",
+        "Capstone Sponsor Obligations"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:620332965f94e60f",
+      "text": "- A detailed problem statement with a description of the data and expected results\n- Two or more points of contact\n- Access to data relevant to the project by the first week of the applicable quarter\n- Engagement through regular meetings (typically bi-weekly) while classes are in session\n- If requested, a non-disclosure agreement that may be completed by the student team",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+      "page_id": "page:7bb1d6dfc9a88079",
+      "page_title": "Capstone Projects",
+      "path": [
+        "Capstone Projects",
+        "Capstone Sponsor Obligations"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:3505bab34c92e099",
+      "text": "Get in touch with us to submit your idea for a collaboration or ask us questions about how the partnership process works.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-projects",
+      "page_id": "page:7bb1d6dfc9a88079",
+      "page_title": "Capstone Projects",
+      "path": [
+        "Capstone Projects",
+        "Interested in Becoming a Capstone or Industry Research Partner?"
+      ],
+      "source_type": "p"
+    }
+  ]
+}

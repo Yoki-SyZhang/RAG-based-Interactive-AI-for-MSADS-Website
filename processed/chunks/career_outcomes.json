@@ -1,0 +1,57 @@
+{
+  "page": {
+    "id": "page:3b627f133d126e95",
+    "title": "Career Outcomes",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/career-outcomes",
+    "raw_file": "raw/education__masters_programs__ms_in_applied_data_science__career_outcomes.json"
+  },
+  "num_chunks": 4,
+  "chunks": [
+    {
+      "id": "chunk:e883b7cdf5f99543",
+      "text": "Graduates of the University of Chicago’s Master’s in Applied Data Science program are achieving remarkable success across various industries. With their advanced skills in data science, machine learning, and data storytelling, they are making impactful contributions in top organizations like JPMorganChase, Google, and Amazon.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/career-outcomes",
+      "page_id": "page:3b627f133d126e95",
+      "page_title": "Career Outcomes",
+      "path": [
+        "Career Outcomes",
+        "Page Header Content"
+      ],
+      "source_type": "page_header_content"
+    },
+    {
+      "id": "chunk:42e704d4e0367b91",
+      "text": "It is an exciting time to pursue a career in data science! According to the U.S. Bureau of Labor Statistics , employment for data scientists is projected to grow by 36% from 2023 to 2033—far exceeding the average growth rate for all occupations. This surge is driven by the increasing reliance on data science across industries such as technology, finance, healthcare, and business.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/career-outcomes",
+      "page_id": "page:3b627f133d126e95",
+      "page_title": "Career Outcomes",
+      "path": [
+        "Career Outcomes"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:5a2c65e8a0172e4a",
+      "text": "The career outcomes for our MS in Applied Data Science graduates are exceptional. Explore the diverse career paths our alumni have pursued, from top employers to leading industries actively seeking our graduates.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/career-outcomes",
+      "page_id": "page:3b627f133d126e95",
+      "page_title": "Career Outcomes",
+      "path": [
+        "Career Outcomes"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:b78ab82103fdf4c0",
+      "text": "*All outcomes are based on 2024-2025 First Destination survey data.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/career-outcomes",
+      "page_id": "page:3b627f133d126e95",
+      "page_title": "Career Outcomes",
+      "path": [
+        "Career Outcomes",
+        "MS-ADS program graduates work at the following places:"
+      ],
+      "source_type": "em"
+    }
+  ]
+}

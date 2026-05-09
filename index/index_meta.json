@@ -1,0 +1,13 @@
+{
+  "raw_dir": "raw",
+  "embedding_backend": "sentence-transformers:BAAI/bge-small-en-v1.5",
+  "num_nodes": 1093,
+  "num_edges": 1092,
+  "num_chunks": 627,
+  "vector_shape": [
+    627,
+    384
+  ],
+  "vector_store": "chromadb",
+  "chroma_dir": "index\\chroma"
+}

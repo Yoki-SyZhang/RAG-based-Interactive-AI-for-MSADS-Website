@@ -1,0 +1,254 @@
+{
+  "page": {
+    "id": "page:1c2b530a9935e8fd",
+    "title": "Our Students",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+    "raw_file": "raw/education__masters_programs__ms_in_applied_data_science__our_students.json"
+  },
+  "num_chunks": 19,
+  "chunks": [
+    {
+      "id": "chunk:9ed8607b3d0225cc",
+      "text": "MS in Applied Data Science Our students are the best part of our Master's in Applied Data Science program. Meet some of our current students!",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Page Header Content"
+      ],
+      "source_type": "page_header_content"
+    },
+    {
+      "id": "chunk:b58ab32244cdf37f",
+      "text": "In-Person Program Age Breakdown\nChart type: donut\n- 21-24: 72%\n- 25-29: 20%\n- 30-34: 5%\n- 35+: 3%",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Embedded Data Visualizations",
+        "In-Person Program Age Breakdown"
+      ],
+      "source_type": "diagram_data"
+    },
+    {
+      "id": "chunk:b48421dd810dbaff",
+      "text": "Online Program Age Breakdown\nChart type: donut\n- 21-24: 44.4%\n- 25-29: 14.8%\n- 30-34: 25.9%\n- 35+: 14.8%",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Embedded Data Visualizations",
+        "Online Program Age Breakdown"
+      ],
+      "source_type": "diagram_data"
+    },
+    {
+      "id": "chunk:0d7afa2670ae0337",
+      "text": "In-Person Program Gender Breakdown\nChart type: bar\n- Female: 48.1%\n- Male: 51.9%",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Embedded Data Visualizations",
+        "In-Person Program Gender Breakdown"
+      ],
+      "source_type": "diagram_data"
+    },
+    {
+      "id": "chunk:18e547acd8ce46b8",
+      "text": "Online Program Gender Breakdown\nChart type: bar\n- Female: 44.4%\n- Male: 55.6%",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Embedded Data Visualizations",
+        "Online Program Gender Breakdown"
+      ],
+      "source_type": "diagram_data"
+    },
+    {
+      "id": "chunk:58d60ca87b69765c",
+      "text": "In-Person Program Work Experience\nChart type: bar\n- 0 Years: 61.2%\n- 1-3 Years: 27.9%\n- 4-5 Years: 4.3%\n- 6+ Years: 6.6%",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Embedded Data Visualizations",
+        "In-Person Program Work Experience"
+      ],
+      "source_type": "diagram_data"
+    },
+    {
+      "id": "chunk:19040efe4fba40f3",
+      "text": "Online Program Work Experience\nChart type: bar\n- 0 Years: 29.6%\n- 1-3 Years: 40.7%\n- 4-5 Years: 11.1%\n- 6+ Years: 18.5%",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Embedded Data Visualizations",
+        "Online Program Work Experience"
+      ],
+      "source_type": "diagram_data"
+    },
+    {
+      "id": "chunk:194f71907001e9e4",
+      "text": "Top 5 In-Person Program Majors\nChart type: bar\n- Science: 30%\n- Math: 21%\n- Economics: 11%\n- Business: 8%\n- Finance: 5%",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Embedded Data Visualizations",
+        "Top 5 In-Person Program Majors"
+      ],
+      "source_type": "diagram_data"
+    },
+    {
+      "id": "chunk:1a1b7b7f7151fabb",
+      "text": "Top 5 Online Program Majors\nChart type: bar\n- Science: 25%\n- Math: 21%\n- Economics: 11%\n- Business: 21%\n- Engineering: 21%",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Embedded Data Visualizations",
+        "Top 5 Online Program Majors"
+      ],
+      "source_type": "diagram_data"
+    },
+    {
+      "id": "chunk:4b8f12801016ea22",
+      "text": "Student Geographic Distribution\nChart type: chart\n- United States: 71\n- Canada: 6\n- Mexico: 3\n- COL: 3\n- BOL: 1\n- France: 1\n- ESP: 2\n- GHA: 1\n- United Kingdom: 1\n- POL: 1\n- NGA: 1\n- UGA: 2\n- TUR: 1\n- SAU: 2\n- KAZ: 1\n- AFG: 1\n- PAK: 4\n- India: 22\n- China: 47\n- MNG: 1\n- THA: 1\n- VNM: 6\n- South Korea: 9\n- Japan: 2\n- PHL: 1\n- New Zealand: 1",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Embedded Data Visualizations",
+        "Student Geographic Distribution"
+      ],
+      "source_type": "diagram_data"
+    },
+    {
+      "id": "chunk:277040a098ae143a",
+      "text": "A snapshot of the talented students in our MS in Applied Data Science program.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Meet a Few of Our Students"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:d414377430ab1091",
+      "text": "I chose the MS-ADS program for its rigorous, industry-focused curriculum and the opportunity to learn from world-class faculty who bridge academic research with real-world applications. The program’s emphasis on hands-on learning through the capstone project particularly appealed to me, as it allows students to tackle complex, data-driven problems in collaboration with leading organizations.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Meet a Few of Our Students"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:ef4b75be43e0f8ef",
+      "text": "The MS in Applied Data Science program attracts learners at different stages of their academic and professional journeys. This chart compares age distribution across the Autumn 2025 in-person and online cohorts.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Meet a Few of Our Students",
+        "Age Breakdown (In-Person & Online)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:b5ef77d04368995e",
+      "text": "Our students come from a broad range of backgrounds and experiences. Below is a comparison of gender representation across the Autumn 2025 in-person and online cohorts.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Meet a Few of Our Students",
+        "Gender Breakdown (In-Person & Online)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:2f45e6c415662eae",
+      "text": "I chose this program due to a combination of theoretical learning and great connections to industry through the capstone project, events, and great alumni network.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Meet a Few of Our Students"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:4c01d7568e7b47b5",
+      "text": "Students enter the program with varied professional backgrounds—from early-career analysts to seasoned engineers and managers. This comparison shows the level of work experience represented in the Autumn 2025 in-person and online cohorts.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Meet a Few of Our Students",
+        "Work Experience (In-Person & Online)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:193a8f9ebc6c8403",
+      "text": "Our students come from a wide range of academic foundations. The charts below highlight the most common undergraduate majors represented in the Autumn 2025 in-person and online cohorts.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Meet a Few of Our Students",
+        "Top 5 Undergraduate Majors (In-Person & Online)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:9c81ce61374db591",
+      "text": "The Autumn 2025 in-person cohort includes students from around the world. This map highlights the primary citizenship of students in this incoming class.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Meet a Few of Our Students",
+        "Primary Citizenship (In-Person Students)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:04069ba2fdc25939",
+      "text": "I ultimately chose the MS-ADS program because I liked how experienced the professors were in the industry. I also appreciate that we are taught necessary skills that are very relevant to today’s job market in analytics, which I didn’t get to experience in undergrad.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/our-students",
+      "page_id": "page:1c2b530a9935e8fd",
+      "page_title": "Our Students",
+      "path": [
+        "Our Students",
+        "Meet a Few of Our Students",
+        "Primary Citizenship (In-Person Students)"
+      ],
+      "source_type": "span"
+    }
+  ]
+}

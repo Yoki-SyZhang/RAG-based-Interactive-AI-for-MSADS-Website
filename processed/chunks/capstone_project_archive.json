@@ -1,0 +1,67 @@
+{
+  "page": {
+    "id": "page:2543d2c914737192",
+    "title": "Capstone Project Archive",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+    "raw_file": "raw/education__masters_programs__ms_in_applied_data_science__capstone_project_archive.json"
+  },
+  "num_chunks": 5,
+  "chunks": [
+    {
+      "id": "chunk:d0606faf77e63080",
+      "text": "Capstone Project Archive",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+      "page_id": "page:2543d2c914737192",
+      "page_title": "Capstone Project Archive",
+      "path": [
+        "Capstone Project Archive",
+        "Page Header Content"
+      ],
+      "source_type": "page_header_content"
+    },
+    {
+      "id": "chunk:5d89f7bbf599d55e",
+      "text": "This page showcases a comprehensive collection of Capstone Projects completed by students in the MS in Applied Data Science program. Each project reflects how students apply advanced data science methods to real-world challenges, working with authentic data across industries and research domains.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+      "page_id": "page:2543d2c914737192",
+      "page_title": "Capstone Project Archive",
+      "path": [
+        "Capstone Project Archive"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:4a8ce3301772159a",
+      "text": "Select projects are highlighted as Featured after being recognized as Best in Show during the Capstone Showcase, an end-of-program presentation series where student teams present their work to faculty, peers, and industry partners.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+      "page_id": "page:2543d2c914737192",
+      "page_title": "Capstone Project Archive",
+      "path": [
+        "Capstone Project Archive"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:0ec3858d01920564",
+      "text": "Project abstracts highlight the problem context, data sources, analytical approaches, and outcomes, offering a closer look at the technical and strategic thinking behind each solution. Together, these projects illustrate the breadth of skills developed in the program—from data engineering and machine learning to experimentation, modeling, and data storytelling.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+      "page_id": "page:2543d2c914737192",
+      "page_title": "Capstone Project Archive",
+      "path": [
+        "Capstone Project Archive"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:6ef9f6ad2d8c9938",
+      "text": "Search project abstracts by keyword , including techniques, tools, or industry focus (e.g., machine learning , NLP , healthcare , finance ).",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+      "page_id": "page:2543d2c914737192",
+      "page_title": "Capstone Project Archive",
+      "path": [
+        "Capstone Project Archive"
+      ],
+      "source_type": "p"
+    }
+  ]
+}

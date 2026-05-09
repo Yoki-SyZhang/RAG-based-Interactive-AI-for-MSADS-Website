@@ -1,0 +1,2961 @@
+{
+  "page": {
+    "id": "page:dd76146bcccd1e59",
+    "title": "Online Program",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+    "raw_file": "raw/education__masters_programs__online_program.json"
+  },
+  "how_to_debug": [
+    "先看 graph_tree，确认网页结构是否像页面真实结构。",
+    "再看 chunks，确认每个可检索文本块是否属于正确的 path。",
+    "如果检索结果奇怪，优先检查对应 page 的 path 和 source_type。"
+  ],
+  "graph_tree": {
+    "id": "page:dd76146bcccd1e59",
+    "type": "Page",
+    "label": "Online Program",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+    "children": [
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:23bf56d47f23ec9c",
+          "type": "Section",
+          "label": "Page Header Content",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "source_type": "page_header_content",
+          "path": [
+            "Online Program",
+            "Page Header Content"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:6d45e53a1177728f",
+                "type": "Chunk",
+                "label": "MS in Applied Data Science Leverage the latest tools in data science with our on",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "page_header_content",
+                "path": [
+                  "Online Program",
+                  "Page Header Content"
+                ],
+                "text_preview": "MS in Applied Data Science Leverage the latest tools in data science with our online data science master's degree. Whether you choose the full-time or part-time path, the online format is designed to align with the deman...",
+                "text_length": 295
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:52462e28b6cf332d",
+          "type": "Section",
+          "label": "Academic Rigor Meets Work/Life Balance",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h2",
+          "path": [
+            "Online Program",
+            "Academic Rigor Meets Work/Life Balance"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:59e7b80e14c4dcef",
+                "type": "Chunk",
+                "label": "The Online MS in Applied Data Science program at the University of Chicago deliv",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Academic Rigor Meets Work/Life Balance"
+                ],
+                "text_preview": "The Online MS in Applied Data Science program at the University of Chicago delivers a structured online learning experience with live classes designed for working professionals.",
+                "text_length": 177
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:9b8fb19d68f79af8",
+                "type": "Chunk",
+                "label": "You will benefit from the same top faculty, bright peer group, and academic rigo",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Academic Rigor Meets Work/Life Balance"
+                ],
+                "text_preview": "You will benefit from the same top faculty, bright peer group, and academic rigor as the In-Person program. You may complete the program full- or part-time. Full-time and part-time students begin in Autumn quarter. Pleas...",
+                "text_length": 352
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:0ce2e309a62dcd1b",
+          "type": "Section",
+          "label": "Master Data Science, Master Your Career",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h2",
+          "path": [
+            "Online Program",
+            "Master Data Science, Master Your Career"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:bbe826368656b405",
+                "type": "Chunk",
+                "label": "Get ready for what’s next in data science with rigorous classes, expert instruct",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Master Data Science, Master Your Career"
+                ],
+                "text_preview": "Get ready for what’s next in data science with rigorous classes, expert instructors, leading-edge technology, and an unparalleled network of industry professionals . A full-service team dedicated to the MS in Applied Dat...",
+                "text_length": 338
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:0dfa8f433933081c",
+          "type": "Section",
+          "label": "Get in Touch",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h2",
+          "path": [
+            "Online Program",
+            "Get in Touch"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:02238c7d108ec084",
+                "type": "Chunk",
+                "label": "Want to get in touch with our enrollment team? Click below to share your informa",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Get in Touch"
+                ],
+                "text_preview": "Want to get in touch with our enrollment team? Click below to share your information and receive details about the MS in Applied Data Science program and upcoming events.",
+                "text_length": 170
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:2824ced6713a1cc5",
+          "type": "Section",
+          "label": "Your Outcomes",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h2",
+          "path": [
+            "Online Program",
+            "Your Outcomes"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:e75c2f9e00ad1283",
+                "type": "Chunk",
+                "label": "As a graduate of the online applied data science program, you will be a top comp",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Your Outcomes"
+                ],
+                "text_preview": "As a graduate of the online applied data science program, you will be a top competitor among data science jobs and career paths as a result of this program. You will have access to a dedicated team of faculty and staff w...",
+                "text_length": 590
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:cf80acb710400684",
+          "type": "Section",
+          "label": "Your Online Applied Data Science Experience",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h2",
+          "path": [
+            "Online Program",
+            "Your Online Applied Data Science Experience"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:e1d394b2af79cb0a",
+                "type": "Chunk",
+                "label": "There are unique opportunities to support you as an Online master’s student. You",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Your Online Applied Data Science Experience"
+                ],
+                "text_preview": "There are unique opportunities to support you as an Online master’s student. You will have access to the same full-service team of student affairs, career services, and instructional services experts. Jointly with facult...",
+                "text_length": 594
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:51e0f3e457743677",
+          "type": "Section",
+          "label": "Your Access to Alumni",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h2",
+          "path": [
+            "Online Program",
+            "Your Access to Alumni"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:066cb292622c65a0",
+                "type": "Chunk",
+                "label": "As an Online student, you will have access to program alumni through Immersion W",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Your Access to Alumni"
+                ],
+                "text_preview": "As an Online student, you will have access to program alumni through Immersion Weekend events and virtual career services programs–all of which broadens your network and supports your career advancement goals. Upon gradu...",
+                "text_length": 435
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:60673f375af177c4",
+          "type": "Section",
+          "label": "Your Time, Your Advancement",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h2",
+          "path": [
+            "Online Program",
+            "Your Time, Your Advancement"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:928cb3308254ed66",
+                "type": "Chunk",
+                "label": "The online applied data science format combines live synchronous classes with st",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Your Time, Your Advancement"
+                ],
+                "text_preview": "The online applied data science format combines live synchronous classes with structured asynchronous coursework.",
+                "text_length": 113
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:0adde304016a01a7",
+                "type": "Chunk",
+                "label": "You will engage in weekly, synchronous (real-time) classes with your instructors",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Your Time, Your Advancement"
+                ],
+                "text_preview": "You will engage in weekly, synchronous (real-time) classes with your instructors and peers. Live lectures provide the right forum to ask questions, work with peers, and maximize understanding of key concepts. Collaborati...",
+                "text_length": 353
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:92e4037bb42f1d4c",
+                "type": "Chunk",
+                "label": "Synchronous classes are scheduled on weekday evenings at 6 pm, CT and on occasio",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Your Time, Your Advancement"
+                ],
+                "text_preview": "Synchronous classes are scheduled on weekday evenings at 6 pm, CT and on occasional Saturdays at 9 am, CT. Students admitted into the online program are expected to attend the live class sessions.",
+                "text_length": 196
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:2914d847a745596c",
+                "type": "Chunk",
+                "label": "Each week also includes asynchronous content (learning at your own pace) to comp",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Your Time, Your Advancement"
+                ],
+                "text_preview": "Each week also includes asynchronous content (learning at your own pace) to complete when it is convenient for you. These activities prepare you for synchronous classes through lecture videos, readings, and discussions....",
+                "text_length": 371
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:1c36efdf59f35a3e",
+          "type": "Section",
+          "label": "In-Person ‘Immersion Weekend’",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h2",
+          "path": [
+            "Online Program",
+            "In-Person ‘Immersion Weekend’"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:ad5eae4e252ad31c",
+                "type": "Chunk",
+                "label": "You will have the opportunity to attend a unique, in-person ‘Immersion Weekend’",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "In-Person ‘Immersion Weekend’"
+                ],
+                "text_preview": "You will have the opportunity to attend a unique, in-person ‘Immersion Weekend’ in Chicago in the Autumn quarter.",
+                "text_length": 113
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:39dc45dbd79fa876",
+                "type": "Chunk",
+                "label": "During the Immersion Weekend, you will have the opportunity to",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "strong",
+                "path": [
+                  "Online Program",
+                  "In-Person ‘Immersion Weekend’"
+                ],
+                "text_preview": "During the Immersion Weekend, you will have the opportunity to",
+                "text_length": 62
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:bc1d559310e61784",
+                "type": "Chunk",
+                "label": "- Network with industry leaders and alumni - Meet a vibrant and supportive commu",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "ul",
+                "path": [
+                  "Online Program",
+                  "In-Person ‘Immersion Weekend’"
+                ],
+                "text_preview": "- Network with industry leaders and alumni\n- Meet a vibrant and supportive community of like-minded students and faculty\n- Get to know, bond, and network with peers from across the country\n- Participate in interactive se...",
+                "text_length": 441
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:f8d7113193fae010",
+                "type": "Chunk",
+                "label": "Future Immersion Weekend dates are:",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "strong",
+                "path": [
+                  "Online Program",
+                  "In-Person ‘Immersion Weekend’"
+                ],
+                "text_preview": "Future Immersion Weekend dates are:",
+                "text_length": 35
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:a7a6c6178f16648e",
+                "type": "Chunk",
+                "label": "- Thursday , September 24 th – Saturday, September 26 th",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "ul",
+                "path": [
+                  "Online Program",
+                  "In-Person ‘Immersion Weekend’"
+                ],
+                "text_preview": "- Thursday , September 24 th – Saturday, September 26 th",
+                "text_length": 56
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:cc6ffa68c2c7c89c",
+                "type": "Chunk",
+                "label": "We look forward to seeing you at the event!",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "In-Person ‘Immersion Weekend’"
+                ],
+                "text_preview": "We look forward to seeing you at the event!",
+                "text_length": 43
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:00818f71b331d7b8",
+          "type": "Section",
+          "label": "Note for International Students",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h4",
+          "path": [
+            "Online Program",
+            "Note for International Students"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:2fd847719f9d7b48",
+                "type": "Chunk",
+                "label": "If you are coming from a non-US location for Immersion Weekend programming, you",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Note for International Students"
+                ],
+                "text_preview": "If you are coming from a non-US location for Immersion Weekend programming, you are encouraged to come to the U.S. in visitor/tourist status; using a B-1/B-2 visa or ESTA clearance depending on whether you hold citizensh...",
+                "text_length": 257
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:559ddae515067f75",
+                "type": "Chunk",
+                "label": "The immersion days are optional for students and do not carry any course enrollm",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Note for International Students"
+                ],
+                "text_preview": "The immersion days are optional for students and do not carry any course enrollment for the time you are in Chicago. Please be clear when entering the U.S. that while you are a student in an online program at the Univers...",
+                "text_length": 389
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:447bc4186ac70560",
+          "type": "Section",
+          "label": "Curriculum",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h2",
+          "path": [
+            "Online Program",
+            "Curriculum"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:a8047a0383987bb5",
+                "type": "Chunk",
+                "label": "Students in the online applied data science program complete 12 courses (6 core,",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Curriculum"
+                ],
+                "text_preview": "Students in the online applied data science program complete 12 courses (6 core, 4 elective, 2 Capstone) and our tailored Career Seminar*.",
+                "text_length": 138
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:6893ed28787b53e7",
+                "type": "Chunk",
+                "label": "Our rigorous curriculum is designed by and for data science innovators and leade",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Curriculum"
+                ],
+                "text_preview": "Our rigorous curriculum is designed by and for data science innovators and leaders. Courses are reviewed annually to ensure the content keeps pace with the rapidly evolving landscape of data science .",
+                "text_length": 200
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:398d0352cadd61da",
+                "type": "Chunk",
+                "label": "You have the option to pursue the Master’s in Applied Data Science degree on a p",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Curriculum"
+                ],
+                "text_preview": "You have the option to pursue the Master’s in Applied Data Science degree on a part- or full-time schedule. Part-time students enroll in two courses each quarter and take their courses in the evenings or on Saturdays. Fu...",
+                "text_length": 321
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:0f756fef40adef89",
+          "type": "Section",
+          "label": "Foundational Courses (noncredit, optional)",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h3",
+          "path": [
+            "Online Program",
+            "Foundational Courses (noncredit, optional)"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:e4a5681cede3716f",
+                "type": "Chunk",
+                "label": "Foundational noncredit courses are designed and taught by Master’s in Applied Da",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Foundational Courses (noncredit, optional)"
+                ],
+                "text_preview": "Foundational noncredit courses are designed and taught by Master’s in Applied Data Science faculty and instructors . These optional courses—available at no additional cost— provide the basis for the rigorous Applied Data...",
+                "text_length": 375
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:57f23700286165ae",
+                "type": "Chunk",
+                "label": "Beginning in academic year 2024-25, all entering students will complete a requir",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Foundational Courses (noncredit, optional)"
+                ],
+                "text_preview": "Beginning in academic year 2024-25, all entering students will complete a required online Foundational Skills Assessment. This required assessment helps faculty and advisors understand how to best support you once you be...",
+                "text_length": 739
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:f3ce3347f4244471",
+          "type": "Section",
+          "label": "Career Seminar (noncredit, required)",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h3",
+          "path": [
+            "Online Program",
+            "Career Seminar (noncredit, required)"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:06cb9b14edf8099b",
+                "type": "Chunk",
+                "label": "Increasingly, employers demand data scientists and analytics professionals who a",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Career Seminar (noncredit, required)"
+                ],
+                "text_preview": "Increasingly, employers demand data scientists and analytics professionals who are not only technically excellent but also superior collaborators, reliable communicators, ethical problem-solvers, and more. To ensure that...",
+                "text_length": 552
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:4e0acb9995e0492d",
+          "type": "Section",
+          "label": "Core Courses (6)",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h3",
+          "path": [
+            "Online Program",
+            "Core Courses (6)"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:1c7c82e7962d224b",
+                "type": "Chunk",
+                "label": "You will complete 6 core courses toward your Master’s in Applied Data Science de",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Core Courses (6)"
+                ],
+                "text_preview": "You will complete 6 core courses toward your Master’s in Applied Data Science degree. Core courses allow you to build your theoretical data science knowledge and practice applying this theory to examine real-world busine...",
+                "text_length": 232
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:c162e5843689034e",
+          "type": "Section",
+          "label": "Elective Courses (4)",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h3",
+          "path": [
+            "Online Program",
+            "Elective Courses (4)"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:109855323a5ceec4",
+                "type": "Chunk",
+                "label": "You will complete 4 required electives toward your 12-course degree program. We",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Elective Courses (4)"
+                ],
+                "text_preview": "You will complete 4 required electives toward your 12-course degree program. We continually add electives to evolve with the data science landscape. Past electives include Advanced Computer Vision with Deep Learning, Adv...",
+                "text_length": 692
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:9a33c6ad8bee12cb",
+          "type": "Section",
+          "label": "Capstone (2)",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h3",
+          "path": [
+            "Online Program",
+            "Capstone (2)"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:49fefc701ac6bfa7",
+                "type": "Chunk",
+                "label": "The required Capstone Project is completed over 2 quarters and covers research d",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "p",
+                "path": [
+                  "Online Program",
+                  "Capstone (2)"
+                ],
+                "text_preview": "The required Capstone Project is completed over 2 quarters and covers research design, implementation, and writing. Full-time students start their Capstone Project in their third quarter. Part-time students generally beg...",
+                "text_length": 362
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:d479e43b369bd1c6",
+          "type": "Section",
+          "label": "Additional Resources",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "heading_tag": "h3",
+          "path": [
+            "Online Program",
+            "Additional Resources"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:04a1542e4ae1f926",
+                "type": "Chunk",
+                "label": "- Upcoming Events & Deadlines - FAQs - Tuition, Fees, & Aid",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "source_type": "ul",
+                "path": [
+                  "Online Program",
+                  "Additional Resources"
+                ],
+                "text_preview": "- Upcoming Events & Deadlines\n- FAQs\n- Tuition, Fees, & Aid",
+                "text_length": 59
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_TAB_GROUP",
+        "node": {
+          "id": "progression_tabs:fc65cd190b8edc24",
+          "type": "ProgressionTabs",
+          "label": "Course Progression Tabs",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+          "path": [
+            "Online Program"
+          ],
+          "children": [
+            {
+              "relation": "HAS_TAB",
+              "node": {
+                "id": "progression_tab:507525558270aee2",
+                "type": "ProgressionTab",
+                "label": "Noncredit Courses",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "path": [
+                  "Online Program",
+                  "Noncredit Courses"
+                ],
+                "children": [
+                  {
+                    "relation": "HAS_ACCORDION",
+                    "node": {
+                      "id": "accordion:5fae8332281515f7",
+                      "type": "Accordion",
+                      "label": "Accordion",
+                      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                      "path": [
+                        "Online Program",
+                        "Noncredit Courses"
+                      ],
+                      "children": [
+                        {
+                          "relation": "HAS_CONTENT",
+                          "node": {
+                            "id": "chunk:3a9ec231ada6dfa2",
+                            "type": "Chunk",
+                            "label": "This accordion contains: Career Seminar (Seminar, required); Introduction to Sta",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "source_type": "accordion_index",
+                            "path": [
+                              "Online Program",
+                              "Noncredit Courses",
+                              "Accordion"
+                            ],
+                            "text_preview": "This accordion contains: Career Seminar (Seminar, required); Introduction to Statistical Concepts (Foundational, optional); R for Data Science (Foundational, optional); Python for Data Science (Foundational, optional); A...",
+                            "text_length": 332
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:a6a3d91084098ee5",
+                            "type": "AccordionItem",
+                            "label": "Career Seminar (Seminar, required)",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Noncredit Courses",
+                              "Career Seminar (Seminar, required)"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:9350b38961d9d239",
+                                  "type": "Chunk",
+                                  "label": "The Pass/Fail Career Seminar supports the development of industry professional s",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Noncredit Courses",
+                                    "Career Seminar (Seminar, required)"
+                                  ],
+                                  "text_preview": "The Pass/Fail Career Seminar supports the development of industry professional skills, job and/or internship searches, and other in-demand areas of competency among today’s employers. Students enroll in the Career Semina...",
+                                  "text_length": 412
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:c343ea2c65664121",
+                            "type": "AccordionItem",
+                            "label": "Introduction to Statistical Concepts (Foundational, optional)",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Noncredit Courses",
+                              "Introduction to Statistical Concepts (Foundational, optional)"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:d5abc531d6dfb566",
+                                  "type": "Chunk",
+                                  "label": "This Foundational, optional course is held in the 5 weeks leading up to the star",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Noncredit Courses",
+                                    "Introduction to Statistical Concepts (Foundational, optional)"
+                                  ],
+                                  "text_preview": "This Foundational, optional course is held in the 5 weeks leading up to the start of your first quarter. This course provides general exposure to basic statistical concepts that are necessary for students to understand t...",
+                                  "text_length": 299
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:24cf5f060b791925",
+                            "type": "AccordionItem",
+                            "label": "R for Data Science (Foundational, optional)",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Noncredit Courses",
+                              "R for Data Science (Foundational, optional)"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:0de3d0da4edc7be3",
+                                  "type": "Chunk",
+                                  "label": "This Foundational, optional course is held in the 5 weeks leading up to the star",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Noncredit Courses",
+                                    "R for Data Science (Foundational, optional)"
+                                  ],
+                                  "text_preview": "This Foundational, optional course is held in the 5 weeks leading up to the start of your first quarter. This course is an introduction to the essential concepts and techniques for the statistical computing language R. 0...",
+                                  "text_length": 236
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:b4e9f0a0126a7b78",
+                            "type": "AccordionItem",
+                            "label": "Python for Data Science (Foundational, optional)",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Noncredit Courses",
+                              "Python for Data Science (Foundational, optional)"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:8e5f59f989115145",
+                                  "type": "Chunk",
+                                  "label": "This Foundational, optional course is held concurrently with the first five week",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Noncredit Courses",
+                                    "Python for Data Science (Foundational, optional)"
+                                  ],
+                                  "text_preview": "This Foundational, optional course is held concurrently with the first five weeks of your first quarter in the program. This course in Python starts with an introduction to the Python programming language basic syntax an...",
+                                  "text_length": 252
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:ab7c40f96740fe30",
+                            "type": "AccordionItem",
+                            "label": "Advanced Linear Algebra for Machine Learning (Foundational, optional)",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Noncredit Courses",
+                              "Advanced Linear Algebra for Machine Learning (Foundational, optional)"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:124de0c85aa0d76d",
+                                  "type": "Chunk",
+                                  "label": "This Foundational, optional course is held concurrently with the second five wee",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Noncredit Courses",
+                                    "Advanced Linear Algebra for Machine Learning (Foundational, optional)"
+                                  ],
+                                  "text_preview": "This Foundational, optional course is held concurrently with the second five weeks of your first quarter in the program. The advanced linear algebra course is focused on the theoretical concepts and real-life application...",
+                                  "text_length": 279
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:baf595a077f44536",
+                            "type": "AccordionItem",
+                            "label": "Brush up on the Basics (Optional resource)",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Noncredit Courses",
+                              "Brush up on the Basics (Optional resource)"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:0c31ca4050296beb",
+                                  "type": "Chunk",
+                                  "label": "If you would like to gauge your preparation in these Foundational course topics,",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Noncredit Courses",
+                                    "Brush up on the Basics (Optional resource)"
+                                  ],
+                                  "text_preview": "If you would like to gauge your preparation in these Foundational course topics, we recommend specific Coursera courses that cover very similar topics.",
+                                  "text_length": 151
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:6fa9a419ada16946",
+                                  "type": "Chunk",
+                                  "label": "We have identified four Coursera courses which cover very similar topics. You ca",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Noncredit Courses",
+                                    "Brush up on the Basics (Optional resource)"
+                                  ],
+                                  "text_preview": "We have identified four Coursera courses which cover very similar topics. You can review the Coursera curricula to see if you are already well-prepared, or if you like, study their materials to brush up on some or all of...",
+                                  "text_length": 234
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:7eef80ee94c0fe3e",
+                                  "type": "Chunk",
+                                  "label": "Mathematics for Machine Learning: Linear Algebra (offered by University College",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "a",
+                                  "path": [
+                                    "Online Program",
+                                    "Noncredit Courses",
+                                    "Brush up on the Basics (Optional resource)"
+                                  ],
+                                  "text_preview": "Mathematics for Machine Learning: Linear Algebra (offered by University College London)",
+                                  "text_length": 87
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:b825ad67d5781c5c",
+                                  "type": "Chunk",
+                                  "label": "Basis Data Descriptors, Statistical Distributions, and Application to Business D",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "a",
+                                  "path": [
+                                    "Online Program",
+                                    "Noncredit Courses",
+                                    "Brush up on the Basics (Optional resource)"
+                                  ],
+                                  "text_preview": "Basis Data Descriptors, Statistical Distributions, and Application to Business Decisions (offered by Rice University)",
+                                  "text_length": 117
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:e80b314833eecbd8",
+                                  "type": "Chunk",
+                                  "label": "Python for Data Science, AI, & Development (offered by IBM)",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "a",
+                                  "path": [
+                                    "Online Program",
+                                    "Noncredit Courses",
+                                    "Brush up on the Basics (Optional resource)"
+                                  ],
+                                  "text_preview": "Python for Data Science, AI, & Development (offered by IBM)",
+                                  "text_length": 59
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:4e88123971dcfe91",
+                                  "type": "Chunk",
+                                  "label": "Data Analysis with R Programming (offered by Google)",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "a",
+                                  "path": [
+                                    "Online Program",
+                                    "Noncredit Courses",
+                                    "Brush up on the Basics (Optional resource)"
+                                  ],
+                                  "text_preview": "Data Analysis with R Programming (offered by Google)",
+                                  "text_length": 52
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "relation": "HAS_TAB",
+              "node": {
+                "id": "progression_tab:238252a07b49a93f",
+                "type": "ProgressionTab",
+                "label": "Core Courses",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "path": [
+                  "Online Program",
+                  "Core Courses"
+                ],
+                "children": [
+                  {
+                    "relation": "HAS_ACCORDION",
+                    "node": {
+                      "id": "accordion:9daacfb4f50e5a78",
+                      "type": "Accordion",
+                      "label": "Accordion",
+                      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                      "path": [
+                        "Online Program",
+                        "Core Courses"
+                      ],
+                      "children": [
+                        {
+                          "relation": "HAS_CONTENT",
+                          "node": {
+                            "id": "chunk:8bf6877ebdd6833e",
+                            "type": "Chunk",
+                            "label": "This accordion contains: Time Series Analysis and Forecasting; Statistical Model",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "source_type": "accordion_index",
+                            "path": [
+                              "Online Program",
+                              "Core Courses",
+                              "Accordion"
+                            ],
+                            "text_preview": "This accordion contains: Time Series Analysis and Forecasting; Statistical Models for Data Science; Machine Learning I; Machine Learning II; Data Engineering Platforms for Analytics or Big Data and Cloud Computing; Leade...",
+                            "text_length": 288
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:488c5dcd5d564448",
+                            "type": "AccordionItem",
+                            "label": "Time Series Analysis and Forecasting",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Core Courses",
+                              "Time Series Analysis and Forecasting"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:753f6ce79dad68b1",
+                                  "type": "Chunk",
+                                  "label": "Time Series Analysis is a science as well as the art of making rational predicti",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Core Courses",
+                                    "Time Series Analysis and Forecasting"
+                                  ],
+                                  "text_preview": "Time Series Analysis is a science as well as the art of making rational predictions based on previous records. It is widely used in various fields in today’s business settings.",
+                                  "text_length": 176
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:e849767a4c1a2275",
+                            "type": "AccordionItem",
+                            "label": "Statistical Models for Data Science",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Core Courses",
+                              "Statistical Models for Data Science"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:0d88e88bfa68e77c",
+                                  "type": "Chunk",
+                                  "label": "In a traditional linear model, the observed response follows a normal distributi",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Core Courses",
+                                    "Statistical Models for Data Science"
+                                  ],
+                                  "text_preview": "In a traditional linear model, the observed response follows a normal distribution, and the expected response value is a linear combination of the predictors. Since Carl Friedrich Gauss (1777-1855) and Adrien-Marie Legen...",
+                                  "text_length": 756
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:d12aac65ef31d7ef",
+                            "type": "AccordionItem",
+                            "label": "Machine Learning I",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Core Courses",
+                              "Machine Learning I"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:e2dd5b4673cc5655",
+                                  "type": "Chunk",
+                                  "label": "This course is aimed at providing students an introduction to machine learning w",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Core Courses",
+                                    "Machine Learning I"
+                                  ],
+                                  "text_preview": "This course is aimed at providing students an introduction to machine learning with data mining techniques and algorithms. It gives a rigorous methodological foundation in analytical and software tools to successfully un...",
+                                  "text_length": 627
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:3a1e3242a3d3066f",
+                            "type": "AccordionItem",
+                            "label": "Machine Learning II",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Core Courses",
+                              "Machine Learning II"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:c6e27a46ccdf9ae7",
+                                  "type": "Chunk",
+                                  "label": "The objective of this course is three-folds–first, to extend student understandi",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Core Courses",
+                                    "Machine Learning II"
+                                  ],
+                                  "text_preview": "The objective of this course is three-folds–first, to extend student understanding of predictive modeling with machine learning concepts and methodologies from Machine Learning 1 into the realm of Deep Learning and Gener...",
+                                  "text_length": 524
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:3fe878d5322dcc3a",
+                            "type": "AccordionItem",
+                            "label": "Data Engineering Platforms for Analytics or Big Data and Cloud Computing",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Core Courses",
+                              "Data Engineering Platforms for Analytics or Big Data and Cloud Computing"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:30b22efeea352cf9",
+                                  "type": "Chunk",
+                                  "label": "Data Engineering Platforms teaches effective data engineering—an essential first",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Core Courses",
+                                    "Data Engineering Platforms for Analytics or Big Data and Cloud Computing"
+                                  ],
+                                  "text_preview": "Data Engineering Platforms teaches effective data engineering—an essential first step in building an analytics-driven competitive advantage in the market.",
+                                  "text_length": 154
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:f75a0a19bf9371d0",
+                                  "type": "Chunk",
+                                  "label": "Big Data and Cloud Computing teaches students how to approach big data and large",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Core Courses",
+                                    "Data Engineering Platforms for Analytics or Big Data and Cloud Computing"
+                                  ],
+                                  "text_preview": "Big Data and Cloud Computing teaches students how to approach big data and large-scale machine learning applications. There is no single definition of big data and multiple emerging software packages exist to work with i...",
+                                  "text_length": 269
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:b56764150e82500e",
+                            "type": "AccordionItem",
+                            "label": "Leadership and Consulting for Data Science",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Core Courses",
+                              "Leadership and Consulting for Data Science"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:92b3420f6280cc84",
+                                  "type": "Chunk",
+                                  "label": "The Leadership and Consulting for Data Scientist course is focused on:",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Core Courses",
+                                    "Leadership and Consulting for Data Science"
+                                  ],
+                                  "text_preview": "The Leadership and Consulting for Data Scientist course is focused on:",
+                                  "text_length": 70
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:06de1097d125dca7",
+                                  "type": "Chunk",
+                                  "label": "• Learning techniques and proven methods to effectively grasp the business domai",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Core Courses",
+                                    "Leadership and Consulting for Data Science"
+                                  ],
+                                  "text_preview": "• Learning techniques and proven methods to effectively grasp the business domain including organizational dynamics of consultancies and client organizations • Developing relevant solutions to enterprise problems using t...",
+                                  "text_length": 521
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:46b080968a551ce4",
+                                  "type": "Chunk",
+                                  "label": "This course will not only make you a better data scientist; it will make you and",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Core Courses",
+                                    "Leadership and Consulting for Data Science"
+                                  ],
+                                  "text_preview": "This course will not only make you a better data scientist; it will make you and your analyses more approachable, more persuasive, and ultimately more successful.",
+                                  "text_length": 162
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:a03c59cc7ca9aa98",
+                            "type": "AccordionItem",
+                            "label": "Data Science Capstone Project",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Core Courses",
+                              "Data Science Capstone Project"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:766e37a7a547ed01",
+                                  "type": "Chunk",
+                                  "label": "The required Capstone Project is completed over two quarters and covers research",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Core Courses",
+                                    "Data Science Capstone Project"
+                                  ],
+                                  "text_preview": "The required Capstone Project is completed over two quarters and covers research design, implementation, and writing.",
+                                  "text_length": 117
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:3ee9172c07d1479d",
+                                  "type": "Chunk",
+                                  "label": "Full-time students start their capstone project in their third quarter. Part-tim",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Core Courses",
+                                    "Data Science Capstone Project"
+                                  ],
+                                  "text_preview": "Full-time students start their capstone project in their third quarter. Part-time students generally begin the capstone project in their fifth quarter.",
+                                  "text_length": 151
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "relation": "HAS_TAB",
+              "node": {
+                "id": "progression_tab:6167600c111c9117",
+                "type": "ProgressionTab",
+                "label": "Sample Elective Courses",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                "path": [
+                  "Online Program",
+                  "Sample Elective Courses"
+                ],
+                "children": [
+                  {
+                    "relation": "HAS_ACCORDION",
+                    "node": {
+                      "id": "accordion:42116c53827029b8",
+                      "type": "Accordion",
+                      "label": "Accordion",
+                      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                      "path": [
+                        "Online Program",
+                        "Sample Elective Courses"
+                      ],
+                      "children": [
+                        {
+                          "relation": "HAS_CONTENT",
+                          "node": {
+                            "id": "chunk:5929026c3495485b",
+                            "type": "Chunk",
+                            "label": "This accordion contains: Advanced Computer Vision with Deep Learning; Advanced M",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "source_type": "accordion_index",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Accordion"
+                            ],
+                            "text_preview": "This accordion contains: Advanced Computer Vision with Deep Learning; Advanced Machine Learning and Artificial Intelligence; Bayesian Machine Learning with Generative AI Applications; Data Science for Algorithmic Marketi...",
+                            "text_length": 588
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:ff22e6b4baeb65c1",
+                            "type": "AccordionItem",
+                            "label": "Advanced Computer Vision with Deep Learning",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Advanced Computer Vision with Deep Learning"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:0ac871f00dafa0b2",
+                                  "type": "Chunk",
+                                  "label": "Computer vision is the field of computer science that focuses on creating digita",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Advanced Computer Vision with Deep Learning"
+                                  ],
+                                  "text_preview": "Computer vision is the field of computer science that focuses on creating digital systems that can process, analyze, and make sense of visual data in the same way that humans do. Deep learning is a subset of machine lear...",
+                                  "text_length": 1211
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:3b3eace9a8b2efba",
+                                  "type": "Chunk",
+                                  "label": "the course will primarily be computer vision, students will work on both image a",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Advanced Computer Vision with Deep Learning"
+                                  ],
+                                  "text_preview": "the course will primarily be computer vision, students will work on both image and nonimage datasets during class exercises and assignments. Students will gain hands-on experience in popular libraries such as Tensorflow,...",
+                                  "text_length": 464
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:4931901849f54580",
+                            "type": "AccordionItem",
+                            "label": "Advanced Machine Learning and Artificial Intelligence",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Advanced Machine Learning and Artificial Intelligence"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:35a975a09b29fd94",
+                                  "type": "Chunk",
+                                  "label": "Since the era of big data started, challenges associated with data analysis have",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Advanced Machine Learning and Artificial Intelligence"
+                                  ],
+                                  "text_preview": "Since the era of big data started, challenges associated with data analysis have grown significantly in different directions: First, the technological infrastructure had to be developed that can hold and process large am...",
+                                  "text_length": 1197
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:225986258ddcafc3",
+                                  "type": "Chunk",
+                                  "label": "of data unseen before. We now have a growing number of sources and educational c",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Advanced Machine Learning and Artificial Intelligence"
+                                  ],
+                                  "text_preview": "of data unseen before. We now have a growing number of sources and educational courses introducing these new tools. However, developing new data analysis methods appropriate to these new data ecosystems is more difficult...",
+                                  "text_length": 237
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:de9d67b848b46259",
+                            "type": "AccordionItem",
+                            "label": "Bayesian Machine Learning with Generative AI Applications",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Bayesian Machine Learning with Generative AI Applications"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:9080fdcdad38c6f4",
+                                  "type": "Chunk",
+                                  "label": "This course provides a strong theoretical and practical skillset for probabilist",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Bayesian Machine Learning with Generative AI Applications"
+                                  ],
+                                  "text_preview": "This course provides a strong theoretical and practical skillset for probabilistic machine learning applications. Bayesian inference and modeling methods are important for several areas including prediction, decision mak...",
+                                  "text_length": 1296
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:31cc6f3449024df2",
+                            "type": "AccordionItem",
+                            "label": "Data Science for Algorithmic Marketing",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Data Science for Algorithmic Marketing"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:1869eb62ed8d9eff",
+                                  "type": "Chunk",
+                                  "label": "This course focuses on marketing science methods and algorithms for undertaking",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Data Science for Algorithmic Marketing"
+                                  ],
+                                  "text_preview": "This course focuses on marketing science methods and algorithms for undertaking competitive analysis in the digital landscape: market segmentation, mining databases for effective digital marketing, design of new digital...",
+                                  "text_length": 966
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:68bf0794f4e0c28b",
+                            "type": "AccordionItem",
+                            "label": "Data Science for Healthcare",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Data Science for Healthcare"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:6cabce0b7caaf948",
+                                  "type": "Chunk",
+                                  "label": "Given the breadth of the field of health analytics, this course will provide an",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Data Science for Healthcare"
+                                  ],
+                                  "text_preview": "Given the breadth of the field of health analytics, this course will provide an overview of the development and rapid expansion of analytics in healthcare, major and emerging topical areas, and current issues related to...",
+                                  "text_length": 1003
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:fd6c3bbc4d469c6e",
+                            "type": "AccordionItem",
+                            "label": "Data Visualization Techniques",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Data Visualization Techniques"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:bc28e202b2b87491",
+                                  "type": "Chunk",
+                                  "label": "In today’s data driven enterprise, data storytelling using effective visualizati",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Data Visualization Techniques"
+                                  ],
+                                  "text_preview": "In today’s data driven enterprise, data storytelling using effective visualization strategies is an essential skill for analytics practitioners in almost every field to explore and present data. This course focuses on mo...",
+                                  "text_length": 973
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:05d093fce85d99f2",
+                            "type": "AccordionItem",
+                            "label": "Digital Marketing Analytics in Theory and Practice",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Digital Marketing Analytics in Theory and Practice"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:695e125f8120ae92",
+                                  "type": "Chunk",
+                                  "label": "Successfully marketing brands today requires a well-balanced blend of art and sc",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Digital Marketing Analytics in Theory and Practice"
+                                  ],
+                                  "text_preview": "Successfully marketing brands today requires a well-balanced blend of art and science. This course introduces students to the science of web analytics while casting a keen eye toward the artful use of numbers found in th...",
+                                  "text_length": 1228
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:b8f3449c90ac3e49",
+                                  "type": "Chunk",
+                                  "label": "familiarity with the unique measurement opportunities and challenges presented b",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Digital Marketing Analytics in Theory and Practice"
+                                  ],
+                                  "text_preview": "familiarity with the unique measurement opportunities and challenges presented by New Media; gain hands-on, working knowledge of a step-by-step approach to planning, collecting, analyzing, and reporting data; utilize too...",
+                                  "text_length": 409
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:6901fd248fef230b",
+                            "type": "AccordionItem",
+                            "label": "Quantitative Finance: Methods and Applications",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Quantitative Finance: Methods and Applications"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:7fa7e572dbfe8e6b",
+                                  "type": "Chunk",
+                                  "label": "This course concentrates on the following topics: review of financial markets an",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Quantitative Finance: Methods and Applications"
+                                  ],
+                                  "text_preview": "This course concentrates on the following topics: review of financial markets and assets traded on them; main characteristics of financial analytics: returns, yields, volatility; review of stochastic models of market pri...",
+                                  "text_length": 916
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:21f66226edbf763b",
+                            "type": "AccordionItem",
+                            "label": "Generative AI: Principles and Applications",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Generative AI: Principles and Applications"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:2c43547187a6a649",
+                                  "type": "Chunk",
+                                  "label": "This course dives into the realm of Generative AI, offering a comprehensive look",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "p",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Generative AI: Principles and Applications"
+                                  ],
+                                  "text_preview": "This course dives into the realm of Generative AI, offering a comprehensive look into the world of Large Language Models (LLMs), image generation techniques, and the fusion of vision and text through multimodal models. D...",
+                                  "text_length": 593
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:85a92ea985cad50f",
+                            "type": "AccordionItem",
+                            "label": "Machine Learning Operations",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Machine Learning Operations"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:8f59bc1ad3b5cc30",
+                                  "type": "Chunk",
+                                  "label": "The objective of this course is two-fold: first, to understand what Machine Lear",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Machine Learning Operations"
+                                  ],
+                                  "text_preview": "The objective of this course is two-fold: first, to understand what Machine Learning Operations (MLOps) is and why it is a key component in enterprise production deployment of machine learning projects, and second, to ex...",
+                                  "text_length": 1293
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:e0566ace728a4429",
+                            "type": "AccordionItem",
+                            "label": "Next-Gen NLP: LLM and Agentic AI in Practice",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Next-Gen NLP: LLM and Agentic AI in Practice"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:b71d4dadb3d5cecb",
+                                  "type": "Chunk",
+                                  "label": "Extracting actionable insights from unstructured text and designing cognitive ap",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Next-Gen NLP: LLM and Agentic AI in Practice"
+                                  ],
+                                  "text_preview": "Extracting actionable insights from unstructured text and designing cognitive applications have become significant areas of application for analytics. Students in this course will learn foundations of natural language pr...",
+                                  "text_length": 1032
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:48c28f6d883c1211",
+                            "type": "AccordionItem",
+                            "label": "Real Time Intelligent Systems",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Real Time Intelligent Systems"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:10404490ee63c453",
+                                  "type": "Chunk",
+                                  "label": "Developing end-to-end automation and intelligent systems is now the most advance",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Real Time Intelligent Systems"
+                                  ],
+                                  "text_preview": "Developing end-to-end automation and intelligent systems is now the most advanced area of application for analytics. Building such systems requires proficiency in programming, understanding of computer systems, as well a...",
+                                  "text_length": 864
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:e5fc0f4273fc3533",
+                            "type": "AccordionItem",
+                            "label": "Deep Reinforcement Learning",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Deep Reinforcement Learning"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:6bf067c27958e78d",
+                                  "type": "Chunk",
+                                  "label": "This course is an introduction to reinforcement learning, also known as neuro-dy",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Deep Reinforcement Learning"
+                                  ],
+                                  "text_preview": "This course is an introduction to reinforcement learning, also known as neuro-dynamic programming. It discusses basic and advanced concepts in reinforcement learning and provides several practical applications. Reinforce...",
+                                  "text_length": 1075
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "relation": "HAS_ACCORDION_ITEM",
+                          "node": {
+                            "id": "accordion_item:fd0bbf3a31fd0954",
+                            "type": "AccordionItem",
+                            "label": "Supply Chain Optimization",
+                            "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                            "path": [
+                              "Online Program",
+                              "Sample Elective Courses",
+                              "Supply Chain Optimization"
+                            ],
+                            "children": [
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:d5702ac772fa9d9b",
+                                  "type": "Chunk",
+                                  "label": "“Big Data” continues to grow exponentially in our large-scale transactional worl",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Supply Chain Optimization"
+                                  ],
+                                  "text_preview": "“Big Data” continues to grow exponentially in our large-scale transactional world where 100,000s of SKUs and millions of customers are interacting with 1:1 offers that include differential pricing, shipping timing/costs...",
+                                  "text_length": 1290
+                                }
+                              },
+                              {
+                                "relation": "HAS_CONTENT",
+                                "node": {
+                                  "id": "chunk:77142f5870945c1c",
+                                  "type": "Chunk",
+                                  "label": "Network Optimization, Freight Cost Management, Manufacturing, Retail POS Informa",
+                                  "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+                                  "source_type": "span",
+                                  "path": [
+                                    "Online Program",
+                                    "Sample Elective Courses",
+                                    "Supply Chain Optimization"
+                                  ],
+                                  "text_preview": "Network Optimization, Freight Cost Management, Manufacturing, Retail POS Information, Ecommerce, Consumer Data, and Product Design/Packaging. After completing this course, you will be prepared to work in any of the numer...",
+                                  "text_length": 289
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "chunks": [
+    {
+      "id": "chunk:6d45e53a1177728f",
+      "text": "MS in Applied Data Science Leverage the latest tools in data science with our online data science master's degree. Whether you choose the full-time or part-time path, the online format is designed to align with the demands of working professionals while maintaining live, interactive coursework.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Page Header Content"
+      ],
+      "source_type": "page_header_content"
+    },
+    {
+      "id": "chunk:59e7b80e14c4dcef",
+      "text": "The Online MS in Applied Data Science program at the University of Chicago delivers a structured online learning experience with live classes designed for working professionals.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Academic Rigor Meets Work/Life Balance"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:9b8fb19d68f79af8",
+      "text": "You will benefit from the same top faculty, bright peer group, and academic rigor as the In-Person program. You may complete the program full- or part-time. Full-time and part-time students begin in Autumn quarter. Please visit the In-Person program page if you are interested in exploring those full- and part-time options for entrance Autumn quarter.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Academic Rigor Meets Work/Life Balance"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:bbe826368656b405",
+      "text": "Get ready for what’s next in data science with rigorous classes, expert instructors, leading-edge technology, and an unparalleled network of industry professionals . A full-service team dedicated to the MS in Applied Data Science program are here to help you reach your career potential as a member of the University of Chicago community.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Master Data Science, Master Your Career"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:02238c7d108ec084",
+      "text": "Want to get in touch with our enrollment team? Click below to share your information and receive details about the MS in Applied Data Science program and upcoming events.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Get in Touch"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:e75c2f9e00ad1283",
+      "text": "As a graduate of the online applied data science program, you will be a top competitor among data science jobs and career paths as a result of this program. You will have access to a dedicated team of faculty and staff who are committed to helping you reach your potential–whether it’s landing a key internship, preparing for a promotion, or moving into your next job, the MS in Applied Data Science program is here to help. Among other resources, you will have access to tailored, in-house career services, academic advising, and opportunities to grow your network in person and virtually.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Your Outcomes"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:e1d394b2af79cb0a",
+      "text": "There are unique opportunities to support you as an Online master’s student. You will have access to the same full-service team of student affairs, career services, and instructional services experts. Jointly with faculty and instructors , our Master’s in Applied Data Science team is committed to providing a supportive and enriching student experience. Our team is passionate about supporting students engaging in online education who might also be working full-time like you. Staff who lead our Online program have a background in instructional design and best practices for online learning.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Your Online Applied Data Science Experience"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:066cb292622c65a0",
+      "text": "As an Online student, you will have access to program alumni through Immersion Weekend events and virtual career services programs–all of which broadens your network and supports your career advancement goals. Upon graduation, you will also join a prestigious group of Physical Sciences Division and UChicago alumni who live and work all over the world. Our Alumni Board that plans events and programs in Chicago and other U.S. cities.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Your Access to Alumni"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:928cb3308254ed66",
+      "text": "The online applied data science format combines live synchronous classes with structured asynchronous coursework.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Your Time, Your Advancement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:0adde304016a01a7",
+      "text": "You will engage in weekly, synchronous (real-time) classes with your instructors and peers. Live lectures provide the right forum to ask questions, work with peers, and maximize understanding of key concepts. Collaborative and interactive learning with your classmates is facilitated by advanced meeting technology during and beyond synchronous classes.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Your Time, Your Advancement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:92e4037bb42f1d4c",
+      "text": "Synchronous classes are scheduled on weekday evenings at 6 pm, CT and on occasional Saturdays at 9 am, CT. Students admitted into the online program are expected to attend the live class sessions.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Your Time, Your Advancement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:2914d847a745596c",
+      "text": "Each week also includes asynchronous content (learning at your own pace) to complete when it is convenient for you. These activities prepare you for synchronous classes through lecture videos, readings, and discussions. The online format allows you to work on data science projects, group collaborations, and assignments around your personal and professional commitments.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Your Time, Your Advancement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:ad5eae4e252ad31c",
+      "text": "You will have the opportunity to attend a unique, in-person ‘Immersion Weekend’ in Chicago in the Autumn quarter.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "In-Person ‘Immersion Weekend’"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:39dc45dbd79fa876",
+      "text": "During the Immersion Weekend, you will have the opportunity to",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "In-Person ‘Immersion Weekend’"
+      ],
+      "source_type": "strong"
+    },
+    {
+      "id": "chunk:bc1d559310e61784",
+      "text": "- Network with industry leaders and alumni\n- Meet a vibrant and supportive community of like-minded students and faculty\n- Get to know, bond, and network with peers from across the country\n- Participate in interactive sessions, working to develop industry solutions\n- Gain career insights and discuss the latest trends and challenges in AI/ML\n- Hear from students about their experience in Capstone Projects\n- Tour the Data Science Institute",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "In-Person ‘Immersion Weekend’"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:f8d7113193fae010",
+      "text": "Future Immersion Weekend dates are:",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "In-Person ‘Immersion Weekend’"
+      ],
+      "source_type": "strong"
+    },
+    {
+      "id": "chunk:a7a6c6178f16648e",
+      "text": "- Thursday , September 24 th – Saturday, September 26 th",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "In-Person ‘Immersion Weekend’"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:cc6ffa68c2c7c89c",
+      "text": "We look forward to seeing you at the event!",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "In-Person ‘Immersion Weekend’"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:2fd847719f9d7b48",
+      "text": "If you are coming from a non-US location for Immersion Weekend programming, you are encouraged to come to the U.S. in visitor/tourist status; using a B-1/B-2 visa or ESTA clearance depending on whether you hold citizenship from a Visa Waiver Country or not.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Note for International Students"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:559ddae515067f75",
+      "text": "The immersion days are optional for students and do not carry any course enrollment for the time you are in Chicago. Please be clear when entering the U.S. that while you are a student in an online program at the University of Chicago, your visit for immersion weekend is not to attend credit-bearing classes, but to meet classmates and as a result you are coming to the U.S. as a visitor.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Note for International Students"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:a8047a0383987bb5",
+      "text": "Students in the online applied data science program complete 12 courses (6 core, 4 elective, 2 Capstone) and our tailored Career Seminar*.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Curriculum"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:6893ed28787b53e7",
+      "text": "Our rigorous curriculum is designed by and for data science innovators and leaders. Courses are reviewed annually to ensure the content keeps pace with the rapidly evolving landscape of data science .",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Curriculum"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:398d0352cadd61da",
+      "text": "You have the option to pursue the Master’s in Applied Data Science degree on a part- or full-time schedule. Part-time students enroll in two courses each quarter and take their courses in the evenings or on Saturdays. Full-time students take three courses per quarter. Some of their courses may be offered during the day.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Curriculum"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:e4a5681cede3716f",
+      "text": "Foundational noncredit courses are designed and taught by Master’s in Applied Data Science faculty and instructors . These optional courses—available at no additional cost— provide the basis for the rigorous Applied Data Science degree. Course content undergirds the theoretical, strategic, and practical data science studies you will encounter in the rest of the curriculum.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Foundational Courses (noncredit, optional)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:57f23700286165ae",
+      "text": "Beginning in academic year 2024-25, all entering students will complete a required online Foundational Skills Assessment. This required assessment helps faculty and advisors understand how to best support you once you begin in the program. You may choose to opt-out of taking the Foundational Skill Assessments and instead register for all four Foundational courses. The four Foundational noncredit courses are listed below. Please note that Introduction to Statistical Concepts and R are considered pre-quarter courses and therefore take place during the 5 weeks leading up to your first quarter in the program. All Foundational courses are completed virtually for all students regardless of enrollment in the In-Person or Online Program.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Foundational Courses (noncredit, optional)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:06cb9b14edf8099b",
+      "text": "Increasingly, employers demand data scientists and analytics professionals who are not only technically excellent but also superior collaborators, reliable communicators, ethical problem-solvers, and more. To ensure that our graduates remain as top candidates in the job market, we provide tailored support through our required, multi-quarter Career Seminar. The Seminar is designed to counter-balance students’ time commitments in other courses. *Students with significant, relevant full-time work experience may be eligible to waive this requirement.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Career Seminar (noncredit, required)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:1c7c82e7962d224b",
+      "text": "You will complete 6 core courses toward your Master’s in Applied Data Science degree. Core courses allow you to build your theoretical data science knowledge and practice applying this theory to examine real-world business problems.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses (6)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:109855323a5ceec4",
+      "text": "You will complete 4 required electives toward your 12-course degree program. We continually add electives to evolve with the data science landscape. Past electives include Advanced Computer Vision with Deep Learning, Advanced Machine Learning and Artificial Intelligence, Bayesian Machine Learning with Generative AI Applications, Data Science for Algorithmic Marketing, Data Visualization Techniques, Digital Marketing Analytics in Theory and Practice, Quantitative Finance: Methods and Applications, Data Science for Healthcare, Machine Learning Operations, Next-Gen NLP: LLM and Agentic AI in Practice, Real Time Intelligent Systems, Deep Reinforcement Learning, Supply Chain Optimization.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Elective Courses (4)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:49fefc701ac6bfa7",
+      "text": "The required Capstone Project is completed over 2 quarters and covers research design, implementation, and writing. Full-time students start their Capstone Project in their third quarter. Part-time students generally begin the Capstone Project two quarters before their projected graduation quarter. Students choose among industry- and research-focused projects.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Capstone (2)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:04a1542e4ae1f926",
+      "text": "- Upcoming Events & Deadlines\n- FAQs\n- Tuition, Fees, & Aid",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Additional Resources"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:3a9ec231ada6dfa2",
+      "text": "This accordion contains: Career Seminar (Seminar, required); Introduction to Statistical Concepts (Foundational, optional); R for Data Science (Foundational, optional); Python for Data Science (Foundational, optional); Advanced Linear Algebra for Machine Learning (Foundational, optional); Brush up on the Basics (Optional resource)",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "Accordion"
+      ],
+      "source_type": "accordion_index"
+    },
+    {
+      "id": "chunk:9350b38961d9d239",
+      "text": "The Pass/Fail Career Seminar supports the development of industry professional skills, job and/or internship searches, and other in-demand areas of competency among today’s employers. Students enroll in the Career Seminar each quarter in order to engage in unique content throughout their degree program. Students with significant full-time work experience may be eligible to waive this course. 0 units, no cost.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "Career Seminar (Seminar, required)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:d5abc531d6dfb566",
+      "text": "This Foundational, optional course is held in the 5 weeks leading up to the start of your first quarter. This course provides general exposure to basic statistical concepts that are necessary for students to understand the content presented in more advanced courses in the program. 0 units, no cost.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "Introduction to Statistical Concepts (Foundational, optional)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:0de3d0da4edc7be3",
+      "text": "This Foundational, optional course is held in the 5 weeks leading up to the start of your first quarter. This course is an introduction to the essential concepts and techniques for the statistical computing language R. 0 units, no cost.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "R for Data Science (Foundational, optional)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:8e5f59f989115145",
+      "text": "This Foundational, optional course is held concurrently with the first five weeks of your first quarter in the program. This course in Python starts with an introduction to the Python programming language basic syntax and environment. 0 units, no cost.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "Python for Data Science (Foundational, optional)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:124de0c85aa0d76d",
+      "text": "This Foundational, optional course is held concurrently with the second five weeks of your first quarter in the program. The advanced linear algebra course is focused on the theoretical concepts and real-life applications of linear algebra for machine learning. 0 units, no cost.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "Advanced Linear Algebra for Machine Learning (Foundational, optional)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:0c31ca4050296beb",
+      "text": "If you would like to gauge your preparation in these Foundational course topics, we recommend specific Coursera courses that cover very similar topics.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "Brush up on the Basics (Optional resource)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:6fa9a419ada16946",
+      "text": "We have identified four Coursera courses which cover very similar topics. You can review the Coursera curricula to see if you are already well-prepared, or if you like, study their materials to brush up on some or all of these topics.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "Brush up on the Basics (Optional resource)"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:7eef80ee94c0fe3e",
+      "text": "Mathematics for Machine Learning: Linear Algebra (offered by University College London)",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "Brush up on the Basics (Optional resource)"
+      ],
+      "source_type": "a"
+    },
+    {
+      "id": "chunk:b825ad67d5781c5c",
+      "text": "Basis Data Descriptors, Statistical Distributions, and Application to Business Decisions (offered by Rice University)",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "Brush up on the Basics (Optional resource)"
+      ],
+      "source_type": "a"
+    },
+    {
+      "id": "chunk:e80b314833eecbd8",
+      "text": "Python for Data Science, AI, & Development (offered by IBM)",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "Brush up on the Basics (Optional resource)"
+      ],
+      "source_type": "a"
+    },
+    {
+      "id": "chunk:4e88123971dcfe91",
+      "text": "Data Analysis with R Programming (offered by Google)",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Noncredit Courses",
+        "Brush up on the Basics (Optional resource)"
+      ],
+      "source_type": "a"
+    },
+    {
+      "id": "chunk:8bf6877ebdd6833e",
+      "text": "This accordion contains: Time Series Analysis and Forecasting; Statistical Models for Data Science; Machine Learning I; Machine Learning II; Data Engineering Platforms for Analytics or Big Data and Cloud Computing; Leadership and Consulting for Data Science; Data Science Capstone Project",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Accordion"
+      ],
+      "source_type": "accordion_index"
+    },
+    {
+      "id": "chunk:753f6ce79dad68b1",
+      "text": "Time Series Analysis is a science as well as the art of making rational predictions based on previous records. It is widely used in various fields in today’s business settings.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Time Series Analysis and Forecasting"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:0d88e88bfa68e77c",
+      "text": "In a traditional linear model, the observed response follows a normal distribution, and the expected response value is a linear combination of the predictors. Since Carl Friedrich Gauss (1777-1855) and Adrien-Marie Legendre (1752-1833) created this linear model framework in the early 1800s, the “Linear Normal” assumption has been the norm in statistics/data science for almost two centuries. New methods based on probability distributions other than Gaussian appeared only in the second half of the twentieth century. These methods allowed working with variables that span a broader variety of domains and probability distributions. Besides, methods for the analysis of general associations were developed that are different from the Pearson correlation.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Statistical Models for Data Science"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:e2dd5b4673cc5655",
+      "text": "This course is aimed at providing students an introduction to machine learning with data mining techniques and algorithms. It gives a rigorous methodological foundation in analytical and software tools to successfully undertake projects in Data Science. Students are exposed to concepts of exploratory analyses for uncovering and detecting patterns in multivariate data, hypothesizing and detecting relationships among variables, conducting confirmatory analyses, and building models for predictive and descriptive purposes. It will present predictive modeling in the context of balancing predictive and descriptive accuracies.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Machine Learning I"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:c6e27a46ccdf9ae7",
+      "text": "The objective of this course is three-folds–first, to extend student understanding of predictive modeling with machine learning concepts and methodologies from Machine Learning 1 into the realm of Deep Learning and Generative AI. Second, to develop the ability to apply those concepts and methodologies to diverse practical applications, evaluate the results and recommend the next best action. Third, to discuss and understand state-of-the machine learning and deep learning research and development and their applications.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Machine Learning II"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:30b22efeea352cf9",
+      "text": "Data Engineering Platforms teaches effective data engineering—an essential first step in building an analytics-driven competitive advantage in the market.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Data Engineering Platforms for Analytics or Big Data and Cloud Computing"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:f75a0a19bf9371d0",
+      "text": "Big Data and Cloud Computing teaches students how to approach big data and large-scale machine learning applications. There is no single definition of big data and multiple emerging software packages exist to work with it, and we will cover the most popular approaches.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Data Engineering Platforms for Analytics or Big Data and Cloud Computing"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:92b3420f6280cc84",
+      "text": "The Leadership and Consulting for Data Scientist course is focused on:",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Leadership and Consulting for Data Science"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:06de1097d125dca7",
+      "text": "• Learning techniques and proven methods to effectively grasp the business domain including organizational dynamics of consultancies and client organizations • Developing relevant solutions to enterprise problems using the sampling methods, traditional statistical techniques and modern machine learning models that deliver value to the organization • Practicing successful project delivery through effective data discovery, influential team membership and leadership, project management, and communication at every stage",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Leadership and Consulting for Data Science"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:46b080968a551ce4",
+      "text": "This course will not only make you a better data scientist; it will make you and your analyses more approachable, more persuasive, and ultimately more successful.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Leadership and Consulting for Data Science"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:766e37a7a547ed01",
+      "text": "The required Capstone Project is completed over two quarters and covers research design, implementation, and writing.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Data Science Capstone Project"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:3ee9172c07d1479d",
+      "text": "Full-time students start their capstone project in their third quarter. Part-time students generally begin the capstone project in their fifth quarter.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Core Courses",
+        "Data Science Capstone Project"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:5929026c3495485b",
+      "text": "This accordion contains: Advanced Computer Vision with Deep Learning; Advanced Machine Learning and Artificial Intelligence; Bayesian Machine Learning with Generative AI Applications; Data Science for Algorithmic Marketing; Data Science for Healthcare; Data Visualization Techniques; Digital Marketing Analytics in Theory and Practice; Quantitative Finance: Methods and Applications; Generative AI: Principles and Applications; Machine Learning Operations; Next-Gen NLP: LLM and Agentic AI in Practice; Real Time Intelligent Systems; Deep Reinforcement Learning; Supply Chain Optimization",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Accordion"
+      ],
+      "source_type": "accordion_index"
+    },
+    {
+      "id": "chunk:0ac871f00dafa0b2",
+      "text": "Computer vision is the field of computer science that focuses on creating digital systems that can process, analyze, and make sense of visual data in the same way that humans do. Deep learning is a subset of machine learning and a branch of Artificial Intelligence (AI). It involves the training, deployment, and application of large complex neural network architectures to solve cutting-edge problems. Deep Learning has become the primary approach for solving cognitive problems such as Computer Vision and Natural Language Processing (NLP) and has had a massive impact on various industries such as healthcare, retail, automotive, industrial automation, and agriculture. This course will enable students to build Deep Learning models and apply them to computer vision tasks such as object recognition, detection, and segmentation. Students will gain an in-depth understanding of the Deep Learning model development process, tools, and frameworks. Although the focus of the course will primarily be computer vision, students will work on both image and nonimage datasets during class exercises and assignments. Students will gain hands-on experience in popular libraries such as Tensorflow, Keras, and PyTorch.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Advanced Computer Vision with Deep Learning"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:3b3eace9a8b2efba",
+      "text": "the course will primarily be computer vision, students will work on both image and nonimage datasets during class exercises and assignments. Students will gain hands-on experience in popular libraries such as Tensorflow, Keras, and PyTorch. Students will also learn to apply state of the art models such as ResNet, EfficientNet, RCNNs, YOLO, Vision Transformers, etc. for computer vision and work on datasets such as CIFAR, ImageNet, MS COCO, and MPII Human Poses.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Advanced Computer Vision with Deep Learning"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:35a975a09b29fd94",
+      "text": "Since the era of big data started, challenges associated with data analysis have grown significantly in different directions: First, the technological infrastructure had to be developed that can hold and process large amounts of data from different sources and of multiple not always well formalized formats. Second, data analysis methods had to be reviewed, selected and modified to work in distributed computational environments like combinations of in-house clusters of servers and cloud. But the biggest challenge of all is learning to think differently in order to ask new types of questions that could not be answered by analyses of less complex data streams with less complex technological infrastructure. In recent years significant progress has been achieved in creating technological ecosystems for big data analysis. Innovative technologies such as open source projects MapReduce, Hadoop, Spark, Storm, Kafka, TensorFlow, H2O, etc. allowed us to look at depths of data unseen before. We now have a growing number of sources and educational courses introducing these new tools. However, developing new data analysis methods appropriate to these new data ecosystems is more difficult than",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Advanced Machine Learning and Artificial Intelligence"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:225986258ddcafc3",
+      "text": "of data unseen before. We now have a growing number of sources and educational courses introducing these new tools. However, developing new data analysis methods appropriate to these new data ecosystems is more difficult than it appears.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Advanced Machine Learning and Artificial Intelligence"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:9080fdcdad38c6f4",
+      "text": "This course provides a strong theoretical and practical skillset for probabilistic machine learning applications. Bayesian inference and modeling methods are important for several areas including prediction, decision making, and risk assessment where modeling the uncertainty is needed. The course begins with an introduction to Bayesian statistical analysis, covering the foundations of Bayesian inference and the application of Bayes’ theorem for statistical inference. We then introduce Bayesian networks, which offer a powerful graphical tool for modeling complex systems and making probabilistic inferences. The course then advances to cover more sophisticated topics such as Markov Chain Monte Carlo (MCMC) methods for sampling from complex probability distributions, hierarchical models, and model selection techniques. The final three weeks are dedicated to cutting-edge methodologies like Generative Deep Learning, Variational Autoencoders, and Bayesian Neural Networks, all rooted in Bayesian Machine Learning. Upon completion, students will be equipped to apply Bayesian methods to a wide range of real-world problems in fields such as engineering, business, finance, and public policy, addressing challenges like missing data or training AI models that are able to say ‘I don’t know’.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Bayesian Machine Learning with Generative AI Applications"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:1869eb62ed8d9eff",
+      "text": "This course focuses on marketing science methods and algorithms for undertaking competitive analysis in the digital landscape: market segmentation, mining databases for effective digital marketing, design of new digital and traditional products, forecasting sales and product diffusion, real time product positioning, intra omni-channel optimization and inter omni-channel resource allocation, and pricing across both omni-channel marketing effectiveness and ROI. The course will use a combination of lecture, in-class discussions, group assignments, and a final group project. The course lays special emphasis on algorithms. Hence it draws heavily from the fields of optimization, machine-learning based recommendation systems, association rules, consumer choice models, Bayesian estimation, experimentation and analysis of covariance, advanced visualization techniques for mapping brand perceptions, and analysis of social media data using advanced NLP techniques.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Data Science for Algorithmic Marketing"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:6cabce0b7caaf948",
+      "text": "Given the breadth of the field of health analytics, this course will provide an overview of the development and rapid expansion of analytics in healthcare, major and emerging topical areas, and current issues related to research methods to improve human health. We will cover such topics as security concerns unique to the field, research design strategies, and the integration of epidemiologic and quality improvement methodologies to operationalize data for continuous improvement. Students will be introduced to the application of predictive analytics to healthcare. Students will understand factors impacting the delivery of quality and safe patient care and the application of data-driven methods to improve care at the healthcare system level, design approaches to answering a research question at the population level, become familiar with the application of data analytics to impacting care at the provider level through Clinical Decision Systems, and understand the process of a Clinical Trial.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Data Science for Healthcare"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:bc28e202b2b87491",
+      "text": "In today’s data driven enterprise, data storytelling using effective visualization strategies is an essential skill for analytics practitioners in almost every field to explore and present data. This course focuses on modern data visualization technologies, tools, and techniques to convert raw data into actionable information. Modern data visualization tools are at the forefront of the “self-service analytics” architectures which are decentralizing analytics and breaking down IT bottlenecks for business experts. Moreover, with its foundations rooted in statistics, psychology, and computer science, data visualization shows you how to better understand the data, present clear evidence of your findings to your intended audience and tell engaging data stories through charts and graphics. This course is designed to introduce data visualization as a medium of effective communication using strategic storytelling, and the basis for interactive information dashboards.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Data Visualization Techniques"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:695e125f8120ae92",
+      "text": "Successfully marketing brands today requires a well-balanced blend of art and science. This course introduces students to the science of web analytics while casting a keen eye toward the artful use of numbers found in the digital space. The goal is to provide marketers with the foundation needed to apply data analytics to real-world challenges they confront daily in their professional lives. Students will learn to identify the web analytic tool right for their specific needs; understand valid and reliable ways to collect, analyze, and visualize data from the web; and utilize data in decision making for their agencies, organizations or clients. By completing this course, students will gain an understanding of the motivations behind data collection and analysis methods used by marketing professionals; learn to evaluate and choose appropriate web analytics tools and techniques; understand frameworks and approaches to measuring consumers’ digital actions; earn familiarity with the unique measurement opportunities and challenges presented by New Media; gain hands-on, working knowledge of a step-by-step approach to planning, collecting, analyzing, and reporting data; utilize tools to collect data using today’s most",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Digital Marketing Analytics in Theory and Practice"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:b8f3449c90ac3e49",
+      "text": "familiarity with the unique measurement opportunities and challenges presented by New Media; gain hands-on, working knowledge of a step-by-step approach to planning, collecting, analyzing, and reporting data; utilize tools to collect data using today’s most important online techniques: performing bulk downloads, tapping APIs, and scraping webpages; and understand approaches to visualizing data effectively.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Digital Marketing Analytics in Theory and Practice"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:7fa7e572dbfe8e6b",
+      "text": "This course concentrates on the following topics: review of financial markets and assets traded on them; main characteristics of financial analytics: returns, yields, volatility; review of stochastic models of market price and their statistical representations; concept of arbitrage, elements of arbitrage pricing approach; principles of volatility analyses, implied vs. realized volatility; correlation, cointegration and other relationships between various financial assets; market risk analytics and management of portfolios of financial assets. The course puts special emphasis on covering main steps of building analytics from visualizing data and building intuition about their structure and patterns to selecting appropriate statistical method to interpretation of the results and building analytical models. Topics are illustrated by data analysis projects using R. Basic familiarity with R is a requirement.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Quantitative Finance: Methods and Applications"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:2c43547187a6a649",
+      "text": "This course dives into the realm of Generative AI, offering a comprehensive look into the world of Large Language Models (LLMs), image generation techniques, and the fusion of vision and text through multimodal models. Drawing from core concepts in neural networks, transformers, and advanced techniques such as prompt engineering, vision prompting, and multimodality representation, students will explore the capabilities, applications, and ethical considerations of generative models. This course culminates in hands-on projects, allowing participants to apply theory to practical scenarios.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Generative AI: Principles and Applications"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:8f59bc1ad3b5cc30",
+      "text": "The objective of this course is two-fold: first, to understand what Machine Learning Operations (MLOps) is and why it is a key component in enterprise production deployment of machine learning projects, and second, to expose students to software engineering, model engineering and state-of-the-art deployment engineering with hands-on platform and tools experience. This course crosses the chasm that separates machine learning projects/experiments and enterprise production deployment. It covers three pillars in MLOps: software engineering such as software architecture, Continuous Integration/Continuous Delivery and data versioning; model engineering such as AutoML and A/B experimentation; and deployment engineering such as docker containers and model monitoring. The course focuses on best practices in the industry that are critical to enterprise production deployment of machine learning projects. Having completed this course, a student understands the machine learning lifecycle and what it takes to go from ideation to operationalization in an enterprise environment. Furthermore, students get exposure to state-of-the-art MLOps platforms such as allegro, xpresso, Dataiku, LityxIQ, DataRobot, AWS Sagemaker, and technologies such as gitHub, Jenkins, slack, docker, and kubernetes.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Machine Learning Operations"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:b71d4dadb3d5cecb",
+      "text": "Extracting actionable insights from unstructured text and designing cognitive applications have become significant areas of application for analytics. Students in this course will learn foundations of natural language processing, including: concept extraction; text summarization and topic modeling; part of speech tagging; named entity recognition; semantic roles and sentiment analysis. For advanced NLP applications, we will focus on feature extraction from unstructured text, including word and paragraph embedding and representing words and paragraphs as vectors. For cognitive analytics section of the course, students will practice designing question answering systems with intent classification, semantic knowledge extraction and reasoning under uncertainty. Students will gain hands-on expertise applying Python for text analysis tasks, as well as practice with multiple IBM Watson services, including: Watson Discovery, Watson Conversation, Watson Natural Language Classification and Watson Natural Language Understanding.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Next-Gen NLP: LLM and Agentic AI in Practice"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:10404490ee63c453",
+      "text": "Developing end-to-end automation and intelligent systems is now the most advanced area of application for analytics. Building such systems requires proficiency in programming, understanding of computer systems, as well as knowledge of related analytical methodologies, which are the skills that this course aims to teach to students. The course focuses on python and is tailored for students with basic programming knowledge in python. The course is partially project based. During the first three sessions, we will review basic python concepts and then learn more advanced python and the ways to use python to handle large data flows. The later sessions are project based and will focus on developing end-to-end analytical solutions in the following areas: Finance and trading, blockchains and crypto-currencies, image recognition, and video surveillance systems.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Real Time Intelligent Systems"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:6bf067c27958e78d",
+      "text": "This course is an introduction to reinforcement learning, also known as neuro-dynamic programming. It discusses basic and advanced concepts in reinforcement learning and provides several practical applications. Reinforcement learning refers to a system or agent interacting with an environment and learning how to behave optimally in such an environment. An environment typically includes time, actions, states, uncertainty and rewards. Reinforcement learning combines neural networks and dynamic programming to find an optimal behavior or policy of the system or agent in a complex environment setting. Neural network approximations are used to circumvent the well-known ‘curse of dimensionality’ which has been a barrier to solving many practical applications. Dynamic programming is the key learning mechanism that the system or the agent uses to interact with the environment and improve its performance. Students will master key learning techniques and will become proficient in applying these techniques to complex stochastic decision processes and intelligent control.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Deep Reinforcement Learning"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:d5702ac772fa9d9b",
+      "text": "“Big Data” continues to grow exponentially in our large-scale transactional world where 100,000s of SKUs and millions of customers are interacting with 1:1 offers that include differential pricing, shipping timing/costs and even made to order “custom” product configurations. These consumer behaviors are quickly advancing the availability of new data and techniques within the discipline of Data Science. This elective course will give students the opportunity to apply their skills in data visualization, data mining tools, predictive modeling, and advanced optimization techniques to address Supply Chain challenges. The course focuses on the use of Advanced Predictive Modeling, Machine Learning, AI and other Data Science insight and activation tools to automate and optimize the performance of the Supply Chain. Students will also learn how to optimize the performance of the Supply Chain from the lens of multiple related disciplines including: Sales Forecasting, Warehousing/Inventory Management, Promotion, Pricing, Logistics Network Optimization, Freight Cost Management, Manufacturing, Retail POS Information, Ecommerce, Consumer Data, and Product Design/Packaging. After completing this course, you will be prepared to work in any of the numerous specialty areas possible in the",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Supply Chain Optimization"
+      ],
+      "source_type": "span"
+    },
+    {
+      "id": "chunk:77142f5870945c1c",
+      "text": "Network Optimization, Freight Cost Management, Manufacturing, Retail POS Information, Ecommerce, Consumer Data, and Product Design/Packaging. After completing this course, you will be prepared to work in any of the numerous specialty areas possible in the world of Supply Chain Management.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/online-program",
+      "page_id": "page:dd76146bcccd1e59",
+      "page_title": "Online Program",
+      "path": [
+        "Online Program",
+        "Sample Elective Courses",
+        "Supply Chain Optimization"
+      ],
+      "source_type": "span"
+    }
+  ]
+}

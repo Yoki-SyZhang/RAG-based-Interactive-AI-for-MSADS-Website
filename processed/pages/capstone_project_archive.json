@@ -1,0 +1,321 @@
+{
+  "page": {
+    "id": "page:2543d2c914737192",
+    "title": "Capstone Project Archive",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+    "raw_file": "raw/education__masters_programs__ms_in_applied_data_science__capstone_project_archive.json"
+  },
+  "how_to_debug": [
+    "先看 graph_tree，确认网页结构是否像页面真实结构。",
+    "再看 chunks，确认每个可检索文本块是否属于正确的 path。",
+    "如果检索结果奇怪，优先检查对应 page 的 path 和 source_type。"
+  ],
+  "graph_tree": {
+    "id": "page:2543d2c914737192",
+    "type": "Page",
+    "label": "Capstone Project Archive",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+    "children": [
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:403c4b3e366e0fcf",
+          "type": "Section",
+          "label": "Page Header Content",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "source_type": "page_header_content",
+          "path": [
+            "Capstone Project Archive",
+            "Page Header Content"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:d0606faf77e63080",
+                "type": "Chunk",
+                "label": "Capstone Project Archive",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+                "source_type": "page_header_content",
+                "path": [
+                  "Capstone Project Archive",
+                  "Page Header Content"
+                ],
+                "text_preview": "Capstone Project Archive",
+                "text_length": 24
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_CONTENT",
+        "node": {
+          "id": "chunk:5d89f7bbf599d55e",
+          "type": "Chunk",
+          "label": "This page showcases a comprehensive collection of Capstone Projects completed by",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "source_type": "p",
+          "path": [
+            "Capstone Project Archive"
+          ],
+          "text_preview": "This page showcases a comprehensive collection of Capstone Projects completed by students in the MS in Applied Data Science program. Each project reflects how students apply advanced data science methods to real-world ch...",
+          "text_length": 297
+        }
+      },
+      {
+        "relation": "HAS_CONTENT",
+        "node": {
+          "id": "chunk:4a8ce3301772159a",
+          "type": "Chunk",
+          "label": "Select projects are highlighted as Featured after being recognized as Best in Sh",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "source_type": "p",
+          "path": [
+            "Capstone Project Archive"
+          ],
+          "text_preview": "Select projects are highlighted as Featured after being recognized as Best in Show during the Capstone Showcase, an end-of-program presentation series where student teams present their work to faculty, peers, and industr...",
+          "text_length": 231
+        }
+      },
+      {
+        "relation": "HAS_CONTENT",
+        "node": {
+          "id": "chunk:0ec3858d01920564",
+          "type": "Chunk",
+          "label": "Project abstracts highlight the problem context, data sources, analytical approa",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "source_type": "p",
+          "path": [
+            "Capstone Project Archive"
+          ],
+          "text_preview": "Project abstracts highlight the problem context, data sources, analytical approaches, and outcomes, offering a closer look at the technical and strategic thinking behind each solution. Together, these projects illustrate...",
+          "text_length": 363
+        }
+      },
+      {
+        "relation": "HAS_CONTENT",
+        "node": {
+          "id": "chunk:6ef9f6ad2d8c9938",
+          "type": "Chunk",
+          "label": "Search project abstracts by keyword , including techniques, tools, or industry f",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "source_type": "p",
+          "path": [
+            "Capstone Project Archive"
+          ],
+          "text_preview": "Search project abstracts by keyword , including techniques, tools, or industry focus (e.g., machine learning , NLP , healthcare , finance ).",
+          "text_length": 140
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:663c9f34afba8958",
+          "type": "Section",
+          "label": "Argonne | Rezzy: AI Support Chatbot for EV Charger Reservation App (EVrez)",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Project Archive",
+            "Argonne | Rezzy: AI Support Chatbot for EV Charger Reservation App (EVrez)"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:329b00bc821335a2",
+          "type": "Section",
+          "label": "Inference Analytics | Automated ICD-10 Code Prediction for Healthcare Reports Using Large Language Models",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Project Archive",
+            "Inference Analytics | Automated ICD-10 Code Prediction for Healthcare Reports Using Large Language Models"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:b55d26a9f1c6fb6e",
+          "type": "Section",
+          "label": "Research (GPT for Healthcare) | MCP-driven Multi-Agent RAG-Enhanced LLM System for Prostate Cancer Temporal Summarization",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Project Archive",
+            "Research (GPT for Healthcare) | MCP-driven Multi-Agent RAG-Enhanced LLM System for Prostate Cancer Temporal Summarization"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:7224515abc418f74",
+          "type": "Section",
+          "label": "Global IQ | Optimizing ROI of Global Talent Mobility Through Predictive Modeling and Optimization for Corporate Programs & Policies",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Project Archive",
+            "Global IQ | Optimizing ROI of Global Talent Mobility Through Predictive Modeling and Optimization for Corporate Programs & Policies"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:c880337d9cf3c7e6",
+          "type": "Section",
+          "label": "Research (GPT for Healthcare) | Applications of Generative AI in Emergency Department Admission Evaluation",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Project Archive",
+            "Research (GPT for Healthcare) | Applications of Generative AI in Emergency Department Admission Evaluation"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:ec46f2e04751c51f",
+          "type": "Section",
+          "label": "Chicago Baseball | Measuring Pitcher Deception and Command Using Motion Tracking Data",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Project Archive",
+            "Chicago Baseball | Measuring Pitcher Deception and Command Using Motion Tracking Data"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:b107024df105da2c",
+          "type": "Section",
+          "label": "Aetna | Optimization Engine Creation – Scenario Planning and Sensitivity Analysis Tool",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Project Archive",
+            "Aetna | Optimization Engine Creation – Scenario Planning and Sensitivity Analysis Tool"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:6de3fea8eb76a1ea",
+          "type": "Section",
+          "label": "LatentView Analytics | Visual Defect Detection",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Project Archive",
+            "LatentView Analytics | Visual Defect Detection"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:3d8514eca30df113",
+          "type": "Section",
+          "label": "HERE Technologies | Vehicle Perception Data (VPD) and HERE Lane Model Alignment",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Project Archive",
+            "HERE Technologies | Vehicle Perception Data (VPD) and HERE Lane Model Alignment"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:671e10f4d4234183",
+          "type": "Section",
+          "label": "Ateema | AI-Driven Media Kit",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+          "heading_tag": "h2",
+          "path": [
+            "Capstone Project Archive",
+            "Ateema | AI-Driven Media Kit"
+          ],
+          "children": []
+        }
+      }
+    ]
+  },
+  "chunks": [
+    {
+      "id": "chunk:d0606faf77e63080",
+      "text": "Capstone Project Archive",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+      "page_id": "page:2543d2c914737192",
+      "page_title": "Capstone Project Archive",
+      "path": [
+        "Capstone Project Archive",
+        "Page Header Content"
+      ],
+      "source_type": "page_header_content"
+    },
+    {
+      "id": "chunk:5d89f7bbf599d55e",
+      "text": "This page showcases a comprehensive collection of Capstone Projects completed by students in the MS in Applied Data Science program. Each project reflects how students apply advanced data science methods to real-world challenges, working with authentic data across industries and research domains.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+      "page_id": "page:2543d2c914737192",
+      "page_title": "Capstone Project Archive",
+      "path": [
+        "Capstone Project Archive"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:4a8ce3301772159a",
+      "text": "Select projects are highlighted as Featured after being recognized as Best in Show during the Capstone Showcase, an end-of-program presentation series where student teams present their work to faculty, peers, and industry partners.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+      "page_id": "page:2543d2c914737192",
+      "page_title": "Capstone Project Archive",
+      "path": [
+        "Capstone Project Archive"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:0ec3858d01920564",
+      "text": "Project abstracts highlight the problem context, data sources, analytical approaches, and outcomes, offering a closer look at the technical and strategic thinking behind each solution. Together, these projects illustrate the breadth of skills developed in the program—from data engineering and machine learning to experimentation, modeling, and data storytelling.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+      "page_id": "page:2543d2c914737192",
+      "page_title": "Capstone Project Archive",
+      "path": [
+        "Capstone Project Archive"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:6ef9f6ad2d8c9938",
+      "text": "Search project abstracts by keyword , including techniques, tools, or industry focus (e.g., machine learning , NLP , healthcare , finance ).",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/capstone-project-archive",
+      "page_id": "page:2543d2c914737192",
+      "page_title": "Capstone Project Archive",
+      "path": [
+        "Capstone Project Archive"
+      ],
+      "source_type": "p"
+    }
+  ]
+}

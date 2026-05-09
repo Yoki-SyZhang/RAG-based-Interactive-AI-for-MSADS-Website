@@ -1,0 +1,1386 @@
+{
+  "page": {
+    "id": "page:7fb2f6ecae8feeeb",
+    "title": "How to Apply",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+    "raw_file": "raw/education__masters_programs__ms_in_applied_data_science__how_to_apply.json"
+  },
+  "how_to_debug": [
+    "先看 graph_tree，确认网页结构是否像页面真实结构。",
+    "再看 chunks，确认每个可检索文本块是否属于正确的 path。",
+    "如果检索结果奇怪，优先检查对应 page 的 path 和 source_type。"
+  ],
+  "graph_tree": {
+    "id": "page:7fb2f6ecae8feeeb",
+    "type": "Page",
+    "label": "How to Apply",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+    "children": [
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:f0ad0aa7786efe68",
+          "type": "Section",
+          "label": "Page Header Content",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "source_type": "page_header_content",
+          "path": [
+            "How to Apply",
+            "Page Header Content"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:38419094e82b4d1c",
+                "type": "Chunk",
+                "label": "MS in Applied Data Science The application for entrance in 2026 is now open!",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "page_header_content",
+                "path": [
+                  "How to Apply",
+                  "Page Header Content"
+                ],
+                "text_preview": "MS in Applied Data Science The application for entrance in 2026 is now open!",
+                "text_length": 76
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:23865d257571496f",
+          "type": "Section",
+          "label": "Master’s in Applied Data Science Application Requirements",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h1",
+          "path": [
+            "How to Apply",
+            "Master’s in Applied Data Science Application Requirements"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:e7196e668085e2a2",
+                "type": "Chunk",
+                "label": "The application portal * for 2026 entrance is now open. Check out our blog post",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Master’s in Applied Data Science Application Requirements"
+                ],
+                "text_preview": "The application portal * for 2026 entrance is now open. Check out our blog post here on tips for applying to the program.",
+                "text_length": 121
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:305e0095721909df",
+                "type": "Chunk",
+                "label": "The In-Person and Online program admits full- and part-time students for entranc",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Master’s in Applied Data Science Application Requirements"
+                ],
+                "text_preview": "The In-Person and Online program admits full- and part-time students for entrance in the autumn quarter annually.",
+                "text_length": 113
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:b978871d685f6b01",
+                "type": "Chunk",
+                "label": "Only completed applications are sent for committee review.",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "em",
+                "path": [
+                  "How to Apply",
+                  "Master’s in Applied Data Science Application Requirements"
+                ],
+                "text_preview": "Only completed applications are sent for committee review.",
+                "text_length": 58
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:38deedd28b2db614",
+                "type": "Chunk",
+                "label": "*The may close early if the cohort is filled.",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "direct_text",
+                "path": [
+                  "How to Apply",
+                  "Master’s in Applied Data Science Application Requirements"
+                ],
+                "text_preview": "*The may close early if the cohort is filled.",
+                "text_length": 45
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:aebd8584b3152975",
+          "type": "Section",
+          "label": "Next Application Deadlines:",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "Next Application Deadlines:"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:e8ef9d5c080275f2",
+                "type": "Chunk",
+                "label": "- International applicants who require a new visa and did not apply by the Janua",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "ul",
+                "path": [
+                  "How to Apply",
+                  "Next Application Deadlines:"
+                ],
+                "text_preview": "- International applicants who require a new visa and did not apply by the January 2026 deadline must plan to apply in the next application cycle for Autumn 2027 entry.\n- Applicants who are currently studying in the Unit...",
+                "text_length": 366
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:d930740da6ee2b4b",
+          "type": "Section",
+          "label": "Letters of Recommendation",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "Letters of Recommendation"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:5b322c6c3fea5432",
+                "type": "Chunk",
+                "label": "The MS in Applied Data Science program requires two letters of recommendation. W",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Letters of Recommendation"
+                ],
+                "text_preview": "The MS in Applied Data Science program requires two letters of recommendation. We strongly recommend that at least one letter is written by someone such as a direct manager/supervisor or internship supervisor who can att...",
+                "text_length": 379
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:2568dd7d5e035617",
+                "type": "Chunk",
+                "label": "Note: Letters of recommendation can be uploaded after you submit your applicatio",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Letters of Recommendation"
+                ],
+                "text_preview": "Note: Letters of recommendation can be uploaded after you submit your application. Recommended sources for letters of recommendation include: professors; supervisors or managers; professional mentors.",
+                "text_length": 200
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:dce8391cd919bc93",
+                "type": "Chunk",
+                "label": "We do not accept letters of recommendation from family members, friends, or peer",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Letters of Recommendation"
+                ],
+                "text_preview": "We do not accept letters of recommendation from family members, friends, or peers.",
+                "text_length": 82
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:da3fa785bbe70053",
+          "type": "Section",
+          "label": "Candidate Statement",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "Candidate Statement"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:bc51754b122a833b",
+                "type": "Chunk",
+                "label": "The candidate statement is a key part of your application. The admissions commit",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Candidate Statement"
+                ],
+                "text_preview": "The candidate statement is a key part of your application. The admissions committee pays careful attention to how you understand and present your aims and qualifications. The application will include a prompt with detail...",
+                "text_length": 310
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:66dcfc2202045da1",
+                "type": "Chunk",
+                "label": "Best practices to keep in mind as you write:",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Candidate Statement"
+                ],
+                "text_preview": "Best practices to keep in mind as you write:",
+                "text_length": 44
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:7ee5ac0ea3434393",
+                "type": "Chunk",
+                "label": "- Do not restate your resume. - Your statement should not exceed 700 words.",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "ul",
+                "path": [
+                  "How to Apply",
+                  "Candidate Statement"
+                ],
+                "text_preview": "- Do not restate your resume.\n- Your statement should not exceed 700 words.",
+                "text_length": 75
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:6675aea9911ef3cb",
+          "type": "Section",
+          "label": "Resume/CV",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "Resume/CV"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:2e107176ca463f64",
+                "type": "Chunk",
+                "label": "The Master’s in Applied Data Science admissions committee will review your resum",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Resume/CV"
+                ],
+                "text_preview": "The Master’s in Applied Data Science admissions committee will review your resume. We encourage you to take the time to carefully update the resume you submit to us.",
+                "text_length": 165
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:5ad3ad00ba99512e",
+                "type": "Chunk",
+                "label": "- Work experience, including internships and part-time positions in the analytic",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "ul",
+                "path": [
+                  "How to Apply",
+                  "Resume/CV"
+                ],
+                "text_preview": "- Work experience, including internships and part-time positions in the analytics/data science space\n- Major accomplishments and awards\n- Educational background, including areas of study\n- Professional conferences attend...",
+                "text_length": 222
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:529b5f71510ff630",
+                "type": "Chunk",
+                "label": "- Undergraduate or graduate GPA",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "ul",
+                "path": [
+                  "How to Apply",
+                  "Resume/CV"
+                ],
+                "text_preview": "- Undergraduate or graduate GPA",
+                "text_length": 31
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:e8db29ddcca3c627",
+          "type": "Section",
+          "label": "Programming Supplement",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "Programming Supplement"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:ff8c7ba0cfa30b58",
+                "type": "Chunk",
+                "label": "Your application contains a section on programming skills. Although applicants w",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Programming Supplement"
+                ],
+                "text_preview": "Your application contains a section on programming skills. Although applicants with limited skills in R or Python can and do get accepted into the program, the admissions committee values prior programming experience. In...",
+                "text_length": 308
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:0d02cf2d14537e8e",
+                "type": "Chunk",
+                "label": "Examples include a PDF submission of work completed in R or Python. The programm",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Programming Supplement"
+                ],
+                "text_preview": "Examples include a PDF submission of work completed in R or Python. The programming supplement must be shared as a PDF file. We are looking for the following in your code (see below). Please note your code does not need...",
+                "text_length": 248
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:e64af45d25df2a46",
+                "type": "Chunk",
+                "label": "- Ingest data from csv - Manage different data types - Use your function for dat",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "ul",
+                "path": [
+                  "How to Apply",
+                  "Programming Supplement"
+                ],
+                "text_preview": "- Ingest data from csv\n- Manage different data types\n- Use your function for data analysis\n- Visualize data\n- Wrangle data\n- Write your own function\n- Import libraries",
+                "text_length": 167
+              }
+            },
+            {
+              "relation": "HAS_SECTION",
+              "node": {
+                "id": "section:ae061c877cf9773b",
+                "type": "Section",
+                "label": "Virtual Portfolio",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "heading_tag": "h2",
+                "path": [
+                  "How to Apply",
+                  "Programming Supplement",
+                  "Virtual Portfolio"
+                ],
+                "children": [
+                  {
+                    "relation": "HAS_CONTENT",
+                    "node": {
+                      "id": "chunk:f38c620b84ef8c85",
+                      "type": "Chunk",
+                      "label": "The MS in Applied Data Science requires short, recorded videos to a given prompt",
+                      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                      "source_type": "p",
+                      "path": [
+                        "How to Apply",
+                        "Programming Supplement",
+                        "Virtual Portfolio"
+                      ],
+                      "text_preview": "The MS in Applied Data Science requires short, recorded videos to a given prompt(s) within the application. These short videos give applicants an alternative means to outline why they are a strong fit for the MS in Appli...",
+                      "text_length": 244
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:b0bcc8097c2113b9",
+                "type": "Chunk",
+                "label": "One video prompt response is required; the other is optional. Each video should",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Programming Supplement"
+                ],
+                "text_preview": "One video prompt response is required; the other is optional. Each video should be approximately 1:30 minutes in length.",
+                "text_length": 120
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:6401bd9a64b0e5cc",
+          "type": "Section",
+          "label": "International Students",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "International Students"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:ce033c3395769551",
+                "type": "Chunk",
+                "label": "- Only the full-time, in-person program is visa-eligible. - International studen",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "ul",
+                "path": [
+                  "How to Apply",
+                  "International Students"
+                ],
+                "text_preview": "- Only the full-time, in-person program is visa-eligible.\n- International students are also welcome to apply to our Master’s in Applied Data Science Online program, which does not require citizenship or permanent residen...",
+                "text_length": 267
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:fdc4d132e8a0caa5",
+          "type": "Section",
+          "label": "English Language Requirement",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "English Language Requirement"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:b159a31b1062a98e",
+                "type": "Chunk",
+                "label": "Applicants to the Master’s in Applied Data Science program who do not meet the E",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "English Language Requirement"
+                ],
+                "text_preview": "Applicants to the Master’s in Applied Data Science program who do not meet the English Language Proficiency criteria must submit proof of English language proficiency.",
+                "text_length": 167
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:f65a95a15daf12f6",
+                "type": "Chunk",
+                "label": "Minimum scores for the Master’s in Applied Data Science program: TOEFL: 102 (pri",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "English Language Requirement"
+                ],
+                "text_preview": "Minimum scores for the Master’s in Applied Data Science program: TOEFL: 102 (prior requirement) or 5 (current requirement; no subscore requirement); IELTS, 7 (no subscore requirement).",
+                "text_length": 184
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:a7c7af99042eca31",
+                "type": "Chunk",
+                "label": "Please review our waiver policy here .",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "English Language Requirement"
+                ],
+                "text_preview": "Please review our waiver policy here .",
+                "text_length": 38
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:70cf0aae09904173",
+          "type": "Section",
+          "label": "Transcripts from all previous colleges and universities attended",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "Transcripts from all previous colleges and universities attended"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:26d6d99e22ab0aef",
+                "type": "Chunk",
+                "label": "When applying to the program, only your unofficial transcripts are required. If",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Transcripts from all previous colleges and universities attended"
+                ],
+                "text_preview": "When applying to the program, only your unofficial transcripts are required. If you are admitted into the program, then official transcripts must be sent to the following (note a bachelor’s degree is required to apply to...",
+                "text_length": 234
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:8581059e63b62f59",
+                "type": "Chunk",
+                "label": "Please have your institution send your e-transcripts directly to:",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Transcripts from all previous colleges and universities attended"
+                ],
+                "text_preview": "Please have your institution send your e-transcripts directly to:",
+                "text_length": 65
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:592c873d5ddad093",
+                "type": "Chunk",
+                "label": "applieddatascience-admissions@uchicago.edu",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "a",
+                "path": [
+                  "How to Apply",
+                  "Transcripts from all previous colleges and universities attended"
+                ],
+                "text_preview": "applieddatascience-admissions@uchicago.edu",
+                "text_length": 42
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:1cdd8e6a848559c1",
+                "type": "Chunk",
+                "label": "If your institution cannot send your documents electronically, please have them",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Transcripts from all previous colleges and universities attended"
+                ],
+                "text_preview": "If your institution cannot send your documents electronically, please have them send your transcripts to the following mailing address.",
+                "text_length": 135
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:9e2d043a8d961aca",
+                "type": "Chunk",
+                "label": "Please note, if documents are being mailed, we must receive them in their origin",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Transcripts from all previous colleges and universities attended"
+                ],
+                "text_preview": "Please note, if documents are being mailed, we must receive them in their original, school-sealed envelope. If your documents are not received in a school-sealed envelope, they will be considered unofficial. Additionally...",
+                "text_length": 396
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:a4f939b963305903",
+                "type": "Chunk",
+                "label": "Attention: MS in Applied Data Science Admissions",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "i",
+                "path": [
+                  "How to Apply",
+                  "Transcripts from all previous colleges and universities attended"
+                ],
+                "text_preview": "Attention: MS in Applied Data Science Admissions",
+                "text_length": 48
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:e54a2d94711177d8",
+                "type": "Chunk",
+                "label": "455 N Cityfront Plaza Dr., Suite 2800",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "i",
+                "path": [
+                  "How to Apply",
+                  "Transcripts from all previous colleges and universities attended"
+                ],
+                "text_preview": "455 N Cityfront Plaza Dr., Suite 2800",
+                "text_length": 37
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:d160960cbcdd5750",
+          "type": "Section",
+          "label": "Application Fee",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "Application Fee"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:bf56d2f2a4f4daa0",
+                "type": "Chunk",
+                "label": "There is a $90 non-refundable application fee. For questions regarding an applic",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Application Fee"
+                ],
+                "text_preview": "There is a $90 non-refundable application fee. For questions regarding an application fee waiver, please refer to the Physical Sciences Division fee waiver policy .",
+                "text_length": 164
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:ed7c35d365921475",
+          "type": "Section",
+          "label": "Tuition, Fees, & Aid",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "Tuition, Fees, & Aid"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:4cccd9bbb32be271",
+                "type": "Chunk",
+                "label": "The program awards merit-based scholarships. Read more about Tuition, Fees, & Ai",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Tuition, Fees, & Aid"
+                ],
+                "text_preview": "The program awards merit-based scholarships. Read more about Tuition, Fees, & Aid .",
+                "text_length": 83
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:d52ba0fab34e044c",
+          "type": "Section",
+          "label": "Meet your Admissions Counselor",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "Meet your Admissions Counselor"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:34c72b99dd590f88",
+                "type": "Chunk",
+                "label": "Patrick Vonesh – Online Program Senior Assistant Director of Enrollment Manageme",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Meet your Admissions Counselor"
+                ],
+                "text_preview": "Patrick Vonesh – Online Program Senior Assistant Director of Enrollment Management",
+                "text_length": 82
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:301ed82d97a91037",
+                "type": "Chunk",
+                "label": "Patrick Vonesh supports prospective students throughout the admissions process f",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Meet your Admissions Counselor"
+                ],
+                "text_preview": "Patrick Vonesh supports prospective students throughout the admissions process for the Online Master of Science in Applied Data Science program.",
+                "text_length": 144
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:ff6954d4b78e861e",
+                "type": "Chunk",
+                "label": "Jose Alvarado – In-Person Program Associate Director of Enrollment Management",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Meet your Admissions Counselor"
+                ],
+                "text_preview": "Jose Alvarado – In-Person Program Associate Director of Enrollment Management",
+                "text_length": 77
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:94e2efbc72dbef44",
+                "type": "Chunk",
+                "label": "Jose Alvarado supports prospective students throughout the admissions process fo",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Meet your Admissions Counselor"
+                ],
+                "text_preview": "Jose Alvarado supports prospective students throughout the admissions process for the In-Person Master of Science in Applied Data Science program.",
+                "text_length": 146
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:9491ebd136c6aebf",
+                "type": "Chunk",
+                "label": "Matthew Harris-Ridker – In-Person Program & Online Program Assistant Director of",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Meet your Admissions Counselor"
+                ],
+                "text_preview": "Matthew Harris-Ridker – In-Person Program & Online Program Assistant Director of Enrollment Management",
+                "text_length": 102
+              }
+            },
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:9f6d13f111dbce1b",
+                "type": "Chunk",
+                "label": "Matthew Harris-Ridker supports prospective students throughout the admissions pr",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Meet your Admissions Counselor"
+                ],
+                "text_preview": "Matthew Harris-Ridker supports prospective students throughout the admissions process for the In-Person and Online Master of Science in Applied Data Science program.",
+                "text_length": 165
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:6670ce717c1dd352",
+          "type": "Section",
+          "label": "Get in Touch",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+          "heading_tag": "h2",
+          "path": [
+            "How to Apply",
+            "Get in Touch"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:1227dda58d2f7121",
+                "type": "Chunk",
+                "label": "Before we get back to you, please check to see if your question has already been",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+                "source_type": "p",
+                "path": [
+                  "How to Apply",
+                  "Get in Touch"
+                ],
+                "text_preview": "Before we get back to you, please check to see if your question has already been answered on our FAQs page.",
+                "text_length": 107
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "chunks": [
+    {
+      "id": "chunk:38419094e82b4d1c",
+      "text": "MS in Applied Data Science The application for entrance in 2026 is now open!",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Page Header Content"
+      ],
+      "source_type": "page_header_content"
+    },
+    {
+      "id": "chunk:e7196e668085e2a2",
+      "text": "The application portal * for 2026 entrance is now open. Check out our blog post here on tips for applying to the program.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Master’s in Applied Data Science Application Requirements"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:305e0095721909df",
+      "text": "The In-Person and Online program admits full- and part-time students for entrance in the autumn quarter annually.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Master’s in Applied Data Science Application Requirements"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:b978871d685f6b01",
+      "text": "Only completed applications are sent for committee review.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Master’s in Applied Data Science Application Requirements"
+      ],
+      "source_type": "em"
+    },
+    {
+      "id": "chunk:38deedd28b2db614",
+      "text": "*The may close early if the cohort is filled.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Master’s in Applied Data Science Application Requirements"
+      ],
+      "source_type": "direct_text"
+    },
+    {
+      "id": "chunk:e8ef9d5c080275f2",
+      "text": "- International applicants who require a new visa and did not apply by the January 2026 deadline must plan to apply in the next application cycle for Autumn 2027 entry.\n- Applicants who are currently studying in the United States on an F-1 visa and will transfer their SEVIS record from another U.S. institution may still apply by the remaining application deadlines",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Next Application Deadlines:"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:5b322c6c3fea5432",
+      "text": "The MS in Applied Data Science program requires two letters of recommendation. We strongly recommend that at least one letter is written by someone such as a direct manager/supervisor or internship supervisor who can attest to skills you demonstrated or gained though a professional workplace experience (e.g., leadership, teamwork, collaboration, initiative, management, other).",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Letters of Recommendation"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:2568dd7d5e035617",
+      "text": "Note: Letters of recommendation can be uploaded after you submit your application. Recommended sources for letters of recommendation include: professors; supervisors or managers; professional mentors.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Letters of Recommendation"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:dce8391cd919bc93",
+      "text": "We do not accept letters of recommendation from family members, friends, or peers.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Letters of Recommendation"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:bc51754b122a833b",
+      "text": "The candidate statement is a key part of your application. The admissions committee pays careful attention to how you understand and present your aims and qualifications. The application will include a prompt with detailed instructions on the information the program is looking for in your candidate statement.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Candidate Statement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:66dcfc2202045da1",
+      "text": "Best practices to keep in mind as you write:",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Candidate Statement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:7ee5ac0ea3434393",
+      "text": "- Do not restate your resume.\n- Your statement should not exceed 700 words.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Candidate Statement"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:2e107176ca463f64",
+      "text": "The Master’s in Applied Data Science admissions committee will review your resume. We encourage you to take the time to carefully update the resume you submit to us.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Resume/CV"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:5ad3ad00ba99512e",
+      "text": "- Work experience, including internships and part-time positions in the analytics/data science space\n- Major accomplishments and awards\n- Educational background, including areas of study\n- Professional conferences attended",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Resume/CV"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:529b5f71510ff630",
+      "text": "- Undergraduate or graduate GPA",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Resume/CV"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:ff8c7ba0cfa30b58",
+      "text": "Your application contains a section on programming skills. Although applicants with limited skills in R or Python can and do get accepted into the program, the admissions committee values prior programming experience. Include a PDF of no more than two pages demonstrating current programming language skills.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Programming Supplement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:0d02cf2d14537e8e",
+      "text": "Examples include a PDF submission of work completed in R or Python. The programming supplement must be shared as a PDF file. We are looking for the following in your code (see below). Please note your code does not need to contain all of the below.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Programming Supplement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:e64af45d25df2a46",
+      "text": "- Ingest data from csv\n- Manage different data types\n- Use your function for data analysis\n- Visualize data\n- Wrangle data\n- Write your own function\n- Import libraries",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Programming Supplement"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:f38c620b84ef8c85",
+      "text": "The MS in Applied Data Science requires short, recorded videos to a given prompt(s) within the application. These short videos give applicants an alternative means to outline why they are a strong fit for the MS in Applied Data Science program.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Programming Supplement",
+        "Virtual Portfolio"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:b0bcc8097c2113b9",
+      "text": "One video prompt response is required; the other is optional. Each video should be approximately 1:30 minutes in length.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Programming Supplement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:ce033c3395769551",
+      "text": "- Only the full-time, in-person program is visa-eligible.\n- International students are also welcome to apply to our Master’s in Applied Data Science Online program, which does not require citizenship or permanent resident status and does not provide visa sponsorship.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "International Students"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:b159a31b1062a98e",
+      "text": "Applicants to the Master’s in Applied Data Science program who do not meet the English Language Proficiency criteria must submit proof of English language proficiency.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "English Language Requirement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:f65a95a15daf12f6",
+      "text": "Minimum scores for the Master’s in Applied Data Science program: TOEFL: 102 (prior requirement) or 5 (current requirement; no subscore requirement); IELTS, 7 (no subscore requirement).",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "English Language Requirement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:a7c7af99042eca31",
+      "text": "Please review our waiver policy here .",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "English Language Requirement"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:26d6d99e22ab0aef",
+      "text": "When applying to the program, only your unofficial transcripts are required. If you are admitted into the program, then official transcripts must be sent to the following (note a bachelor’s degree is required to apply to the program):",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Transcripts from all previous colleges and universities attended"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:8581059e63b62f59",
+      "text": "Please have your institution send your e-transcripts directly to:",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Transcripts from all previous colleges and universities attended"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:592c873d5ddad093",
+      "text": "applieddatascience-admissions@uchicago.edu",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Transcripts from all previous colleges and universities attended"
+      ],
+      "source_type": "a"
+    },
+    {
+      "id": "chunk:1cdd8e6a848559c1",
+      "text": "If your institution cannot send your documents electronically, please have them send your transcripts to the following mailing address.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Transcripts from all previous colleges and universities attended"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:9e2d043a8d961aca",
+      "text": "Please note, if documents are being mailed, we must receive them in their original, school-sealed envelope. If your documents are not received in a school-sealed envelope, they will be considered unofficial. Additionally, if your transcript does not list degree conferral information (degree earned and date of conferral), we will also need to receive an attested copy of your degree certificate.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Transcripts from all previous colleges and universities attended"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:a4f939b963305903",
+      "text": "Attention: MS in Applied Data Science Admissions",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Transcripts from all previous colleges and universities attended"
+      ],
+      "source_type": "i"
+    },
+    {
+      "id": "chunk:e54a2d94711177d8",
+      "text": "455 N Cityfront Plaza Dr., Suite 2800",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Transcripts from all previous colleges and universities attended"
+      ],
+      "source_type": "i"
+    },
+    {
+      "id": "chunk:bf56d2f2a4f4daa0",
+      "text": "There is a $90 non-refundable application fee. For questions regarding an application fee waiver, please refer to the Physical Sciences Division fee waiver policy .",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Application Fee"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:4cccd9bbb32be271",
+      "text": "The program awards merit-based scholarships. Read more about Tuition, Fees, & Aid .",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Tuition, Fees, & Aid"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:34c72b99dd590f88",
+      "text": "Patrick Vonesh – Online Program Senior Assistant Director of Enrollment Management",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Meet your Admissions Counselor"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:301ed82d97a91037",
+      "text": "Patrick Vonesh supports prospective students throughout the admissions process for the Online Master of Science in Applied Data Science program.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Meet your Admissions Counselor"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:ff6954d4b78e861e",
+      "text": "Jose Alvarado – In-Person Program Associate Director of Enrollment Management",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Meet your Admissions Counselor"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:94e2efbc72dbef44",
+      "text": "Jose Alvarado supports prospective students throughout the admissions process for the In-Person Master of Science in Applied Data Science program.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Meet your Admissions Counselor"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:9491ebd136c6aebf",
+      "text": "Matthew Harris-Ridker – In-Person Program & Online Program Assistant Director of Enrollment Management",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Meet your Admissions Counselor"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:9f6d13f111dbce1b",
+      "text": "Matthew Harris-Ridker supports prospective students throughout the admissions process for the In-Person and Online Master of Science in Applied Data Science program.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Meet your Admissions Counselor"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:1227dda58d2f7121",
+      "text": "Before we get back to you, please check to see if your question has already been answered on our FAQs page.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/how-to-apply",
+      "page_id": "page:7fb2f6ecae8feeeb",
+      "page_title": "How to Apply",
+      "path": [
+        "How to Apply",
+        "Get in Touch"
+      ],
+      "source_type": "p"
+    }
+  ]
+}

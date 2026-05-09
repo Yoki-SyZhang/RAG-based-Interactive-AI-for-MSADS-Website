@@ -1,0 +1,685 @@
+{
+  "page": {
+    "id": "page:7b9e2af0a426bdaa",
+    "title": "Master's in Applied Data Science",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+    "raw_file": "raw/education__masters_programs__ms_in_applied_data_science.json"
+  },
+  "how_to_debug": [
+    "先看 graph_tree，确认网页结构是否像页面真实结构。",
+    "再看 chunks，确认每个可检索文本块是否属于正确的 path。",
+    "如果检索结果奇怪，优先检查对应 page 的 path 和 source_type。"
+  ],
+  "graph_tree": {
+    "id": "page:7b9e2af0a426bdaa",
+    "type": "Page",
+    "label": "Master's in Applied Data Science",
+    "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+    "children": [
+      {
+        "relation": "HAS_CONTENT",
+        "node": {
+          "id": "chunk:0eace6f136ed88cb",
+          "type": "Chunk",
+          "label": "Elevate Your Expertise in Data Science",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "source_type": "div",
+          "path": [
+            "Master's in Applied Data Science"
+          ],
+          "text_preview": "Elevate Your Expertise in Data Science",
+          "text_length": 38
+        }
+      },
+      {
+        "relation": "HAS_CONTENT",
+        "node": {
+          "id": "chunk:f6175c5e0270913d",
+          "type": "Chunk",
+          "label": "The University of Chicago’s MS in Applied Data Science program equips you with i",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "source_type": "p",
+          "path": [
+            "Master's in Applied Data Science"
+          ],
+          "text_preview": "The University of Chicago’s MS in Applied Data Science program equips you with in-demand expertise and an unparalleled network of global alumni. Take the next step and start your application today.",
+          "text_length": 197
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:d09571040af49c8c",
+          "type": "Section",
+          "label": "Programs",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "Programs"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:3ba191ba92a28ba6",
+                "type": "Chunk",
+                "label": "Choose from full- and part-time options in our In-Person and Online programs. Ap",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+                "source_type": "p",
+                "path": [
+                  "Master's in Applied Data Science",
+                  "Programs"
+                ],
+                "text_preview": "Choose from full- and part-time options in our In-Person and Online programs. Apply today!",
+                "text_length": 90
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:243962533383050d",
+          "type": "Section",
+          "label": "In-Person Program",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "In-Person Program"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:c2f30a9ef2849ad3",
+                "type": "Chunk",
+                "label": "The In-Person program, ideal for early career professionals, now includes a 2-ye",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+                "source_type": "div",
+                "path": [
+                  "Master's in Applied Data Science",
+                  "In-Person Program"
+                ],
+                "text_preview": "The In-Person program, ideal for early career professionals, now includes a 2-year full-time option starting Autumn 2026—alongside the existing 12–15 month track for full- and part-time students.",
+                "text_length": 195
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:daf7fadd58ec70c7",
+          "type": "Section",
+          "label": "Online Program",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "Online Program"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:7a79b99558491c24",
+                "type": "Chunk",
+                "label": "The same rigorous curriculum, faculty, and network as the in-person degree. Desi",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+                "source_type": "div",
+                "path": [
+                  "Master's in Applied Data Science",
+                  "Online Program"
+                ],
+                "text_preview": "The same rigorous curriculum, faculty, and network as the in-person degree. Designed for working professionals with 2+ years of full-time experience.",
+                "text_length": 149
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:9631562594fce870",
+          "type": "Section",
+          "label": "MBA/MS Program",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "MBA/MS Program"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:1f5e18cae5e2db17",
+                "type": "Chunk",
+                "label": "Differentiate yourself with a competitive joint degree with UChicago's Booth Sch",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+                "source_type": "div",
+                "path": [
+                  "Master's in Applied Data Science",
+                  "MBA/MS Program"
+                ],
+                "text_preview": "Differentiate yourself with a competitive joint degree with UChicago's Booth School of Business. Apply through Booth's admissions process.",
+                "text_length": 138
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:621376b0590e1fc8",
+          "type": "Section",
+          "label": "Apply Today!",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "Apply Today!"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_CONTENT",
+        "node": {
+          "id": "chunk:d0d6f01c9738e722",
+          "type": "Chunk",
+          "label": "The application for entry is open! Prospective Online and In-Person students can",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "source_type": "p",
+          "path": [
+            "Master's in Applied Data Science"
+          ],
+          "text_preview": "The application for entry is open! Prospective Online and In-Person students can apply by June 23, 2026, for full- and part-time study for Autumn 2026 entry. Start your application here .",
+          "text_length": 187
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:0255fd5583d242af",
+          "type": "Section",
+          "label": "How to Apply",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "How to Apply"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:26be8353009ee78d",
+                "type": "Chunk",
+                "label": "You have questions; we have answers. Whether you are just beginning your search",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+                "source_type": "p",
+                "path": [
+                  "Master's in Applied Data Science",
+                  "How to Apply"
+                ],
+                "text_preview": "You have questions; we have answers. Whether you are just beginning your search or are ready to apply, we are here to help you take the next step.",
+                "text_length": 146
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:f895348f976bbc61",
+          "type": "Section",
+          "label": "Industry Leading Faculty",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "Industry Leading Faculty"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:6d9828e8a6a348fc",
+                "type": "Chunk",
+                "label": "UChicago’s Master’s in Applied Data Science program recruits industry leaders fr",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+                "source_type": "p",
+                "path": [
+                  "Master's in Applied Data Science",
+                  "Industry Leading Faculty"
+                ],
+                "text_preview": "UChicago’s Master’s in Applied Data Science program recruits industry leaders from across the country. Meet our instructors and learn how they are shaping the landscape of data science.",
+                "text_length": 185
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:f1287fdd746250fc",
+          "type": "Section",
+          "label": "Data in Action - Capstone Projects",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "Data in Action - Capstone Projects"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:e52415ba1c70c615",
+                "type": "Chunk",
+                "label": "Whether you are early in your career or more advanced, you will benefit from our",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+                "source_type": "p",
+                "path": [
+                  "Master's in Applied Data Science",
+                  "Data in Action - Capstone Projects"
+                ],
+                "text_preview": "Whether you are early in your career or more advanced, you will benefit from our real-world Capstone Experience. You will have the opportunity to help top companies across multiple sectors to solve real business problems...",
+                "text_length": 248
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:2c2aff5bb826b079",
+          "type": "Section",
+          "label": "How UChicago’s MS in Applied Data Science Prepares Future Innovators",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "How UChicago’s MS in Applied Data Science Prepares Future Innovators"
+          ],
+          "children": [
+            {
+              "relation": "HAS_CONTENT",
+              "node": {
+                "id": "chunk:ae3d138bacc4cfbd",
+                "type": "Chunk",
+                "label": "Learn how the University of Chicago’s MS in Applied Data Science equips students",
+                "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+                "source_type": "p",
+                "path": [
+                  "Master's in Applied Data Science",
+                  "How UChicago’s MS in Applied Data Science Prepares Future Innovators"
+                ],
+                "text_preview": "Learn how the University of Chicago’s MS in Applied Data Science equips students with strong foundations in machine learning, real-world problem solving, and communication. Current students and alumni share how the curri...",
+                "text_length": 298
+              }
+            }
+          ]
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:a1523d09ed289639",
+          "type": "Section",
+          "label": "Start Your Application",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "Start Your Application"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_CONTENT",
+        "node": {
+          "id": "chunk:c79f081dbe676e7b",
+          "type": "Chunk",
+          "label": "The application to be considered for Autumn 2026 enrollment is now open! The fin",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "source_type": "p",
+          "path": [
+            "Master's in Applied Data Science"
+          ],
+          "text_preview": "The application to be considered for Autumn 2026 enrollment is now open! The final application deadline for full- and part-time entrance in Autumn 2026 is June 23, 2026.",
+          "text_length": 169
+        }
+      },
+      {
+        "relation": "HAS_CONTENT",
+        "node": {
+          "id": "chunk:fe4178a0202e9086",
+          "type": "Chunk",
+          "label": "The In-Person Program and the Online Program admit full- and part-time students",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "source_type": "p",
+          "path": [
+            "Master's in Applied Data Science"
+          ],
+          "text_preview": "The In-Person Program and the Online Program admit full- and part-time students for entrance in the autumn quarter.",
+          "text_length": 115
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:cfcc19cef3865744",
+          "type": "Section",
+          "label": "Related News, Insights, and Past Events",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "Related News, Insights, and Past Events"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:efa23469b96acdaa",
+          "type": "Section",
+          "label": "The Time Constraints of AI Access Could Change How We Think",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "The Time Constraints of AI Access Could Change How We Think"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:44a86c57b73fabb9",
+          "type": "Section",
+          "label": "Who Gets Hired, Paid, and Liked? Who Gets Credit? New Research Examines AI’s Role in Writing and the Workplace",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "Who Gets Hired, Paid, and Liked? Who Gets Credit? New Research Examines AI’s Role in Writing and the Workplace"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:613137b3458546c2",
+          "type": "Section",
+          "label": "University of Chicago Wins Distinguished Laude Institute Moonshots Seed Grant",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "University of Chicago Wins Distinguished Laude Institute Moonshots Seed Grant"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:fd15b6100e23d50a",
+          "type": "Section",
+          "label": "University of Chicago Announces Partnership with AI Research Commons and Microsoft to Accelerate Midwest AI Startups",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "University of Chicago Announces Partnership with AI Research Commons and Microsoft to Accelerate Midwest AI Startups"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:04fd06c256e30db9",
+          "type": "Section",
+          "label": "Pathways to Impact in AI and Data Science with the Polsky Center for Entrepreneurship and Innovation",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "Pathways to Impact in AI and Data Science with the Polsky Center for Entrepreneurship and Innovation"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:6ffcd558b212d197",
+          "type": "Section",
+          "label": "University of Chicago Data Science Institute Welcomes Millennium as New Industry Affiliate Partner",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "University of Chicago Data Science Institute Welcomes Millennium as New Industry Affiliate Partner"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:14ec4754d4427cfa",
+          "type": "Section",
+          "label": "For Better Sleep, One MS-ADS Student Turned to Artificial Intelligence",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "For Better Sleep, One MS-ADS Student Turned to Artificial Intelligence"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:af0306e19ed94596",
+          "type": "Section",
+          "label": "From Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "From Chips to Agents: UChicago Watches NVIDIA’s Vision for the Next Era of AI"
+          ],
+          "children": []
+        }
+      },
+      {
+        "relation": "HAS_SECTION",
+        "node": {
+          "id": "section:fef7d869faf544f1",
+          "type": "Section",
+          "label": "What If AI Scientists Could Talk to Each Other?",
+          "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+          "heading_tag": "h2",
+          "path": [
+            "Master's in Applied Data Science",
+            "What If AI Scientists Could Talk to Each Other?"
+          ],
+          "children": []
+        }
+      }
+    ]
+  },
+  "chunks": [
+    {
+      "id": "chunk:0eace6f136ed88cb",
+      "text": "Elevate Your Expertise in Data Science",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science"
+      ],
+      "source_type": "div"
+    },
+    {
+      "id": "chunk:f6175c5e0270913d",
+      "text": "The University of Chicago’s MS in Applied Data Science program equips you with in-demand expertise and an unparalleled network of global alumni. Take the next step and start your application today.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:3ba191ba92a28ba6",
+      "text": "Choose from full- and part-time options in our In-Person and Online programs. Apply today!",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science",
+        "Programs"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:c2f30a9ef2849ad3",
+      "text": "The In-Person program, ideal for early career professionals, now includes a 2-year full-time option starting Autumn 2026—alongside the existing 12–15 month track for full- and part-time students.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science",
+        "In-Person Program"
+      ],
+      "source_type": "div"
+    },
+    {
+      "id": "chunk:7a79b99558491c24",
+      "text": "The same rigorous curriculum, faculty, and network as the in-person degree. Designed for working professionals with 2+ years of full-time experience.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science",
+        "Online Program"
+      ],
+      "source_type": "div"
+    },
+    {
+      "id": "chunk:1f5e18cae5e2db17",
+      "text": "Differentiate yourself with a competitive joint degree with UChicago's Booth School of Business. Apply through Booth's admissions process.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science",
+        "MBA/MS Program"
+      ],
+      "source_type": "div"
+    },
+    {
+      "id": "chunk:d0d6f01c9738e722",
+      "text": "The application for entry is open! Prospective Online and In-Person students can apply by June 23, 2026, for full- and part-time study for Autumn 2026 entry. Start your application here .",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:26be8353009ee78d",
+      "text": "You have questions; we have answers. Whether you are just beginning your search or are ready to apply, we are here to help you take the next step.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science",
+        "How to Apply"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:6d9828e8a6a348fc",
+      "text": "UChicago’s Master’s in Applied Data Science program recruits industry leaders from across the country. Meet our instructors and learn how they are shaping the landscape of data science.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science",
+        "Industry Leading Faculty"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:e52415ba1c70c615",
+      "text": "Whether you are early in your career or more advanced, you will benefit from our real-world Capstone Experience. You will have the opportunity to help top companies across multiple sectors to solve real business problems. Sample Capstone Projects .",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science",
+        "Data in Action - Capstone Projects"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:ae3d138bacc4cfbd",
+      "text": "Learn how the University of Chicago’s MS in Applied Data Science equips students with strong foundations in machine learning, real-world problem solving, and communication. Current students and alumni share how the curriculum prepares graduates to translate data into meaningful, real-world impact.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science",
+        "How UChicago’s MS in Applied Data Science Prepares Future Innovators"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:c79f081dbe676e7b",
+      "text": "The application to be considered for Autumn 2026 enrollment is now open! The final application deadline for full- and part-time entrance in Autumn 2026 is June 23, 2026.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:fe4178a0202e9086",
+      "text": "The In-Person Program and the Online Program admit full- and part-time students for entrance in the autumn quarter.",
+      "url": "https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science",
+      "page_id": "page:7b9e2af0a426bdaa",
+      "page_title": "Master's in Applied Data Science",
+      "path": [
+        "Master's in Applied Data Science"
+      ],
+      "source_type": "p"
+    }
+  ]
+}

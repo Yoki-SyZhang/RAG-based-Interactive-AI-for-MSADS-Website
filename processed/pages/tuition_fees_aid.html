@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tuition, Fees, &amp; Aid debug</title>
+  <style>
+    :root { color-scheme: light; --ink:#171717; --muted:#666; --line:#ddd; --soft:#f6f6f4; --accent:#800000; }
+    body { margin:0; font-family: Arial, sans-serif; color:var(--ink); background:#fff; }
+    header { padding:24px 32px; border-bottom:1px solid var(--line); background:#fafafa; }
+    header h1 { margin:0 0 8px; font-size:28px; }
+    header a { color:var(--accent); word-break:break-word; }
+    main { display:grid; grid-template-columns:minmax(360px, 44%) 1fr; gap:24px; padding:24px 32px; }
+    section { min-width:0; }
+    h2 { margin:0 0 14px; font-size:18px; }
+    ul { list-style:none; padding-left:18px; margin:6px 0; border-left:1px solid var(--line); }
+    summary { cursor:pointer; padding:7px 8px; border-radius:6px; }
+    summary:hover { background:var(--soft); }
+    .type { display:inline-block; min-width:92px; color:var(--accent); font-weight:700; }
+    .label { font-weight:600; }
+    .rel { color:var(--muted); margin-right:8px; font-size:12px; }
+    .count,.badge { margin-left:8px; color:var(--muted); font-size:12px; border:1px solid var(--line); border-radius:999px; padding:1px 6px; }
+    .chunk-node { margin:8px 0 8px 6px; padding:10px; background:var(--soft); border-radius:6px; }
+    .chunk-node p { margin:6px 0 0; color:#333; line-height:1.45; white-space:pre-wrap; }
+    .chunk-id { font-family: Consolas, monospace; color:#444; }
+    .chunk-list { display:grid; gap:12px; }
+    .chunk-card { border:1px solid var(--line); border-radius:8px; padding:14px; }
+    .chunk-card h3 { margin:8px 0; font-size:14px; line-height:1.35; color:var(--accent); }
+    .chunk-card p { margin:0; line-height:1.5; white-space:pre-wrap; }
+    .chunk-meta { display:flex; gap:8px; color:var(--muted); font-size:12px; }
+    @media (max-width: 900px) { main { grid-template-columns:1fr; padding:18px; } header { padding:18px; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tuition, Fees, &amp; Aid</h1>
+    <a href="https://datascience.uchicago.edu/education/tuition-fees-aid">https://datascience.uchicago.edu/education/tuition-fees-aid</a>
+  </header>
+  <main>
+    <section>
+      <h2>Graph Tree</h2>
+      <ul><li class="node"><details open><summary><span class="type">Page</span><span class="label">Tuition, Fees, &amp; Aid</span><span class="count">7</span></summary><ul><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Page Header Content</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:c98b57e329f0a2d4</span><span class="badge">page_header_content</span><p>MS in Applied Data Science</p></li></ul></details></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Program Tuition</span><span class="count">5</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:a8c32499734ab767</span><span class="badge">p</span><p>Tuition and course fees displayed are for Summer 2025, Autumn 2025, Winter 2026, and Spring 2026. Visit the Office of the University Bursar website for information on quarterly and occasional fees, as well as information...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:7a445db53d4bee2d</span><span class="badge">ul</span><p>- Tuition for the 12- and 18-course MS in Applied Data Science program: $6,384 per course*/$76,608+^, 12 courses/$114,912+^, 18 courses
+- Program Enrollment Deposit (non-refundable): $1,500 (credited toward your first qu...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:7f9e283245c1c872</span><span class="badge">p</span><p>* Enrolling in a program of study includes additional costs beyond the tuition listed here. For a full list of direct and indirect expenses associated with the cost of attendance, please visit the Cost of Attendance page...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:9daed21ee09d5139</span><span class="badge">p</span><p>Tuition is expected to increase 3-7% per fiscal year (a fiscal year runs from summer through spring quarter). Those who complete the program over 2 fiscal years are subject to an increased tuition rate in fiscal year 2 o...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:069a59a3cb00e5c3</span><span class="badge">em</span><p>Note: *The program awards partial tuition merit-based scholarships.</p></li></ul></details></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Noncredit Courses</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:ddcb3ddcc01b1f16</span><span class="badge">ul</span><p>- Career Seminar (required unless eligible to waive): $0
+- Introduction to Statistical Concepts (optional): $0
+- R Foundational Course (optional): $0
+- Python Foundational Course (optional): $0
+- Advanced Linear Algebra...</p></li></ul></details></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">The Data Science Institute Scholarship, MS in Applied Data Science Alumni Scholarship</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:42fd9e5b20f73a6d</span><span class="badge">p</span><p>The MS in Applied Data Science program offers partial tuition scholarships to top applicants. These scholarships do not require a separate application but it is recommended that candidates submit their applications ahead...</p></li></ul></details></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Other Scholarships</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:f9cfa40214445b07</span><span class="badge">p</span><p>Students are encouraged to investigate scholarships offered through various civic and professional organizations, foundations and state agencies. One place to search for scholarships is the financial aid information web...</p></li></ul></details></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Financial Aid</span><span class="count">7</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:9c964788f9eb158c</span><span class="badge">p</span><p>Merit scholarships are available for eligible applicants. Once you apply to the program, you will be automatically considered for a scholarship. Early applications are highly encouraged.</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:4ca21ec8f4a0cbe4</span><span class="badge">p</span><p>In addition, if you are interested in financial aid to help finance your graduate education, once admitted, you will work with the University of Chicago’s Student Loan Administration office.</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:5dc23f0bff472924</span><span class="badge">p</span><p>To understand the types of financial assistance available and to gather additional information, please visit the Graduate Aid page . For international student funding options, please visit the International Student Fundi...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:09e1ee655e95ca3d</span><span class="badge">p</span><p>To find out if you are eligible for federal loans, please visit our Aid Eligibility page . We have administrative systems in place to assist students in applying for financial aid upon admission to programs. Please visit...</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:f5ed47a0e3665da0</span><span class="badge">p</span><p>For information and assistance with employer tuition benefits, please visit the website of the Bursar .</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:a418c0fcf4206eb1</span><span class="badge">p</span><p>If you are interested in financial aid through student employment, please visit the Student Employment website .</p></li><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:174106e36de5bc1c</span><span class="badge">p</span><p>Visit our FAQ page for additional information.</p></li></ul></details></li><li class="node"><details open><summary><span class="rel">HAS_SECTION</span><span class="type">Section</span><span class="label">Start Your Application</span><span class="count">1</span></summary><ul><li class="node chunk-node"><span class="rel">HAS_CONTENT</span><span class="type">Chunk</span><span class="chunk-id">chunk:9ff15afd304b6ca1</span><span class="badge">p</span><p>The In-Person and the Online program admit full- and part-time students for entrance in autumn quarter.</p></li></ul></details></li></ul></details></li></ul>
+    </section>
+    <section>
+      <h2>Chunks (17)</h2>
+      <div class="chunk-list">
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#1</span>
+                <span>page_header_content</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Page Header Content</h3>
+              <p>MS in Applied Data Science</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#2</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Program Tuition</h3>
+              <p>Tuition and course fees displayed are for Summer 2025, Autumn 2025, Winter 2026, and Spring 2026. Visit the Office of the University Bursar website for information on quarterly and occasional fees, as well as information about tuition rates.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#3</span>
+                <span>ul</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Program Tuition</h3>
+              <p>- Tuition for the 12- and 18-course MS in Applied Data Science program: $6,384 per course*/$76,608+^, 12 courses/$114,912+^, 18 courses
+- Program Enrollment Deposit (non-refundable): $1,500 (credited toward your first quarter’s tuition balance)</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#4</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Program Tuition</h3>
+              <p>* Enrolling in a program of study includes additional costs beyond the tuition listed here. For a full list of direct and indirect expenses associated with the cost of attendance, please visit the Cost of Attendance page of the Graduate Financial Aid Office website.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#5</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Program Tuition</h3>
+              <p>Tuition is expected to increase 3-7% per fiscal year (a fiscal year runs from summer through spring quarter). Those who complete the program over 2 fiscal years are subject to an increased tuition rate in fiscal year 2 of their program.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#6</span>
+                <span>em</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Program Tuition</h3>
+              <p>Note: *The program awards partial tuition merit-based scholarships.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#7</span>
+                <span>ul</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Noncredit Courses</h3>
+              <p>- Career Seminar (required unless eligible to waive): $0
+- Introduction to Statistical Concepts (optional): $0
+- R Foundational Course (optional): $0
+- Python Foundational Course (optional): $0
+- Advanced Linear Algebra for Machine Learning (optional): $0</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#8</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; The Data Science Institute Scholarship, MS in Applied Data Science Alumni Scholarship</h3>
+              <p>The MS in Applied Data Science program offers partial tuition scholarships to top applicants. These scholarships do not require a separate application but it is recommended that candidates submit their applications ahead of the early deadline to maximize their chances of securing a scholarship.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#9</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Other Scholarships</h3>
+              <p>Students are encouraged to investigate scholarships offered through various civic and professional organizations, foundations and state agencies. One place to search for scholarships is the financial aid information web page sponsored by the National Association of Student Aid Administration.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#10</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Financial Aid</h3>
+              <p>Merit scholarships are available for eligible applicants. Once you apply to the program, you will be automatically considered for a scholarship. Early applications are highly encouraged.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#11</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Financial Aid</h3>
+              <p>In addition, if you are interested in financial aid to help finance your graduate education, once admitted, you will work with the University of Chicago’s Student Loan Administration office.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#12</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Financial Aid</h3>
+              <p>To understand the types of financial assistance available and to gather additional information, please visit the Graduate Aid page . For international student funding options, please visit the International Student Funding Options page .</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#13</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Financial Aid</h3>
+              <p>To find out if you are eligible for federal loans, please visit our Aid Eligibility page . We have administrative systems in place to assist students in applying for financial aid upon admission to programs. Please visit our Tuition, Financing, and Billing page for more information.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#14</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Financial Aid</h3>
+              <p>For information and assistance with employer tuition benefits, please visit the website of the Bursar .</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#15</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Financial Aid</h3>
+              <p>If you are interested in financial aid through student employment, please visit the Student Employment website .</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#16</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Financial Aid</h3>
+              <p>Visit our FAQ page for additional information.</p>
+            </article>
+            
+            <article class="chunk-card">
+              <div class="chunk-meta">
+                <span>#17</span>
+                <span>p</span>
+              </div>
+              <h3>Tuition, Fees, &amp; Aid &gt; Start Your Application</h3>
+              <p>The In-Person and the Online program admit full- and part-time students for entrance in autumn quarter.</p>
+            </article>
+            </div>
+    </section>
+  </main>
+</body>
+</html>

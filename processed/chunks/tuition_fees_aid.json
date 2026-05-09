@@ -1,0 +1,215 @@
+{
+  "page": {
+    "id": "page:a5c1f12af4c1e404",
+    "title": "Tuition, Fees, & Aid",
+    "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+    "raw_file": "raw/education__tuition_fees_aid.json"
+  },
+  "num_chunks": 17,
+  "chunks": [
+    {
+      "id": "chunk:c98b57e329f0a2d4",
+      "text": "MS in Applied Data Science",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Page Header Content"
+      ],
+      "source_type": "page_header_content"
+    },
+    {
+      "id": "chunk:a8c32499734ab767",
+      "text": "Tuition and course fees displayed are for Summer 2025, Autumn 2025, Winter 2026, and Spring 2026. Visit the Office of the University Bursar website for information on quarterly and occasional fees, as well as information about tuition rates.",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Program Tuition"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:7a445db53d4bee2d",
+      "text": "- Tuition for the 12- and 18-course MS in Applied Data Science program: $6,384 per course*/$76,608+^, 12 courses/$114,912+^, 18 courses\n- Program Enrollment Deposit (non-refundable): $1,500 (credited toward your first quarter’s tuition balance)",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Program Tuition"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:7f9e283245c1c872",
+      "text": "* Enrolling in a program of study includes additional costs beyond the tuition listed here. For a full list of direct and indirect expenses associated with the cost of attendance, please visit the Cost of Attendance page of the Graduate Financial Aid Office website.",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Program Tuition"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:9daed21ee09d5139",
+      "text": "Tuition is expected to increase 3-7% per fiscal year (a fiscal year runs from summer through spring quarter). Those who complete the program over 2 fiscal years are subject to an increased tuition rate in fiscal year 2 of their program.",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Program Tuition"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:069a59a3cb00e5c3",
+      "text": "Note: *The program awards partial tuition merit-based scholarships.",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Program Tuition"
+      ],
+      "source_type": "em"
+    },
+    {
+      "id": "chunk:ddcb3ddcc01b1f16",
+      "text": "- Career Seminar (required unless eligible to waive): $0\n- Introduction to Statistical Concepts (optional): $0\n- R Foundational Course (optional): $0\n- Python Foundational Course (optional): $0\n- Advanced Linear Algebra for Machine Learning (optional): $0",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Noncredit Courses"
+      ],
+      "source_type": "ul"
+    },
+    {
+      "id": "chunk:42fd9e5b20f73a6d",
+      "text": "The MS in Applied Data Science program offers partial tuition scholarships to top applicants. These scholarships do not require a separate application but it is recommended that candidates submit their applications ahead of the early deadline to maximize their chances of securing a scholarship.",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "The Data Science Institute Scholarship, MS in Applied Data Science Alumni Scholarship"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:f9cfa40214445b07",
+      "text": "Students are encouraged to investigate scholarships offered through various civic and professional organizations, foundations and state agencies. One place to search for scholarships is the financial aid information web page sponsored by the National Association of Student Aid Administration.",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Other Scholarships"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:9c964788f9eb158c",
+      "text": "Merit scholarships are available for eligible applicants. Once you apply to the program, you will be automatically considered for a scholarship. Early applications are highly encouraged.",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Financial Aid"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:4ca21ec8f4a0cbe4",
+      "text": "In addition, if you are interested in financial aid to help finance your graduate education, once admitted, you will work with the University of Chicago’s Student Loan Administration office.",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Financial Aid"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:5dc23f0bff472924",
+      "text": "To understand the types of financial assistance available and to gather additional information, please visit the Graduate Aid page . For international student funding options, please visit the International Student Funding Options page .",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Financial Aid"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:09e1ee655e95ca3d",
+      "text": "To find out if you are eligible for federal loans, please visit our Aid Eligibility page . We have administrative systems in place to assist students in applying for financial aid upon admission to programs. Please visit our Tuition, Financing, and Billing page for more information.",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Financial Aid"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:f5ed47a0e3665da0",
+      "text": "For information and assistance with employer tuition benefits, please visit the website of the Bursar .",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Financial Aid"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:a418c0fcf4206eb1",
+      "text": "If you are interested in financial aid through student employment, please visit the Student Employment website .",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Financial Aid"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:174106e36de5bc1c",
+      "text": "Visit our FAQ page for additional information.",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Financial Aid"
+      ],
+      "source_type": "p"
+    },
+    {
+      "id": "chunk:9ff15afd304b6ca1",
+      "text": "The In-Person and the Online program admit full- and part-time students for entrance in autumn quarter.",
+      "url": "https://datascience.uchicago.edu/education/tuition-fees-aid",
+      "page_id": "page:a5c1f12af4c1e404",
+      "page_title": "Tuition, Fees, & Aid",
+      "path": [
+        "Tuition, Fees, & Aid",
+        "Start Your Application"
+      ],
+      "source_type": "p"
+    }
+  ]
+}

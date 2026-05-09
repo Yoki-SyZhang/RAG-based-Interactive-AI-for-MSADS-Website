@@ -41,9 +41,11 @@ def _judge_summary(judge_history: List[Dict[str, Any]]) -> str:
     )
 
 
-def _normalize_chunk_id(cid: str) -> str:
-    """Strip 'chunk:' prefix so judge IDs match tool-result IDs regardless of format."""
-    return cid.removeprefix("chunk:")
+def _normalize_chunk_id(cid: Any) -> str:
+    """Strip 'chunk:' prefix; also handles dicts with chunk_id key."""
+    if isinstance(cid, dict):
+        cid = cid.get("chunk_id", "")
+    return str(cid).removeprefix("chunk:")
 
 
 def _absorb_judge_result(
@@ -53,7 +55,7 @@ def _absorb_judge_result(
     retrieval_query: str,
 ) -> None:
     """Merge judge keep/discard decisions into evidence_container."""
-    # Normalize: accept both "chunk:abc" and "abc" from the judge
+    # Normalize: accept strings, "chunk:"-prefixed strings, or dicts with chunk_id
     keep_ids = {_normalize_chunk_id(k) for k in judge.get("keep_chunks", [])}
     all_chunks = tool_result.get("chunks", [])
 

@@ -152,7 +152,6 @@ The evaluator LLM is also `qwen3:8b` via Ollama, wrapped through LangChain. RAGA
 |---|---|
 | [eval/ragas_eval.ipynb](eval/ragas_eval.ipynb) | End-to-end RAGAS evaluation. Loads 30 curated questions from `docs/eval_queries.json`, runs the full agent on each (with file-based caching in `docs/agent_run_cache.json`), then scores Faithfulness / AnswerRelevancy / ContextPrecision / ContextRecall. Results exported to `docs/ragas_results.csv`. Includes a manual single-query test cell for qualitative inspection. |
 | [docs/eval_queries.json](docs/eval_queries.json) | 30 hand-crafted evaluation questions with ground-truth answers, gold URLs, and difficulty labels across admission, curriculum, tuition, and career categories. |
-| [docs/rag_agent_plan.md](docs/rag_agent_plan.md) | Full design document for the agent architecture: prompt specs, tool definitions, evidence schemas, and RAGAS evaluation plan. |
 
 ---
 

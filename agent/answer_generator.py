@@ -19,6 +19,21 @@ def _extract_citation_indices(answer_text: str) -> List[int]:
     return [int(m) for m in re.findall(r"\[(\d+)\]", answer_text)]
 
 
+def _citation_text(ev: Dict[str, Any]) -> str:
+    """Full text shown in the UI for this citation.
+
+    For chunk evidence we surface the complete chunk so the frontend can
+    show the user the exact passage the answer relied on. For
+    `node_structure` evidence (a KG tree dump produced by `inspect_page`)
+    we substitute a short placeholder — the raw markdown is meaningless
+    to end users.
+    """
+    if ev.get("source_type") == "node_structure":
+        title = ev.get("page_title") or "page"
+        return f"(Structural overview of {title})"
+    return (ev.get("text") or "").strip()
+
+
 def _build_citations(answer_text: str, evidence_list: List[Dict[str, Any]]) -> List[Citation]:
     """Build citation objects from evidence items referenced in the answer."""
     indices = sorted(set(_extract_citation_indices(answer_text)))
@@ -35,16 +50,12 @@ def _build_citations(answer_text: str, evidence_list: List[Dict[str, Any]]) -> L
         ev = id_to_ev.get(idx)
         if not ev:
             continue
-        text = ev.get("text", "")
-        snippet = text[80:230].strip() if len(text) > 80 else text[:150].strip()
-        if not snippet:
-            snippet = text[:150].strip()
         citations.append(
             Citation(
                 index=idx,
                 title=ev.get("page_title", ""),
                 source_url=ev.get("source_url", ""),
-                snippet=snippet,
+                text=_citation_text(ev),
             )
         )
     return citations
@@ -94,7 +105,7 @@ def generate_stream(memory: AgentMemory, client: OllamaClient) -> Iterator[Dict[
                 "index": c.index,
                 "title": c.title,
                 "source_url": c.source_url,
-                "snippet": c.snippet,
+                "text": c.text,
             }
             for c in citations
         ],

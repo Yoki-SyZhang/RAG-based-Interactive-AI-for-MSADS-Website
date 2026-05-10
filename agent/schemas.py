@@ -120,7 +120,7 @@ class Citation:
     index: int
     title: str
     source_url: str
-    snippet: str
+    text: str  # full chunk content (or a placeholder for structural evidence)
 
 
 @dataclass
@@ -137,7 +137,7 @@ class ChatResponse:
                     "index": c.index,
                     "title": c.title,
                     "source_url": c.source_url,
-                    "snippet": c.snippet,
+                    "text": c.text,
                 }
                 for c in self.citations
             ],

@@ -4,7 +4,7 @@ export interface BackendCitation {
   index: number;
   title: string;
   source_url: string;
-  snippet: string;
+  text: string;
 }
 
 export interface BackendChatResponse {

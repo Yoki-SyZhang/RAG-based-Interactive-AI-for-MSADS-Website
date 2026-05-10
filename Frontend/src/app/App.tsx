@@ -18,7 +18,7 @@ interface Message {
 interface Source {
   id: string;
   title: string;
-  snippet: string;
+  text: string;
   page?: number;
   url?: string;
   relevanceScore: number;
@@ -76,6 +76,7 @@ export default function App() {
 
     try {
       await postChatStream(content, history, (event) => {
+        console.log('[chat/stream]', event);
         if (event.type === 'token') {
           if (!assistantCreated) {
             // First token arrived — replace the loading skeleton with a real bubble.
@@ -97,7 +98,7 @@ export default function App() {
           const newSources: Source[] = event.citations.map((c, idx) => ({
             id: sourceIdFor(c.index),
             title: c.title,
-            snippet: c.snippet,
+            text: c.text,
             url: c.source_url,
             relevanceScore: Math.max(0.4, 1 - idx * 0.1),
           }));

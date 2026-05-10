@@ -4,7 +4,7 @@ import { useState } from 'react';
 interface Source {
   id: string;
   title: string;
-  snippet: string;
+  text: string;
   page?: number;
   url?: string;
   relevanceScore: number;
@@ -69,8 +69,8 @@ export default function SourcesPanel({ sources, highlightedId }: SourcesPanelPro
               <h4 className="m-0 text-sm flex-1">{source.title}</h4>
             </div>
 
-            <p className="text-xs text-[#666] m-0 mb-2 line-clamp-2">
-              {source.snippet}
+            <p className="text-xs text-[#666] m-0 mb-2 whitespace-pre-wrap">
+              {source.text}
             </p>
 
             <div className="flex items-center justify-between text-xs text-[#999]">

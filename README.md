@@ -155,6 +155,37 @@ The evaluator LLM is also `qwen3:8b` via Ollama, wrapped through LangChain. RAGA
 
 ---
 
+## Frontend UI
+
+A React + Vite single-page app under `Frontend/` provides a chat interface over the agent. The design follows UChicago's maroon palette, renders Markdown answers with clickable inline citations, and exposes the retrieved evidence in a side panel.
+
+![Frontend UI](docs/frontend-ui.png)
+
+**Three-pane layout** (collapsing to fewer panes on narrower screens):
+
+| Pane | Role |
+|---|---|
+| **Conversations** (left, hidden < 768px) | In-memory list of chat sessions. "+" creates a new one; switching preserves each conversation's messages and sources independently. State is not persisted — refresh clears everything. |
+| **Chat** (center) | User messages on the right, assistant on the left. Assistant content is rendered through `react-markdown` with GFM (lists, tables, fenced code, **bold**) and a custom remark plugin that turns `[1]`, `[2]` markers into clickable superscripts. While streaming, tokens are appended into the bubble live. |
+| **Sources** (right, responsive) | One card per cited evidence item — page title, full chunk text (scrollable), source URL (opens in new tab), and a relevance bar. Clicking a `[N]` marker in the chat highlights the corresponding card. On `< 768px` the panel becomes a slide-over with a floating action button. |
+
+**Streaming protocol.** The frontend talks to `POST /chat/stream` (Server-Sent Events). Token deltas flow into the active assistant bubble; when the final `done` event arrives the answer is replaced with the server's authoritative version and the Sources panel is populated.
+
+**Frontend file map** (under `Frontend/`):
+
+| File | Role |
+|---|---|
+| [src/app/App.tsx](Frontend/src/app/App.tsx) | Top-level state — conversations, active id, loading flag — and the streaming send handler. |
+| [src/app/lib/api.ts](Frontend/src/app/lib/api.ts) | `postChat` (legacy non-stream) and `postChatStream` (SSE parser) targeted at `/api/*`. |
+| [src/app/components/ChatMessage.tsx](Frontend/src/app/components/ChatMessage.tsx) | Renders a single message; assistant uses `react-markdown` + `remark-gfm` + a citation remark plugin. |
+| [src/app/components/SourcesPanel.tsx](Frontend/src/app/components/SourcesPanel.tsx) | Right-side sources with responsive overlay-on-mobile behavior. |
+| [src/app/components/ConversationList.tsx](Frontend/src/app/components/ConversationList.tsx) | Left-side conversation switcher; in-memory only. |
+| [src/app/components/ChatInput.tsx](Frontend/src/app/components/ChatInput.tsx) | Input + send button. |
+| [src/app/components/WelcomeScreen.tsx](Frontend/src/app/components/WelcomeScreen.tsx) | Empty-state with suggested questions. |
+| [vite.config.ts](Frontend/vite.config.ts) | Vite config with `/api` → `VITE_BACKEND_URL` (default `http://localhost:8000`) dev proxy, hiding CORS and tunnel URLs from the browser. |
+
+---
+
 ## Quick Start
 
 The pre-built index (`index/`, ~6 MB) is committed to the repo, so you do **not** need to run `build_index.py` unless you want to re-scrape and rebuild from scratch.

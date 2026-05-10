@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import Header from './components/Header';
-import ConversationList from './components/ConversationList';
 import ChatMessage from './components/ChatMessage';
 import SourcesPanel from './components/SourcesPanel';
 import WelcomeScreen from './components/WelcomeScreen';
@@ -25,13 +24,6 @@ interface Source {
 }
 
 export default function App() {
-  const [conversations] = useState([
-    { id: '1', preview: 'What courses are required?', timestamp: '2 hours ago' },
-    { id: '2', preview: 'Tell me about admission requirements', timestamp: 'Yesterday' },
-    { id: '3', preview: 'Program duration and schedule', timestamp: '3 days ago' },
-  ]);
-
-  const [activeConversationId, setActiveConversationId] = useState('1');
   const [messages, setMessages] = useState<Message[]>([]);
   const [sources, setSources] = useState<Source[]>([]);
   const [highlightedSourceId, setHighlightedSourceId] = useState<string>();
@@ -150,15 +142,9 @@ export default function App() {
     <div className="h-screen flex flex-col bg-[#faf9f7]" style={{ fontFamily: "'Inter', sans-serif" }}>
       <Header />
 
-      <div className="flex-1 flex overflow-hidden">
-        <ConversationList
-          conversations={conversations}
-          activeId={activeConversationId}
-          onSelect={setActiveConversationId}
-        />
-
-        <div className="flex-1 flex flex-col">
-          <div className="flex-1 overflow-y-auto p-6">
+      <div className="flex-1 flex overflow-hidden relative">
+        <div className="flex-1 flex flex-col min-w-0">
+          <div className="flex-1 overflow-y-auto p-4 sm:p-6">
             {messages.length === 0 ? (
               <WelcomeScreen onQuestionClick={handleQuestionClick} />
             ) : (

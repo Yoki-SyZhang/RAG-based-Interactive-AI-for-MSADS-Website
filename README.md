@@ -157,22 +157,75 @@ The evaluator LLM is also `qwen3:8b` via Ollama, wrapped through LangChain. RAGA
 
 ## Quick Start
 
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-playwright install chromium
+The pre-built index (`index/`, ~6 MB) is committed to the repo, so you do **not** need to run `build_index.py` unless you want to re-scrape and rebuild from scratch.
 
-# 2. Pull the model (requires Ollama installed)
+### Path A — Fully local (default)
+
+Backend and frontend both on your laptop. Recommended if you have ≥ 16 GB RAM (qwen3:8b uses ~5–6 GB resident).
+
+**1. Backend**
+
+```bash
+# Install Python deps
+pip install -r requirements.txt
+
+# Install + start Ollama (https://ollama.com), then pull the model
 ollama pull qwen3:8b
 
-# 3. Build the index (one-time, ~5–10 min)
-python build_index.py
-
-# 4. Start the API server
+# Run the API server
 uvicorn app:app --host 0.0.0.0 --port 8000 --reload
+```
 
-# 5. Test a query
+The lifespan logs `[startup] Ollama available: True` and `[startup] Index loaded.` when ready.
+
+**2. Frontend**
+
+```bash
+cd Frontend
+npm install            # or `pnpm install`
+npm run dev            # http://localhost:5173
+```
+
+The Vite dev server proxies `/api/*` to `http://localhost:8000` (configurable via `VITE_BACKEND_URL` — see `Frontend/.env.example`). Open the URL it prints and chat.
+
+**3. Sanity check (optional)**
+
+```bash
 curl -X POST http://localhost:8000/chat \
   -H "Content-Type: application/json" \
   -d '{"query": "What GPA do I need to apply?", "history": []}'
+```
+
+### Path B — Backend on Colab (demo, for low-resource laptops)
+
+Run the backend on a free Colab T4 GPU and connect a local frontend over a Cloudflare quick-tunnel. Use this when the laptop cannot host `qwen3:8b`. See `colab/README.md` for the full architecture diagram and limits.
+
+**1. Open the notebook in Colab**
+
+Click "Open in Colab" on `colab/run_backend.ipynb`, or visit:
+
+```
+https://colab.research.google.com/github/<owner>/<repo>/blob/main/colab/run_backend.ipynb
+```
+
+Switch the runtime to T4 GPU (*Runtime → Change runtime type → T4 GPU*) and run all cells. The first run takes ~5–10 min (mostly downloading qwen3:8b). Cell 3 prints a public URL of the form `https://<random>.trycloudflare.com`.
+
+**2. Local frontend pointed at the Colab tunnel**
+
+```bash
+cd Frontend
+npm install
+VITE_BACKEND_URL=https://<random>.trycloudflare.com npm run dev
+```
+
+Open `http://localhost:5173` — Vite proxies `/api/*` to the Colab backend through the tunnel. Browser sees only `localhost`, so no CORS or mixed-content issue.
+
+> Cloudflare quick-tunnels are ephemeral. Each Colab restart yields a new URL, so update `VITE_BACKEND_URL` and restart `npm run dev`.
+
+### Re-building the index (only if you re-scrape)
+
+```bash
+playwright install chromium    # one-time
+python scrape.py               # re-fetch HTML to raw/
+python build_index.py          # rebuild KG + embeddings + BM25 (~5–10 min)
 ```

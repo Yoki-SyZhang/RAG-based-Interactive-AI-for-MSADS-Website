@@ -7,7 +7,7 @@ import re
 import time
 import urllib.error
 import urllib.request
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, Iterator, List, Optional
 
 
 OLLAMA_BASE_URL = "http://localhost:11434"
@@ -81,6 +81,56 @@ class OllamaClient:
     ) -> str:
         """Call Ollama without format=json; return raw text."""
         return self._chat(system, user, json_mode=False, temperature=temperature, timeout=timeout)
+
+    def chat_text_stream(
+        self,
+        system: str,
+        user: str,
+        temperature: float = 0.3,
+        timeout: int = 300,
+    ) -> Iterator[str]:
+        """Stream content chunks from Ollama as they arrive.
+
+        Yields plain string deltas. Caller is responsible for accumulation.
+        """
+        messages: List[Dict[str, str]] = []
+        if system:
+            messages.append({"role": "system", "content": system})
+        messages.append({"role": "user", "content": user})
+
+        payload: Dict[str, Any] = {
+            "model": self.model,
+            "messages": messages,
+            "stream": True,
+            "options": {
+                "temperature": temperature,
+                "num_ctx": self.num_ctx,
+            },
+        }
+
+        data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+        req = urllib.request.Request(
+            f"{self.base_url}/api/chat",
+            data=data,
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                for raw in resp:
+                    if not raw.strip():
+                        continue
+                    try:
+                        obj = json.loads(raw.decode("utf-8"))
+                    except json.JSONDecodeError:
+                        continue
+                    chunk = obj.get("message", {}).get("content", "")
+                    if chunk:
+                        yield chunk
+                    if obj.get("done"):
+                        return
+        except urllib.error.URLError as exc:
+            raise RuntimeError(f"Ollama connection error: {exc}") from exc
 
     def is_available(self) -> bool:
         try:

@@ -155,24 +155,108 @@ The evaluator LLM is also `qwen3:8b` via Ollama, wrapped through LangChain. RAGA
 
 ---
 
+## Frontend UI
+
+A React + Vite single-page app under `Frontend/` provides a chat interface over the agent. The design follows UChicago's maroon palette, renders Markdown answers with clickable inline citations, and exposes the retrieved evidence in a side panel.
+
+![Frontend UI](docs/frontend-ui.png)
+
+**Three-pane layout** (collapsing to fewer panes on narrower screens):
+
+| Pane | Role |
+|---|---|
+| **Conversations** (left, hidden < 768px) | In-memory list of chat sessions. "+" creates a new one; switching preserves each conversation's messages and sources independently. State is not persisted — refresh clears everything. |
+| **Chat** (center) | User messages on the right, assistant on the left. Assistant content is rendered through `react-markdown` with GFM (lists, tables, fenced code, **bold**) and a custom remark plugin that turns `[1]`, `[2]` markers into clickable superscripts. While streaming, tokens are appended into the bubble live. |
+| **Sources** (right, responsive) | One card per cited evidence item — page title, full chunk text (scrollable), source URL (opens in new tab), and a relevance bar. Clicking a `[N]` marker in the chat highlights the corresponding card. On `< 768px` the panel becomes a slide-over with a floating action button. |
+
+**Streaming protocol.** The frontend talks to `POST /chat/stream` (Server-Sent Events). Token deltas flow into the active assistant bubble; when the final `done` event arrives the answer is replaced with the server's authoritative version and the Sources panel is populated.
+
+**Frontend file map** (under `Frontend/`):
+
+| File | Role |
+|---|---|
+| [src/app/App.tsx](Frontend/src/app/App.tsx) | Top-level state — conversations, active id, loading flag — and the streaming send handler. |
+| [src/app/lib/api.ts](Frontend/src/app/lib/api.ts) | `postChat` (legacy non-stream) and `postChatStream` (SSE parser) targeted at `/api/*`. |
+| [src/app/components/ChatMessage.tsx](Frontend/src/app/components/ChatMessage.tsx) | Renders a single message; assistant uses `react-markdown` + `remark-gfm` + a citation remark plugin. |
+| [src/app/components/SourcesPanel.tsx](Frontend/src/app/components/SourcesPanel.tsx) | Right-side sources with responsive overlay-on-mobile behavior. |
+| [src/app/components/ConversationList.tsx](Frontend/src/app/components/ConversationList.tsx) | Left-side conversation switcher; in-memory only. |
+| [src/app/components/ChatInput.tsx](Frontend/src/app/components/ChatInput.tsx) | Input + send button. |
+| [src/app/components/WelcomeScreen.tsx](Frontend/src/app/components/WelcomeScreen.tsx) | Empty-state with suggested questions. |
+| [vite.config.ts](Frontend/vite.config.ts) | Vite config with `/api` → `VITE_BACKEND_URL` (default `http://localhost:8000`) dev proxy, hiding CORS and tunnel URLs from the browser. |
+
+---
+
 ## Quick Start
 
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-playwright install chromium
+The pre-built index (`index/`, ~6 MB) is committed to the repo, so you do **not** need to run `build_index.py` unless you want to re-scrape and rebuild from scratch.
 
-# 2. Pull the model (requires Ollama installed)
+### Path A — Fully local (default)
+
+Backend and frontend both on your laptop. Recommended if you have ≥ 16 GB RAM (qwen3:8b uses ~5–6 GB resident).
+
+**1. Backend**
+
+```bash
+# Install Python deps
+pip install -r requirements.txt
+
+# Install + start Ollama (https://ollama.com), then pull the model
 ollama pull qwen3:8b
 
-# 3. Build the index (one-time, ~5–10 min)
-python build_index.py
-
-# 4. Start the API server
+# Run the API server
 uvicorn app:app --host 0.0.0.0 --port 8000 --reload
+```
 
-# 5. Test a query
+The lifespan logs `[startup] Ollama available: True` and `[startup] Index loaded.` when ready.
+
+**2. Frontend**
+
+```bash
+cd Frontend
+npm install            # or `pnpm install`
+npm run dev            # http://localhost:5173
+```
+
+The Vite dev server proxies `/api/*` to `http://localhost:8000` (configurable via `VITE_BACKEND_URL` — see `Frontend/.env.example`). Open the URL it prints and chat.
+
+**3. Sanity check (optional)**
+
+```bash
 curl -X POST http://localhost:8000/chat \
   -H "Content-Type: application/json" \
   -d '{"query": "What GPA do I need to apply?", "history": []}'
+```
+
+### Path B — Backend on Colab (demo, for low-resource laptops)
+
+Run the backend on a free Colab T4 GPU and connect a local frontend over a Cloudflare quick-tunnel. Use this when the laptop cannot host `qwen3:8b`. See `colab/README.md` for the full architecture diagram and limits.
+
+**1. Open the notebook in Colab**
+
+Click "Open in Colab" on `colab/run_backend.ipynb`, or visit:
+
+```
+https://colab.research.google.com/github/<owner>/<repo>/blob/main/colab/run_backend.ipynb
+```
+
+Switch the runtime to T4 GPU (*Runtime → Change runtime type → T4 GPU*) and run all cells. The first run takes ~5–10 min (mostly downloading qwen3:8b). Cell 3 prints a public URL of the form `https://<random>.trycloudflare.com`.
+
+**2. Local frontend pointed at the Colab tunnel**
+
+```bash
+cd Frontend
+npm install
+VITE_BACKEND_URL=https://<random>.trycloudflare.com npm run dev
+```
+
+Open `http://localhost:5173` — Vite proxies `/api/*` to the Colab backend through the tunnel. Browser sees only `localhost`, so no CORS or mixed-content issue.
+
+> Cloudflare quick-tunnels are ephemeral. Each Colab restart yields a new URL, so update `VITE_BACKEND_URL` and restart `npm run dev`.
+
+### Re-building the index (only if you re-scrape)
+
+```bash
+playwright install chromium    # one-time
+python scrape.py               # re-fetch HTML to raw/
+python build_index.py          # rebuild KG + embeddings + BM25 (~5–10 min)
 ```
